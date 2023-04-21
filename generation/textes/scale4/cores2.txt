@@ -1,0 +1,13 @@
+System info:
+	Platform: intel
+	Intel RAPL pkg: TRUE
+	Intel RAPL dram: TRUE
+	Nvidia supported: TRUE
+Monitoring PID:  139713
+2023-04-21 08:56:27,0.08278,26.08156,20.60156,5.48000
+
+--------------------------
+Total energy: 26.08 Joules, including:
+	CPU energy: 20.60 Joules
+	GPU energy: 5.48 Joules
+--------------------------
