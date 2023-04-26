@@ -1,0 +1,6 @@
+System info:
+	Platform: intel
+	Intel RAPL psys: TRUE
+	Nvidia supported: TRUE
+Monitoring PID:  35349
+Error reading /proc/35349/stat file

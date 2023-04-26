@@ -1,0 +1,6 @@
+System info:
+	Platform: intel
+	Intel RAPL psys: TRUE
+	Nvidia supported: TRUE
+Monitoring PID:  385553
+Error reading /proc/385553/stat file

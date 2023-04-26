@@ -1,0 +1,6 @@
+System info:
+	Platform: intel
+	Intel RAPL psys: TRUE
+	Nvidia supported: TRUE
+Monitoring PID:  25505
+Error reading /proc/25505/stat file

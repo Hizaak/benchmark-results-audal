@@ -1,0 +1,22 @@
+--2023-04-26 02:01:02--  https://hal.uca.fr/hal-01011764/document
+Resolving hal.uca.fr (hal.uca.fr)... 193.48.96.10
+Connecting to hal.uca.fr (hal.uca.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-04-26 02:01:13--  (try: 2)  https://hal.uca.fr/hal-01011764/document
+Connecting to hal.uca.fr (hal.uca.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353171 (345K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011764.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  866K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 43% 33,1M 0s
+   150K .......... .......... .......... .......... .......... 57% 1,72M 0s
+   200K .......... .......... .......... .......... .......... 72% 22,1M 0s
+   250K .......... .......... .......... .......... .......... 86% 23,7M 0s
+   300K .......... .......... .......... .......... ....      100%  396M=0,1s
+
+2023-04-26 02:01:14 (2,76 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011764.pdf’ saved [353171/353171]
+

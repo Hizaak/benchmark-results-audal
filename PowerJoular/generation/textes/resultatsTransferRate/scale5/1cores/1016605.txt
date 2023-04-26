@@ -1,0 +1,19 @@
+--2023-04-26 04:52:07--  https://hal-audencia.archives-ouvertes.fr/hal-01016605/document
+Resolving hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 432863 (423K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1016605.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  859K 0s
+    50K .......... .......... .......... .......... .......... 23% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 35% 1,60M 0s
+   150K .......... .......... .......... .......... .......... 47%  295M 0s
+   200K .......... .......... .......... .......... .......... 59% 1,62M 0s
+   250K .......... .......... .......... .......... .......... 70% 21,3M 0s
+   300K .......... .......... .......... .......... .......... 82%  281M 0s
+   350K .......... .......... .......... .......... .......... 94% 28,0M 0s
+   400K .......... .......... ..                              100%  235M=0,2s
+
+2023-04-26 04:52:08 (2,71 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1016605.pdf’ saved [432863/432863]
+

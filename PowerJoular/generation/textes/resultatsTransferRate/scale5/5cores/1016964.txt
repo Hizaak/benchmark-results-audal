@@ -1,0 +1,15 @@
+--2023-04-26 07:28:23--  https://hal-sciencespo.archives-ouvertes.fr/hal-01016964/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233975 (228K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1016964.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  818K 0s
+    50K .......... .......... .......... .......... .......... 43% 1,53M 0s
+   100K .......... .......... .......... .......... .......... 65% 34,7M 0s
+   150K .......... .......... .......... .......... .......... 87%  290M 0s
+   200K .......... .......... ........                        100%  991K=0,1s
+
+2023-04-26 07:28:24 (1,81 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1016964.pdf’ saved [233975/233975]
+

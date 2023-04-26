@@ -1,0 +1,14 @@
+--2023-04-26 06:53:24--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017731/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177233 (173K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1017731.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  847K 0s
+    50K .......... .......... .......... .......... .......... 57% 1,54M 0s
+   100K .......... .......... .......... .......... .......... 86% 1,63M 0s
+   150K .......... .......... ...                             100%  351M=0,1s
+
+2023-04-26 06:53:25 (1,40 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1017731.pdf’ saved [177233/177233]
+

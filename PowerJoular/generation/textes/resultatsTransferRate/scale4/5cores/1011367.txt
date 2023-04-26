@@ -1,0 +1,14 @@
+--2023-04-26 02:57:19--  https://hal-sciencespo.archives-ouvertes.fr/hal-01011367/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186734 (182K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011367.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  852K 0s
+    50K .......... .......... .......... .......... .......... 54% 1,61M 0s
+   100K .......... .......... .......... .......... .......... 82% 23,6M 0s
+   150K .......... .......... .......... ..                   100%  405M=0,09s
+
+2023-04-26 02:57:19 (1,95 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011367.pdf’ saved [186734/186734]
+

@@ -1,0 +1,13 @@
+--2023-04-26 06:56:55--  https://hal.univ-grenoble-alpes.fr/hal-01002500/document
+Resolving hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)... 193.48.96.10
+Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132176 (129K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002500.pdf’
+
+     0K .......... .......... .......... .......... .......... 38%  873K 0s
+    50K .......... .......... .......... .......... .......... 77% 1,66M 0s
+   100K .......... .......... .........                       100%  417M=0,09s
+
+2023-04-26 06:57:01 (1,45 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002500.pdf’ saved [132176/132176]
+

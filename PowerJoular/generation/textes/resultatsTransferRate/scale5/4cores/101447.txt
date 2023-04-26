@@ -1,0 +1,20 @@
+--2023-04-26 06:59:19--  https://hal-insu.archives-ouvertes.fr/hal-00101447/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 489215 (478K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdu/101447.pdf’
+
+     0K .......... .......... .......... .......... .......... 10%  848K 1s
+    50K .......... .......... .......... .......... .......... 20% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 31% 15,1M 0s
+   150K .......... .......... .......... .......... .......... 41%  257M 0s
+   200K .......... .......... .......... .......... .......... 52% 1,59M 0s
+   250K .......... .......... .......... .......... .......... 62% 28,5M 0s
+   300K .......... .......... .......... .......... .......... 73% 48,0M 0s
+   350K .......... .......... .......... .......... .......... 83% 20,1M 0s
+   400K .......... .......... .......... .......... .......... 94% 2,42M 0s
+   450K .......... .......... .......                         100%  330M=0,1s
+
+2023-04-26 06:59:20 (3,15 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdu/101447.pdf’ saved [489215/489215]
+

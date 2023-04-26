@@ -1,0 +1,16 @@
+--2023-04-26 02:30:00--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010668/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258650 (253K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010668.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  884K 0s
+    50K .......... .......... .......... .......... .......... 39% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 59% 29,0M 0s
+   150K .......... .......... .......... .......... .......... 79% 45,2M 0s
+   200K .......... .......... .......... .......... .......... 98% 1,76M 0s
+   250K ..                                                    100% 4,82T=0,1s
+
+2023-04-26 02:30:05 (2,12 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010668.pdf’ saved [258650/258650]
+

@@ -1,0 +1,18 @@
+--2023-04-25 19:19:31--  https://hal-ifp.archives-ouvertes.fr/hal-01005691/document
+Resolving hal-ifp.archives-ouvertes.fr (hal-ifp.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ifp.archives-ouvertes.fr (hal-ifp.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 409237 (400K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1005691.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  854K 0s
+    50K .......... .......... .......... .......... .......... 25% 1,96M 0s
+   100K .......... .......... .......... .......... .......... 37% 13,6M 0s
+   150K .......... .......... .......... .......... .......... 50% 30,7M 0s
+   200K .......... .......... .......... .......... .......... 62% 2,02M 0s
+   250K .......... .......... .......... .......... .......... 75% 9,35M 0s
+   300K .......... .......... .......... .......... .......... 87% 27,7M 0s
+   350K .......... .......... .......... .......... ......... 100% 12,1M=0,1s
+
+2023-04-25 19:19:37 (3,15 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1005691.pdf’ saved [409237/409237]
+

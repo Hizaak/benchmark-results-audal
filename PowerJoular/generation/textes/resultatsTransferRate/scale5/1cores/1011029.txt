@@ -1,0 +1,19 @@
+--2023-04-26 05:06:27--  https://hal-riip.archives-ouvertes.fr/pasteur-01011029/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 421479 (412K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1011029.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  886K 0s
+    50K .......... .......... .......... .......... .......... 24% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 36% 14,6M 0s
+   150K .......... .......... .......... .......... .......... 48% 35,4M 0s
+   200K .......... .......... .......... .......... .......... 60% 2,00M 0s
+   250K .......... .......... .......... .......... .......... 72% 12,4M 0s
+   300K .......... .......... .......... .......... .......... 85% 42,4M 0s
+   350K .......... .......... .......... .......... .......... 97% 39,5M 0s
+   400K .......... .                                          100% 10,1M=0,1s
+
+2023-04-26 05:06:33 (3,32 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1011029.pdf’ saved [421479/421479]
+

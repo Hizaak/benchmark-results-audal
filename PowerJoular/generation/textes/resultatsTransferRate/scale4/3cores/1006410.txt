@@ -1,0 +1,24 @@
+--2023-04-26 02:04:58--  https://hal.science/hal-01006410/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-04-26 02:05:09--  (try: 2)  https://hal.science/hal-01006410/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 424219 (414K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.qfin/1006410.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  846K 0s
+    50K .......... .......... .......... .......... .......... 24% 1,62M 0s
+   100K .......... .......... .......... .......... .......... 36% 1,62M 0s
+   150K .......... .......... .......... .......... .......... 48% 1,61M 0s
+   200K .......... .......... .......... .......... .......... 60% 25,2M 0s
+   250K .......... .......... .......... .......... .......... 72%  376M 0s
+   300K .......... .......... .......... .......... .......... 84% 63,5M 0s
+   350K .......... .......... .......... .......... .......... 96% 1,66M 0s
+   400K .......... ....                                       100%  278M=0,2s
+
+2023-04-26 02:05:09 (2,22 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.qfin/1006410.pdf’ saved [424219/424219]
+

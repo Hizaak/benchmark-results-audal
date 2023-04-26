@@ -1,0 +1,14 @@
+--2023-04-25 22:37:19--  https://hal.science/hal-01009275/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154103 (150K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1009275.pdf’
+
+     0K .......... .......... .......... .......... .......... 33%  852K 0s
+    50K .......... .......... .......... .......... .......... 66% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 99%  233M 0s
+   150K                                                       100%  937G=0,09s
+
+2023-04-25 22:37:19 (1,65 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1009275.pdf’ saved [154103/154103]
+

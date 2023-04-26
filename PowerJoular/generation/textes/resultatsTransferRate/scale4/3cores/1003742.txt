@@ -1,0 +1,18 @@
+--2023-04-26 02:04:45--  https://www.hal.inserm.fr/inserm-01003474/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408828 (399K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1003742.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  876K 0s
+    50K .......... .......... .......... .......... .......... 25% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 37% 1,68M 0s
+   150K .......... .......... .......... .......... .......... 50% 1,62M 0s
+   200K .......... .......... .......... .......... .......... 62% 21,9M 0s
+   250K .......... .......... .......... .......... .......... 75%  251M 0s
+   300K .......... .......... .......... .......... .......... 87% 41,3M 0s
+   350K .......... .......... .......... .......... ......... 100% 1,54M=0,2s
+
+2023-04-26 02:04:45 (2,17 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1003742.pdf’ saved [408828/408828]
+

@@ -1,0 +1,18 @@
+--2023-04-26 05:11:08--  https://inria.hal.science/hal-01006126/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384419 (375K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.info/1006126.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  858K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 39% 33,1M 0s
+   150K .......... .......... .......... .......... .......... 53% 1,62M 0s
+   200K .......... .......... .......... .......... .......... 66% 21,9M 0s
+   250K .......... .......... .......... .......... .......... 79%  112M 0s
+   300K .......... .......... .......... .......... .......... 93%  179M 0s
+   350K .......... .......... .....                           100% 32,6M=0,1s
+
+2023-04-26 05:11:08 (3,01 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.info/1006126.pdf’ saved [384419/384419]
+

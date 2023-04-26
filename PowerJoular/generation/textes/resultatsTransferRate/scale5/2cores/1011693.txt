@@ -1,0 +1,16 @@
+--2023-04-26 05:45:34--  https://hal.uca.fr/hal-01011693/document
+Resolving hal.uca.fr (hal.uca.fr)... 193.48.96.10
+Connecting to hal.uca.fr (hal.uca.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 268350 (262K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011693.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  873K 0s
+    50K .......... .......... .......... .......... .......... 38% 1,62M 0s
+   100K .......... .......... .......... .......... .......... 57% 27,3M 0s
+   150K .......... .......... .......... .......... .......... 76%  185M 0s
+   200K .......... .......... .......... .......... .......... 95% 1,68M 0s
+   250K .......... ..                                         100%  386M=0,1s
+
+2023-04-26 05:45:34 (2,16 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011693.pdf’ saved [268350/268350]
+

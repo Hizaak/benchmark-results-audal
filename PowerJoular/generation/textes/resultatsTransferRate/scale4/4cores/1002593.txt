@@ -1,0 +1,20 @@
+--2023-04-26 02:32:29--  https://hal-polytechnique.archives-ouvertes.fr/hal-01002593/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 484693 (473K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1002593.pdf’
+
+     0K .......... .......... .......... .......... .......... 10%  835K 1s
+    50K .......... .......... .......... .......... .......... 21% 1,68M 0s
+   100K .......... .......... .......... .......... .......... 31% 21,5M 0s
+   150K .......... .......... .......... .......... .......... 42%  300M 0s
+   200K .......... .......... .......... .......... .......... 52% 1,53M 0s
+   250K .......... .......... .......... .......... .......... 63% 24,9M 0s
+   300K .......... .......... .......... .......... .......... 73%  457M 0s
+   350K .......... .......... .......... .......... .......... 84% 21,1M 0s
+   400K .......... .......... .......... .......... .......... 95% 1,81M 0s
+   450K .......... .......... ...                             100%  364M=0,2s
+
+2023-04-26 02:32:34 (2,99 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1002593.pdf’ saved [484693/484693]
+

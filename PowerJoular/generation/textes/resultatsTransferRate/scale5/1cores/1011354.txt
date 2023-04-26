@@ -1,0 +1,17 @@
+--2023-04-26 04:55:15--  https://hal-iogs.archives-ouvertes.fr/hal-01011354/document
+Resolving hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 343292 (335K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1011354.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  937K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 44% 27,7M 0s
+   150K .......... .......... .......... .......... .......... 59% 32,7M 0s
+   200K .......... .......... .......... .......... .......... 74% 1,51M 0s
+   250K .......... .......... .......... .......... .......... 89%  426M 0s
+   300K .......... .......... .......... .....                100%  487M=0,1s
+
+2023-04-26 04:55:16 (2,76 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1011354.pdf’ saved [343292/343292]
+

@@ -1,0 +1,23 @@
+--2023-04-26 00:51:06--  https://shs.hal.science/halshs-00100355/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-04-26 00:51:17--  (try: 2)  https://shs.hal.science/halshs-00100355/document
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 367263 (359K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/100355.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  853K 0s
+    50K .......... .......... .......... .......... .......... 27% 1,62M 0s
+   100K .......... .......... .......... .......... .......... 41% 33,7M 0s
+   150K .......... .......... .......... .......... .......... 55% 40,4M 0s
+   200K .......... .......... .......... .......... .......... 69% 1,62M 0s
+   250K .......... .......... .......... .......... .......... 83% 55,0M 0s
+   300K .......... .......... .......... .......... .......... 97% 18,9M 0s
+   350K ........                                              100%  346M=0,1s
+
+2023-04-26 00:51:17 (2,80 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/100355.pdf’ saved [367263/367263]
+

@@ -1,0 +1,16 @@
+--2023-04-26 05:56:08--  https://hal.science/hal-01011843/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287080 (280K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1011843.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  785K 0s
+    50K .......... .......... .......... .......... .......... 35% 1,53M 0s
+   100K .......... .......... .......... .......... .......... 53% 1,58M 0s
+   150K .......... .......... .......... .......... .......... 71% 28,5M 0s
+   200K .......... .......... .......... .......... .......... 89% 1,60M 0s
+   250K .......... .......... ..........                      100%  381M=0,2s
+
+2023-04-26 05:56:14 (1,72 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1011843.pdf’ saved [287080/287080]
+
