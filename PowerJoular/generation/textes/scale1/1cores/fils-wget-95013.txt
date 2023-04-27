@@ -1,0 +1,7 @@
+System info:
+	Platform: intel
+	Intel RAPL psys: TRUE
+	Nvidia supported: TRUE
+Monitoring PID:  95013
+2023-04-26 23:58:18,0.08340,10.75074,5.26074,5.49000
+Error reading /proc/95013/stat file

@@ -1,17 +1,17 @@
---2023-04-26 04:51:46--  https://hal-riip.archives-ouvertes.fr/pasteur-01002315/document
+--2023-04-27 04:51:12--  https://hal-riip.archives-ouvertes.fr/pasteur-01002315/document
 Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 357038 (349K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1002315.pdf’
 
-     0K .......... .......... .......... .......... .......... 14%  856K 0s
-    50K .......... .......... .......... .......... .......... 28% 1,64M 0s
-   100K .......... .......... .......... .......... .......... 43% 15,2M 0s
-   150K .......... .......... .......... .......... .......... 57%  332M 0s
+     0K .......... .......... .......... .......... .......... 14%  846K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,61M 0s
+   100K .......... .......... .......... .......... .......... 43% 25,2M 0s
+   150K .......... .......... .......... .......... .......... 57%  556M 0s
    200K .......... .......... .......... .......... .......... 71% 1,64M 0s
-   250K .......... .......... .......... .......... .......... 86% 32,3M 0s
-   300K .......... .......... .......... .......... ........  100%  126M=0,1s
+   250K .......... .......... .......... .......... .......... 86% 26,8M 0s
+   300K .......... .......... .......... .......... ........  100%  241K=0,3s
 
-2023-04-26 04:51:46 (2,76 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1002315.pdf’ saved [357038/357038]
+2023-04-27 04:51:13 (1,05 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1002315.pdf’ saved [357038/357038]
 

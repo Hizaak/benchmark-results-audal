@@ -1,0 +1,19 @@
+--2023-04-27 06:46:31--  https://hal.sorbonne-universite.fr/hal-01009270/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 436296 (426K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.spi/1009270.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  846K 0s
+    50K .......... .......... .......... .......... .......... 23% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 35% 18,2M 0s
+   150K .......... .......... .......... .......... .......... 46%  577M 0s
+   200K .......... .......... .......... .......... .......... 58% 1,61M 0s
+   250K .......... .......... .......... .......... .......... 70% 47,3M 0s
+   300K .......... .......... .......... .......... .......... 82%  246K 0s
+   350K .......... .......... .......... .......... .......... 93%  560M 0s
+   400K .......... .......... ......                          100%  478M=0,3s
+
+2023-04-27 06:46:37 (1,27 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.spi/1009270.pdf’ saved [436296/436296]
+

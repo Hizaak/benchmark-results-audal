@@ -1,16 +1,16 @@
---2023-04-26 05:15:33--  https://hal-univ-rennes1.archives-ouvertes.fr/hal-01009763/document
+--2023-04-27 04:53:02--  https://hal-univ-rennes1.archives-ouvertes.fr/hal-01009763/document
 Resolving hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 270971 (265K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1009763.pdf’
 
-     0K .......... .......... .......... .......... .......... 18%  840K 0s
-    50K .......... .......... .......... .......... .......... 37% 1,46M 0s
-   100K .......... .......... .......... .......... .......... 56% 1,40M 0s
-   150K .......... .......... .......... .......... .......... 75% 1,69M 0s
-   200K .......... .......... .......... .......... .......... 94% 19,9M 0s
-   250K .......... ....                                       100%  333M=0,2s
+     0K .......... .......... .......... .......... .......... 18%  839K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 56% 41,2M 0s
+   150K .......... .......... .......... .......... .......... 75% 1,72M 0s
+   200K .......... .......... .......... .......... .......... 94% 28,8M 0s
+   250K .......... ....                                       100%  499M=0,1s
 
-2023-04-26 05:15:34 (1,62 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1009763.pdf’ saved [270971/270971]
+2023-04-27 04:53:04 (2,14 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1009763.pdf’ saved [270971/270971]
 

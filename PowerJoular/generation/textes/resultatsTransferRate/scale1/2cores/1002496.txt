@@ -1,16 +1,16 @@
---2023-04-25 18:26:01--  https://hal.univ-grenoble-alpes.fr/hal-01002496/document
+--2023-04-27 00:09:01--  https://hal.univ-grenoble-alpes.fr/hal-01002496/document
 Resolving hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)... 193.48.96.10
 Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 271317 (265K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002496.pdf’
 
-     0K .......... .......... .......... .......... .......... 18%  871K 0s
-    50K .......... .......... .......... .......... .......... 37% 1,70M 0s
-   100K .......... .......... .......... .......... .......... 56% 1,72M 0s
-   150K .......... .......... .......... .......... .......... 75% 1,71M 0s
-   200K .......... .......... .......... .......... .......... 94% 23,6M 0s
-   250K .......... ....                                       100%  149M=0,1s
+     0K .......... .......... .......... .......... .......... 18%  859K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 56%  335M 0s
+   150K .......... .......... .......... .......... .......... 75% 40,1M 0s
+   200K .......... .......... .......... .......... .......... 94% 1,69M 0s
+   250K .......... ....                                       100%  482M=0,1s
 
-2023-04-25 18:26:03 (1,78 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002496.pdf’ saved [271317/271317]
+2023-04-27 00:09:02 (2,18 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002496.pdf’ saved [271317/271317]
 

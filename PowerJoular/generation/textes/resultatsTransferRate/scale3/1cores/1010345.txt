@@ -1,15 +1,15 @@
---2023-04-25 21:47:27--  https://hal-univ-rennes1.archives-ouvertes.fr/hal-01010345/document
+--2023-04-27 01:31:23--  https://hal-univ-rennes1.archives-ouvertes.fr/hal-01010345/document
 Resolving hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 243883 (238K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1010345.pdf’
 
-     0K .......... .......... .......... .......... .......... 20%  840K 0s
-    50K .......... .......... .......... .......... .......... 41% 1,57M 0s
-   100K .......... .......... .......... .......... .......... 62% 78,4M 0s
-   150K .......... .......... .......... .......... .......... 83% 1,61M 0s
-   200K .......... .......... .......... ........             100%  292M=0,1s
+     0K .......... .......... .......... .......... .......... 20%  871K 0s
+    50K .......... .......... .......... .......... .......... 41% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 62% 1,65M 0s
+   150K .......... .......... .......... .......... .......... 83% 39,6M 0s
+   200K .......... .......... .......... ........             100% 1,25M=0,1s
 
-2023-04-25 21:47:28 (1,91 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1010345.pdf’ saved [243883/243883]
+2023-04-27 01:31:24 (1,58 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1010345.pdf’ saved [243883/243883]
 

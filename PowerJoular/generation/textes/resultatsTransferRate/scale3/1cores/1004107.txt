@@ -1,15 +1,15 @@
---2023-04-25 21:40:09--  https://hal-enac.archives-ouvertes.fr/hal-01004107/document
+--2023-04-27 01:22:19--  https://hal-enac.archives-ouvertes.fr/hal-01004107/document
 Resolving hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 253493 (248K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1004107.pdf’
 
-     0K .......... .......... .......... .......... .......... 20%  836K 0s
-    50K .......... .......... .......... .......... .......... 40% 1,67M 0s
-   100K .......... .......... .......... .......... .......... 60% 1,64M 0s
-   150K .......... .......... .......... .......... .......... 80% 1,65M 0s
-   200K .......... .......... .......... .......... .......   100%  274M=0,1s
+     0K .......... .......... .......... .......... .......... 20%  846K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,68M 0s
+   100K .......... .......... .......... .......... .......... 60% 1,91M 0s
+   150K .......... .......... .......... .......... .......... 80% 11,4M 0s
+   200K .......... .......... .......... .......... .......   100% 1,86M=0,1s
 
-2023-04-25 21:40:10 (1,63 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1004107.pdf’ saved [253493/253493]
+2023-04-27 01:22:20 (1,69 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1004107.pdf’ saved [253493/253493]
 

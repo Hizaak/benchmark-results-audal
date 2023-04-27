@@ -1,15 +1,15 @@
---2023-04-26 06:55:33--  https://hal-lirmm.ccsd.cnrs.fr/lirmm-00101743/document
+--2023-04-27 07:25:25--  https://hal-lirmm.ccsd.cnrs.fr/lirmm-00101743/document
 Resolving hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)... 193.48.96.10
 Connecting to hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 211577 (207K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.spi/101743.pdf’
 
-     0K .......... .......... .......... .......... .......... 24%  866K 0s
-    50K .......... .......... .......... .......... .......... 48% 1,68M 0s
-   100K .......... .......... .......... .......... .......... 72%  852K 0s
-   150K .......... .......... .......... .......... .......... 96% 21,9M 0s
-   200K ......                                                100%  332M=0,1s
+     0K .......... .......... .......... .......... .......... 24%  809K 0s
+    50K .......... .......... .......... .......... .......... 48% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 72% 19,8M 0s
+   150K .......... .......... .......... .......... .......... 96% 1,88M 0s
+   200K ......                                                100%  228M=0,1s
 
-2023-04-26 06:55:33 (1,37 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.spi/101743.pdf’ saved [211577/211577]
+2023-04-27 07:25:26 (1,70 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.spi/101743.pdf’ saved [211577/211577]
 

@@ -1,15 +1,15 @@
---2023-04-26 04:55:49--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010654/document
+--2023-04-27 05:20:48--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010654/document
 Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 249068 (243K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010654.pdf’
 
-     0K .......... .......... .......... .......... .......... 20%  724K 0s
-    50K .......... .......... .......... .......... .......... 41% 1,61M 0s
-   100K .......... .......... .......... .......... .......... 61% 41,0M 0s
-   150K .......... .......... .......... .......... .......... 82% 1,61M 0s
-   200K .......... .......... .......... .......... ...       100% 8,88M=0,1s
+     0K .......... .......... .......... .......... .......... 20%  816K 0s
+    50K .......... .......... .......... .......... .......... 41% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 61% 1,71M 0s
+   150K .......... .......... .......... .......... .......... 82% 1,78M 0s
+   200K .......... .......... .......... .......... ...       100% 16,0M=0,1s
 
-2023-04-26 04:55:54 (1,75 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010654.pdf’ saved [249068/249068]
+2023-04-27 05:20:49 (1,59 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010654.pdf’ saved [249068/249068]
 

@@ -1,17 +1,17 @@
---2023-04-26 07:31:36--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010832/document
+--2023-04-27 08:04:15--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010832/document
 Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 352167 (344K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010832.pdf’
 
-     0K .......... .......... .......... .......... .......... 14%  850K 0s
-    50K .......... .......... .......... .......... .......... 29% 1,60M 0s
-   100K .......... .......... .......... .......... .......... 43% 1,55M 0s
-   150K .......... .......... .......... .......... .......... 58%  385M 0s
-   200K .......... .......... .......... .......... .......... 72% 1,62M 0s
-   250K .......... .......... .......... .......... .......... 87% 34,2M 0s
-   300K .......... .......... .......... .......... ...       100%  304M=0,2s
+     0K .......... .......... .......... .......... .......... 14%  840K 0s
+    50K .......... .......... .......... .......... .......... 29%  895K 0s
+   100K .......... .......... .......... .......... .......... 43% 28,6M 0s
+   150K .......... .......... .......... .......... .......... 58% 1,66M 0s
+   200K .......... .......... .......... .......... .......... 72% 1,67M 0s
+   250K .......... .......... .......... .......... .......... 87% 30,9M 0s
+   300K .......... .......... .......... .......... ...       100% 1,41M=0,2s
 
-2023-04-26 07:31:36 (2,20 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010832.pdf’ saved [352167/352167]
+2023-04-27 08:04:16 (1,62 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010832.pdf’ saved [352167/352167]
 

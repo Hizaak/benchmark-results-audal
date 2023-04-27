@@ -1,0 +1,18 @@
+--2023-04-27 06:51:34--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017735/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 359462 (351K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1017735.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  831K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,60M 0s
+   100K .......... .......... .......... .......... .......... 42% 31,3M 0s
+   150K .......... .......... .......... .......... .......... 56%  554M 0s
+   200K .......... .......... .......... .......... .......... 71% 1,63M 0s
+   250K .......... .......... .......... .......... .......... 85% 21,9M 0s
+   300K .......... .......... .......... .......... .......... 99%  239K 0s
+   350K .                                                     100% 1,93T=0,3s
+
+2023-04-27 06:51:35 (1,03 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1017735.pdf’ saved [359462/359462]
+

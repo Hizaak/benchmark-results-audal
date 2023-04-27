@@ -1,14 +1,14 @@
---2023-04-25 22:07:22--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010116/document
+--2023-04-27 01:52:39--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010116/document
 Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 193248 (189K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010116.pdf’
 
-     0K .......... .......... .......... .......... .......... 26%  824K 0s
-    50K .......... .......... .......... .......... .......... 52% 1,57M 0s
-   100K .......... .......... .......... .......... .......... 79% 24,8M 0s
-   150K .......... .......... .......... ........             100% 33,9M=0,09s
+     0K .......... .......... .......... .......... .......... 26%  809K 0s
+    50K .......... .......... .......... .......... .......... 52% 1,64M 0s
+   100K .......... .......... .......... .......... .......... 79% 1,57M 0s
+   150K .......... .......... .......... ........             100%  554M=0,1s
 
-2023-04-25 22:07:22 (1,94 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010116.pdf’ saved [193248/193248]
+2023-04-27 01:52:39 (1,50 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010116.pdf’ saved [193248/193248]
 

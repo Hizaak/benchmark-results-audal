@@ -1,0 +1,17 @@
+--2023-04-27 06:47:44--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010360/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319988 (312K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010360.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  824K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 48% 10,6M 0s
+   150K .......... .......... .......... .......... .......... 64% 1,92M 0s
+   200K .......... .......... .......... .......... .......... 80% 12,0M 0s
+   250K .......... .......... .......... .......... .......... 96% 50,7M 0s
+   300K .......... ..                                         100% 61,3K=0,3s
+
+2023-04-27 06:47:50 (959 KB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010360.pdf’ saved [319988/319988]
+

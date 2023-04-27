@@ -1,15 +1,15 @@
---2023-04-26 06:52:58--  https://shs.hal.science/halshs-01015865/document
+--2023-04-27 07:30:55--  https://shs.hal.science/halshs-01015865/document
 Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
 Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 249996 (244K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1015865.pdf’
 
-     0K .......... .......... .......... .......... .......... 20%  869K 0s
-    50K .......... .......... .......... .......... .......... 40% 1,72M 0s
-   100K .......... .......... .......... .......... .......... 61% 1,62M 0s
-   150K .......... .......... .......... .......... .......... 81% 1,81M 0s
-   200K .......... .......... .......... .......... ....      100% 33,7M=0,1s
+     0K .......... .......... .......... .......... .......... 20%  873K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,60M 0s
+   100K .......... .......... .......... .......... .......... 61% 22,8M 0s
+   150K .......... .......... .......... .......... .......... 81%  568M 0s
+   200K .......... .......... .......... .......... ....      100% 1,55M=0,1s
 
-2023-04-26 06:52:59 (1,65 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1015865.pdf’ saved [249996/249996]
+2023-04-27 07:31:01 (2,03 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1015865.pdf’ saved [249996/249996]
 

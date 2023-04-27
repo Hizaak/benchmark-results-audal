@@ -1,17 +1,22 @@
---2023-04-26 06:56:25--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01006539/document
+--2023-04-27 07:29:46--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01006539/document
 Resolving hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-04-27 07:29:58--  (try: 2)  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01006539/document
+Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 317402 (310K) [application/pdf]
+Length: 317401 (310K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1006539.pdf’
 
-     0K .......... .......... .......... .......... .......... 16%  838K 0s
-    50K .......... .......... .......... .......... .......... 32% 1,66M 0s
-   100K .......... .......... .......... .......... .......... 48% 21,3M 0s
-   150K .......... .......... .......... .......... .......... 64% 1,72M 0s
-   200K .......... .......... .......... .......... .......... 80% 27,9M 0s
-   250K .......... .......... .......... .......... .......... 96% 40,7M 0s
-   300K .........                                             100%  265M=0,1s
+     0K .......... .......... .......... .......... .......... 16%  855K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,59M 0s
+   100K .......... .......... .......... .......... .......... 48% 1,54M 0s
+   150K .......... .......... .......... .......... .......... 64% 25,0M 0s
+   200K .......... .......... .......... .......... .......... 80% 1,80M 0s
+   250K .......... .......... .......... .......... .......... 96% 35,7M 0s
+   300K .........                                             100%  577M=0,2s
 
-2023-04-26 06:56:31 (2,47 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1006539.pdf’ saved [317402/317402]
+2023-04-27 07:29:58 (2,00 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1006539.pdf’ saved [317401/317401]
 

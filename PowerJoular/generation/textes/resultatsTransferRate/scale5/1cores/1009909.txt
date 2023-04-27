@@ -1,15 +1,15 @@
---2023-04-26 05:06:51--  https://inria.hal.science/hal-01009909/document
+--2023-04-27 05:22:26--  https://inria.hal.science/hal-01009909/document
 Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
 Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 240494 (235K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1009909.pdf’
 
-     0K .......... .......... .......... .......... .......... 21%  850K 0s
-    50K .......... .......... .......... .......... .......... 42% 1,59M 0s
-   100K .......... .......... .......... .......... .......... 63%  344M 0s
-   150K .......... .......... .......... .......... .......... 85% 35,4M 0s
-   200K .......... .......... .......... ....                 100% 1,22M=0,1s
+     0K .......... .......... .......... .......... .......... 21%  869K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 63% 33,1M 0s
+   150K .......... .......... .......... .......... .......... 85% 29,5M 0s
+   200K .......... .......... .......... ....                 100% 1,20M=0,1s
 
-2023-04-26 05:06:52 (1,93 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1009909.pdf’ saved [240494/240494]
+2023-04-27 05:22:31 (1,93 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1009909.pdf’ saved [240494/240494]
 

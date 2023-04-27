@@ -1,0 +1,16 @@
+--2023-04-27 06:44:43--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01017033/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278262 (272K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1017033.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  848K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,62M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,64M 0s
+   150K .......... .......... .......... .......... .......... 73% 1,61M 0s
+   200K .......... .......... .......... .......... .......... 91% 83,9M 0s
+   250K .......... .......... .                               100%  619M=0,1s
+
+2023-04-27 06:44:43 (1,77 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1017033.pdf’ saved [278262/278262]
+

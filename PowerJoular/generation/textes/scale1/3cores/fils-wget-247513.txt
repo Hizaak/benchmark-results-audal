@@ -1,0 +1,7 @@
+System info:
+	Platform: intel
+	Intel RAPL psys: TRUE
+	Nvidia supported: TRUE
+Monitoring PID:  247513
+2023-04-27 00:19:32,0.08340,11.08262,5.43262,5.65000
+Error reading /proc/247513/stat file

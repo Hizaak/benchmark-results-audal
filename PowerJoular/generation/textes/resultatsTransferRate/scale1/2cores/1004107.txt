@@ -1,20 +1,15 @@
---2023-04-25 18:26:16--  https://hal-enac.archives-ouvertes.fr/hal-01004107/document
+--2023-04-27 00:11:57--  https://hal-enac.archives-ouvertes.fr/hal-01004107/document
 Resolving hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)... 193.48.96.10
-Connecting to hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)|193.48.96.10|:443... connected.
-HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
-Retrying.
-
---2023-04-25 18:26:27--  (try: 2)  https://hal-enac.archives-ouvertes.fr/hal-01004107/document
 Connecting to hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 253493 (248K) [application/pdf]
 Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1004107.pdf’
 
-     0K .......... .......... .......... .......... .......... 20%  741K 0s
-    50K .......... .......... .......... .......... .......... 40% 1,75M 0s
-   100K .......... .......... .......... .......... .......... 60% 1,71M 0s
-   150K .......... .......... .......... .......... .......... 80% 1,89M 0s
-   200K .......... .......... .......... .......... .......   100% 17,5M=0,2s
+     0K .......... .......... .......... .......... .......... 20%  846K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,62M 0s
+   100K .......... .......... .......... .......... .......... 60% 1,61M 0s
+   150K .......... .......... .......... .......... .......... 80% 1,62M 0s
+   200K .......... .......... .......... .......... .......   100%  456M=0,1s
 
-2023-04-25 18:26:28 (1,59 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1004107.pdf’ saved [253493/253493]
+2023-04-27 00:11:58 (1,61 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1004107.pdf’ saved [253493/253493]
 
