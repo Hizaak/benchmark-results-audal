@@ -1,4 +1,0 @@
-****CPU ePerf for PID 1070313*****
-time_S: 99
-avgPower_W: .3666265060
-energy_J: 36.2960240940

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 956024*****
-time_S: 123.156852213
-avgPower_W: 16.2879702732
-energy_J: 2005.9751477885

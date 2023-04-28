@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1001918*****
-time_S: 122.125479027
-avgPower_W: 16.3579928969
-energy_J: 1997.7277184625

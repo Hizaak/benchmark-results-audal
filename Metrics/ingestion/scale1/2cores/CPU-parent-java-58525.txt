@@ -1,0 +1,4 @@
+****CPU ePerf for PID 58525*****
+time_S: 188
+avgPower_W: .0446408839
+energy_J: 8.3924861732

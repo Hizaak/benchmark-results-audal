@@ -1,0 +1,4 @@
+****RAM ePerf for PID 531939*****
+time_S: 679.663841094
+avgPower_W: 12.6217007593
+energy_J: 8578.5136192061

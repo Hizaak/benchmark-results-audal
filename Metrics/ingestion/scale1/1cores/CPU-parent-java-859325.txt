@@ -1,4 +1,0 @@
-****CPU ePerf for PID 859325*****
-time_S: 286
-avgPower_W: .0302592592
-energy_J: 8.6541481312

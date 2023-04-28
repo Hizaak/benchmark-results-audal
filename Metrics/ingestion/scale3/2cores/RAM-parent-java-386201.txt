@@ -1,0 +1,4 @@
+****RAM ePerf for PID 386201*****
+time_S: 850.819132772
+avgPower_W: 10.3917678283
+energy_J: 8841.5148917104

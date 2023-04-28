@@ -1,0 +1,4 @@
+****CPU ePerf for PID 386201*****
+time_S: 849
+avgPower_W: .0100984009
+energy_J: 8.5735423641

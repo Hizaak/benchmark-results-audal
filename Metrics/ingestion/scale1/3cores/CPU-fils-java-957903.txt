@@ -1,4 +1,0 @@
-****CPU ePerf for PID 957903*****
-time_S: 121
-avgPower_W: .6261320754
-energy_J: 75.7619811234

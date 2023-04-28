@@ -1,0 +1,4 @@
+****RAM ePerf for PID 58525*****
+time_S: 189.183781777
+avgPower_W: 11.8528624733
+energy_J: 2242.3693475949
