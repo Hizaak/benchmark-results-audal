@@ -1,0 +1,4 @@
+****RAM ePerf for PID 101393*****
+time_S: 4.007665791
+avgPower_W:
+energy_J:

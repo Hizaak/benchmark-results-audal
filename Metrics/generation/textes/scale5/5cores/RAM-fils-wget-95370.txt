@@ -1,0 +1,4 @@
+****RAM ePerf for PID 95370*****
+time_S: 1.001025633
+avgPower_W:
+energy_J:

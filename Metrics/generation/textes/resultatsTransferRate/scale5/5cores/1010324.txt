@@ -1,0 +1,18 @@
+--2023-04-28 01:49:11--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010324/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 407323 (398K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010324.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  437K 1s
+    50K .......... .......... .......... .......... .......... 25%  591K 1s
+   100K .......... .......... .......... .......... .......... 37%  811K 0s
+   150K .......... .......... .......... .......... .......... 50%  864K 0s
+   200K .......... .......... .......... .......... .......... 62%  874K 0s
+   250K .......... .......... .......... .......... .......... 75%  892K 0s
+   300K .......... .......... .......... .......... .......... 87%  845K 0s
+   350K .......... .......... .......... .......... .......   100% 1,37M=0,5s
+
+2023-04-28 01:49:12 (757 KB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010324.pdf’ saved [407323/407323]
+

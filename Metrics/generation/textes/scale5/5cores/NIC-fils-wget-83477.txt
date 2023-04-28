@@ -1,0 +1,4 @@
+****NIC ePerf for PID 83477*****
+time_S: 4
+avgPower_W: .0003087753
+energy_J: .0012351012

@@ -1,0 +1,21 @@
+--2023-04-27 20:14:45--  https://hal-univ-rennes1.archives-ouvertes.fr/hal-01005459/document
+Resolving hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 552287 (539K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sde/1005459.pdf’
+
+     0K .......... .......... .......... .......... ..........  9%  872K 1s
+    50K .......... .......... .......... .......... .......... 18% 1,61M 0s
+   100K .......... .......... .......... .......... .......... 27% 1,60M 0s
+   150K .......... .......... .......... .......... .......... 37% 44,2M 0s
+   200K .......... .......... .......... .......... .......... 46% 1,57M 0s
+   250K .......... .......... .......... .......... .......... 55%  577M 0s
+   300K .......... .......... .......... .......... .......... 64%  242K 0s
+   350K .......... .......... .......... .......... .......... 74%  503M 0s
+   400K .......... .......... .......... .......... .......... 83%  471M 0s
+   450K .......... .......... .......... .......... .......... 92%  598M 0s
+   500K .......... .......... .......... .........            100%  635M=0,4s
+
+2023-04-27 20:14:46 (1,48 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sde/1005459.pdf’ saved [552287/552287]
+

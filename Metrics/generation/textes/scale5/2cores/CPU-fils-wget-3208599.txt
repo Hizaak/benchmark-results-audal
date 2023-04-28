@@ -1,0 +1,4 @@
+****CPU ePerf for PID 3208599*****
+time_S: 2
+avgPower_W: .0050000000
+energy_J: .0100000000

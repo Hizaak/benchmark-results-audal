@@ -1,0 +1,4 @@
+****RAM ePerf for PID 3101819*****
+time_S: 6.006689277
+avgPower_W: 1.5710328195
+energy_J: 9.4367059908

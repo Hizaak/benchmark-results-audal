@@ -1,0 +1,4 @@
+--2023-04-27 17:52:04--  https://hal-polytechnique.archives-ouvertes.fr/hal-01002596/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 

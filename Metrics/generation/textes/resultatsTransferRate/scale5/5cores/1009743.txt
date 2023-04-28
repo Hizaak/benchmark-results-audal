@@ -1,0 +1,15 @@
+--2023-04-28 01:53:37--  https://hal-sciencespo.archives-ouvertes.fr/hal-01009743/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207225 (202K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1009743.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  871K 0s
+    50K .......... .......... .......... .......... .......... 49% 1,50M 0s
+   100K .......... .......... .......... .......... .......... 74% 1,98M 0s
+   150K .......... .......... .......... .......... .......... 98% 1,77M 0s
+   200K ..                                                    100% 78,1M=0,1s
+
+2023-04-28 01:53:37 (1,39 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1009743.pdf’ saved [207225/207225]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 983770*****
+time_S: 162.159480540
+avgPower_W: 12.8374518988
+energy_J: 2081.7145313714

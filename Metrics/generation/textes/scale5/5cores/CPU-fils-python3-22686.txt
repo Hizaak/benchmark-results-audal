@@ -1,0 +1,4 @@
+****CPU ePerf for PID 22686*****
+time_S: 560
+avgPower_W: .0003649635
+energy_J: .2043795600

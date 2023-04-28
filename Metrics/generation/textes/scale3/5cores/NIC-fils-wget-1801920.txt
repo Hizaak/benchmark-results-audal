@@ -1,0 +1,4 @@
+****NIC ePerf for PID 1801920*****
+time_S: 4
+avgPower_W: .0001114739
+energy_J: .0004458956

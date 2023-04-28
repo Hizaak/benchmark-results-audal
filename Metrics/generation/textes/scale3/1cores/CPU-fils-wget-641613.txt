@@ -1,0 +1,4 @@
+****CPU ePerf for PID 641613*****
+time_S: 1
+avgPower_W: .0050000000
+energy_J: .0050000000

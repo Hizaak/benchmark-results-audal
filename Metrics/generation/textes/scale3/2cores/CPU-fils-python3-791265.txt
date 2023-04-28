@@ -1,0 +1,4 @@
+****CPU ePerf for PID 791265*****
+time_S: 1963
+avgPower_W: .0253057658
+energy_J: 49.6752182654

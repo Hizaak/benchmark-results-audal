@@ -1,0 +1,4 @@
+****NIC ePerf for PID 837141*****
+time_S: 5
+avgPower_W: .0016732508
+energy_J: .0083662540

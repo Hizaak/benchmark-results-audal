@@ -1,0 +1,4 @@
+****RAM ePerf for PID 752988*****
+time_S: 1.001024456
+avgPower_W: 1.5730500023
+energy_J: 1.5746615229

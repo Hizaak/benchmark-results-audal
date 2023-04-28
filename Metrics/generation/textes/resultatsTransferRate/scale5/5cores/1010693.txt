@@ -1,0 +1,20 @@
+--2023-04-28 01:49:14--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010693/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462477 (452K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010693.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  864K 0s
+    50K .......... .......... .......... .......... .......... 22% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 33% 1,58M 0s
+   150K .......... .......... .......... .......... .......... 44% 67,8M 0s
+   200K .......... .......... .......... .......... .......... 55% 1,56M 0s
+   250K .......... .......... .......... .......... .......... 66% 19,5M 0s
+   300K .......... .......... .......... .......... .......... 77%  243K 0s
+   350K .......... .......... .......... .......... .......... 88%  433M 0s
+   400K .......... .......... .......... .......... .......... 99%  501M 0s
+   450K .                                                     100% 3,05T=0,4s
+
+2023-04-28 01:49:20 (1,23 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010693.pdf’ saved [462477/462477]
+

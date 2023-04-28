@@ -1,0 +1,4 @@
+****NIC ePerf for PID 562002*****
+time_S: 2
+avgPower_W: .0000002174
+energy_J: .0000004348

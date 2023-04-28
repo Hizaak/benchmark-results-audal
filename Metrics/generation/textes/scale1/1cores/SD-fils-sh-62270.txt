@@ -1,0 +1,4 @@
+****SD ePerf for PID 62270*****
+time_S: 3
+avgPower_W: .0010522500
+energy_J: .0031567500

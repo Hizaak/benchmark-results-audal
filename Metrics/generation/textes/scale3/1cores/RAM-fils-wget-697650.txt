@@ -1,0 +1,4 @@
+****RAM ePerf for PID 697650*****
+time_S: 3.002217690
+avgPower_W: 1.5687988322
+energy_J: 4.7098756061

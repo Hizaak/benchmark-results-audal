@@ -1,0 +1,4 @@
+****CPU ePerf for PID 602009*****
+time_S: 7
+avgPower_W: .0014285714
+energy_J: .0099999998

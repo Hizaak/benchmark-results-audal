@@ -1,0 +1,4 @@
+****RAM ePerf for PID 80169*****
+time_S: 3.004013679
+avgPower_W:
+energy_J:

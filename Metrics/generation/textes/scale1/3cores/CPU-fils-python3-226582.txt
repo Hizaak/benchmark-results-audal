@@ -1,0 +1,4 @@
+****CPU ePerf for PID 226582*****
+time_S: 550
+avgPower_W: .0298734177
+energy_J: 16.4303797350

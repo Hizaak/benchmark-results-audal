@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2311644*****
+time_S: 6.006678619
+avgPower_W:
+energy_J:

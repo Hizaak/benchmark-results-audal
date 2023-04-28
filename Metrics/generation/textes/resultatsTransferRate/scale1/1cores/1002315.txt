@@ -1,0 +1,17 @@
+--2023-04-27 17:23:13--  https://hal-riip.archives-ouvertes.fr/pasteur-01002315/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 357038 (349K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1002315.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  840K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,59M 0s
+   100K .......... .......... .......... .......... .......... 43% 1,46M 0s
+   150K .......... .......... .......... .......... .......... 57% 1,53M 0s
+   200K .......... .......... .......... .......... .......... 71% 36,8M 0s
+   250K .......... .......... .......... .......... .......... 86% 37,8M 0s
+   300K .......... .......... .......... .......... ........  100% 2,29M=0,2s
+
+2023-04-27 17:23:19 (1,90 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sdv/1002315.pdf’ saved [357038/357038]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2354014*****
+time_S: 8.009570524
+avgPower_W: 1.5636778131
+energy_J: 12.5243877211

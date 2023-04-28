@@ -1,0 +1,4 @@
+****CPU ePerf for PID 600725*****
+time_S: 11
+avgPower_W: .0009090909
+energy_J: .0099999999

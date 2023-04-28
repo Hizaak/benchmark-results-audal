@@ -1,0 +1,22 @@
+--2023-04-28 00:33:13--  https://hal-sciencespo.archives-ouvertes.fr/hal-01011177/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 563366 (550K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011177.pdf’
+
+     0K .......... .......... .......... .......... ..........  9%  862K 1s
+    50K .......... .......... .......... .......... .......... 18% 1,50M 0s
+   100K .......... .......... .......... .......... .......... 27% 1,64M 0s
+   150K .......... .......... .......... .......... .......... 36% 2,02M 0s
+   200K .......... .......... .......... .......... .......... 45% 8,72M 0s
+   250K .......... .......... .......... .......... .......... 54% 21,7M 0s
+   300K .......... .......... .......... .......... .......... 63%  245K 0s
+   350K .......... .......... .......... .......... .......... 72%  426M 0s
+   400K .......... .......... .......... .......... .......... 81%  478M 0s
+   450K .......... .......... .......... .......... .......... 90%  570M 0s
+   500K .......... .......... .......... .......... .......... 99% 22,7M 0s
+   550K                                                       100%  309G=0,4s
+
+2023-04-28 00:33:14 (1,50 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011177.pdf’ saved [563366/563366]
+

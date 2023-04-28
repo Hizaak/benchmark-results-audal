@@ -1,0 +1,4 @@
+****RAM ePerf for PID 195206*****
+time_S: 6.005904775
+avgPower_W: 1.5628491271
+energy_J: 9.3863230353

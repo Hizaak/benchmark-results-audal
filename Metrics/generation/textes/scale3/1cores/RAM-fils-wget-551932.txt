@@ -1,0 +1,4 @@
+****RAM ePerf for PID 551932*****
+time_S: 2.006308914
+avgPower_W: 1.5817278223
+energy_J: 3.1734346296

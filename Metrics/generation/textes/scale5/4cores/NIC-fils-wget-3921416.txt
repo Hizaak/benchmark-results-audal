@@ -1,0 +1,4 @@
+****NIC ePerf for PID 3921416*****
+time_S: 12
+avgPower_W: .0030208909
+energy_J: .0362506908

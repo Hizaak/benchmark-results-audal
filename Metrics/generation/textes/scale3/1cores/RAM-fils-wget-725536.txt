@@ -1,0 +1,4 @@
+****RAM ePerf for PID 725536*****
+time_S: 3.003215289
+avgPower_W: 1.5654219041
+energy_J: 4.7012989962

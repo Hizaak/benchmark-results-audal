@@ -1,0 +1,4 @@
+****RAM ePerf for PID 984534*****
+time_S: 10.014172855
+avgPower_W: 1.5716209290
+energy_J: 15.7384836457

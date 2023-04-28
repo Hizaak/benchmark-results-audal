@@ -1,0 +1,4 @@
+****CPU ePerf for PID 2470148*****
+time_S: 10
+avgPower_W: .0010000000
+energy_J: .0100000000

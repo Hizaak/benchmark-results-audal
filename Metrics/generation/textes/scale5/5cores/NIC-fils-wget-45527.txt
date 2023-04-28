@@ -1,0 +1,4 @@
+****NIC ePerf for PID 45527*****
+time_S: 4
+avgPower_W: .0001908520
+energy_J: .0007634080

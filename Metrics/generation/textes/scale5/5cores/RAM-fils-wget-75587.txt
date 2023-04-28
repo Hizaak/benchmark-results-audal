@@ -1,0 +1,4 @@
+****RAM ePerf for PID 75587*****
+time_S: 6.005894173
+avgPower_W: 1.5657978784
+energy_J: 9.4040163545

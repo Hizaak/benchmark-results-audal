@@ -1,0 +1,4 @@
+****RAM ePerf for PID 98008*****
+time_S: 2.001814042
+avgPower_W: 1.5697237874
+energy_J: 3.1422951197

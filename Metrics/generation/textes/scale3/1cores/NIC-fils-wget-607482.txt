@@ -1,0 +1,4 @@
+****NIC ePerf for PID 607482*****
+time_S: 7
+avgPower_W: .0002493585
+energy_J: .0017455095

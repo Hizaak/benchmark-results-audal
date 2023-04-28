@@ -1,0 +1,4 @@
+****NIC ePerf for PID 1024229*****
+time_S: 295
+avgPower_W:
+energy_J:

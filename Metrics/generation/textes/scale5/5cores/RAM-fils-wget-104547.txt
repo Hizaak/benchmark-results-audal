@@ -1,0 +1,4 @@
+****RAM ePerf for PID 104547*****
+time_S: 18.071213655
+avgPower_W: 1.5683007171
+energy_J: 28.3410973351

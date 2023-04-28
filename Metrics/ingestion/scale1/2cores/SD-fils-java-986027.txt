@@ -1,0 +1,4 @@
+****SD ePerf for PID 986027*****
+time_S: 164
+avgPower_W: .0175835354
+energy_J: 2.8836998056

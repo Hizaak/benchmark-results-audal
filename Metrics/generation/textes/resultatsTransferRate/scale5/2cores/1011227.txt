@@ -1,0 +1,18 @@
+--2023-04-27 23:36:12--  https://hal-sciencespo.archives-ouvertes.fr/hal-01011227/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-04-27 23:36:23--  (try: 2)  https://hal-sciencespo.archives-ouvertes.fr/hal-01011227/document
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145732 (142K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011227.pdf’
+
+     0K .......... .......... .......... .......... .......... 35%  824K 0s
+    50K .......... .......... .......... .......... .......... 70% 1,66M 0s
+   100K .......... .......... .......... .......... ..        100% 1,48M=0,1s
+
+2023-04-27 23:36:24 (1,18 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011227.pdf’ saved [145732/145732]
+

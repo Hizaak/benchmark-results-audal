@@ -1,0 +1,4 @@
+****NIC ePerf for PID 952226*****
+time_S: 1
+avgPower_W: .0000642808
+energy_J: .0000642808

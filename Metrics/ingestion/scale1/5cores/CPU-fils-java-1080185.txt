@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1080185*****
+time_S: 86
+avgPower_W: .1716901408
+energy_J: 14.7653521088

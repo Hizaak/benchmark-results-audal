@@ -1,0 +1,4 @@
+****RAM ePerf for PID 618612*****
+time_S: 2.002415230
+avgPower_W: 1.5686793045
+energy_J: 3.1411473304

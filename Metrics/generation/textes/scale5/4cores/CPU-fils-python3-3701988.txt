@@ -1,0 +1,4 @@
+****CPU ePerf for PID 3701988*****
+time_S: 2437
+avgPower_W: .0308037475
+energy_J: 75.0687326575

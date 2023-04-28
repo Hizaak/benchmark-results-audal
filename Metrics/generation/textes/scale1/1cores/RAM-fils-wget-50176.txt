@@ -1,0 +1,4 @@
+****RAM ePerf for PID 50176*****
+time_S: 5.004485587
+avgPower_W:
+energy_J:

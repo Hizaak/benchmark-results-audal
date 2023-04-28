@@ -1,0 +1,4 @@
+****NIC ePerf for PID 52080*****
+time_S: 3
+avgPower_W: .0012068143
+energy_J: .0036204429

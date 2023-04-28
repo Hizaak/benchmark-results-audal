@@ -1,0 +1,4 @@
+****RAM ePerf for PID 720700*****
+time_S: 25.031604262
+avgPower_W: 1.5698758363
+energy_J: 39.2965106772

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 551932*****
+time_S: 3
+avgPower_W: .0013620170
+energy_J: .0040860510

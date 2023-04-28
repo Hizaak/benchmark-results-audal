@@ -1,0 +1,14 @@
+--2023-04-28 01:13:23--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017585/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156745 (153K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1017585.pdf’
+
+     0K .......... .......... .......... .......... .......... 32%  503K 0s
+    50K .......... .......... .......... .......... .......... 65% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 97% 9,36M 0s
+   150K ...                                                   100%  288M=0,1s
+
+2023-04-28 01:13:25 (1,12 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1017585.pdf’ saved [156745/156745]
+

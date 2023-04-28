@@ -1,0 +1,16 @@
+--2023-04-27 17:43:16--  https://hal.science/hal-00935722/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276105 (270K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1003737.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  797K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,56M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,65M 0s
+   150K .......... .......... .......... .......... .......... 74% 1,81M 0s
+   200K .......... .......... .......... .......... .......... 92% 17,0M 0s
+   250K .......... .........                                  100%  646M=0,2s
+
+2023-04-27 17:43:17 (1,71 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.math/1003737.pdf’ saved [276105/276105]
+

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 95096*****
+time_S: 4
+avgPower_W: .0012813476
+energy_J: .0051253904

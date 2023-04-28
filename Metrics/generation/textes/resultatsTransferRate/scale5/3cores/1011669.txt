@@ -1,0 +1,19 @@
+--2023-04-28 00:22:00--  https://hal-agroparistech.archives-ouvertes.fr/hal-01011669/document
+Resolving hal-agroparistech.archives-ouvertes.fr (hal-agroparistech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-agroparistech.archives-ouvertes.fr (hal-agroparistech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 425916 (416K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011669.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  858K 0s
+    50K .......... .......... .......... .......... .......... 24% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 36% 1,71M 0s
+   150K .......... .......... .......... .......... .......... 48% 1,52M 0s
+   200K .......... .......... .......... .......... .......... 60%  473M 0s
+   250K .......... .......... .......... .......... .......... 72% 45,6M 0s
+   300K .......... .......... .......... .......... .......... 84%  230K 0s
+   350K .......... .......... .......... .......... .......... 96%  478M 0s
+   400K .......... .....                                      100%  504M=0,4s
+
+2023-04-28 00:22:01 (1,11 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011669.pdf’ saved [425916/425916]
+

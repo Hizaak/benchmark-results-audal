@@ -1,0 +1,4 @@
+****CPU ePerf for PID 967952*****
+time_S: 290
+avgPower_W: .0312454212
+energy_J: 9.0611721480

@@ -1,0 +1,17 @@
+--2023-04-27 17:20:14--  https://hal-ens-lyon.archives-ouvertes.fr/ensl-01001673/document
+Resolving hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323164 (316K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.info/1001673.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  830K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,60M 0s
+   100K .......... .......... .......... .......... .......... 47% 3,33M 0s
+   150K .......... .......... .......... .......... .......... 63%  117M 0s
+   200K .......... .......... .......... .......... .......... 79% 2,70M 0s
+   250K .......... .......... .......... .......... .......... 95% 31,1M 0s
+   300K .......... .....                                      100% 76,6K=0,3s
+
+2023-04-27 17:20:15 (959 KB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.info/1001673.pdf’ saved [323164/323164]
+

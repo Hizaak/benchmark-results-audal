@@ -1,0 +1,4 @@
+****NIC ePerf for PID 24501*****
+time_S: 4
+avgPower_W: .0027919102
+energy_J: .0111676408

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 31015*****
+time_S: 3.002489891
+avgPower_W: 1.5690568272
+energy_J: 4.7110772622

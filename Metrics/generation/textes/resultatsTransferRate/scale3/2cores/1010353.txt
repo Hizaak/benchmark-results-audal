@@ -1,0 +1,14 @@
+--2023-04-27 19:21:20--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010353/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184011 (180K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010353.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  853K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 83% 1,81M 0s
+   150K .......... .......... .........                       100% 10,6M=0,1s
+
+2023-04-27 19:21:20 (1,49 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1010353.pdf’ saved [184011/184011]
+

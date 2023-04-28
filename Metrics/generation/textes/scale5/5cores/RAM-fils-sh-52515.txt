@@ -1,0 +1,4 @@
+****RAM ePerf for PID 52515*****
+time_S: 1.001025075
+avgPower_W:
+energy_J:

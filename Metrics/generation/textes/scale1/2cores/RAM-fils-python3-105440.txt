@@ -1,0 +1,4 @@
+****RAM ePerf for PID 105440*****
+time_S: 638.155174874
+avgPower_W: 1.8180240846
+energy_J: 1160.1814776925

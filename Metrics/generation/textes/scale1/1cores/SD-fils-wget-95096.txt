@@ -1,0 +1,4 @@
+****SD ePerf for PID 95096*****
+time_S: 4
+avgPower_W: .0030398331
+energy_J: .0121593324

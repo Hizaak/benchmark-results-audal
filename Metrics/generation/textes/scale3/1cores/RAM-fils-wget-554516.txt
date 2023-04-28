@@ -1,0 +1,4 @@
+****RAM ePerf for PID 554516*****
+time_S: 3.002121766
+avgPower_W: 1.5698668484
+energy_J: 4.7129314356

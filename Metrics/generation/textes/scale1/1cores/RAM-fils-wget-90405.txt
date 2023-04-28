@@ -1,0 +1,4 @@
+****RAM ePerf for PID 90405*****
+time_S: 6.006818296
+avgPower_W: 1.5682174484
+energy_J: 9.4199972612

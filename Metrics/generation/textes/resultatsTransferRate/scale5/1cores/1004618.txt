@@ -1,0 +1,18 @@
+--2023-04-27 22:18:55--  https://hal-brgm.archives-ouvertes.fr/hal-01004618/document
+Resolving hal-brgm.archives-ouvertes.fr (hal-brgm.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-brgm.archives-ouvertes.fr (hal-brgm.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 386732 (378K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sde/1004618.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  733K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,41M 0s
+   100K .......... .......... .......... .......... .......... 39% 1,28M 0s
+   150K .......... .......... .......... .......... .......... 52% 1,58M 0s
+   200K .......... .......... .......... .......... .......... 66% 39,1M 0s
+   250K .......... .......... .......... .......... .......... 79% 8,32M 0s
+   300K .......... .......... .......... .......... .......... 92% 49,4M 0s
+   350K .......... .......... .......                         100%  132K=0,4s
+
+2023-04-27 22:18:56 (971 KB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.sde/1004618.pdf’ saved [386732/386732]
+

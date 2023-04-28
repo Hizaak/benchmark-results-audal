@@ -1,0 +1,4 @@
+****RAM ePerf for PID 784025*****
+time_S: 682.193640447
+avgPower_W: 1.8018958518
+energy_J: 1229.2418908768

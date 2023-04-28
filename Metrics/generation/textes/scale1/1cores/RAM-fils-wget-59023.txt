@@ -1,0 +1,4 @@
+****RAM ePerf for PID 59023*****
+time_S: 1.001945481
+avgPower_W:
+energy_J:

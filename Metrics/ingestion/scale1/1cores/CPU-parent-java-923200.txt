@@ -1,0 +1,4 @@
+****CPU ePerf for PID 923200*****
+time_S: 290
+avgPower_W: .0301094890
+energy_J: 8.7317518100

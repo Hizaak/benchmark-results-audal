@@ -1,0 +1,4 @@
+****CPU ePerf for PID 715849*****
+time_S: 9
+avgPower_W: .0010000000
+energy_J: .0090000000

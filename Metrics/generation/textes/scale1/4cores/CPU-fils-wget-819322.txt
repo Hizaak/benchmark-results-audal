@@ -1,0 +1,4 @@
+****CPU ePerf for PID 819322*****
+time_S: -1682666259
+avgPower_W:
+energy_J:

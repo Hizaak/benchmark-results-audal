@@ -1,0 +1,4 @@
+****RAM ePerf for PID 48512*****
+time_S: 3.002955427
+avgPower_W:
+energy_J:

@@ -1,0 +1,16 @@
+--2023-04-27 23:39:43--  https://hal.science/hal-01002019/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292403 (286K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1002019.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  800K 0s
+    50K .......... .......... .......... .......... .......... 35% 1,64M 0s
+   100K .......... .......... .......... .......... .......... 52% 19,0M 0s
+   150K .......... .......... .......... .......... .......... 70% 45,1M 0s
+   200K .......... .......... .......... .......... .......... 87% 1,53M 0s
+   250K .......... .......... .......... .....                100% 37,8M=0,1s
+
+2023-04-27 23:39:43 (2,17 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1002019.pdf’ saved [292403/292403]
+

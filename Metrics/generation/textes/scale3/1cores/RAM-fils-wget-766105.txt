@@ -1,0 +1,4 @@
+****RAM ePerf for PID 766105*****
+time_S: 17.016798466
+avgPower_W: 1.5609154770
+energy_J: 26.5617840957

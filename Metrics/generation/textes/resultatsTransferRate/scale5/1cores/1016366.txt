@@ -1,0 +1,18 @@
+--2023-04-27 22:22:21--  https://hal-univ-rennes1.archives-ouvertes.fr/hal-01016366/document
+Resolving hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 381969 (373K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1016366.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  866K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,53M 0s
+   100K .......... .......... .......... .......... .......... 40% 17,2M 0s
+   150K .......... .......... .......... .......... .......... 53%  588M 0s
+   200K .......... .......... .......... .......... .......... 67% 1,66M 0s
+   250K .......... .......... .......... .......... .......... 80% 11,0M 0s
+   300K .......... .......... .......... .......... .......... 93%  242K 0s
+   350K .......... .......... ...                             100% 50,5M=0,3s
+
+2023-04-27 22:22:22 (1,09 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1016366.pdf’ saved [381969/381969]
+

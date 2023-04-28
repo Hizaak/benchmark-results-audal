@@ -1,0 +1,16 @@
+--2023-04-27 20:15:30--  https://hal.science/hal-01002906/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297515 (291K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1002906.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  842K 0s
+    50K .......... .......... .......... .......... .......... 34%  597K 0s
+   100K .......... .......... .......... .......... .......... 51%  288M 0s
+   150K .......... .......... .......... .......... .......... 68%  576M 0s
+   200K .......... .......... .......... .......... .......... 86%  835K 0s
+   250K .......... .......... .......... ..........           100%  487M=0,2s
+
+2023-04-27 20:15:31 (1,40 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1002906.pdf’ saved [297515/297515]
+

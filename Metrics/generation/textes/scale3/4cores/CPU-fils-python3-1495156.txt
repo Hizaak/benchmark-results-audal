@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1495156*****
+time_S: 388
+avgPower_W: .0000460829
+energy_J: .0178801652

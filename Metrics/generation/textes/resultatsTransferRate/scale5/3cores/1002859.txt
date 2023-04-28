@@ -1,0 +1,16 @@
+--2023-04-28 00:25:00--  https://hal.ird.fr/ird-01002859/document
+Resolving hal.ird.fr (hal.ird.fr)... 193.48.96.10
+Connecting to hal.ird.fr (hal.ird.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266081 (260K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002859.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  842K 0s
+    50K .......... .......... .......... .......... .......... 38% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 57% 18,6M 0s
+   150K .......... .......... .......... .......... .......... 76% 3,79M 0s
+   200K .......... .......... .......... .......... .......... 96% 2,31M 0s
+   250K .........                                             100%  506M=0,1s
+
+2023-04-28 00:25:01 (2,01 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002859.pdf’ saved [266081/266081]
+

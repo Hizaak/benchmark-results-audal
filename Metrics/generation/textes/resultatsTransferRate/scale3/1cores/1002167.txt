@@ -1,0 +1,23 @@
+--2023-04-27 18:32:58--  http://hal.cirad.fr/cirad-01002167/document
+Resolving hal.cirad.fr (hal.cirad.fr)... 193.48.96.10
+Connecting to hal.cirad.fr (hal.cirad.fr)|193.48.96.10|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-04-27 18:33:09--  (try: 2)  http://hal.cirad.fr/cirad-01002167/document
+Connecting to hal.cirad.fr (hal.cirad.fr)|193.48.96.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383741 (375K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002167.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  859K 0s
+    50K .......... .......... .......... .......... .......... 26% 2,70M 0s
+   100K .......... .......... .......... .......... .......... 40% 1,65M 0s
+   150K .......... .......... .......... .......... .......... 53%  141M 0s
+   200K .......... .......... .......... .......... .......... 66% 1,68M 0s
+   250K .......... .......... .......... .......... .......... 80% 39,0M 0s
+   300K .......... .......... .......... .......... .......... 93%  241K 0s
+   350K .......... .......... ....                            100%  423M=0,3s
+
+2023-04-27 18:33:10 (1,06 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1002167.pdf’ saved [383741/383741]
+

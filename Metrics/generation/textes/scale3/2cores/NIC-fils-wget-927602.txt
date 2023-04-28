@@ -1,0 +1,4 @@
+****NIC ePerf for PID 927602*****
+time_S: 8
+avgPower_W: .0026474397
+energy_J: .0211795176

@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1001918*****
+time_S: 122
+avgPower_W: .5450000000
+energy_J: 66.4900000000

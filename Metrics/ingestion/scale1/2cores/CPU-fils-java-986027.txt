@@ -1,0 +1,4 @@
+****CPU ePerf for PID 986027*****
+time_S: 160
+avgPower_W: 1.0749315068
+energy_J: 171.9890410880

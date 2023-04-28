@@ -1,0 +1,4 @@
+****RAM ePerf for PID 970679*****
+time_S: 3.001754321
+avgPower_W: 1.5697058034
+energy_J: 4.7118711782

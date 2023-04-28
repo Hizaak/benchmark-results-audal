@@ -1,0 +1,29 @@
+--2023-04-27 18:50:59--  https://hal.science/hal-01003479/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-04-27 18:51:10--  (try: 2)  https://hal.science/hal-01003479/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-04-27 18:51:22--  (try: 3)  https://hal.science/hal-01003479/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 531567 (519K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1003479.pdf’
+
+     0K .......... .......... .......... .......... ..........  9%  873K 1s
+    50K .......... .......... .......... .......... .......... 19% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 28% 16,4M 0s
+   150K .......... .......... .......... .......... .......... 38% 33,3M 0s
+   200K .......... .......... .......... .......... .......... 48% 1,61M 0s
+   250K .......... .......... .......... .......... .......... 57%  165M 0s
+   300K .......... .......... .......... .......... .......... 67%  243K 0s
+   350K .......... .......... .......... .......... .......... 77%  156M 0s
+   400K .......... .......... .......... .......... .......... 86%  133M 0s
+   450K .......... .......... .......... .......... .......... 96%  164M 0s
+   500K .......... .........                                  100% 95,1K=0,5s
+
+2023-04-27 18:51:23 (983 KB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.phys/1003479.pdf’ saved [531567/531567]
+

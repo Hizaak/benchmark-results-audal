@@ -1,0 +1,17 @@
+--2023-04-27 18:43:33--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01006539/document
+Resolving hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 317401 (310K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1006539.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  856K 0s
+    50K .......... .......... .......... .......... .......... 32%  853K 0s
+   100K .......... .......... .......... .......... .......... 48% 1,75M 0s
+   150K .......... .......... .......... .......... .......... 64% 1,61M 0s
+   200K .......... .......... .......... .......... .......... 80% 26,5M 0s
+   250K .......... .......... .......... .......... .......... 96% 53,2M 0s
+   300K .........                                             100%  562M=0,2s
+
+2023-04-27 18:43:34 (1,70 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1006539.pdf’ saved [317401/317401]
+

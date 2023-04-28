@@ -1,0 +1,4 @@
+****NIC ePerf for PID 78365*****
+time_S: 7
+avgPower_W: .0014779334
+energy_J: .0103455338

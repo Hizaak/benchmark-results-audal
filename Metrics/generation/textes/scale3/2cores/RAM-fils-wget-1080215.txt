@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1080215*****
+time_S: 5.003184353
+avgPower_W: 1.5711281157
+energy_J: 7.8606436054

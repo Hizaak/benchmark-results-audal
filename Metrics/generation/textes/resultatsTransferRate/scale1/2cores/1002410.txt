@@ -1,0 +1,18 @@
+--2023-04-27 17:32:42--  https://hal-univ-rennes1.archives-ouvertes.fr/hal-01002410/document
+Resolving hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-rennes1.archives-ouvertes.fr (hal-univ-rennes1.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 406558 (397K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1002410.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  726K 0s
+    50K .......... .......... .......... .......... .......... 25% 1,17M 0s
+   100K .......... .......... .......... .......... .......... 37% 1,49M 0s
+   150K .......... .......... .......... .......... .......... 50% 63,1M 0s
+   200K .......... .......... .......... .......... .......... 62% 1,61M 0s
+   250K .......... .......... .......... .......... .......... 75% 31,6M 0s
+   300K .......... .......... .......... .......... .......... 88%  245K 0s
+   350K .......... .......... .......... .......... .......   100%  405M=0,4s
+
+2023-04-27 17:32:43 (1,02 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.chim/1002410.pdf’ saved [406558/406558]
+

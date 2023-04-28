@@ -1,0 +1,4 @@
+****RAM ePerf for PID 101110*****
+time_S: 7.006910600
+avgPower_W: 1.5638440187
+energy_J: 10.9577152314

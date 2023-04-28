@@ -1,0 +1,4 @@
+****NIC ePerf for PID 63030*****
+time_S: 3
+avgPower_W: .0013643946
+energy_J: .0040931838

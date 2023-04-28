@@ -1,0 +1,4 @@
+****CPU ePerf for PID 926425*****
+time_S: 287
+avgPower_W: .5754612546
+energy_J: 165.1573800702

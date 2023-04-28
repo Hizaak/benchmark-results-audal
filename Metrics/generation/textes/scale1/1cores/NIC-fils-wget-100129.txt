@@ -1,0 +1,4 @@
+****NIC ePerf for PID 100129*****
+time_S: 4
+avgPower_W: .0019118543
+energy_J: .0076474172

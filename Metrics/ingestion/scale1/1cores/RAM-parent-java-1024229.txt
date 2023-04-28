@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1024229*****
+time_S: 294.389639351
+avgPower_W: 7.9841714021
+energy_J: 2350.4573396098

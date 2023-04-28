@@ -1,0 +1,15 @@
+--2023-04-28 01:05:24--  https://hal-sciencespo.archives-ouvertes.fr/hal-01011221/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207868 (203K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011221.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  849K 0s
+    50K .......... .......... .......... .......... .......... 49% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 73% 10,4M 0s
+   150K .......... .......... .......... .......... .......... 98% 40,3M 0s
+   200K ..                                                    100%  279M=0,09s
+
+2023-04-28 01:05:30 (2,17 MB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.shs/1011221.pdf’ saved [207868/207868]
+

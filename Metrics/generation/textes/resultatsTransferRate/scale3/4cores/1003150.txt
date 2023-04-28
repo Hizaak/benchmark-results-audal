@@ -1,0 +1,23 @@
+--2023-04-27 20:15:57--  https://hal.science/peer-01003150/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-04-27 20:16:08--  (try: 2)  https://hal.science/peer-01003150/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 393823 (385K) [application/pdf]
+Saving to: ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.qfin/1003150.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  778K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,64M 0s
+   100K .......... .......... .......... .......... .......... 39% 1,57M 0s
+   150K .......... .......... .......... .......... .......... 52% 1,54M 0s
+   200K .......... .......... .......... .......... .......... 65% 7,65M 0s
+   250K .......... .......... .......... .......... .......... 78%  579M 0s
+   300K .......... .......... .......... .......... .......... 91% 5,42M 0s
+   350K .......... .......... .......... ....                 100%  169K=0,4s
+
+2023-04-27 20:16:09 (1020 KB/s) - ‘/home/amaurice/Bureau/Stage/DLBench/Documents/data/0.qfin/1003150.pdf’ saved [393823/393823]
+

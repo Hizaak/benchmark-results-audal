@@ -1,0 +1,4 @@
+****CPU ePerf for PID 254207*****
+time_S: 165
+avgPower_W: .0017543859
+energy_J: .2894736735

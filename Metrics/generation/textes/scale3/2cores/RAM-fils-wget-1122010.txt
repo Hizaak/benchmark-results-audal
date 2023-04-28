@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1122010*****
+time_S: 6.006973338
+avgPower_W: 1.5705057940
+energy_J: 9.4339864322

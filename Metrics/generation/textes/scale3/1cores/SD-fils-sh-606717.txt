@@ -1,0 +1,4 @@
+****SD ePerf for PID 606717*****
+time_S: 2
+avgPower_W: .0004270000
+energy_J: .0008540000

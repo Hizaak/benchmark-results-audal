@@ -1,0 +1,4 @@
+****SD ePerf for PID 80325*****
+time_S: 18
+avgPower_W: .0028174375
+energy_J: .0507138750
