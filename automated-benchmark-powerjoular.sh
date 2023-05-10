@@ -84,10 +84,9 @@ ingestion_powerjoular(){
 
         echo "Mesure de l'ingestion des documents sur le PID $parent."
         surveiller $parent "/home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkPowerJoular" $echelle $((coeur+1))
-
+        delete_files csv "/home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkPowerJoular/"
     done
 
-    delete_files csv "/home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkPowerJoular/"
 }
 
 generation_powerjoular(){
@@ -107,9 +106,9 @@ generation_powerjoular(){
             cd $racine || exit
             echo "Mesure de la génération des documents sur le PID $parent."
             surveiller $parent "/home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkPowerJoular" $i $j
+            delete_files csv "/home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkPowerJoular/"
         done
         
-        delete_files csv "/home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkPowerJoular/"
 
         ingestion_powerjoular $i $j
 
