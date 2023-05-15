@@ -1,14 +1,19 @@
 import os
 import csv
 import re
+from datetime import datetime
+
+timestamp_regex = r"--(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})--"
+transfer_rate_regex = r"(\d+,\d+|\d+) (KB/s|MB/s)"
 
 
 with open('resultats.csv', mode='w', newline='') as fichier_csv:
     writer = csv.writer(fichier_csv)
-    writer.writerow(['Expé', 'Date', 'Etape', 'SF', 'Volume MB', 'Nb de cœurs', 'Temps d\'exécution (s)', 'Somme (W/s)', 'CPU (W/s)', 'GPU (W/s)', 'Temps d\'exécution (s)', 'Somme (W/s)', 'CPU', 'RAM', 'SD', 'NIC'])
+    writer.writerow(['Expé', 'Date', 'Etape', 'SF', 'Volume MB', 'Nb de cœurs', 'Temps d\'exécution (s)', 'Somme (W/s)', 'CPU (W/s)', 'GPU (W/s)', 'Temps d\'exécution (s)', 'Somme (W/s)', 'CPU (W/s)', 'RAM (W/s)', 'SD (W/s)', 'NIC (W/s)'])
 
 ######## PowerJoular ########
-# PowerJoular --> Génération --> textes
+# PowerJoular --> Chargement --> textes
+"""
 for scale in (1, 3, 5):
     for cores in range(1,6):
         dictionnaire = {}
@@ -37,7 +42,7 @@ for scale in (1, 3, 5):
                 dictionnaire[file].append(gpu)
         numeroExperience = 1
         date = "27-04-2023"
-        etape = "Génération"
+        etape = "Chargement"
         tempsExecMax = max([dictionnaire[i][0] for i in dictionnaire])
         sommeMesurePJ = sum([dictionnaire[i][1] for i in dictionnaire])
         sommeCPU = sum([dictionnaire[i][2] for i in dictionnaire])
@@ -94,7 +99,7 @@ for scale in (1, 3, 5):
         with open('resultats.csv', mode='a', newline='') as fichier_csv:
             writer = csv.writer(fichier_csv)
             writer.writerows(donnees)
-
+"""
 
 
 
@@ -126,7 +131,7 @@ for scale in (1, 3, 5):
 
 ######## Métriques "maison" ########
 
-# Métriques "maison" --> Génération --> textes
+# Métriques "maison" --> Chargement --> textes
 for scale in (1, 3, 5):
     for cores in range(1,6):
         dictionnaire = {}
@@ -139,6 +144,7 @@ for scale in (1, 3, 5):
                 nic=0
                 ram=0
                 sd=0
+
                 with open(f"Metrics/generation/textes/scale{scale}/{cores}cores/CPU-{ommitComposant}", "r") as f:
                     for line in f:
                         if line.startswith("time_S"):
@@ -151,6 +157,7 @@ for scale in (1, 3, 5):
                                         except:
                                             cpu = 0
                                         break
+                                """
                                 with open(f"Metrics/generation/textes/scale{scale}/{cores}cores/NIC-{ommitComposant}", "r") as f:
                                     for line in f:
                                         if line.startswith("energy_J"):
@@ -159,6 +166,7 @@ for scale in (1, 3, 5):
                                             except:
                                                 nic = 0
                                             break
+                                """
                                 with open(f"Metrics/generation/textes/scale{scale}/{cores}cores/RAM-{ommitComposant}", "r") as f:
                                     for line in f:
                                         if line.startswith("energy_J"):
@@ -167,6 +175,7 @@ for scale in (1, 3, 5):
                                             except:
                                                 ram = 0
                                             break
+                                """
                                 with open(f"Metrics/generation/textes/scale{scale}/{cores}cores/SD-{ommitComposant}", "r") as f:
                                     for line in f:
                                         if line.startswith("energy_J"):
@@ -175,16 +184,44 @@ for scale in (1, 3, 5):
                                             except:
                                                 sd = 0
                                             break
+                                """
                                 dictionnaire[ommitComposant].append(tempsExec)
                                 dictionnaire[ommitComposant].append(cpu)
-                                dictionnaire[ommitComposant].append(nic)
+                                # dictionnaire[ommitComposant].append(nic)
                                 dictionnaire[ommitComposant].append(ram)
-                                dictionnaire[ommitComposant].append(sd)
+                                # dictionnaire[ommitComposant].append(sd)
                                 break
+        nic = 0
+        sd = 0
+        
+        for file in os.listdir(f"Metrics/generation/textes/resultatsTransferRate/scale{scale}/{cores}cores"):
+            # Mettre tout le contenu du fichier dans une variable
+            with open(f"Metrics/generation/textes/resultatsTransferRate/scale{scale}/{cores}cores/{file}", "r") as f:
+                contenu = f.read()
 
-        # Supprimer chaque élément du dictionnaire qui n'a pas les 5 composants
+                # Extraction des timestamps
+                timestamps = re.findall(timestamp_regex, contenu)
+                timestamp_debut = datetime.strptime(timestamps[0], "%Y-%m-%d %H:%M:%S")
+                timestamp_fin = datetime.strptime(timestamps[-1], "%Y-%m-%d %H:%M:%S")
+
+                # Calcul de la différence de temps
+                # print(timestamp_debut)
+                # print(timestamp_fin)
+                duree = timestamp_fin - timestamp_debut
+
+                # Extraction du taux de transfert moyen
+                try:
+                    transfer_rate = re.search(transfer_rate_regex, contenu).group(1)
+                
+                    nic = nic + 0.55 * (float(transfer_rate.replace(',', '.')) / 150.5) * (duree.total_seconds() + 1)
+                    sd = sd + 0.45 * (float(transfer_rate.replace(',', '.')) / 150.5) * (duree.total_seconds() +1)
+                except:
+                    pass
+
+            
+        # Supprimer chaque élément du dictionnaire qui n'a pas les 3 composants
         for i in list(dictionnaire):
-            if len(dictionnaire[i]) != 5:
+            if len(dictionnaire[i]) != 3:
                 del dictionnaire[i]
         
         # Afficher tous les éléments dont nic n'est pas égal à 0
@@ -194,16 +231,17 @@ for scale in (1, 3, 5):
 
 
         # Afficher proprement le dictionnaire
-        
         # for i in dictionnaire:
         #     print(i, dictionnaire[i])
 
 
         tempsExecMax = max([dictionnaire[i][0] for i in dictionnaire])
         sommeCPU = sum([dictionnaire[i][1] for i in dictionnaire])
-        sommeNIC = sum([dictionnaire[i][2] for i in dictionnaire])
-        sommeRAM = sum([dictionnaire[i][3] for i in dictionnaire])
-        sommeSD = sum([dictionnaire[i][4] for i in dictionnaire])
+        # sommeNIC = sum([dictionnaire[i][2] for i in dictionnaire])
+        sommeNIC = nic
+        sommeRAM = sum([dictionnaire[i][2] for i in dictionnaire])
+        # sommeSD = sum([dictionnaire[i][4] for i in dictionnaire])
+        sommeSD = sd
         sommeTotal = sommeCPU + sommeNIC + sommeRAM + sommeSD
 
         # Afficher proprement toutes les valeurs
@@ -216,10 +254,10 @@ for scale in (1, 3, 5):
         # print(f"SOMME TOTALE : {sommeTotal} JOULES ou W/s")
         # print("\n")
 
-        numeroExperience = 1
-        date = "28-04-2023"
+        numeroExperience = 2
+        date = "12-05-2023"
         
-        etape = "Génération"
+        etape = "Chargement"
         donnees = [
             [numeroExperience, date, etape, scale, "", cores, "", "", "", "", tempsExecMax, sommeTotal, sommeCPU, sommeRAM, sommeNIC, sommeSD]
         ]
@@ -230,7 +268,7 @@ for scale in (1, 3, 5):
 
 
 # Métriques "maison" --> Ingestion
-for scale in (1, 3):
+for scale in (1, 3, 5):
     for cores in range(1,6):
         dictionnaire = {}
         for file in os.listdir(f"Metrics/ingestion/scale{scale}/{cores}cores"):
@@ -314,8 +352,8 @@ for scale in (1, 3):
         # print(f"SOMME TOTALE : {sommeTotal} JOULES ou W/s")
         # print("\n")
 
-        numeroExperience = 1
-        date = "28-04-2023"
+        numeroExperience = 2
+        date = "12-05-2023"
         
         etape = "Ingestion"
         donnees = [
@@ -325,3 +363,302 @@ for scale in (1, 3):
         with open('resultats.csv', mode='a', newline='') as fichier_csv:
             writer = csv.writer(fichier_csv)
             writer.writerows(donnees)
+
+
+# Métriques "maison" --> Requête 1
+
+for scale in (1, 3, 5):
+    for cores in range(1,6):
+        dictionnaire = {}
+        for file in os.listdir(f"Metrics/scripts/script1/scale{scale}/{cores}cores"):
+            if "CPU" in file:
+                ommitComposant = re.search(r'(?<=-).*', file).group()
+
+                dictionnaire[ommitComposant] = []
+                cpu=0
+                nic=0
+                ram=0
+                sd=0
+                with open(f"Metrics/scripts/script1/scale{scale}/{cores}cores/CPU-{ommitComposant}", "r") as f:
+                    for line in f:
+                        if line.startswith("time_S"):
+                            tempsExec = float(line.split(" ")[1])
+                            if tempsExec > 0:
+                                for line in f:
+                                    if line.startswith("energy_J"):
+                                        try :
+                                            cpu = float(line.split(" ")[1])
+                                        except:
+                                            cpu = 0
+                                        break
+                                with open(f"Metrics/scripts/script1/scale{scale}/{cores}cores/NIC-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try:
+                                                nic = float(line.split(" ")[1])
+                                            except:
+                                                nic = 0
+                                            break
+                                with open(f"Metrics/scripts/script1/scale{scale}/{cores}cores/RAM-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try:
+                                                ram = float(line.split(" ")[1])
+                                            except:
+                                                ram = 0
+                                            break
+                                with open(f"Metrics/scripts/script1/scale{scale}/{cores}cores/SD-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try :
+                                                sd = float(line.split(" ")[1])
+                                            except:
+                                                sd = 0
+                                            break
+                                dictionnaire[ommitComposant].append(tempsExec)
+                                dictionnaire[ommitComposant].append(cpu)
+                                dictionnaire[ommitComposant].append(nic)
+                                dictionnaire[ommitComposant].append(ram)
+                                dictionnaire[ommitComposant].append(sd)
+                                break
+
+        # Supprimer chaque élément du dictionnaire qui n'a pas les 5 composants
+        for i in list(dictionnaire):
+            if len(dictionnaire[i]) != 5:
+                del dictionnaire[i]
+        
+
+
+        # Afficher proprement le dictionnaire
+        
+        # for i in dictionnaire:
+        #     print(i, dictionnaire[i])
+
+        tempsExecMax = max([dictionnaire[i][0] for i in dictionnaire])
+        sommeCPU = sum([dictionnaire[i][1] for i in dictionnaire])
+        sommeNIC = sum([dictionnaire[i][2] for i in dictionnaire])
+        sommeRAM = sum([dictionnaire[i][3] for i in dictionnaire])
+        sommeSD = sum([dictionnaire[i][4] for i in dictionnaire])
+        sommeTotal = sommeCPU + sommeNIC + sommeRAM + sommeSD
+
+        # Afficher proprement toutes les valeurs
+        # print(f"scale{scale} - {cores}cores")
+        # print(f"Temps d'exécution max : {tempsExecMax}")
+        # print(f"Somme CPU : {sommeCPU}")
+        # print(f"Somme NIC : {sommeNIC}")
+        # print(f"Somme RAM : {sommeRAM}")
+        # print(f"Somme SD : {sommeSD}")
+        # print(f"SOMME TOTALE : {sommeTotal} JOULES ou W/s")
+        # print("\n")
+
+        numeroExperience = 2
+        date = "12-05-2023"
+        
+        etape = "Requête 1"
+        donnees = [
+            [numeroExperience, date, etape, scale, "", cores, "", "", "", "", tempsExecMax, sommeTotal, sommeCPU, sommeRAM, sommeNIC, sommeSD]
+        ]
+
+        with open('resultats.csv', mode='a', newline='') as fichier_csv:
+            writer = csv.writer(fichier_csv)
+            writer.writerows(donnees)
+            
+
+# Métriques "maison" --> Requête 2
+
+for scale in (1, 3, 5):
+    for cores in range(1,6):
+        dictionnaire = {}
+        for file in os.listdir(f"Metrics/scripts/script2/scale{scale}/{cores}cores"):
+            if "CPU" in file:
+                ommitComposant = re.search(r'(?<=-).*', file).group()
+
+                dictionnaire[ommitComposant] = []
+                cpu=0
+                nic=0
+                ram=0
+                sd=0
+                with open(f"Metrics/scripts/script2/scale{scale}/{cores}cores/CPU-{ommitComposant}", "r") as f:
+                    for line in f:
+                        if line.startswith("time_S"):
+                            tempsExec = float(line.split(" ")[1])
+                            if tempsExec > 0:
+                                for line in f:
+                                    if line.startswith("energy_J"):
+                                        try :
+                                            cpu = float(line.split(" ")[1])
+                                        except:
+                                            cpu = 0
+                                        break
+                                with open(f"Metrics/scripts/script2/scale{scale}/{cores}cores/NIC-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try:
+                                                nic = float(line.split(" ")[1])
+                                            except:
+                                                nic = 0
+                                            break
+                                with open(f"Metrics/scripts/script2/scale{scale}/{cores}cores/RAM-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try:
+                                                ram = float(line.split(" ")[1])
+                                            except:
+                                                ram = 0
+                                            break
+                                with open(f"Metrics/scripts/script2/scale{scale}/{cores}cores/SD-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try :
+                                                sd = float(line.split(" ")[1])
+                                            except:
+                                                sd = 0
+                                            break
+                                dictionnaire[ommitComposant].append(tempsExec)
+                                dictionnaire[ommitComposant].append(cpu)
+                                dictionnaire[ommitComposant].append(nic)
+                                dictionnaire[ommitComposant].append(ram)
+                                dictionnaire[ommitComposant].append(sd)
+                                break
+
+        # Supprimer chaque élément du dictionnaire qui n'a pas les 5 composants
+        for i in list(dictionnaire):
+            if len(dictionnaire[i]) != 5:
+                del dictionnaire[i]
+        
+
+
+        # Afficher proprement le dictionnaire
+        
+        # for i in dictionnaire:
+        #     print(i, dictionnaire[i])
+
+        tempsExecMax = max([dictionnaire[i][0] for i in dictionnaire])
+        sommeCPU = sum([dictionnaire[i][1] for i in dictionnaire])
+        sommeNIC = sum([dictionnaire[i][2] for i in dictionnaire])
+        sommeRAM = sum([dictionnaire[i][3] for i in dictionnaire])
+        sommeSD = sum([dictionnaire[i][4] for i in dictionnaire])
+        sommeTotal = sommeCPU + sommeNIC + sommeRAM + sommeSD
+
+        # Afficher proprement toutes les valeurs
+        # print(f"scale{scale} - {cores}cores")
+        # print(f"Temps d'exécution max : {tempsExecMax}")
+        # print(f"Somme CPU : {sommeCPU}")
+        # print(f"Somme NIC : {sommeNIC}")
+        # print(f"Somme RAM : {sommeRAM}")
+        # print(f"Somme SD : {sommeSD}")
+        # print(f"SOMME TOTALE : {sommeTotal} JOULES ou W/s")
+        # print("\n")
+
+        numeroExperience = 2
+        date = "12-05-2023"
+        
+        etape = "Requête 2"
+        donnees = [
+            [numeroExperience, date, etape, scale, "", cores, "", "", "", "", tempsExecMax, sommeTotal, sommeCPU, sommeRAM, sommeNIC, sommeSD]
+        ]
+
+        with open('resultats.csv', mode='a', newline='') as fichier_csv:
+            writer = csv.writer(fichier_csv)
+            writer.writerows(donnees)
+            
+
+# Métriques "maison" --> Requête 3
+
+for scale in (1, 3, 5):
+    for cores in range(1,6):
+        dictionnaire = {}
+        for file in os.listdir(f"Metrics/scripts/script3/scale{scale}/{cores}cores"):
+            if "CPU" in file:
+                ommitComposant = re.search(r'(?<=-).*', file).group()
+
+                dictionnaire[ommitComposant] = []
+                cpu=0
+                nic=0
+                ram=0
+                sd=0
+                with open(f"Metrics/scripts/script3/scale{scale}/{cores}cores/CPU-{ommitComposant}", "r") as f:
+                    for line in f:
+                        if line.startswith("time_S"):
+                            tempsExec = float(line.split(" ")[1])
+                            if tempsExec > 0:
+                                for line in f:
+                                    if line.startswith("energy_J"):
+                                        try :
+                                            cpu = float(line.split(" ")[1])
+                                        except:
+                                            cpu = 0
+                                        break
+                                with open(f"Metrics/scripts/script3/scale{scale}/{cores}cores/NIC-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try:
+                                                nic = float(line.split(" ")[1])
+                                            except:
+                                                nic = 0
+                                            break
+                                with open(f"Metrics/scripts/script3/scale{scale}/{cores}cores/RAM-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try:
+                                                ram = float(line.split(" ")[1])
+                                            except:
+                                                ram = 0
+                                            break
+                                with open(f"Metrics/scripts/script3/scale{scale}/{cores}cores/SD-{ommitComposant}", "r") as f:
+                                    for line in f:
+                                        if line.startswith("energy_J"):
+                                            try :
+                                                sd = float(line.split(" ")[1])
+                                            except:
+                                                sd = 0
+                                            break
+                                dictionnaire[ommitComposant].append(tempsExec)
+                                dictionnaire[ommitComposant].append(cpu)
+                                dictionnaire[ommitComposant].append(nic)
+                                dictionnaire[ommitComposant].append(ram)
+                                dictionnaire[ommitComposant].append(sd)
+                                break
+
+        # Supprimer chaque élément du dictionnaire qui n'a pas les 5 composants
+        for i in list(dictionnaire):
+            if len(dictionnaire[i]) != 5:
+                del dictionnaire[i]
+        
+
+
+        # Afficher proprement le dictionnaire
+        
+        # for i in dictionnaire:
+        #     print(i, dictionnaire[i])
+
+        tempsExecMax = max([dictionnaire[i][0] for i in dictionnaire])
+        sommeCPU = sum([dictionnaire[i][1] for i in dictionnaire])
+        sommeNIC = sum([dictionnaire[i][2] for i in dictionnaire])
+        sommeRAM = sum([dictionnaire[i][3] for i in dictionnaire])
+        sommeSD = sum([dictionnaire[i][4] for i in dictionnaire])
+        sommeTotal = sommeCPU + sommeNIC + sommeRAM + sommeSD
+
+        # Afficher proprement toutes les valeurs
+        # print(f"scale{scale} - {cores}cores")
+        # print(f"Temps d'exécution max : {tempsExecMax}")
+        # print(f"Somme CPU : {sommeCPU}")
+        # print(f"Somme NIC : {sommeNIC}")
+        # print(f"Somme RAM : {sommeRAM}")
+        # print(f"Somme SD : {sommeSD}")
+        # print(f"SOMME TOTALE : {sommeTotal} JOULES ou W/s")
+        # print("\n")
+
+        numeroExperience = 2
+        date = "12-05-2023"
+        
+        etape = "Requête 3"
+        donnees = [
+            [numeroExperience, date, etape, scale, "", cores, "", "", "", "", tempsExecMax, sommeTotal, sommeCPU, sommeRAM, sommeNIC, sommeSD]
+        ]
+
+        with open('resultats.csv', mode='a', newline='') as fichier_csv:
+            writer = csv.writer(fichier_csv)
+            writer.writerows(donnees)
+            
+

@@ -1,4 +1,0 @@
-****SD ePerf for PID 2965566*****
-time_S: 1850
-avgPower_W:
-energy_J:
