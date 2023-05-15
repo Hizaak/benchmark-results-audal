@@ -10,11 +10,10 @@ function on_sigint {
 
 trap on_sigint SIGINT
 
+
 delete_all_files() {
     find /home/amaurice/Bureau/benchmark-results-audal/Scaphandre -type f -name "*.txt" -delete
-    find /home/amaurice/Bureau/benchmark-results-audal/Scaphandre -type f -name "*.csv" -delete
 }
-
 surveiller(){
     parent=$1
     nomParent=$(ps -p $parent -o comm=)
@@ -22,22 +21,67 @@ surveiller(){
     echelle=$3
     coeurs=$4
 
-    echo $parent >> "$chemin/scale$echelle/$((coeurs))cores/listePIDSurveilles.txt"
-
+    listePIDSurveilles=""
     while ps -p $parent > /dev/null; do
         for fils in $(pstree -p $parent | grep -o '([0-9]\+)' | grep -o '[0-9]\+'); do
             if [[ ! "$listePIDSurveilles" =~ $fils ]]; then
-                echo $fils >> "$chemin/scale$echelle/$((coeurs))cores/listePIDSurveilles.txt"
+                nomFils=$(ps -p $fils -o comm=)
+
+                echo $fils $nomFils >> "$chemin/scale$echelle/$((coeurs))cores/listePIDSurveilles.txt"
+
+                listePIDSurveilles="$listePIDSurveilles $fils"
             fi
         done
     done
 
     du -hs "data" >> "$chemin/scale$echelle/$((coeurs))cores/parent-$nomParent-$parent.txt"
     find "data" -type f | wc -l >> "$chemin/scale$echelle/$((coeurs))cores/parent-$nomParent-$parent.txt"
-    find "$chemin" -type f -name "*--*.txt" -delete
 }
 
-ingestion_maison(){
+
+lancement_scripts() {
+
+    racine=$(pwd)
+    cd /home/amaurice/Bureau/Stage/AudalMetadata/AdvancedMetadata/ || exit
+
+    echelle=$1
+    nombreCoeurs=$2
+
+    for doc in $(seq 1 1 3); do
+        for i in $(seq 0 1 $((nombreCoeurs-1))); do
+            cores=""
+            for j in $(seq 0 1 $cores); do
+                cores="$cores$j,"
+            done
+            cores=$(echo "$cores" | sed 's/.$//')
+            case $doc in
+            1)
+                scriptdir="/home/amaurice/Bureau/benchmark-results-audal/Scaphandre/scripts/script1"
+                scriptname="1- Documents - Groupings.py"
+                ;;
+            2)
+                scriptdir="/home/amaurice/Bureau/benchmark-results-audal/Scaphandre/scripts/script2"
+                scriptname="2- Documents - Similarities-2 - CLASSIC vocabulary.py"
+                ;;
+            3)
+                scriptdir="/home/amaurice/Bureau/benchmark-results-audal/Scaphandre/scripts/script3"
+                scriptname="3- Documents - Similarities-4 - EMBEDDINGS.py"
+                ;;
+            esac
+
+
+            echo "Exécution de la requête $doc avec $((i+1)) coeur(s) sur $((echelle))*200 documents."
+            taskset -c $cores python3 -W ignore "$scriptname" &
+
+            pere=$!
+
+            surveiller $pere $scriptdir $echelle $((i+1))
+        done
+    done
+    cd $racine || exit
+}
+
+ingestion(){
     echelle=$1
     nombreCoeurs=$2
 
@@ -68,11 +112,12 @@ ingestion_maison(){
     done
 }
 
-generation_maison(){
+generation(){
     echelle=$1
     coeurs=$2
     
-    for i in $(seq 1 $echelle)
+    #for i in $(seq 1 $echelle)
+    for i in 1 3 5
     do
         for j in $(seq 1 $coeurs)
         do
@@ -88,20 +133,22 @@ generation_maison(){
 
         done
 
-        ingestion_maison $i $j
+        ingestion $i $j
 
-        echo "
-        racine=$(pwd)
-        cd /home/amaurice/Bureau/Stage/AudalMetadata/AdvancedMetadata/
-        bash lancementScriptsPowerJoular.sh $echelle $coeurs
-        cd $racine"
+        lancement_scripts $i $j
     done
 }
 
 main() {
+    ########################################################################
+    # INSERER ICI LA LIGNE QUE L'ON UTILISERA POUR MONITORER AVEC SCAPHANDRE
+    ########################################################################
+
+    scaphandre json -t 60 -s 0 -n 100000 -m 10000 -f benchmarkScaphandre.json &
+
     delete_all_files
     
-    generation_maison $1 $2
+    generation $1 $2
 }
 
 if [ $# -eq 0 ]; then
