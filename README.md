@@ -14,11 +14,17 @@ Nombre de coeurs utilisés : 5
 
 - Powerjoular :
     1. Tableaux : ...
-    2. Documents : OK
-    3. Ingestion : OK
+    2. Documents : ...
+    3. Ingestion : ...
     4. Requêtes : ...
 
 - Métriques maison :
+    1. Tableaux : ...
+    2. Documents : OK
+    3. Ingestion : OK
+    4. Requêtes : OK
+
+- Scaphandre :
     1. Tableaux : ...
     2. Documents : ...
     3. Ingestion : ...
@@ -27,14 +33,4 @@ Nombre de coeurs utilisés : 5
 
 ### Exceptions :
 
-Pour l'instant, il n'y a que les métriques de PowerJoular (mais elles sont presque complètes pour l'urgence de vendredi).
-Les métriques d'Humberto seront ajoutées quand les scripts auront tourné au moins une fois...
-
-### Problèmes :
-
-L'exécution du téléchargement des documents ne va pas assez loin dans les PID enfants. \
-Les scripts 2 et 3 ne fonctionnent pas correctemment dû au scroll qui est trop court.
-
-### Futurs fixs :
-
-Exécuter les requêtes séparément de l'ingestion pour avoir plus de contrôle.
+PowerJoular reste à revoir. PJ et Scaphandre mesurent en "system-wide", il est possible que nous n'ayons pas besoin de faire de comparaison
