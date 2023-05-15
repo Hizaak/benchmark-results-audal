@@ -1,0 +1,14 @@
+--2023-05-13 01:50:11--  https://archivesic.ccsd.cnrs.fr/sic_01359589/document
+Resolving archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160883 (157K) [application/pdf]
+Saving to: ‘./data/0.shs/1359589.pdf’
+
+     0K .......... .......... .......... .......... .......... 31%  894K 0s
+    50K .......... .......... .......... .......... .......... 63% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 95% 1,83M 0s
+   150K .......                                               100%  267M=0,1s
+
+2023-05-13 01:50:13 (1,37 MB/s) - ‘./data/0.shs/1359589.pdf’ saved [160883/160883]
+

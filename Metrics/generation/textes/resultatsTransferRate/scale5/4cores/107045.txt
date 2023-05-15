@@ -1,0 +1,14 @@
+--2023-05-13 03:47:44--  https://www.hal.inserm.fr/inserm-00107045/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195037 (190K) [application/pdf]
+Saving to: ‘./data/0.sdv/107045.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  885K 0s
+    50K .......... .......... .......... .......... .......... 52% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 78% 1,66M 0s
+   150K .......... .......... .......... ..........           100%  609M=0,1s
+
+2023-05-13 03:47:45 (1,64 MB/s) - ‘./data/0.sdv/107045.pdf’ saved [195037/195037]
+

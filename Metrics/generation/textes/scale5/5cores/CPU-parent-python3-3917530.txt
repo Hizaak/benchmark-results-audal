@@ -1,0 +1,4 @@
+****CPU ePerf for PID 3917530*****
+time_S: 1474
+avgPower_W: .0490000000
+energy_J: 72.2260000000

@@ -1,0 +1,14 @@
+--2023-05-13 03:04:17--  https://hal-sciencespo.archives-ouvertes.fr/hal-01022381/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200675 (196K) [application/pdf]
+Saving to: ‘./data/0.shs/1022381.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  879K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 76% 1,75M 0s
+   150K .......... .......... .......... .......... .....     100% 46,8M=0,1s
+
+2023-05-13 03:04:17 (1,69 MB/s) - ‘./data/0.shs/1022381.pdf’ saved [200675/200675]
+

@@ -1,0 +1,14 @@
+--2023-05-13 03:22:03--  https://hal-amu.archives-ouvertes.fr/hal-01355036/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184533 (180K) [application/pdf]
+Saving to: ‘./data/0.info/1355036.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  891K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,75M 0s
+   100K .......... .......... .......... .......... .......... 83% 1,70M 0s
+   150K .......... .......... ..........                      100%  313M=0,1s
+
+2023-05-13 03:22:04 (1,56 MB/s) - ‘./data/0.info/1355036.pdf’ saved [184533/184533]
+

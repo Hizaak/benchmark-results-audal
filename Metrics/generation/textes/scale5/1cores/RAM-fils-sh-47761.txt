@@ -1,0 +1,4 @@
+****RAM ePerf for PID 47761*****
+time_S: 14.012853056
+avgPower_W:
+energy_J:

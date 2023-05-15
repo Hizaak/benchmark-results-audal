@@ -1,4 +1,0 @@
-****CPU ePerf for PID 1714970*****
-time_S: 337
-avgPower_W: .0000598802
-energy_J: .0201796274

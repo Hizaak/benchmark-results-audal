@@ -1,0 +1,4 @@
+****RAM ePerf for PID 6024*****
+time_S: 17.053861835
+avgPower_W:
+energy_J:

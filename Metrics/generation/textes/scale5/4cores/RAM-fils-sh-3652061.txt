@@ -1,0 +1,4 @@
+****RAM ePerf for PID 3652061*****
+time_S: 4.003108500
+avgPower_W:
+energy_J:

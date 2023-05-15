@@ -1,0 +1,16 @@
+--2023-05-12 17:33:50--  https://hal-insu.archives-ouvertes.fr/insu-01409143/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263604 (257K) [application/pdf]
+Saving to: ‘./data/0.sdu/1409143.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  726K 0s
+    50K .......... .......... .......... .......... .......... 38% 2,40M 0s
+   100K .......... .......... .......... .......... .......... 58% 5,82M 0s
+   150K .......... .......... .......... .......... .......... 77% 2,42M 0s
+   200K .......... .......... .......... .......... .......... 97% 28,1M 0s
+   250K .......                                               100%  464M=0,1s
+
+2023-05-12 17:33:50 (2,10 MB/s) - ‘./data/0.sdu/1409143.pdf’ saved [263604/263604]
+

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 186267*****
-time_S: 5
-avgPower_W: .0018453803
-energy_J: .0092269015

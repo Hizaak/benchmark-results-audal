@@ -1,0 +1,4 @@
+****CPU ePerf for PID 89279*****
+time_S: 75
+avgPower_W: 2.4088888888
+energy_J: 180.6666666600

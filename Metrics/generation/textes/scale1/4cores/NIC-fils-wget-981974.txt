@@ -1,0 +1,4 @@
+****NIC ePerf for PID 981974*****
+time_S: 5
+avgPower_W: .0015360208
+energy_J: .0076801040

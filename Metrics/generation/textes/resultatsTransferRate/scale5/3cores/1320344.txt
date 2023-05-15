@@ -1,0 +1,13 @@
+--2023-05-13 03:19:20--  https://hal-sciencespo.archives-ouvertes.fr/hal-01320344/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111029 (108K) [application/pdf]
+Saving to: ‘./data/0.shs/1320344.pdf’
+
+     0K .......... .......... .......... .......... .......... 46%  888K 0s
+    50K .......... .......... .......... .......... .......... 92% 1,73M 0s
+   100K ........                                              100%  691M=0,08s
+
+2023-05-13 03:19:20 (1,25 MB/s) - ‘./data/0.shs/1320344.pdf’ saved [111029/111029]
+

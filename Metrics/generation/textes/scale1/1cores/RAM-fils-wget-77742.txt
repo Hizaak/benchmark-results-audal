@@ -1,4 +1,0 @@
-****RAM ePerf for PID 77742*****
-time_S: 11.011411442
-avgPower_W: 1.5659498957
-energy_J: 17.2433185997

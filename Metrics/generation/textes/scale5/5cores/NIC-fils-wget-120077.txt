@@ -1,4 +1,0 @@
-****NIC ePerf for PID 120077*****
-time_S: 2
-avgPower_W: .0001798530
-energy_J: .0003597060

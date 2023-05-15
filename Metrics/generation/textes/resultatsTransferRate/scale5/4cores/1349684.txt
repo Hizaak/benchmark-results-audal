@@ -1,0 +1,19 @@
+--2023-05-13 04:03:55--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01349684/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 437112 (427K) [application/pdf]
+Saving to: ‘./data/0.sdu/1349684.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  904K 0s
+    50K .......... .......... .......... .......... .......... 23% 1,59M 0s
+   100K .......... .......... .......... .......... .......... 35% 1,71M 0s
+   150K .......... .......... .......... .......... .......... 46% 2,05M 0s
+   200K .......... .......... .......... .......... .......... 58% 7,81M 0s
+   250K .......... .......... .......... .......... .......... 70% 17,6M 0s
+   300K .......... .......... .......... .......... .......... 81%  239K 0s
+   350K .......... .......... .......... .......... .......... 93%  478M 0s
+   400K .......... .......... ......                          100%  493M=0,4s
+
+2023-05-13 04:03:56 (1,17 MB/s) - ‘./data/0.sdu/1349684.pdf’ saved [437112/437112]
+

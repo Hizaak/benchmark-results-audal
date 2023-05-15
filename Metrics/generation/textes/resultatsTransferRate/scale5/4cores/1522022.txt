@@ -1,0 +1,11 @@
+--2023-05-13 03:47:12--  https://hal-sciencespo.archives-ouvertes.fr/hal-01522022/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40105 (39K) [application/pdf]
+Saving to: ‘./data/0.shs/1522022.pdf’
+
+     0K .......... .......... .......... .........            100% 1,36M=0,03s
+
+2023-05-13 03:47:13 (1,36 MB/s) - ‘./data/0.shs/1522022.pdf’ saved [40105/40105]
+

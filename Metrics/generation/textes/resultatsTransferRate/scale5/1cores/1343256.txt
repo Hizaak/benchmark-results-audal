@@ -1,0 +1,16 @@
+--2023-05-13 01:06:47--  https://hal.univ-antilles.fr/hal-01343256/document
+Resolving hal.univ-antilles.fr (hal.univ-antilles.fr)... 193.48.96.10
+Connecting to hal.univ-antilles.fr (hal.univ-antilles.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 273293 (267K) [application/pdf]
+Saving to: ‘./data/0.shs/1343256.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  882K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 56% 11,8M 0s
+   150K .......... .......... .......... .......... .......... 74%  515M 0s
+   200K .......... .......... .......... .......... .......... 93% 1,85M 0s
+   250K .......... ......                                     100%  541M=0,1s
+
+2023-05-13 01:06:49 (2,24 MB/s) - ‘./data/0.shs/1343256.pdf’ saved [273293/273293]
+

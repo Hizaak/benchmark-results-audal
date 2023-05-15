@@ -1,0 +1,4 @@
+****NIC ePerf for PID 1288244*****
+time_S: 17
+avgPower_W: .0036385174
+energy_J: .0618547958

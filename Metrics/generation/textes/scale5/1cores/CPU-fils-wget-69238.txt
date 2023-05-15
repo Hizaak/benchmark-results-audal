@@ -1,0 +1,4 @@
+****CPU ePerf for PID 69238*****
+time_S: 14
+avgPower_W: .0107692307
+energy_J: .1507692298

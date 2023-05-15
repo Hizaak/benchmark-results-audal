@@ -1,4 +1,0 @@
-****CPU ePerf for PID 89003*****
-time_S: -1682639272
-avgPower_W:
-energy_J:

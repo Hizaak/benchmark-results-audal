@@ -1,0 +1,12 @@
+--2023-05-12 20:52:52--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017841/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85911 (84K) [application/pdf]
+Saving to: ‘./data/0.shs/1017841.pdf’
+
+     0K .......... .......... .......... .......... .......... 59%  784K 0s
+    50K .......... .......... .......... ...                  100% 1,20M=0,09s
+
+2023-05-12 20:52:58 (919 KB/s) - ‘./data/0.shs/1017841.pdf’ saved [85911/85911]
+

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 71167*****
-time_S: 5
-avgPower_W: .0021714257
-energy_J: .0108571285

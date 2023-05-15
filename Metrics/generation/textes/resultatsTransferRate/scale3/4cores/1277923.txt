@@ -1,0 +1,13 @@
+--2023-05-12 20:56:17--  https://inria.hal.science/hal-01277923/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139355 (136K) [application/pdf]
+Saving to: ‘./data/0.info/1277923.pdf’
+
+     0K .......... .......... .......... .......... .......... 36%  832K 0s
+    50K .......... .......... .......... .......... .......... 73% 1,53M 0s
+   100K .......... .......... .......... ......               100%  344M=0,09s
+
+2023-05-12 20:56:18 (1,44 MB/s) - ‘./data/0.info/1277923.pdf’ saved [139355/139355]
+

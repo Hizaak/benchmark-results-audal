@@ -1,0 +1,17 @@
+--2023-05-13 04:37:20--  https://hal-unilim.archives-ouvertes.fr/hal-00794219/document
+Resolving hal-unilim.archives-ouvertes.fr (hal-unilim.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-unilim.archives-ouvertes.fr (hal-unilim.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312718 (305K) [application/pdf]
+Saving to: ‘./data/0.shs/1082483.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  888K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 65% 1,73M 0s
+   200K .......... .......... .......... .......... .......... 81% 2,39M 0s
+   250K .......... .......... .......... .......... .......... 98%  570M 0s
+   300K .....                                                 100%  349M=0,2s
+
+2023-05-13 04:37:22 (1,84 MB/s) - ‘./data/0.shs/1082483.pdf’ saved [312718/312718]
+

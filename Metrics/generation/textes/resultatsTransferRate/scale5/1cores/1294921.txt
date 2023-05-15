@@ -1,0 +1,16 @@
+--2023-05-13 01:52:25--  https://hal-enac.archives-ouvertes.fr/hal-01294921/document
+Resolving hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303827 (297K) [application/pdf]
+Saving to: ‘./data/0.math/1294921.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  888K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 50% 27,1M 0s
+   150K .......... .......... .......... .......... .......... 67%  572M 0s
+   200K .......... .......... .......... .......... .......... 84% 1,72M 0s
+   250K .......... .......... .......... .......... ......    100% 47,5M=0,1s
+
+2023-05-13 01:52:26 (2,49 MB/s) - ‘./data/0.math/1294921.pdf’ saved [303827/303827]
+

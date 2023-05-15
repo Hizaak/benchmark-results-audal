@@ -1,4 +1,0 @@
-****RAM ePerf for PID 700304*****
-time_S: 4.004892343
-avgPower_W:
-energy_J:

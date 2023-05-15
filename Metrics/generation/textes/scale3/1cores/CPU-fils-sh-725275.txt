@@ -1,4 +1,0 @@
-****CPU ePerf for PID 725275*****
-time_S: 0
-avgPower_W: 0
-energy_J: 0

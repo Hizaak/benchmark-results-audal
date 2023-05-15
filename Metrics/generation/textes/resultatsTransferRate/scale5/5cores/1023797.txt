@@ -1,0 +1,18 @@
+--2023-05-13 04:42:17--  https://hal-sciencespo.archives-ouvertes.fr/hal-01023797/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 397069 (388K) [application/pdf]
+Saving to: ‘./data/0.shs/1023797.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  780K 0s
+    50K .......... .......... .......... .......... .......... 25% 1,41M 0s
+   100K .......... .......... .......... .......... .......... 38% 1,58M 0s
+   150K .......... .......... .......... .......... .......... 51% 35,5M 0s
+   200K .......... .......... .......... .......... .......... 64% 1,35M 0s
+   250K .......... .......... .......... .......... .......... 77% 15,6M 0s
+   300K .......... .......... .......... .......... .......... 90% 12,7M 0s
+   350K .......... .......... .......... .......              100%  187K=0,4s
+
+2023-05-13 04:42:18 (1,01 MB/s) - ‘./data/0.shs/1023797.pdf’ saved [397069/397069]
+

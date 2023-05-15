@@ -1,4 +1,0 @@
-****RAM ePerf for PID 86460*****
-time_S: 1.001026666
-avgPower_W:
-energy_J:

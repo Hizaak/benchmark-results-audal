@@ -1,0 +1,4 @@
+****NIC ePerf for PID 603116*****
+time_S: 1
+avgPower_W: .0000577784
+energy_J: .0000577784

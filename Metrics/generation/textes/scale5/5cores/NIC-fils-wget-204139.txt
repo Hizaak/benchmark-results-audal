@@ -1,0 +1,4 @@
+****NIC ePerf for PID 204139*****
+time_S: 8
+avgPower_W: .0032917696
+energy_J: .0263341568

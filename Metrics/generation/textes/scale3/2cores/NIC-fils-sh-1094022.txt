@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1094022*****
-time_S: 6
-avgPower_W:
-energy_J:

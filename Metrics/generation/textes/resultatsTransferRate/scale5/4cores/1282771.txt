@@ -1,0 +1,15 @@
+--2023-05-13 04:00:23--  https://hal.univ-brest.fr/hal-01282771/document
+Resolving hal.univ-brest.fr (hal.univ-brest.fr)... 193.48.96.10
+Connecting to hal.univ-brest.fr (hal.univ-brest.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212943 (208K) [application/pdf]
+Saving to: ‘./data/0.sdv/1282771.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  908K 0s
+    50K .......... .......... .......... .......... .......... 48% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 72% 1,64M 0s
+   150K .......... .......... .......... .......... .......... 96%  500M 0s
+   200K .......                                               100%  783M=0,1s
+
+2023-05-13 04:00:23 (1,79 MB/s) - ‘./data/0.sdv/1282771.pdf’ saved [212943/212943]
+

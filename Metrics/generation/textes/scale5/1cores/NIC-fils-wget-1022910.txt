@@ -1,0 +1,4 @@
+****NIC ePerf for PID 1022910*****
+time_S: 10
+avgPower_W: .0035262385
+energy_J: .0352623850

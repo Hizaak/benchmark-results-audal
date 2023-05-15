@@ -1,0 +1,14 @@
+--2023-05-13 03:56:32--  https://hal-sciencespo.archives-ouvertes.fr/hal-01045137/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197737 (193K) [application/pdf]
+Saving to: ‘./data/0.shs/1045137.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  893K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,75M 0s
+   100K .......... .......... .......... .......... .......... 77% 1,69M 0s
+   150K .......... .......... .......... .......... ...       100% 1,39M=0,1s
+
+2023-05-13 03:56:33 (1,32 MB/s) - ‘./data/0.shs/1045137.pdf’ saved [197737/197737]
+

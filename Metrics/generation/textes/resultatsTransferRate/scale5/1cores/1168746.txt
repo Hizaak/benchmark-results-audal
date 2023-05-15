@@ -1,0 +1,13 @@
+--2023-05-13 01:49:32--  https://hal.science/hal-01168746/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126992 (124K) [application/pdf]
+Saving to: ‘./data/0.chim/1168746.pdf’
+
+     0K .......... .......... .......... .......... .......... 40%  905K 0s
+    50K .......... .......... .......... .......... .......... 80% 1,69M 0s
+   100K .......... .......... ....                            100%  628M=0,08s
+
+2023-05-13 01:49:32 (1,44 MB/s) - ‘./data/0.chim/1168746.pdf’ saved [126992/126992]
+

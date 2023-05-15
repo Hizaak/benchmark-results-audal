@@ -1,0 +1,17 @@
+--2023-05-12 17:39:17--  https://hal-amu.archives-ouvertes.fr/hal-01229026/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351440 (343K) [application/pdf]
+Saving to: ‘./data/0.shs/1229026.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  838K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,55M 0s
+   100K .......... .......... .......... .......... .......... 43% 15,9M 0s
+   150K .......... .......... .......... .......... .......... 58% 1,38M 0s
+   200K .......... .......... .......... .......... .......... 72% 62,8M 0s
+   250K .......... .......... .......... .......... .......... 87% 1,21M 0s
+   300K .......... .......... .......... .......... ...       100% 61,1M=0,2s
+
+2023-05-12 17:39:18 (1,96 MB/s) - ‘./data/0.shs/1229026.pdf’ saved [351440/351440]
+

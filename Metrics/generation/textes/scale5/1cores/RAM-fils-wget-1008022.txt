@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1008022*****
+time_S: 1.001024265
+avgPower_W:
+energy_J:

@@ -1,0 +1,17 @@
+--2023-05-13 02:52:38--  https://hal-univ-tln.archives-ouvertes.fr/hal-01056936/document
+Resolving hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 318269 (311K) [application/pdf]
+Saving to: ‘./data/0.math/1056936.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  887K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,75M 0s
+   100K .......... .......... .......... .......... .......... 48% 1,67M 0s
+   150K .......... .......... .......... .......... .......... 64% 1,50M 0s
+   200K .......... .......... .......... .......... .......... 80%  532M 0s
+   250K .......... .......... .......... .......... .......... 96%  596M 0s
+   300K ..........                                            100% 12,7M=0,1s
+
+2023-05-13 02:52:39 (2,06 MB/s) - ‘./data/0.math/1056936.pdf’ saved [318269/318269]
+

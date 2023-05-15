@@ -1,0 +1,4 @@
+****RAM ePerf for PID 78024*****
+time_S: 4.004599208
+avgPower_W:
+energy_J:

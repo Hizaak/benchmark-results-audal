@@ -1,0 +1,16 @@
+--2023-05-12 20:04:18--  https://hal-amu.archives-ouvertes.fr/hal-01304172/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 264255 (258K) [application/pdf]
+Saving to: ‘./data/0.shs/1304172.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  877K 0s
+    50K .......... .......... .......... .......... .......... 38% 1,64M 0s
+   100K .......... .......... .......... .......... .......... 58% 1,69M 0s
+   150K .......... .......... .......... .......... .......... 77% 1,73M 0s
+   200K .......... .......... .......... .......... .......... 96% 53,1M 0s
+   250K ........                                              100%  504M=0,1s
+
+2023-05-12 20:04:19 (1,74 MB/s) - ‘./data/0.shs/1304172.pdf’ saved [264255/264255]
+

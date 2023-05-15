@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1890018*****
+time_S: -1683938269
+avgPower_W:
+energy_J:

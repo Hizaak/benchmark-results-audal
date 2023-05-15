@@ -1,0 +1,17 @@
+--2023-05-12 20:50:08--  https://hal-enac.archives-ouvertes.fr/hal-01021570/document
+Resolving hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 329697 (322K) [application/pdf]
+Saving to: ‘./data/0.math/1021570.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  899K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 46% 31,7M 0s
+   150K .......... .......... .......... .......... .......... 62%  111M 0s
+   200K .......... .......... .......... .......... .......... 77% 1,63M 0s
+   250K .......... .......... .......... .......... .......... 93% 44,8M 0s
+   300K .......... .......... .                               100%  107K=0,3s
+
+2023-05-12 20:50:09 (994 KB/s) - ‘./data/0.math/1021570.pdf’ saved [329697/329697]
+

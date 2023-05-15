@@ -1,0 +1,17 @@
+--2023-05-13 01:46:31--  https://hal-insu.archives-ouvertes.fr/insu-00148275/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 357365 (349K) [application/pdf]
+Saving to: ‘./data/0.sdu/148275.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  886K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,70M 0s
+   100K .......... .......... .......... .......... .......... 42% 1,63M 0s
+   150K .......... .......... .......... .......... .......... 57% 60,7M 0s
+   200K .......... .......... .......... .......... .......... 71% 1,71M 0s
+   250K .......... .......... .......... .......... .......... 85% 27,8M 0s
+   300K .......... .......... .......... .......... ........  100%  242K=0,3s
+
+2023-05-13 01:46:32 (1001 KB/s) - ‘./data/0.sdu/148275.pdf’ saved [357365/357365]
+

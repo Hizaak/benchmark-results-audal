@@ -1,0 +1,15 @@
+--2023-05-13 00:51:51--  https://hal-amu.archives-ouvertes.fr/hal-01307697/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247330 (242K) [application/pdf]
+Saving to: ‘./data/0.math/1307697.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  903K 0s
+    50K .......... .......... .......... .......... .......... 41% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 62% 1,87M 0s
+   150K .......... .......... .......... .......... .......... 82% 11,0M 0s
+   200K .......... .......... .......... .......... .         100% 1,79M=0,1s
+
+2023-05-13 00:51:57 (1,71 MB/s) - ‘./data/0.math/1307697.pdf’ saved [247330/247330]
+

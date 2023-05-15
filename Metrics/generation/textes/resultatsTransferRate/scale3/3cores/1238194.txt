@@ -1,0 +1,15 @@
+--2023-05-12 20:44:17--  https://hal-iogs.archives-ouvertes.fr/hal-00553558/document
+Resolving hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208677 (204K) [application/pdf]
+Saving to: ‘./data/0.phys/1238194.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  774K 0s
+    50K .......... .......... .......... .......... .......... 49% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 73% 1,76M 0s
+   150K .......... .......... .......... .......... .......... 98% 2,39M 0s
+   200K ...                                                   100%  285M=0,1s
+
+2023-05-12 20:44:23 (1,42 MB/s) - ‘./data/0.phys/1238194.pdf’ saved [208677/208677]
+

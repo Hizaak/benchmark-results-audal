@@ -1,0 +1,18 @@
+--2023-05-13 02:35:46--  https://hal-sciencespo.archives-ouvertes.fr/hal-01020784/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 380968 (372K) [application/pdf]
+Saving to: ‘./data/0.shs/1020784.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  893K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,90M 0s
+   100K .......... .......... .......... .......... .......... 40% 12,1M 0s
+   150K .......... .......... .......... .......... .......... 53% 60,4M 0s
+   200K .......... .......... .......... .......... .......... 67% 1,74M 0s
+   250K .......... .......... .......... .......... .......... 80% 22,9M 0s
+   300K .......... .......... .......... .......... .......... 94%  241K 0s
+   350K .......... .......... ..                              100%  479M=0,3s
+
+2023-05-13 02:35:47 (1,12 MB/s) - ‘./data/0.shs/1020784.pdf’ saved [380968/380968]
+

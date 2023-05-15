@@ -1,4 +1,0 @@
-****NIC ePerf for PID 145264*****
-time_S: 9
-avgPower_W:
-energy_J:

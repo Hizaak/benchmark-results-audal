@@ -1,0 +1,14 @@
+--2023-05-12 17:15:38--  https://hal-sciencespo.archives-ouvertes.fr/hal-01025113/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178513 (174K) [application/pdf]
+Saving to: ‘./data/0.shs/1025113.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  860K 0s
+    50K .......... .......... .......... .......... .......... 57% 1,80M 0s
+   100K .......... .......... .......... .......... .......... 86% 22,0M 0s
+   150K .......... .......... ....                            100%  575M=0,09s
+
+2023-05-12 17:15:44 (1,94 MB/s) - ‘./data/0.shs/1025113.pdf’ saved [178513/178513]
+

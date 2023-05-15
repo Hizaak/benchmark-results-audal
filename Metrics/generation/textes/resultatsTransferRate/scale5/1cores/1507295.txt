@@ -1,0 +1,22 @@
+--2023-05-13 00:47:33--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01507295/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-13 00:47:44--  (try: 2)  https://hal-univ-paris3.archives-ouvertes.fr/hal-01507295/document
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353557 (345K) [application/pdf]
+Saving to: ‘./data/0.shs/1507295.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  827K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 43% 1,77M 0s
+   150K .......... .......... .......... .......... .......... 57% 10,7M 0s
+   200K .......... .......... .......... .......... .......... 72%  551M 0s
+   250K .......... .......... .......... .......... .......... 86% 1,79M 0s
+   300K .......... .......... .......... .......... .....     100%  217K=0,4s
+
+2023-05-13 00:47:54 (970 KB/s) - ‘./data/0.shs/1507295.pdf’ saved [353557/353557]
+

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 38010*****
-time_S: -1682608718
-avgPower_W:
-energy_J:

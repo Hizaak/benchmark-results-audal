@@ -1,4 +1,0 @@
-****RAM ePerf for PID 38290*****
-time_S: 4.003619474
-avgPower_W: 1.5683843266
-energy_J: 6.2792140327

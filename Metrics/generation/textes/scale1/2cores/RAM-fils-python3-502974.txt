@@ -1,0 +1,4 @@
+****RAM ePerf for PID 502974*****
+time_S: 688.697697742
+avgPower_W: 1.5776402443
+energy_J: 1086.5172041162

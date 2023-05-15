@@ -1,0 +1,4 @@
+****SD ePerf for PID 1042319*****
+time_S: 3
+avgPower_W: .0031720000
+energy_J: .0095160000

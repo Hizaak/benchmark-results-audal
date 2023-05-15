@@ -1,4 +1,0 @@
-****CPU ePerf for PID 369278*****
-time_S: 1281
-avgPower_W: 1.1197510729
-energy_J: 1434.4011243849

@@ -1,0 +1,17 @@
+--2023-05-13 02:45:01--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01415973/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 357705 (349K) [application/pdf]
+Saving to: ‘./data/0.shs/1415973.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  833K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,68M 0s
+   100K .......... .......... .......... .......... .......... 42% 1,81M 0s
+   150K .......... .......... .......... .......... .......... 57% 2,30M 0s
+   200K .......... .......... .......... .......... .......... 71% 5,37M 0s
+   250K .......... .......... .......... .......... .......... 85% 42,2M 0s
+   300K .......... .......... .......... .......... ......... 100%  245K=0,3s
+
+2023-05-13 02:45:02 (1000 KB/s) - ‘./data/0.shs/1415973.pdf’ saved [357705/357705]
+

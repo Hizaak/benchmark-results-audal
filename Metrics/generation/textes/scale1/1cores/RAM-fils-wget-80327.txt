@@ -1,4 +1,0 @@
-****RAM ePerf for PID 80327*****
-time_S: 17.015531925
-avgPower_W: 1.5669455964
-energy_J: 26.6624128215

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 86573*****
+time_S: 1.001025190
+avgPower_W:
+energy_J:

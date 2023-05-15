@@ -1,0 +1,15 @@
+--2023-05-12 20:05:57--  https://hal.science/hal-01079932/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211986 (207K) [application/pdf]
+Saving to: ‘./data/0.shs/1079932.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  899K 0s
+    50K .......... .......... .......... .......... .......... 48% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 72% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 96%  104M 0s
+   200K .......                                               100%  581M=0,1s
+
+2023-05-12 20:06:03 (1,78 MB/s) - ‘./data/0.shs/1079932.pdf’ saved [211986/211986]
+

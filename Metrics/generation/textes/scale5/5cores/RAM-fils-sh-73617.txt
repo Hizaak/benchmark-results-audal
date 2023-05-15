@@ -1,4 +1,0 @@
-****RAM ePerf for PID 73617*****
-time_S: 6.006113877
-avgPower_W:
-energy_J:

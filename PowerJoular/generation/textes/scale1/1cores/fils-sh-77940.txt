@@ -1,8 +1,0 @@
-System info:
-	Platform: intel
-	Intel RAPL psys: TRUE
-	Nvidia supported: TRUE
-Monitoring PID:  77940
-2023-04-26 23:56:03,0.08340,10.92881,5.27881,5.65000
-2023-04-26 23:56:04,0.08340,10.88991,5.40991,5.48000
-Error reading /proc/77940/stat file

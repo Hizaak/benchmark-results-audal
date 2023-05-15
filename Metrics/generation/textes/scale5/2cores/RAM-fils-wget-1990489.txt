@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1990489*****
+time_S: 6.005562206
+avgPower_W: 1.5707107341
+energy_J: 9.4330010217

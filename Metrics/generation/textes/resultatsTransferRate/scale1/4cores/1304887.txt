@@ -1,0 +1,11 @@
+--2023-05-12 17:36:16--  https://hal.sorbonne-universite.fr/hal-01304887/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43454 (42K) [application/pdf]
+Saving to: ‘./data/0.sdv/1304887.pdf’
+
+     0K .......... .......... .......... .......... ..        100% 1,07M=0,04s
+
+2023-05-12 17:36:17 (1,07 MB/s) - ‘./data/0.sdv/1304887.pdf’ saved [43454/43454]
+

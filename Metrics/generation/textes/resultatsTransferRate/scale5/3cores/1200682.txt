@@ -1,0 +1,16 @@
+--2023-05-13 03:43:59--  https://artxiker.ccsd.cnrs.fr/artxibo-01200682/document
+Resolving artxiker.ccsd.cnrs.fr (artxiker.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to artxiker.ccsd.cnrs.fr (artxiker.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272995 (267K) [application/pdf]
+Saving to: ‘./data/0.shs/1200682.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  878K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,52M 0s
+   100K .......... .......... .......... .......... .......... 56% 1,78M 0s
+   150K .......... .......... .......... .......... .......... 75% 1,72M 0s
+   200K .......... .......... .......... .......... .......... 93% 29,1M 0s
+   250K .......... ......                                     100%  517M=0,1s
+
+2023-05-13 03:44:00 (1,78 MB/s) - ‘./data/0.shs/1200682.pdf’ saved [272995/272995]
+

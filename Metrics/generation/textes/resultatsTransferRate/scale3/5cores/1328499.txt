@@ -1,0 +1,13 @@
+--2023-05-12 21:20:56--  https://hal.sorbonne-universite.fr/hal-01328499/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147248 (144K) [application/pdf]
+Saving to: ‘./data/0.chim/1328499.pdf’
+
+     0K .......... .......... .......... .......... .......... 34%  881K 0s
+    50K .......... .......... .......... .......... .......... 69%  897K 0s
+   100K .......... .......... .......... .......... ...       100% 2,47M=0,1s
+
+2023-05-12 21:20:57 (1,08 MB/s) - ‘./data/0.chim/1328499.pdf’ saved [147248/147248]
+

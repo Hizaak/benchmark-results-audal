@@ -1,0 +1,4 @@
+****NIC ePerf for PID 60319*****
+time_S: 8
+avgPower_W: .0007694680
+energy_J: .0061557440

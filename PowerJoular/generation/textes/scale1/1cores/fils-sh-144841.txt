@@ -1,0 +1,2 @@
+Date,CPU Utilization,Total Power,CPU Power,GPU Power
+2023-05-11 13:20:35,0.11567,11.15008,5.83008,5.32000

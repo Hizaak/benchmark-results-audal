@@ -1,4 +1,0 @@
-****SD ePerf for PID 551932*****
-time_S: 3
-avgPower_W: .0035075000
-energy_J: .0105225000

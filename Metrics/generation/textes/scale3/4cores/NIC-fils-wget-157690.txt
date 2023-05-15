@@ -1,0 +1,4 @@
+****NIC ePerf for PID 157690*****
+time_S: 18
+avgPower_W: .0022892476
+energy_J: .0412064568

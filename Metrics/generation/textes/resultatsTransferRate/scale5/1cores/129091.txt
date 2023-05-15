@@ -1,0 +1,15 @@
+--2023-05-13 01:33:23--  https://www.hal.inserm.fr/inserm-00129091/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 237901 (232K) [application/pdf]
+Saving to: ‘./data/0.sdv/129091.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  872K 0s
+    50K .......... .......... .......... .......... .......... 43% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 64% 1,66M 0s
+   150K .......... .......... .......... .......... .......... 86% 1,81M 0s
+   200K .......... .......... .......... ..                   100% 41,2M=0,1s
+
+2023-05-13 01:33:24 (1,59 MB/s) - ‘./data/0.sdv/129091.pdf’ saved [237901/237901]
+

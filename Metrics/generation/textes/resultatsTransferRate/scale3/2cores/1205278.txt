@@ -1,0 +1,13 @@
+--2023-05-12 20:14:45--  https://hal.science/hal-01205278/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131842 (129K) [application/pdf]
+Saving to: ‘./data/0.sde/1205278.pdf’
+
+     0K .......... .......... .......... .......... .......... 38%  817K 0s
+    50K .......... .......... .......... .......... .......... 77% 1,40M 0s
+   100K .......... .......... ........                        100% 1,07M=0,1s
+
+2023-05-12 20:14:46 (1,03 MB/s) - ‘./data/0.sde/1205278.pdf’ saved [131842/131842]
+

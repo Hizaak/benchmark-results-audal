@@ -1,0 +1,19 @@
+--2023-05-13 02:53:19--  https://hal-polytechnique.archives-ouvertes.fr/hal-01021116/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 437240 (427K) [application/pdf]
+Saving to: ‘./data/0.phys/1021116.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  882K 0s
+    50K .......... .......... .......... .......... .......... 23% 1,54M 0s
+   100K .......... .......... .......... .......... .......... 35% 1,58M 0s
+   150K .......... .......... .......... .......... .......... 46% 1,67M 0s
+   200K .......... .......... .......... .......... .......... 58% 21,5M 0s
+   250K .......... .......... .......... .......... .......... 70% 11,6M 0s
+   300K .......... .......... .......... .......... .......... 81% 1,68M 0s
+   350K .......... .......... .......... .......... .......... 93%  238K 0s
+   400K .......... .......... ......                          100%  369M=0,4s
+
+2023-05-13 02:53:20 (1,06 MB/s) - ‘./data/0.phys/1021116.pdf’ saved [437240/437240]
+

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 105440*****
-time_S: 637
-avgPower_W: .0329357798
-energy_J: 20.9800917326

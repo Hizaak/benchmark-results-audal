@@ -1,0 +1,15 @@
+--2023-05-13 03:50:33--  https://hal.science/hal-00106374/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218794 (214K) [application/pdf]
+Saving to: ‘./data/0.phys/106374.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  906K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 70% 1,80M 0s
+   150K .......... .......... .......... .......... .......... 93% 2,21M 0s
+   200K .......... ...                                        100%  343M=0,1s
+
+2023-05-13 03:50:34 (1,57 MB/s) - ‘./data/0.phys/106374.pdf’ saved [218794/218794]
+

@@ -1,0 +1,4 @@
+****CPU ePerf for PID 87436*****
+time_S: -1683945348
+avgPower_W:
+energy_J:

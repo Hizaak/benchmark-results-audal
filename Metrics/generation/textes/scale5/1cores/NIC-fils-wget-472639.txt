@@ -1,0 +1,4 @@
+****NIC ePerf for PID 472639*****
+time_S: 8
+avgPower_W: .0032170107
+energy_J: .0257360856

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 800426*****
+time_S: 6
+avgPower_W: .0009541735
+energy_J: .0057250410

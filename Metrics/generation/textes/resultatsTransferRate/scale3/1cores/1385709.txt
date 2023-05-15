@@ -1,0 +1,17 @@
+--2023-05-12 19:42:06--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01385709/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353966 (346K) [application/pdf]
+Saving to: ‘./data/0.shs/1385709.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  856K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 43% 1,87M 0s
+   150K .......... .......... .......... .......... .......... 57% 1,64M 0s
+   200K .......... .......... .......... .......... .......... 72% 27,8M 0s
+   250K .......... .......... .......... .......... .......... 86% 1,73M 0s
+   300K .......... .......... .......... .......... .....     100% 39,6M=0,2s
+
+2023-05-12 19:42:07 (1,96 MB/s) - ‘./data/0.shs/1385709.pdf’ saved [353966/353966]
+

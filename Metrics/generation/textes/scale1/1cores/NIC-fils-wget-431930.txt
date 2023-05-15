@@ -1,0 +1,4 @@
+****NIC ePerf for PID 431930*****
+time_S: 3
+avgPower_W: .0008734323
+energy_J: .0026202969

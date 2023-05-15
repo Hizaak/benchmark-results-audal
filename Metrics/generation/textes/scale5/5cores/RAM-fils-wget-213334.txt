@@ -1,0 +1,4 @@
+****RAM ePerf for PID 213334*****
+time_S: 6.004907839
+avgPower_W: 1.5714843021
+energy_J: 9.4366184049

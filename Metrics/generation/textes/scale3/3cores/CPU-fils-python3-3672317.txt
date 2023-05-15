@@ -1,0 +1,4 @@
+****CPU ePerf for PID 3672317*****
+time_S: 1325
+avgPower_W: .0001694915
+energy_J: .2245762375

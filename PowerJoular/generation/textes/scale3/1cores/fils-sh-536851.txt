@@ -1,7 +1,0 @@
-System info:
-	Platform: intel
-	Intel RAPL psys: TRUE
-	Nvidia supported: TRUE
-Monitoring PID:  536851
-2023-04-27 01:12:44,0.08417,10.95641,5.31641,5.64000
-Error reading /proc/536851/stat file

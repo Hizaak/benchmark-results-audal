@@ -1,0 +1,31 @@
+--2023-05-12 17:20:00--  https://hal-ensta-paris.archives-ouvertes.fr/hal-01134801/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-01134801/document [following]
+--2023-05-12 17:20:00--  https://ensta-paris.hal.science/hal-01134801/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 809002 (790K) [application/pdf]
+Saving to: ‘./data/0.nlin/1287214.pdf’
+
+     0K .......... .......... .......... .......... ..........  6%  890K 1s
+    50K .......... .......... .......... .......... .......... 12% 1,75M 1s
+   100K .......... .......... .......... .......... .......... 18% 1,73M 0s
+   150K .......... .......... .......... .......... .......... 25% 1,72M 0s
+   200K .......... .......... .......... .......... .......... 31% 15,3M 0s
+   250K .......... .......... .......... .......... .......... 37%  550M 0s
+   300K .......... .......... .......... .......... .......... 44%  246K 0s
+   350K .......... .......... .......... .......... .......... 50%  512M 0s
+   400K .......... .......... .......... .......... .......... 56%  496M 0s
+   450K .......... .......... .......... .......... .......... 63%  625M 0s
+   500K .......... .......... .......... .......... .......... 69%  246K 0s
+   550K .......... .......... .......... .......... .......... 75%  487M 0s
+   600K .......... .......... .......... .......... .......... 82%  552M 0s
+   650K .......... .......... .......... .......... .......... 88%  609M 0s
+   700K .......... .......... .......... .......... .......... 94%  232K 0s
+   750K .......... .......... .......... ..........           100%  379M=0,8s
+
+2023-05-12 17:20:02 (1,01 MB/s) - ‘./data/0.nlin/1287214.pdf’ saved [809002/809002]
+

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 46329*****
+time_S: 9
+avgPower_W: .0018880745
+energy_J: .0169926705

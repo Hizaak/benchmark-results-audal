@@ -1,4 +1,0 @@
-****RAM ePerf for PID 770365*****
-time_S: 5.004754889
-avgPower_W: 1.5691510471
-energy_J: 7.8532163748

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 60354*****
+time_S: 8.006884899
+avgPower_W: 1.5704205581
+energy_J: 12.5741766523

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 32675*****
-time_S: 4
-avgPower_W: .0011211592
-energy_J: .0044846368

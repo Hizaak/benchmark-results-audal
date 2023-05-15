@@ -1,4 +1,0 @@
-****RAM ePerf for PID 122326*****
-time_S: 12.016204357
-avgPower_W: 1.5683246730
-energy_J: 18.8453097691

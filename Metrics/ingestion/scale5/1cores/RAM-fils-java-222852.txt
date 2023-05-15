@@ -1,4 +1,0 @@
-****RAM ePerf for PID 222852*****
-time_S: 2225.439812564
-avgPower_W: 6.6168218749
-energy_J: 14725.3388331918

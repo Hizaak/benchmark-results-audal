@@ -1,4 +1,0 @@
-****SD ePerf for PID 4818*****
-time_S: 327
-avgPower_W:
-energy_J:

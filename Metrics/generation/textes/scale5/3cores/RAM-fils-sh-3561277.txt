@@ -1,4 +1,0 @@
-****RAM ePerf for PID 3561277*****
-time_S: 2.007322683
-avgPower_W:
-energy_J:

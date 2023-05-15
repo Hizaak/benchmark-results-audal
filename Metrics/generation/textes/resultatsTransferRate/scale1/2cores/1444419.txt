@@ -1,0 +1,18 @@
+--2023-05-12 17:20:25--  https://hal-riip.archives-ouvertes.fr/pasteur-01444419/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 368752 (360K) [application/pdf]
+Saving to: ‘./data/0.sdv/1444419.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  867K 0s
+    50K .......... .......... .......... .......... .......... 27% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 41% 1,86M 0s
+   150K .......... .......... .......... .......... .......... 55% 1,63M 0s
+   200K .......... .......... .......... .......... .......... 69%  382M 0s
+   250K .......... .......... .......... .......... .......... 83% 55,8M 0s
+   300K .......... .......... .......... .......... .......... 97%  243K 0s
+   350K ..........                                            100%  342M=0,3s
+
+2023-05-12 17:20:26 (1,01 MB/s) - ‘./data/0.sdv/1444419.pdf’ saved [368752/368752]
+

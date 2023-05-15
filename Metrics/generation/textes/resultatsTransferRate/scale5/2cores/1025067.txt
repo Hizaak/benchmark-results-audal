@@ -1,0 +1,18 @@
+--2023-05-13 02:43:15--  https://hal-sciencespo.archives-ouvertes.fr/hal-01025067/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 373971 (365K) [application/pdf]
+Saving to: ‘./data/0.shs/1025067.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  878K 0s
+    50K .......... .......... .......... .......... .......... 27% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 41% 17,6M 0s
+   150K .......... .......... .......... .......... .......... 54%  301M 0s
+   200K .......... .......... .......... .......... .......... 68% 1,66M 0s
+   250K .......... .......... .......... .......... .......... 82%  520M 0s
+   300K .......... .......... .......... .......... .......... 95%  241K 0s
+   350K .......... .....                                      100%  455M=0,3s
+
+2023-05-13 02:43:21 (1,09 MB/s) - ‘./data/0.shs/1025067.pdf’ saved [373971/373971]
+

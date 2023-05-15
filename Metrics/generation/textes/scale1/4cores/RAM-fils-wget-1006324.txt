@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1006324*****
+time_S: 21.019862850
+avgPower_W: 1.5701972119
+energy_J: 33.0053300427

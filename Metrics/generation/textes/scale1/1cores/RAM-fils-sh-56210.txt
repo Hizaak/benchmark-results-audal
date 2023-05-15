@@ -1,4 +1,0 @@
-****RAM ePerf for PID 56210*****
-time_S: 2.001351797
-avgPower_W:
-energy_J:

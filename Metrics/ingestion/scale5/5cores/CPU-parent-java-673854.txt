@@ -1,4 +1,0 @@
-****CPU ePerf for PID 673854*****
-time_S: 804
-avgPower_W: .0084885496
-energy_J: 6.8247938784

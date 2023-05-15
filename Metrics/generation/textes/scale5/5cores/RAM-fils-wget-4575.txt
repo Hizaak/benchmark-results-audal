@@ -1,0 +1,4 @@
+****RAM ePerf for PID 4575*****
+time_S: 11.008392217
+avgPower_W: 1.5673574838
+energy_J: 17.2540859261

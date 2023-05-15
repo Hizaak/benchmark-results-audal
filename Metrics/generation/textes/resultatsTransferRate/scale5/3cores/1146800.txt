@@ -1,0 +1,15 @@
+--2023-05-13 03:31:33--  https://hal-audencia.archives-ouvertes.fr/hal-01146800/document
+Resolving hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254696 (249K) [application/pdf]
+Saving to: ‘./data/0.shs/1146800.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  858K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,80M 0s
+   100K .......... .......... .......... .......... .......... 60% 1,76M 0s
+   150K .......... .......... .......... .......... .......... 80% 1,79M 0s
+   200K .......... .......... .......... .......... ........  100%  465M=0,1s
+
+2023-05-13 03:31:34 (1,73 MB/s) - ‘./data/0.shs/1146800.pdf’ saved [254696/254696]
+

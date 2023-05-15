@@ -1,0 +1,18 @@
+--2023-05-13 04:14:53--  https://hal-iogs.archives-ouvertes.fr/hal-00649176/document
+Resolving hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 363427 (355K) [application/pdf]
+Saving to: ‘./data/0.phys/1231504.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  822K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,47M 0s
+   100K .......... .......... .......... .......... .......... 42%  388M 0s
+   150K .......... .......... .......... .......... .......... 56% 1,73M 0s
+   200K .......... .......... .......... .......... .......... 70% 41,3M 0s
+   250K .......... .......... .......... .......... .......... 84% 43,2M 0s
+   300K .......... .......... .......... .......... .......... 98%  248K 0s
+   350K ....                                                  100%  259M=0,3s
+
+2023-05-13 04:14:59 (1,06 MB/s) - ‘./data/0.phys/1231504.pdf’ saved [363427/363427]
+

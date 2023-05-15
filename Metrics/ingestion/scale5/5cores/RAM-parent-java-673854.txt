@@ -1,4 +1,0 @@
-****RAM ePerf for PID 673854*****
-time_S: 805.029829999
-avgPower_W: 14.1201132476
-energy_J: 11367.1123673602

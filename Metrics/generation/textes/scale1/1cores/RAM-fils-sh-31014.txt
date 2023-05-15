@@ -1,4 +1,0 @@
-****RAM ePerf for PID 31014*****
-time_S: 3.003237615
-avgPower_W:
-energy_J:

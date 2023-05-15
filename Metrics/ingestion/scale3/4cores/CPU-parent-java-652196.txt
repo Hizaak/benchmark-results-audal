@@ -1,4 +1,0 @@
-****CPU ePerf for PID 652196*****
-time_S: 553
-avgPower_W: .0059960937
-energy_J: 3.3158398161

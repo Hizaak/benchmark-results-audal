@@ -1,0 +1,17 @@
+--2023-05-12 20:42:19--  https://hal-riip.archives-ouvertes.fr/pasteur-01078428/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 337571 (330K) [application/pdf]
+Saving to: ‘./data/0.sdv/1078428.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  885K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 45% 1,66M 0s
+   150K .......... .......... .......... .......... .......... 60% 1,79M 0s
+   200K .......... .......... .......... .......... .......... 75% 25,7M 0s
+   250K .......... .......... .......... .......... .......... 91% 32,4M 0s
+   300K .......... .......... .........                       100%  226M=0,1s
+
+2023-05-12 20:42:20 (2,21 MB/s) - ‘./data/0.sdv/1078428.pdf’ saved [337571/337571]
+

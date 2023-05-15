@@ -1,0 +1,17 @@
+--2023-05-12 19:03:23--  https://hal-sciencespo.archives-ouvertes.fr/hal-01018171/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 316121 (309K) [application/pdf]
+Saving to: ‘./data/0.shs/1018171.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  879K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 48% 1,57M 0s
+   150K .......... .......... .......... .......... .......... 64% 1,67M 0s
+   200K .......... .......... .......... .......... .......... 80% 25,6M 0s
+   250K .......... .......... .......... .......... .......... 97%  245M 0s
+   300K ........                                              100%  515M=0,1s
+
+2023-05-12 19:03:24 (2,07 MB/s) - ‘./data/0.shs/1018171.pdf’ saved [316121/316121]
+

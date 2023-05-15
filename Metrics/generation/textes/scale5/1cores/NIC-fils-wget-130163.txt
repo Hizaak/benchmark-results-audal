@@ -1,0 +1,4 @@
+****NIC ePerf for PID 130163*****
+time_S: 4
+avgPower_W: .0012949376
+energy_J: .0051797504

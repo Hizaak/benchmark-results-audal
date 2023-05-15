@@ -1,4 +1,0 @@
-****RAM ePerf for PID 807058*****
-time_S: 12.014138685
-avgPower_W: 1.5653589910
-energy_J: 18.8064400107

@@ -1,0 +1,12 @@
+--2023-05-12 21:17:00--  https://hal.univ-lille.fr/hal-01279941/document
+Resolving hal.univ-lille.fr (hal.univ-lille.fr)... 193.48.96.10
+Connecting to hal.univ-lille.fr (hal.univ-lille.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77237 (75K) [application/pdf]
+Saving to: ‘./data/0.shs/1285615.pdf’
+
+     0K .......... .......... .......... .......... .......... 66%  842K 0s
+    50K .......... .......... .....                           100%  579M=0,06s
+
+2023-05-12 21:17:00 (1,24 MB/s) - ‘./data/0.shs/1285615.pdf’ saved [77237/77237]
+

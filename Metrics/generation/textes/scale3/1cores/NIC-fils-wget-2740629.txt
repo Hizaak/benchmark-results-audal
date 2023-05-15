@@ -1,0 +1,4 @@
+****NIC ePerf for PID 2740629*****
+time_S: 11
+avgPower_W: .0034390104
+energy_J: .0378291144

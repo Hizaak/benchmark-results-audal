@@ -1,0 +1,13 @@
+--2023-05-13 03:52:23--  https://hal-polytechnique.archives-ouvertes.fr/hal-01024952/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116531 (114K) [application/pdf]
+Saving to: ‘./data/0.phys/1024952.pdf’
+
+     0K .......... .......... .......... .......... .......... 43%  895K 0s
+    50K .......... .......... .......... .......... .......... 87% 1,59M 0s
+   100K .......... ...                                        100%  416M=0,09s
+
+2023-05-13 03:52:24 (1,28 MB/s) - ‘./data/0.phys/1024952.pdf’ saved [116531/116531]
+

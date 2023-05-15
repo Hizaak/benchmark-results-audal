@@ -1,0 +1,14 @@
+--2023-05-12 19:00:48--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01135845/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182483 (178K) [application/pdf]
+Saving to: ‘./data/0.sdv/1135845.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  871K 0s
+    50K .......... .......... .......... .......... .......... 56% 2,00M 0s
+   100K .......... .......... .......... .......... .......... 84% 9,54M 0s
+   150K .......... .......... ........                        100%  557M=0,09s
+
+2023-05-12 19:00:49 (2,00 MB/s) - ‘./data/0.sdv/1135845.pdf’ saved [182483/182483]
+

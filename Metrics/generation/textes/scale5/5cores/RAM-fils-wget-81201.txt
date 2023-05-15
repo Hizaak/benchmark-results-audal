@@ -1,4 +1,0 @@
-****RAM ePerf for PID 81201*****
-time_S: 3.002654046
-avgPower_W:
-energy_J:

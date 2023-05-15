@@ -1,0 +1,14 @@
+--2023-05-12 17:45:31--  https://hal-cea.archives-ouvertes.fr/cea-01379537/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167458 (164K) [application/pdf]
+Saving to: ‘./data/0.phys/1379537.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  866K 0s
+    50K .......... .......... .......... .......... .......... 61% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 91% 1,72M 0s
+   150K .......... ...                                        100%  400M=0,1s
+
+2023-05-12 17:45:32 (1,38 MB/s) - ‘./data/0.phys/1379537.pdf’ saved [167458/167458]
+

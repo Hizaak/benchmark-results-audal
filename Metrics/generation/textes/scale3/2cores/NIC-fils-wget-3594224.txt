@@ -1,0 +1,4 @@
+****NIC ePerf for PID 3594224*****
+time_S: 2
+avgPower_W: .0010191083
+energy_J: .0020382166

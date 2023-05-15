@@ -1,4 +1,0 @@
-****CPU ePerf for PID 52555*****
-time_S: -1682639166
-avgPower_W:
-energy_J:

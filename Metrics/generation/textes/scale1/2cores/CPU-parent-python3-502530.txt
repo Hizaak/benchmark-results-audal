@@ -1,0 +1,4 @@
+****CPU ePerf for PID 502530*****
+time_S: 689
+avgPower_W: .0530555555
+energy_J: 36.5552777395

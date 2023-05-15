@@ -1,4 +1,0 @@
-****RAM ePerf for PID 4455*****
-time_S: 947.932206091
-avgPower_W: 1.7326308738
-energy_J: 1642.4166065877

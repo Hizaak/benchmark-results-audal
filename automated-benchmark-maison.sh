@@ -11,17 +11,8 @@ function on_sigint {
 trap on_sigint SIGINT
 
 delete_all_files() {
-    #Document
-    find /home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkHumberto -type f -name "*.txt" -delete
-    find /home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkHumberto -type f -name "*.csv" -delete
+    find /home/amaurice/Bureau/benchmark-results-audal/Metrics -type f -name "*.txt" -delete
 
-    #Ingestion
-    find /home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkHumberto -type f -name "*.txt" -delete
-    find /home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkHumberto -type f -name "*.csv" -delete
-
-    #Scripts
-    find /home/amaurice/Bureau/Stage/AudalMetadata/AdvancedMetadata/benchmarkHumberto -type f -name "*.txt" -delete
-    find /home/amaurice/Bureau/Stage/AudalMetadata/AdvancedMetadata/benchmarkHumberto -type f -name "*.csv" -delete
 }
 
 surveiller(){
@@ -44,10 +35,51 @@ surveiller(){
             fi
         done
     done
-
-    du -hs "data" >> "$chemin/scale$echelle/$((coeurs))cores/parent-$nomParent-$parent.txt"
-    find "data" -type f | wc -l >> "$chemin/scale$echelle/$((coeurs))cores/parent-$nomParent-$parent.txt"
+    
     find "$chemin" -type f -name "*--*.txt" -delete
+}
+
+
+lancement_scripts_maison () {
+
+    racine=$(pwd)
+    cd /home/amaurice/Bureau/Stage/AudalMetadata/AdvancedMetadata/ || exit
+
+    echelle=$1
+    nombreCoeurs=$2
+
+    for doc in $(seq 1 1 3); do
+        for i in $(seq 0 1 $((nombreCoeurs-1))); do
+            cores=""
+            for j in $(seq 0 1 $cores); do
+                cores="$cores$j,"
+            done
+            cores=$(echo "$cores" | sed 's/.$//')
+            case $doc in
+            1)
+                scriptdir="/home/amaurice/Bureau/benchmark-results-audal/Metrics/scripts/script1"
+                scriptname="1- Documents - Groupings.py"
+                ;;
+            2)
+                scriptdir="/home/amaurice/Bureau/benchmark-results-audal/Metrics/scripts/script2"
+                scriptname="2- Documents - Similarities-2 - CLASSIC vocabulary.py"
+                ;;
+            3)
+                scriptdir="/home/amaurice/Bureau/benchmark-results-audal/Metrics/scripts/script3"
+                scriptname="3- Documents - Similarities-4 - EMBEDDINGS.py"
+                ;;
+            esac
+
+
+            echo "Exécution de la requête $doc avec $((i+1)) coeur(s) sur $((echelle))*200 documents."
+            taskset -c $cores python3 -W ignore "$scriptname" &
+
+            pere=$!
+
+            surveiller $pere $scriptdir $echelle $((i+1))
+        done
+    done
+    cd $racine || exit
 }
 
 ingestion_maison(){
@@ -73,10 +105,10 @@ ingestion_maison(){
 
         parent=$!
 
-        cd $racine || exit
-
         echo "Mesure de l'ingestion des documents sur le PID $parent."
-        surveiller $parent "/home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkHumberto" $echelle $((coeur+1))
+        surveiller $parent /home/amaurice/Bureau/benchmark-results-audal/Metrics/ingestion $echelle $((coeur+1))
+
+        cd $racine || exit
 
     done
 }
@@ -85,7 +117,8 @@ generation_maison(){
     echelle=$1
     coeurs=$2
     
-    for i in $(seq 1 $echelle)
+    # for i in $(seq 1 $echelle)
+    for i in 1 3 5
     do
         for j in $(seq 1 $coeurs)
         do
@@ -95,18 +128,18 @@ generation_maison(){
             cd /home/amaurice/Bureau/Stage/DLBench/Documents/ || exit;
             python3 /home/amaurice/Bureau/Stage/DLBench/Documents/DocumentDataGen.py -S $i -J $j -B 1 &
             parent=$!
-            cd $racine || exit
             echo "Mesure de la génération des documents sur le PID $parent."
-            surveiller $parent "/home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkHumberto" $i $j
+            surveiller $parent /home/amaurice/Bureau/benchmark-results-audal/Metrics/generation/textes $i $j
+
+            du -hs "data" >> "/home/amaurice/Bureau/benchmark-results-audal/Metrics/generation/textes/scale$((i))/$((j))cores/parent-$nomParent-$parent.txt"
+            find "data" -type f | wc -l >> "/home/amaurice/Bureau/benchmark-results-audal/Metrics/generation/textes/scale$((i))/$((j))cores/parent-$nomParent-$parent.txt"
+            cd $racine || exit
+
         done
 
         ingestion_maison $i $j
 
-        echo "
-        racine=$(pwd)
-        cd /home/amaurice/Bureau/Stage/AudalMetadata/AdvancedMetadata/
-        bash lancementScriptsPowerJoular.sh $echelle $coeurs
-        cd $racine"
+        lancement_scripts_maison $i $j
     done
 }
 

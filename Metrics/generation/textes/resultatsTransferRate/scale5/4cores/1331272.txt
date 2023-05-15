@@ -1,0 +1,16 @@
+--2023-05-13 03:57:51--  https://hal.sorbonne-universite.fr/hal-01331272/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301741 (295K) [application/pdf]
+Saving to: ‘./data/0.sdv/1331272.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  908K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,62M 0s
+   100K .......... .......... .......... .......... .......... 50% 1,72M 0s
+   150K .......... .......... .......... .......... .......... 67% 1,50M 0s
+   200K .......... .......... .......... .......... .......... 84%  495M 0s
+   250K .......... .......... .......... .......... ....      100%  615M=0,1s
+
+2023-05-13 03:57:51 (1,97 MB/s) - ‘./data/0.sdv/1331272.pdf’ saved [301741/301741]
+

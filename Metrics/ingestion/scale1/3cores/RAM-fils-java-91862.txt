@@ -1,4 +1,0 @@
-****RAM ePerf for PID 91862*****
-time_S: 137.133999525
-avgPower_W: 15.1986910450
-energy_J: 2084.2572905466

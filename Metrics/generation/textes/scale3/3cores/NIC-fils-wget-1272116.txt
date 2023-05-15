@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1272116*****
-time_S: 7
-avgPower_W: .0024119865
-energy_J: .0168839055

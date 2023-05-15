@@ -1,0 +1,4 @@
+****NIC ePerf for PID 4100627*****
+time_S: 10
+avgPower_W: .0015291598
+energy_J: .0152915980

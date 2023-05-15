@@ -1,0 +1,13 @@
+--2023-05-12 20:55:27--  https://hal-sciencespo.archives-ouvertes.fr/hal-01522785/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130639 (128K) [application/pdf]
+Saving to: ‘./data/0.shs/1522785.pdf’
+
+     0K .......... .......... .......... .......... .......... 39%  862K 0s
+    50K .......... .......... .......... .......... .......... 78% 1,69M 0s
+   100K .......... .......... .......                         100% 1001K=0,1s
+
+2023-05-12 20:55:27 (1,09 MB/s) - ‘./data/0.shs/1522785.pdf’ saved [130639/130639]
+

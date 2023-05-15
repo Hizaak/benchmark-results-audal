@@ -1,0 +1,4 @@
+****NIC ePerf for PID 190022*****
+time_S: 4
+avgPower_W: .0015339861
+energy_J: .0061359444

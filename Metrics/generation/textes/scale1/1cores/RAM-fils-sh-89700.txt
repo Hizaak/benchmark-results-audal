@@ -1,4 +1,0 @@
-****RAM ePerf for PID 89700*****
-time_S: 5.004165203
-avgPower_W:
-energy_J:

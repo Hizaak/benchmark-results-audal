@@ -1,0 +1,14 @@
+--2023-05-13 03:54:56--  https://hal-sciencespo.archives-ouvertes.fr/hal-01052881/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165124 (161K) [application/pdf]
+Saving to: ‘./data/0.shs/1052881.pdf’
+
+     0K .......... .......... .......... .......... .......... 31%  729K 0s
+    50K .......... .......... .......... .......... .......... 62%  894K 0s
+   100K .......... .......... .......... .......... .......... 93% 1,75M 0s
+   150K .......... .                                          100%  300M=0,2s
+
+2023-05-13 03:54:57 (1,03 MB/s) - ‘./data/0.shs/1052881.pdf’ saved [165124/165124]
+

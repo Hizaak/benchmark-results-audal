@@ -1,0 +1,15 @@
+--2023-05-13 00:53:16--  https://hal.sorbonne-universite.fr/hal-01347066/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220536 (215K) [application/pdf]
+Saving to: ‘./data/0.sde/1347066.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  817K 0s
+    50K .......... .......... .......... .......... .......... 46% 2,26M 0s
+   100K .......... .......... .......... .......... .......... 69% 6,81M 0s
+   150K .......... .......... .......... .......... .......... 92% 2,45M 0s
+   200K .......... .....                                      100% 41,3M=0,1s
+
+2023-05-13 00:53:17 (1,91 MB/s) - ‘./data/0.sde/1347066.pdf’ saved [220536/220536]
+

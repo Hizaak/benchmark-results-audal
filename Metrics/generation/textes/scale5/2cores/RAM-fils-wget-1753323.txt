@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1753323*****
+time_S: 8.008578845
+avgPower_W: 1.5697108034
+energy_J: 12.5711527330

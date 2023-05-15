@@ -1,4 +1,0 @@
-****RAM ePerf for PID 751856*****
-time_S: 3.003151873
-avgPower_W: 1.5720484007
-energy_J: 4.7211000992

@@ -1,0 +1,17 @@
+--2023-05-12 21:20:42--  https://hal-polytechnique.archives-ouvertes.fr/hal-01020672/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307968 (301K) [application/pdf]
+Saving to: ‘./data/0.phys/1020672.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  752K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 49% 26,5M 0s
+   150K .......... .......... .......... .......... .......... 66%  494M 0s
+   200K .......... .......... .......... .......... .......... 83% 1,74M 0s
+   250K .......... .......... .......... .......... .......... 99% 46,0M 0s
+   300K                                                       100% 1,40T=0,1s
+
+2023-05-12 21:20:43 (2,31 MB/s) - ‘./data/0.phys/1020672.pdf’ saved [307968/307968]
+

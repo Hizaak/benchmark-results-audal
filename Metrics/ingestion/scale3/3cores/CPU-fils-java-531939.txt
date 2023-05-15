@@ -1,4 +1,0 @@
-****CPU ePerf for PID 531939*****
-time_S: 680
-avgPower_W: .3189358372
-energy_J: 216.8763692960

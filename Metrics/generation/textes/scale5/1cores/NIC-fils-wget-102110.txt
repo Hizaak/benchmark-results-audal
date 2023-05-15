@@ -1,0 +1,4 @@
+****NIC ePerf for PID 102110*****
+time_S: 2
+avgPower_W: .0002409680
+energy_J: .0004819360

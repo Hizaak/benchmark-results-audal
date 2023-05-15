@@ -1,0 +1,4 @@
+****RAM ePerf for PID 202192*****
+time_S: 5.004237569
+avgPower_W:
+energy_J:

@@ -1,0 +1,13 @@
+--2023-05-12 20:34:30--  https://hal.science/hal-01058444/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145049 (142K) [application/pdf]
+Saving to: ‘./data/0.spi/1058444.pdf’
+
+     0K .......... .......... .......... .......... .......... 35%  818K 0s
+    50K .......... .......... .......... .......... .......... 70% 1,71M 0s
+   100K .......... .......... .......... .......... .         100% 1,35M=0,1s
+
+2023-05-12 20:34:31 (1,15 MB/s) - ‘./data/0.spi/1058444.pdf’ saved [145049/145049]
+

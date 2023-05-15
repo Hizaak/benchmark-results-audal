@@ -1,0 +1,13 @@
+--2023-05-13 04:10:42--  https://hal.science/hal-01092760/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115240 (113K) [application/pdf]
+Saving to: ‘./data/0.chim/1092760.pdf’
+
+     0K .......... .......... .......... .......... .......... 44%  897K 0s
+    50K .......... .......... .......... .......... .......... 88% 1,74M 0s
+   100K .......... ..                                         100%  386M=0,08s
+
+2023-05-13 04:10:43 (1,31 MB/s) - ‘./data/0.chim/1092760.pdf’ saved [115240/115240]
+

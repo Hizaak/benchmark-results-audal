@@ -1,4 +1,0 @@
-****NIC ePerf for PID 811300*****
-time_S: 5
-avgPower_W: .0003494560
-energy_J: .0017472800

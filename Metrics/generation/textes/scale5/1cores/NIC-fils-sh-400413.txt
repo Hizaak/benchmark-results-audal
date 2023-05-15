@@ -1,0 +1,4 @@
+****NIC ePerf for PID 400413*****
+time_S: 33
+avgPower_W:
+energy_J:

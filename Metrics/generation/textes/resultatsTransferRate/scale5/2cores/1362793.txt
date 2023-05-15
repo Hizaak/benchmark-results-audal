@@ -1,0 +1,15 @@
+--2023-05-13 02:33:30--  https://hal-amu.archives-ouvertes.fr/hal-01362793/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249251 (243K) [application/pdf]
+Saving to: ‘./data/0.shs/1362793.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  889K 0s
+    50K .......... .......... .......... .......... .......... 41% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 61% 1,76M 0s
+   150K .......... .......... .......... .......... .......... 82% 1,77M 0s
+   200K .......... .......... .......... .......... ...       100% 27,1M=0,1s
+
+2023-05-13 02:33:31 (1,68 MB/s) - ‘./data/0.shs/1362793.pdf’ saved [249251/249251]
+

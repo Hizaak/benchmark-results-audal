@@ -1,4 +1,0 @@
-****RAM ePerf for PID 67989*****
-time_S: 5.004761768
-avgPower_W: 1.5706791264
-energy_J: 7.8608748418

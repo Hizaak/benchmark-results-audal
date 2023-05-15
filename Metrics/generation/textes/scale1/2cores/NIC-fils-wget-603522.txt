@@ -1,0 +1,4 @@
+****NIC ePerf for PID 603522*****
+time_S: 5
+avgPower_W: .0020870470
+energy_J: .0104352350

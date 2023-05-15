@@ -1,4 +1,0 @@
-****RAM ePerf for PID 71136*****
-time_S: 6.004932557
-avgPower_W:
-energy_J:

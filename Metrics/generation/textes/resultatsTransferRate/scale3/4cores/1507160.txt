@@ -1,0 +1,17 @@
+--2023-05-12 20:54:47--  https://hal.sorbonne-universite.fr/hal-01444573/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338819 (331K) [application/pdf]
+Saving to: ‘./data/0.phys/1507160.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  884K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,70M 0s
+   100K .......... .......... .......... .......... .......... 45% 1,73M 0s
+   150K .......... .......... .......... .......... .......... 60% 28,5M 0s
+   200K .......... .......... .......... .......... .......... 75% 1,66M 0s
+   250K .......... .......... .......... .......... .......... 90% 1,33M 0s
+   300K .......... .......... ..........                      100%  561M=0,2s
+
+2023-05-12 20:54:53 (1,78 MB/s) - ‘./data/0.phys/1507160.pdf’ saved [338819/338819]
+

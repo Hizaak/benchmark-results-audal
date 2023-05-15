@@ -1,0 +1,15 @@
+--2023-05-13 01:53:44--  https://hal-amu.archives-ouvertes.fr/hal-01363558/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255069 (249K) [application/pdf]
+Saving to: ‘./data/0.shs/1363558.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  895K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,81M 0s
+   100K .......... .......... .......... .......... .......... 60% 15,3M 0s
+   150K .......... .......... .......... .......... .......... 80% 17,1M 0s
+   200K .......... .......... .......... .......... ......... 100% 1,79M=0,1s
+
+2023-05-13 01:53:50 (2,10 MB/s) - ‘./data/0.shs/1363558.pdf’ saved [255069/255069]
+

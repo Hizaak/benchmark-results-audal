@@ -1,0 +1,14 @@
+--2023-05-13 04:27:59--  https://hal-cea.archives-ouvertes.fr/cea-01162431/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199938 (195K) [application/pdf]
+Saving to: ‘./data/0.phys/1162431.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  841K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 76% 1,72M 0s
+   150K .......... .......... .......... .......... .....     100% 53,4M=0,1s
+
+2023-05-13 04:28:01 (1,62 MB/s) - ‘./data/0.phys/1162431.pdf’ saved [199938/199938]
+

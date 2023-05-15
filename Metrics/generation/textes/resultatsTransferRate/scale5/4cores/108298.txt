@@ -1,0 +1,14 @@
+--2023-05-13 04:09:18--  https://hal.science/hal-00108298/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199466 (195K) [application/pdf]
+Saving to: ‘./data/0.phys/108298.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  878K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,68M 0s
+   100K .......... .......... .......... .......... .......... 77% 1,69M 0s
+   150K .......... .......... .......... .......... ....      100%  270M=0,1s
+
+2023-05-13 04:09:19 (1,65 MB/s) - ‘./data/0.phys/108298.pdf’ saved [199466/199466]
+

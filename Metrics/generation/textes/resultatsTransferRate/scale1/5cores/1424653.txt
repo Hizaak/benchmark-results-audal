@@ -1,0 +1,13 @@
+--2023-05-12 17:46:39--  https://hal-amu.archives-ouvertes.fr/hal-01424653/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133380 (130K) [application/pdf]
+Saving to: ‘./data/0.shs/1424653.pdf’
+
+     0K .......... .......... .......... .......... .......... 38%  890K 0s
+    50K .......... .......... .......... .......... .......... 76% 1,62M 0s
+   100K .......... .......... ..........                      100%  182M=0,09s
+
+2023-05-12 17:46:40 (1,47 MB/s) - ‘./data/0.shs/1424653.pdf’ saved [133380/133380]
+

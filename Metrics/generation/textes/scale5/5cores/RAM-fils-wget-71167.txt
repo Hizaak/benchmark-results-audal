@@ -1,4 +1,0 @@
-****RAM ePerf for PID 71167*****
-time_S: 5.005202901
-avgPower_W: 1.5679602606
-energy_J: 7.8479592451

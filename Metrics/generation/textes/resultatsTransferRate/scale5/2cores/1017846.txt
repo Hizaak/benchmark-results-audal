@@ -1,0 +1,12 @@
+--2023-05-13 03:01:43--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017846/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80226 (78K) [application/pdf]
+Saving to: ‘./data/0.shs/1017846.pdf’
+
+     0K .......... .......... .......... .......... .......... 63%  859K 0s
+    50K .......... .......... ........                        100% 1,04M=0,08s
+
+2023-05-13 03:01:43 (923 KB/s) - ‘./data/0.shs/1017846.pdf’ saved [80226/80226]
+

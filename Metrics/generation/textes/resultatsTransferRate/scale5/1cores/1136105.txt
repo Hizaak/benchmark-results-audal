@@ -1,0 +1,15 @@
+--2023-05-13 02:02:51--  https://hal-riip.archives-ouvertes.fr/pasteur-01136105/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222182 (217K) [application/pdf]
+Saving to: ‘./data/0.sdv/1136105.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  903K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 69% 1,68M 0s
+   150K .......... .......... .......... .......... .......... 92% 1,74M 0s
+   200K .......... ......                                     100%  302M=0,1s
+
+2023-05-13 02:02:52 (1,49 MB/s) - ‘./data/0.sdv/1136105.pdf’ saved [222182/222182]
+

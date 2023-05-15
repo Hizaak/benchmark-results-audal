@@ -1,0 +1,14 @@
+--2023-05-12 20:19:40--  https://hal.univ-lorraine.fr/hal-01515406/document
+Resolving hal.univ-lorraine.fr (hal.univ-lorraine.fr)... 193.48.96.10
+Connecting to hal.univ-lorraine.fr (hal.univ-lorraine.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159042 (155K) [application/pdf]
+Saving to: ‘./data/0.chim/1515406.pdf’
+
+     0K .......... .......... .......... .......... .......... 32%  898K 0s
+    50K .......... .......... .......... .......... .......... 64% 1,68M 0s
+   100K .......... .......... .......... .......... .......... 96% 1,76M 0s
+   150K .....                                                 100%  415M=0,1s
+
+2023-05-12 20:19:40 (1,35 MB/s) - ‘./data/0.chim/1515406.pdf’ saved [159042/159042]
+

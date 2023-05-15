@@ -1,4 +1,0 @@
-****CPU ePerf for PID 486077*****
-time_S: 1013
-avgPower_W: .0077262443
-energy_J: 7.8266854759

@@ -1,0 +1,14 @@
+--2023-05-13 03:51:44--  https://hal-sciencespo.archives-ouvertes.fr/hal-01045199/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172069 (168K) [application/pdf]
+Saving to: ‘./data/0.shs/1045199.pdf’
+
+     0K .......... .......... .......... .......... .......... 29%  904K 0s
+    50K .......... .......... .......... .......... .......... 59% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 89% 1,72M 0s
+   150K .......... ........                                   100%  494M=0,1s
+
+2023-05-13 03:51:44 (1,46 MB/s) - ‘./data/0.shs/1045199.pdf’ saved [172069/172069]
+

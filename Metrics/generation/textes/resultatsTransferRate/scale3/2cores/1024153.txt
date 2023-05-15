@@ -1,0 +1,12 @@
+--2023-05-12 20:02:06--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024153/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94157 (92K) [application/pdf]
+Saving to: ‘./data/0.shs/1024153.pdf’
+
+     0K .......... .......... .......... .......... .......... 54%  887K 0s
+    50K .......... .......... .......... .......... .         100% 1,25M=0,09s
+
+2023-05-12 20:02:08 (1,01 MB/s) - ‘./data/0.shs/1024153.pdf’ saved [94157/94157]
+

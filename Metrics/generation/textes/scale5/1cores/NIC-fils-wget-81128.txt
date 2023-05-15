@@ -1,0 +1,4 @@
+****NIC ePerf for PID 81128*****
+time_S: 5
+avgPower_W: .0027687946
+energy_J: .0138439730

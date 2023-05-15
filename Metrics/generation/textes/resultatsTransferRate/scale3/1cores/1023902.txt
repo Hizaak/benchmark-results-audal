@@ -1,0 +1,17 @@
+--2023-05-12 18:57:20--  https://hal-sciencespo.archives-ouvertes.fr/hal-01023902/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-12 18:57:31--  (try: 2)  https://hal-sciencespo.archives-ouvertes.fr/hal-01023902/document
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144616 (141K) [application/pdf]
+Saving to: ‘./data/0.shs/1023902.pdf’
+
+     0K .......... .......... .......... .......... .......... 35%  891K 0s
+    50K .......... .......... .......... .......... .......... 70% 1,85M 0s
+   100K .......... .......... .......... .......... .         100% 1,44M=0,1s
+
+2023-05-12 18:57:37 (1,25 MB/s) - ‘./data/0.shs/1023902.pdf’ saved [144616/144616]
+

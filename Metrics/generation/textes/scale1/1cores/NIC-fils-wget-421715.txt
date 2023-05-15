@@ -1,0 +1,4 @@
+****NIC ePerf for PID 421715*****
+time_S: 3
+avgPower_W: .0006193640
+energy_J: .0018580920

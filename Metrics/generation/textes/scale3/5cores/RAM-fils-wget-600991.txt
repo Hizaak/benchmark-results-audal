@@ -1,0 +1,4 @@
+****RAM ePerf for PID 600991*****
+time_S: 25.022148186
+avgPower_W: 1.5699675165
+energy_J: 39.2839598468

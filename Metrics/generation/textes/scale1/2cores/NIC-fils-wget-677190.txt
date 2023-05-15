@@ -1,0 +1,4 @@
+****NIC ePerf for PID 677190*****
+time_S: 4
+avgPower_W: .0024327695
+energy_J: .0097310780

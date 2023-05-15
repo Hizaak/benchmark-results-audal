@@ -1,4 +1,0 @@
-****RAM ePerf for PID 805845*****
-time_S: 145.294485040
-avgPower_W: 1.5796029166
-energy_J: 229.5075923492

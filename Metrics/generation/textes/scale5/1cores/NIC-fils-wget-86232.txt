@@ -1,0 +1,4 @@
+****NIC ePerf for PID 86232*****
+time_S: 2
+avgPower_W: .0001940629
+energy_J: .0003881258

@@ -1,0 +1,12 @@
+--2023-05-13 03:56:38--  https://www.hal.inserm.fr/inserm-00138539/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96160 (94K) [application/pdf]
+Saving to: ‘./data/0.sdv/138539.pdf’
+
+     0K .......... .......... .......... .......... .......... 53%  915K 0s
+    50K .......... .......... .......... .......... ...       100% 1,60M=0,08s
+
+2023-05-13 03:56:38 (1,13 MB/s) - ‘./data/0.sdv/138539.pdf’ saved [96160/96160]
+

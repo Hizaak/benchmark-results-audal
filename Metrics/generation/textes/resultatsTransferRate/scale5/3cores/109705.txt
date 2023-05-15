@@ -1,0 +1,13 @@
+--2023-05-13 03:26:37--  https://hal.science/hal-00109705/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134947 (132K) [application/pdf]
+Saving to: ‘./data/0.spi/109705.pdf’
+
+     0K .......... .......... .......... .......... .......... 37%  726K 0s
+    50K .......... .......... .......... .......... .......... 75% 1,83M 0s
+   100K .......... .......... .......... .                    100% 2,18M=0,1s
+
+2023-05-13 03:26:38 (1,17 MB/s) - ‘./data/0.spi/109705.pdf’ saved [134947/134947]
+

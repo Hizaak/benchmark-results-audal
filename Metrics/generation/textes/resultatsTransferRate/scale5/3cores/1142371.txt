@@ -1,0 +1,13 @@
+--2023-05-13 03:36:34--  https://hal-insu.archives-ouvertes.fr/insu-01142371/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149213 (146K) [application/pdf]
+Saving to: ‘./data/0.sdu/1142371.pdf’
+
+     0K .......... .......... .......... .......... .......... 34%  890K 0s
+    50K .......... .......... .......... .......... .......... 68% 1,36M 0s
+   100K .......... .......... .......... .......... .....     100% 1,60M=0,1s
+
+2023-05-13 03:36:35 (1,19 MB/s) - ‘./data/0.sdu/1142371.pdf’ saved [149213/149213]
+

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 301210*****
-time_S: -1682610284
-avgPower_W:
-energy_J:

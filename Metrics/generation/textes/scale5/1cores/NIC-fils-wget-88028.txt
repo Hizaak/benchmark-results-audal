@@ -1,0 +1,4 @@
+****NIC ePerf for PID 88028*****
+time_S: 4
+avgPower_W: .0014499617
+energy_J: .0057998468

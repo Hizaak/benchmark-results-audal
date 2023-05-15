@@ -1,4 +1,0 @@
-****NIC ePerf for PID 962567*****
-time_S: 7
-avgPower_W: .0012410429
-energy_J: .0086873003

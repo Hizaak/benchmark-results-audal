@@ -1,4 +1,0 @@
-****CPU ePerf for PID 3374541*****
-time_S: 916
-avgPower_W: .0003312302
-energy_J: .3034068632

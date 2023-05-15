@@ -1,4 +1,0 @@
-****RAM ePerf for PID 604327*****
-time_S: 2.001614341
-avgPower_W: 1.5687288196
-energy_J: 3.1399901025

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 88028*****
+time_S: 4.004077156
+avgPower_W:
+energy_J:

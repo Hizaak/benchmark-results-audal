@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1060253*****
+time_S: 24.019785091
+avgPower_W: 1.5688101642
+energy_J: 37.6824829929

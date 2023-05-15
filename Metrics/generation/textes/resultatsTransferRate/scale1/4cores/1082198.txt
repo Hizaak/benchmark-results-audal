@@ -1,0 +1,14 @@
+--2023-05-12 17:35:51--  https://hal.science/hal-01082198/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190359 (186K) [application/pdf]
+Saving to: ‘./data/0.math/1082198.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  844K 0s
+    50K .......... .......... .......... .......... .......... 53% 1,80M 0s
+   100K .......... .......... .......... .......... .......... 80% 1,80M 0s
+   150K .......... .......... .......... .....                100% 9,60M=0,1s
+
+2023-05-12 17:35:51 (1,55 MB/s) - ‘./data/0.math/1082198.pdf’ saved [190359/190359]
+

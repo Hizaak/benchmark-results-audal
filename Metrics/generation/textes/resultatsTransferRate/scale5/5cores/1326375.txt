@@ -1,0 +1,16 @@
+--2023-05-13 04:21:21--  https://hal-cea.archives-ouvertes.fr/cea-01326375/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294501 (288K) [application/pdf]
+Saving to: ‘./data/0.phys/1326375.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  879K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 52% 1,77M 0s
+   150K .......... .......... .......... .......... .......... 69% 1,71M 0s
+   200K .......... .......... .......... .......... .......... 86% 36,1M 0s
+   250K .......... .......... .......... .......              100% 88,7M=0,1s
+
+2023-05-13 04:21:22 (1,96 MB/s) - ‘./data/0.phys/1326375.pdf’ saved [294501/294501]
+

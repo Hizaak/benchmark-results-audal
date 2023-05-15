@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1021825*****
-time_S: 4.002457174
-avgPower_W:
-energy_J:

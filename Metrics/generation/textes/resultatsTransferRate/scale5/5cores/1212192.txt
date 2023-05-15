@@ -1,0 +1,15 @@
+--2023-05-13 04:38:42--  https://hal.univ-brest.fr/hal-01212192/document
+Resolving hal.univ-brest.fr (hal.univ-brest.fr)... 193.48.96.10
+Connecting to hal.univ-brest.fr (hal.univ-brest.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222438 (217K) [application/pdf]
+Saving to: ‘./data/0.shs/1212192.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  897K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,70M 0s
+   100K .......... .......... .......... .......... .......... 69% 1,67M 0s
+   150K .......... .......... .......... .......... .......... 92% 1,81M 0s
+   200K .......... .......                                    100% 16,2M=0,1s
+
+2023-05-13 04:38:43 (1,50 MB/s) - ‘./data/0.shs/1212192.pdf’ saved [222438/222438]
+

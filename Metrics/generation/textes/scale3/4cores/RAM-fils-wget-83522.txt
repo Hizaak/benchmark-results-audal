@@ -1,0 +1,4 @@
+****RAM ePerf for PID 83522*****
+time_S: 6.005439453
+avgPower_W:
+energy_J:

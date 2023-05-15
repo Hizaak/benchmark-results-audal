@@ -1,0 +1,15 @@
+--2023-05-12 19:02:02--  https://hal-amu.archives-ouvertes.fr/hal-01380414/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227017 (222K) [application/pdf]
+Saving to: ‘./data/0.shs/1380414.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  880K 0s
+    50K .......... .......... .......... .......... .......... 45% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 67% 1,66M 0s
+   150K .......... .......... .......... .......... .......... 90% 1,65M 0s
+   200K .......... .......... .                               100%  556M=0,1s
+
+2023-05-12 19:02:08 (1,50 MB/s) - ‘./data/0.shs/1380414.pdf’ saved [227017/227017]
+

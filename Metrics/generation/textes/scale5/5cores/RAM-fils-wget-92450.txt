@@ -1,0 +1,4 @@
+****RAM ePerf for PID 92450*****
+time_S: 61.098845966
+avgPower_W: 1.5699568396
+energy_J: 95.9225511210

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 771234*****
+time_S: 10
+avgPower_W: .0043015996
+energy_J: .0430159960

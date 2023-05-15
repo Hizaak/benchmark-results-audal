@@ -1,0 +1,13 @@
+--2023-05-12 21:02:32--  https://hal-sciencespo.archives-ouvertes.fr/hal-01044925/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134073 (131K) [application/pdf]
+Saving to: ‘./data/0.shs/1044925.pdf’
+
+     0K .......... .......... .......... .......... .......... 38%  865K 0s
+    50K .......... .......... .......... .......... .......... 76% 1,46M 0s
+   100K .......... .......... ..........                      100% 1,86M=0,1s
+
+2023-05-12 21:02:33 (1,19 MB/s) - ‘./data/0.shs/1044925.pdf’ saved [134073/134073]
+

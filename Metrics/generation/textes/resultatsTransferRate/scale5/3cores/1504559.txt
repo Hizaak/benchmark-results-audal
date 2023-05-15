@@ -1,0 +1,15 @@
+--2023-05-13 03:35:18--  https://hal.sorbonne-universite.fr/hal-01504559/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226917 (222K) [application/pdf]
+Saving to: ‘./data/0.info/1504559.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  890K 0s
+    50K .......... .......... .......... .......... .......... 45% 1,56M 0s
+   100K .......... .......... .......... .......... .......... 67% 33,1M 0s
+   150K .......... .......... .......... .......... .......... 90%  445M 0s
+   200K .......... .......... .                               100%  789K=0,1s
+
+2023-05-13 03:35:24 (1,86 MB/s) - ‘./data/0.info/1504559.pdf’ saved [226917/226917]
+

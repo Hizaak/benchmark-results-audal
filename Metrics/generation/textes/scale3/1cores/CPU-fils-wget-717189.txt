@@ -1,4 +1,0 @@
-****CPU ePerf for PID 717189*****
-time_S: 22
-avgPower_W: .0004545454
-energy_J: .0099999988

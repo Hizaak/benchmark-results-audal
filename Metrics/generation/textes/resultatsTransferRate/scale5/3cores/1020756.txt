@@ -1,0 +1,19 @@
+--2023-05-13 03:40:18--  https://hal-sciencespo.archives-ouvertes.fr/hal-01020756/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 413323 (404K) [application/pdf]
+Saving to: ‘./data/0.shs/1020756.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  759K 0s
+    50K .......... .......... .......... .......... .......... 24% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 37% 1,72M 0s
+   150K .......... .......... .......... .......... .......... 49% 1,67M 0s
+   200K .......... .......... .......... .......... .......... 61% 2,15M 0s
+   250K .......... .......... .......... .......... .......... 74% 2,79M 0s
+   300K .......... .......... .......... .......... .......... 86% 1,65M 0s
+   350K .......... .......... .......... .......... .......... 99% 1,78M 0s
+   400K ...                                                   100%  154M=0,2s
+
+2023-05-13 03:40:19 (1,58 MB/s) - ‘./data/0.shs/1020756.pdf’ saved [413323/413323]
+

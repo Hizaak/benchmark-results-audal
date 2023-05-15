@@ -1,0 +1,14 @@
+--2023-05-12 17:21:07--  https://hal-sciencespo.archives-ouvertes.fr/hal-01475706/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189141 (185K) [application/pdf]
+Saving to: ‘./data/0.shs/1475706.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  891K 0s
+    50K .......... .......... .......... .......... .......... 54% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 81% 1,59M 0s
+   150K .......... .......... .......... ....                 100%  482M=0,1s
+
+2023-05-12 17:21:09 (1,55 MB/s) - ‘./data/0.shs/1475706.pdf’ saved [189141/189141]
+

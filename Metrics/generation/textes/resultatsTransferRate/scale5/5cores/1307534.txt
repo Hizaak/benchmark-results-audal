@@ -1,0 +1,15 @@
+--2023-05-13 04:20:14--  https://hal-amu.archives-ouvertes.fr/hal-01307534/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227188 (222K) [application/pdf]
+Saving to: ‘./data/0.math/1307534.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  556K 0s
+    50K .......... .......... .......... .......... .......... 45% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 67% 1,72M 0s
+   150K .......... .......... .......... .......... .......... 90% 19,4M 0s
+   200K .......... .......... .                               100%  545M=0,1s
+
+2023-05-13 04:20:15 (1,47 MB/s) - ‘./data/0.math/1307534.pdf’ saved [227188/227188]
+

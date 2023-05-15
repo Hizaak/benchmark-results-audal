@@ -1,0 +1,17 @@
+--2023-05-12 21:11:04--  https://univ-rennes.hal.science/hal-01232403/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308260 (301K) [application/pdf]
+Saving to: ‘./data/0.shs/1232403.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  893K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,71M 0s
+   150K .......... .......... .......... .......... .......... 66% 33,2M 0s
+   200K .......... .......... .......... .......... .......... 83% 1,67M 0s
+   250K .......... .......... .......... .......... .......... 99%  198M 0s
+   300K .                                                     100% 1,93T=0,1s
+
+2023-05-12 21:11:06 (2,04 MB/s) - ‘./data/0.shs/1232403.pdf’ saved [308260/308260]
+

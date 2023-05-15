@@ -1,0 +1,16 @@
+--2023-05-12 20:31:00--  https://hal-sciencespo.archives-ouvertes.fr/hal-01400282/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256608 (251K) [application/pdf]
+Saving to: ‘./data/0.shs/1400282.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  874K 0s
+    50K .......... .......... .......... .......... .......... 39% 1,62M 0s
+   100K .......... .......... .......... .......... .......... 59% 1,72M 0s
+   150K .......... .......... .......... .......... .......... 79% 36,0M 0s
+   200K .......... .......... .......... .......... .......... 99% 1,73M 0s
+   250K                                                       100% 1,11T=0,1s
+
+2023-05-12 20:31:01 (1,69 MB/s) - ‘./data/0.shs/1400282.pdf’ saved [256608/256608]
+

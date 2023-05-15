@@ -1,4 +1,0 @@
-****NIC ePerf for PID 87779*****
-time_S: 13
-avgPower_W: .0001566876
-energy_J: .0020369388

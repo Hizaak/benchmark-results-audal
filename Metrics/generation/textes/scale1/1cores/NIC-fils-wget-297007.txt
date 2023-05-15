@@ -1,0 +1,4 @@
+****NIC ePerf for PID 297007*****
+time_S: 8
+avgPower_W: .0003553032
+energy_J: .0028424256

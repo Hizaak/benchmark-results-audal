@@ -1,4 +1,0 @@
-****CPU ePerf for PID 1081721*****
-time_S: -1682616513
-avgPower_W:
-energy_J:

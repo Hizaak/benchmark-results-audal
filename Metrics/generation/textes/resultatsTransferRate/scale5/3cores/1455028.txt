@@ -1,0 +1,15 @@
+--2023-05-13 03:17:47--  https://hal-sciencespo.archives-ouvertes.fr/hal-01455028/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240699 (235K) [application/pdf]
+Saving to: ‘./data/0.shs/1455028.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  880K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,75M 0s
+   100K .......... .......... .......... .......... .......... 63% 29,1M 0s
+   150K .......... .......... .......... .......... .......... 85% 1,72M 0s
+   200K .......... .......... .......... .....                100%  388M=0,1s
+
+2023-05-13 03:17:47 (2,00 MB/s) - ‘./data/0.shs/1455028.pdf’ saved [240699/240699]
+

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 969801*****
+time_S: 5
+avgPower_W: .0027094239
+energy_J: .0135471195

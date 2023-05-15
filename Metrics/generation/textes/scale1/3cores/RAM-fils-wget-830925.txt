@@ -1,0 +1,4 @@
+****RAM ePerf for PID 830925*****
+time_S: 8.007254167
+avgPower_W: 1.5642045013
+energy_J: 12.5249830118

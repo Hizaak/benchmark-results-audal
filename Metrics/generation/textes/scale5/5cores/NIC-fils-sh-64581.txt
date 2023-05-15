@@ -1,0 +1,4 @@
+****NIC ePerf for PID 64581*****
+time_S: 9
+avgPower_W:
+energy_J:

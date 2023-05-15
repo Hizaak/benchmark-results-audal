@@ -1,0 +1,15 @@
+--2023-05-13 03:25:42--  https://hal-amu.archives-ouvertes.fr/hal-01362747/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215709 (211K) [application/pdf]
+Saving to: ‘./data/0.shs/1362747.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  884K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 71% 36,1M 0s
+   150K .......... .......... .......... .......... .......... 94% 1,83M 0s
+   200K ..........                                            100%  235M=0,1s
+
+2023-05-13 03:25:43 (1,80 MB/s) - ‘./data/0.shs/1362747.pdf’ saved [215709/215709]
+

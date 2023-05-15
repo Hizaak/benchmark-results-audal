@@ -1,0 +1,17 @@
+--2023-05-13 02:36:22--  https://hal-cea.archives-ouvertes.fr/cea-01135495/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 325954 (318K) [application/pdf]
+Saving to: ‘./data/0.phys/1135495.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  859K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 47% 40,2M 0s
+   150K .......... .......... .......... .......... .......... 62% 1,71M 0s
+   200K .......... .......... .......... .......... .......... 78% 22,0M 0s
+   250K .......... .......... .......... .......... .......... 94% 35,3M 0s
+   300K .......... ........                                   100% 88,5K=0,3s
+
+2023-05-13 02:36:23 (975 KB/s) - ‘./data/0.phys/1135495.pdf’ saved [325954/325954]
+

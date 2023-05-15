@@ -1,4 +1,0 @@
-****RAM ePerf for PID 23420*****
-time_S: 5.004713874
-avgPower_W: 1.5702558281
-energy_J: 7.8586811287

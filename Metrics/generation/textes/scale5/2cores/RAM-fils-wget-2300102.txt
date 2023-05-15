@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2300102*****
+time_S: 22.014033172
+avgPower_W: 1.5702305075
+energy_J: 34.5671064817

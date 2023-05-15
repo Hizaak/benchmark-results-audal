@@ -1,0 +1,14 @@
+--2023-05-12 21:03:09--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024592/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159731 (156K) [application/pdf]
+Saving to: ‘./data/0.shs/1024592.pdf’
+
+     0K .......... .......... .......... .......... .......... 32%  653K 0s
+    50K .......... .......... .......... .......... .......... 64% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 96% 1,53M 0s
+   150K .....                                                 100%  446M=0,1s
+
+2023-05-12 21:03:10 (1,10 MB/s) - ‘./data/0.shs/1024592.pdf’ saved [159731/159731]
+

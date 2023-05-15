@@ -1,0 +1,4 @@
+****NIC ePerf for PID 443550*****
+time_S: 12
+avgPower_W: .0028652645
+energy_J: .0343831740

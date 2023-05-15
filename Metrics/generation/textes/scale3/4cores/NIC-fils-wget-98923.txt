@@ -1,0 +1,4 @@
+****NIC ePerf for PID 98923*****
+time_S: 8
+avgPower_W: .0028323054
+energy_J: .0226584432

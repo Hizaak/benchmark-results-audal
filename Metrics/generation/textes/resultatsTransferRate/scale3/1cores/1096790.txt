@@ -1,0 +1,17 @@
+--2023-05-12 19:41:56--  https://hal-univ-tln.archives-ouvertes.fr/hal-01096790/document
+Resolving hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 317837 (310K) [application/pdf]
+Saving to: ‘./data/0.chim/1096790.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  891K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 48% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 64% 62,8M 0s
+   200K .......... .......... .......... .......... .......... 80% 1,41M 0s
+   250K .......... .......... .......... .......... .......... 96% 44,7M 0s
+   300K ..........                                            100%  588M=0,1s
+
+2023-05-12 19:42:02 (2,02 MB/s) - ‘./data/0.chim/1096790.pdf’ saved [317837/317837]
+

@@ -1,0 +1,17 @@
+--2023-05-12 20:03:48--  https://hal-cea.archives-ouvertes.fr/cea-01384251/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 330474 (323K) [application/pdf]
+Saving to: ‘./data/0.phys/1384251.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  795K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 46% 2,40M 0s
+   150K .......... .......... .......... .......... .......... 61% 1,76M 0s
+   200K .......... .......... .......... .......... .......... 77% 11,5M 0s
+   250K .......... .......... .......... .......... .......... 92% 12,8M 0s
+   300K .......... .......... ..                              100%  528M=0,1s
+
+2023-05-12 20:03:49 (2,14 MB/s) - ‘./data/0.phys/1384251.pdf’ saved [330474/330474]
+

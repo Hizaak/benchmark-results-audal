@@ -1,4 +1,0 @@
-****RAM ePerf for PID 97030*****
-time_S: 1.001026711
-avgPower_W:
-energy_J:

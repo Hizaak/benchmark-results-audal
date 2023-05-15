@@ -1,0 +1,16 @@
+--2023-05-13 01:55:38--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01168102/document
+Resolving hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282534 (276K) [application/pdf]
+Saving to: ‘./data/0.shs/1168102.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  895K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 54% 1,73M 0s
+   150K .......... .......... .......... .......... .......... 72% 24,4M 0s
+   200K .......... .......... .......... .......... .......... 90%  549M 0s
+   250K .......... .......... .....                           100%  944K=0,1s
+
+2023-05-13 01:55:39 (1,90 MB/s) - ‘./data/0.shs/1168102.pdf’ saved [282534/282534]
+

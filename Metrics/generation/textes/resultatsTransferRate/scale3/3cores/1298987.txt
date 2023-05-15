@@ -1,0 +1,16 @@
+--2023-05-12 20:35:02--  https://hal.sorbonne-universite.fr/hal-01298987/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 275014 (269K) [application/pdf]
+Saving to: ‘./data/0.math/1298987.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  886K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,67M 0s
+   150K .......... .......... .......... .......... .......... 74% 1,71M 0s
+   200K .......... .......... .......... .......... .......... 93%  101M 0s
+   250K .......... ........                                   100%  616M=0,1s
+
+2023-05-12 20:35:06 (1,84 MB/s) - ‘./data/0.math/1298987.pdf’ saved [275014/275014]
+

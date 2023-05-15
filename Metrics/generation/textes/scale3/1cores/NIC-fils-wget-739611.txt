@@ -1,4 +1,0 @@
-****NIC ePerf for PID 739611*****
-time_S: 6
-avgPower_W: .0000683906
-energy_J: .0004103436

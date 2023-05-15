@@ -1,0 +1,4 @@
+****RAM ePerf for PID 202319*****
+time_S: 14.027810345
+avgPower_W: 1.5697544666
+energy_J: 22.0202179468

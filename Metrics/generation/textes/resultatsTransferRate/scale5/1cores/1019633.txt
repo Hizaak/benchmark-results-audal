@@ -1,0 +1,13 @@
+--2023-05-13 01:59:00--  https://hal-sciencespo.archives-ouvertes.fr/hal-01019633/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111075 (108K) [application/pdf]
+Saving to: ‘./data/0.shs/1019633.pdf’
+
+     0K .......... .......... .......... .......... .......... 46%  884K 0s
+    50K .......... .......... .......... .......... .......... 92% 1,75M 0s
+   100K ........                                              100%  326M=0,08s
+
+2023-05-13 01:59:01 (1,25 MB/s) - ‘./data/0.shs/1019633.pdf’ saved [111075/111075]
+

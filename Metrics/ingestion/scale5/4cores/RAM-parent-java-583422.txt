@@ -1,4 +1,0 @@
-****RAM ePerf for PID 583422*****
-time_S: 880.771233043
-avgPower_W: 13.6039479825
-energy_J: 11981.9660388118

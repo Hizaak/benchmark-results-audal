@@ -1,0 +1,4 @@
+****NIC ePerf for PID 650821*****
+time_S: 7
+avgPower_W: .0000699084
+energy_J: .0004893588

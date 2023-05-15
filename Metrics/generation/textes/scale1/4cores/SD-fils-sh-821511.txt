@@ -1,4 +1,0 @@
-****SD ePerf for PID 821511*****
-time_S: 5
-avgPower_W: .0043615000
-energy_J: .0218075000

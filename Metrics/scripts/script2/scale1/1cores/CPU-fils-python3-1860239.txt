@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1860239*****
+time_S: 152
+avgPower_W: 8.2728571428
+energy_J: 1257.4742857056

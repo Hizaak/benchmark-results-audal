@@ -1,0 +1,14 @@
+--2023-05-12 20:32:25--  https://hal.univ-reunion.fr/hal-01390529/document
+Resolving hal.univ-reunion.fr (hal.univ-reunion.fr)... 193.48.96.10
+Connecting to hal.univ-reunion.fr (hal.univ-reunion.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200071 (195K) [application/pdf]
+Saving to: ‘./data/0.sdv/1390529.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  837K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 76% 31,4M 0s
+   150K .......... .......... .......... .......... .....     100% 1,79M=0,1s
+
+2023-05-12 20:32:31 (1,68 MB/s) - ‘./data/0.sdv/1390529.pdf’ saved [200071/200071]
+

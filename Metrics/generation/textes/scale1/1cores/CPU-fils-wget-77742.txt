@@ -1,4 +1,0 @@
-****CPU ePerf for PID 77742*****
-time_S: 10
-avgPower_W: .0010000000
-energy_J: .0100000000

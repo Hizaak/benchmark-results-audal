@@ -1,4 +1,0 @@
-****NIC ePerf for PID 950147*****
-time_S: 7
-avgPower_W: .0014696331
-energy_J: .0102874317

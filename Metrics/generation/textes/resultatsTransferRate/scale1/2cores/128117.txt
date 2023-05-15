@@ -1,0 +1,15 @@
+--2023-05-12 17:28:24--  https://hal.science/hal-00128117/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211985 (207K) [application/pdf]
+Saving to: ‘./data/0.phys/128117.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  857K 0s
+    50K .......... .......... .......... .......... .......... 48% 1,46M 0s
+   100K .......... .......... .......... .......... .......... 72% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 96% 1,82M 0s
+   200K .......                                               100%  356M=0,1s
+
+2023-05-12 17:28:25 (1,37 MB/s) - ‘./data/0.phys/128117.pdf’ saved [211985/211985]
+

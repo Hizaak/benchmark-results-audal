@@ -1,0 +1,4 @@
+****RAM ePerf for PID 50027*****
+time_S: 10.010919849
+avgPower_W: 1.5701513821
+energy_J: 15.7186596379

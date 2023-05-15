@@ -1,0 +1,4 @@
+****RAM ePerf for PID 74141*****
+time_S: 78.079598781
+avgPower_W: 9.3300114559
+energy_J: 728.4835511022

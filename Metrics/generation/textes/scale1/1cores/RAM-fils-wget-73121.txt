@@ -1,4 +1,0 @@
-****RAM ePerf for PID 73121*****
-time_S: 6.006186582
-avgPower_W:
-energy_J:

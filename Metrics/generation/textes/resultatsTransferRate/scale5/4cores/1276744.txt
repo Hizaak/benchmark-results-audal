@@ -1,0 +1,17 @@
+--2023-05-13 04:00:07--  https://hal-inalco.archives-ouvertes.fr/hal-01276744/document
+Resolving hal-inalco.archives-ouvertes.fr (hal-inalco.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-inalco.archives-ouvertes.fr (hal-inalco.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323165 (316K) [application/pdf]
+Saving to: ‘./data/0.shs/1276744.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  884K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,60M 0s
+   100K .......... .......... .......... .......... .......... 47% 1,54M 0s
+   150K .......... .......... .......... .......... .......... 63% 1,50M 0s
+   200K .......... .......... .......... .......... .......... 79% 14,5M 0s
+   250K .......... .......... .......... .......... .......... 95% 26,8M 0s
+   300K .......... .....                                      100%  538M=0,2s
+
+2023-05-13 04:00:08 (1,97 MB/s) - ‘./data/0.shs/1276744.pdf’ saved [323165/323165]
+

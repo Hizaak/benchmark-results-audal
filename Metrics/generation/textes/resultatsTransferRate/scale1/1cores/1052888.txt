@@ -1,0 +1,14 @@
+--2023-05-12 16:56:29--  https://hal-sciencespo.archives-ouvertes.fr/hal-01052888/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178826 (175K) [application/pdf]
+Saving to: ‘./data/0.shs/1052888.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  894K 0s
+    50K .......... .......... .......... .......... .......... 57% 1,66M 0s
+   100K .......... .......... .......... .......... .......... 85% 1,74M 0s
+   150K .......... .......... ....                            100%  518M=0,1s
+
+2023-05-12 16:56:30 (1,50 MB/s) - ‘./data/0.shs/1052888.pdf’ saved [178826/178826]
+

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 32100*****
-time_S: -1682608682
-avgPower_W:
-energy_J:

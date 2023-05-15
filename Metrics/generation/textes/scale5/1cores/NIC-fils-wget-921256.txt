@@ -1,0 +1,4 @@
+****NIC ePerf for PID 921256*****
+time_S: 2
+avgPower_W: .0007745345
+energy_J: .0015490690

@@ -1,0 +1,17 @@
+--2023-05-12 20:26:14--  https://hal-insu.archives-ouvertes.fr/insu-01301729/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 356696 (348K) [application/pdf]
+Saving to: ‘./data/0.sdu/1301729.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  859K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 43% 1,66M 0s
+   150K .......... .......... .......... .......... .......... 57% 75,3M 0s
+   200K .......... .......... .......... .......... .......... 71% 1,64M 0s
+   250K .......... .......... .......... .......... .......... 86% 23,9M 0s
+   300K .......... .......... .......... .......... ........  100%  237K=0,4s
+
+2023-05-12 20:26:15 (987 KB/s) - ‘./data/0.sdu/1301729.pdf’ saved [356696/356696]
+

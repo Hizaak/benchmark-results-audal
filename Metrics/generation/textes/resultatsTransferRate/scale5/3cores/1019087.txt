@@ -1,0 +1,13 @@
+--2023-05-13 03:09:32--  https://hal-sciencespo.archives-ouvertes.fr/hal-01019087/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109917 (107K) [application/pdf]
+Saving to: ‘./data/0.shs/1019087.pdf’
+
+     0K .......... .......... .......... .......... .......... 46%  879K 0s
+    50K .......... .......... .......... .......... .......... 93% 1,65M 0s
+   100K .......                                               100%  578M=0,09s
+
+2023-05-13 03:09:33 (1,21 MB/s) - ‘./data/0.shs/1019087.pdf’ saved [109917/109917]
+

@@ -1,0 +1,13 @@
+--2023-05-12 19:49:45--  https://hal.sorbonne-universite.fr/hal-01206606/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117491 (115K) [application/pdf]
+Saving to: ‘./data/0.sdu/1206606.pdf’
+
+     0K .......... .......... .......... .......... .......... 43%  891K 0s
+    50K .......... .......... .......... .......... .......... 87% 1,76M 0s
+   100K .......... ....                                       100%  149M=0,08s
+
+2023-05-12 19:49:45 (1,33 MB/s) - ‘./data/0.sdu/1206606.pdf’ saved [117491/117491]
+

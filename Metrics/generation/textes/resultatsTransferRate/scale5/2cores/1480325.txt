@@ -1,0 +1,18 @@
+--2023-05-13 02:50:43--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01480325/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 379893 (371K) [application/pdf]
+Saving to: ‘./data/0.shs/1480325.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  891K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 40% 1,17M 0s
+   150K .......... .......... .......... .......... .......... 53% 1,56M 0s
+   200K .......... .......... .......... .......... .......... 67%  440M 0s
+   250K .......... .......... .......... .......... .......... 80% 24,3M 0s
+   300K .......... .......... .......... .......... .......... 94%  247K 0s
+   350K .......... ..........                                 100%  268M=0,4s
+
+2023-05-13 02:50:44 (1021 KB/s) - ‘./data/0.shs/1480325.pdf’ saved [379893/379893]
+

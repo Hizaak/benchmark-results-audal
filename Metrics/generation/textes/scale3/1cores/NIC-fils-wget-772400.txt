@@ -1,4 +1,0 @@
-****NIC ePerf for PID 772400*****
-time_S: 3
-avgPower_W: .0013011857
-energy_J: .0039035571

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 850344*****
+time_S: 14.013666156
+avgPower_W: 1.5690001129
+energy_J: 21.9874437816

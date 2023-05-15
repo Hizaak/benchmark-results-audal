@@ -1,4 +1,0 @@
-****CPU ePerf for PID 91393*****
-time_S: 137
-avgPower_W: .0314615384
-energy_J: 4.3102307608

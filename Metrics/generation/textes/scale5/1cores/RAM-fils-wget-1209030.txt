@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1209030*****
+time_S: 4.003467712
+avgPower_W: 1.5655789037
+energy_J: 6.2677445919

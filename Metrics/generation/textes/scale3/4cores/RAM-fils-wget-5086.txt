@@ -1,0 +1,4 @@
+****RAM ePerf for PID 5086*****
+time_S: 16.017054903
+avgPower_W:
+energy_J:

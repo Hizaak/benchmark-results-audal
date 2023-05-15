@@ -1,0 +1,4 @@
+****RAM ePerf for PID 598125*****
+time_S: 23.037476967
+avgPower_W: 1.5702425195
+energy_J: 36.1744258769

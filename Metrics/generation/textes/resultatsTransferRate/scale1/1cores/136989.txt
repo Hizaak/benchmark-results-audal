@@ -1,0 +1,17 @@
+--2023-05-12 16:59:08--  https://hal-bioemco.ccsd.cnrs.fr/bioemco-00136989/document
+Resolving hal-bioemco.ccsd.cnrs.fr (hal-bioemco.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to hal-bioemco.ccsd.cnrs.fr (hal-bioemco.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307228 (300K) [application/pdf]
+Saving to: ‘./data/0.sdv/136989.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  893K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,57M 0s
+   100K .......... .......... .......... .......... .......... 49%  400M 0s
+   150K .......... .......... .......... .......... .......... 66% 1,80M 0s
+   200K .......... .......... .......... .......... .......... 83% 14,3M 0s
+   250K .......... .......... .......... .......... .......... 99%  600M 0s
+   300K                                                       100% 52,2G=0,1s
+
+2023-05-12 16:59:14 (2,49 MB/s) - ‘./data/0.sdv/136989.pdf’ saved [307228/307228]
+

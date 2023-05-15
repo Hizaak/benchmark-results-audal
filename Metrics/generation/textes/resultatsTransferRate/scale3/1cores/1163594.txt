@@ -1,0 +1,17 @@
+--2023-05-12 18:45:11--  https://hal-unilim.archives-ouvertes.fr/hal-01163594/document
+Resolving hal-unilim.archives-ouvertes.fr (hal-unilim.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-unilim.archives-ouvertes.fr (hal-unilim.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 353625 (345K) [application/pdf]
+Saving to: ‘./data/0.scco/1163594.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  883K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 43% 1,64M 0s
+   150K .......... .......... .......... .......... .......... 57% 1,76M 0s
+   200K .......... .......... .......... .......... .......... 72% 17,6M 0s
+   250K .......... .......... .......... .......... .......... 86% 35,7M 0s
+   300K .......... .......... .......... .......... .....     100%  225K=0,3s
+
+2023-05-12 18:45:12 (990 KB/s) - ‘./data/0.scco/1163594.pdf’ saved [353625/353625]
+

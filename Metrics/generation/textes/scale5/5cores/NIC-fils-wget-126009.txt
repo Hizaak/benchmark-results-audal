@@ -1,0 +1,4 @@
+****NIC ePerf for PID 126009*****
+time_S: 3
+avgPower_W: .0004130781
+energy_J: .0012392343

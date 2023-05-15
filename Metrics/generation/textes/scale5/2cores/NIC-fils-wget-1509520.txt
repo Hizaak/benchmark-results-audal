@@ -1,0 +1,4 @@
+****NIC ePerf for PID 1509520*****
+time_S: 2
+avgPower_W: .0010786793
+energy_J: .0021573586

@@ -1,0 +1,15 @@
+--2023-05-13 03:47:17--  https://edutice.archives-ouvertes.fr/edutice-00135397/document
+Resolving edutice.archives-ouvertes.fr (edutice.archives-ouvertes.fr)... 193.48.96.10
+Connecting to edutice.archives-ouvertes.fr (edutice.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212366 (207K) [application/pdf]
+Saving to: ‘./data/0.shs/135397.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  887K 0s
+    50K .......... .......... .......... .......... .......... 48% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 72% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 96% 1,71M 0s
+   200K .......                                               100%  301M=0,1s
+
+2023-05-13 03:47:18 (1,43 MB/s) - ‘./data/0.shs/135397.pdf’ saved [212366/212366]
+

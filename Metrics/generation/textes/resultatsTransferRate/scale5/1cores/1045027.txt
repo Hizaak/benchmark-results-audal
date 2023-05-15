@@ -1,0 +1,14 @@
+--2023-05-13 00:27:05--  https://hal-sciencespo.archives-ouvertes.fr/hal-01045027/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159538 (156K) [application/pdf]
+Saving to: ‘./data/0.shs/1045027.pdf’
+
+     0K .......... .......... .......... .......... .......... 32%  876K 0s
+    50K .......... .......... .......... .......... .......... 64% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 96% 48,3M 0s
+   150K .....                                                 100%  536M=0,09s
+
+2023-05-13 00:27:07 (1,77 MB/s) - ‘./data/0.shs/1045027.pdf’ saved [159538/159538]
+

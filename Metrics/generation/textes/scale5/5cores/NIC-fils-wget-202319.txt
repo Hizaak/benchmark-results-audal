@@ -1,0 +1,4 @@
+****NIC ePerf for PID 202319*****
+time_S: 14
+avgPower_W: .0027493178
+energy_J: .0384904492

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1104758*****
-time_S: 3.003032349
-avgPower_W: 1.5692559034
-energy_J: 4.7125262419

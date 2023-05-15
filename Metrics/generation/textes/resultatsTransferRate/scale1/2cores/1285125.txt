@@ -1,0 +1,16 @@
+--2023-05-12 17:20:24--  https://hal-insu.archives-ouvertes.fr/insu-01285125/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282104 (275K) [application/pdf]
+Saving to: ‘./data/0.sdu/1285125.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  888K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 54% 9,36M 0s
+   150K .......... .......... .......... .......... .......... 72%  449M 0s
+   200K .......... .......... .......... .......... .......... 90% 2,11M 0s
+   250K .......... .......... .....                           100% 7,72M=0,1s
+
+2023-05-12 17:20:24 (2,28 MB/s) - ‘./data/0.sdu/1285125.pdf’ saved [282104/282104]
+

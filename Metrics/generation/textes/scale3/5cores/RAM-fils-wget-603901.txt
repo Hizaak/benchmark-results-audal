@@ -1,0 +1,4 @@
+****RAM ePerf for PID 603901*****
+time_S: 11.014249603
+avgPower_W: 1.5704108574
+energy_J: 17.2968971635

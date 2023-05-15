@@ -1,0 +1,4 @@
+****CPU ePerf for PID 2121941*****
+time_S: 4163
+avgPower_W: .0143811394
+energy_J: 59.8686833222

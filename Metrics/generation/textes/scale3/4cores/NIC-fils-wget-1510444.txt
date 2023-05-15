@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1510444*****
-time_S: 4
-avgPower_W: .0005298471
-energy_J: .0021193884

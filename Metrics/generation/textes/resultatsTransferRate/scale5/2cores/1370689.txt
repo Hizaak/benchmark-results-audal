@@ -1,0 +1,17 @@
+--2023-05-13 02:45:59--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01370689/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 356137 (348K) [application/pdf]
+Saving to: ‘./data/0.sdv/1370689.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  898K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 43% 1,67M 0s
+   150K .......... .......... .......... .......... .......... 57% 1,64M 0s
+   200K .......... .......... .......... .......... .......... 71% 17,3M 0s
+   250K .......... .......... .......... .......... .......... 86%  545M 0s
+   300K .......... .......... .......... .......... .......   100%  237K=0,3s
+
+2023-05-13 02:46:01 (1001 KB/s) - ‘./data/0.sdv/1370689.pdf’ saved [356137/356137]
+

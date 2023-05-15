@@ -1,0 +1,4 @@
+****RAM ePerf for PID 844270*****
+time_S: 11.010158663
+avgPower_W: 1.5702875566
+energy_J: 17.2891151456

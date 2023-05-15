@@ -1,4 +1,0 @@
-****RAM ePerf for PID 572700*****
-time_S: 3.003213815
-avgPower_W: 1.5701986113
-energy_J: 4.7156421620

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 1920803*****
+time_S: 2
+avgPower_W: .0006533904
+energy_J: .0013067808

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 94096*****
-time_S: 2.002078235
-avgPower_W:
-energy_J:

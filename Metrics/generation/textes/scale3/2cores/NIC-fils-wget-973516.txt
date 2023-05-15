@@ -1,4 +1,0 @@
-****NIC ePerf for PID 973516*****
-time_S: 11
-avgPower_W: .0027460123
-energy_J: .0302061353

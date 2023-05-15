@@ -1,0 +1,4 @@
+****NIC ePerf for PID 701*****
+time_S: 3
+avgPower_W: .0001403625
+energy_J: .0004210875

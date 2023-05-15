@@ -1,4 +1,0 @@
-****RAM ePerf for PID 99708*****
-time_S: 6.005372878
-avgPower_W: 1.5701124765
-energy_J: 9.4291108819

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 683250*****
-time_S: 2.001344136
-avgPower_W: 1.5698527402
-energy_J: 3.1418155760

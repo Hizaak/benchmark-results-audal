@@ -1,0 +1,4 @@
+****SD ePerf for PID 1521280*****
+time_S: 4
+avgPower_W: .0021045000
+energy_J: .0084180000

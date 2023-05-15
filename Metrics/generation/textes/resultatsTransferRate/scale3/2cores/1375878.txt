@@ -1,0 +1,13 @@
+--2023-05-12 19:53:43--  https://hal-emse.ccsd.cnrs.fr/emse-01375872/document
+Resolving hal-emse.ccsd.cnrs.fr (hal-emse.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to hal-emse.ccsd.cnrs.fr (hal-emse.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127244 (124K) [application/pdf]
+Saving to: ‘./data/0.sde/1375878.pdf’
+
+     0K .......... .......... .......... .......... .......... 40%  898K 0s
+    50K .......... .......... .......... .......... .......... 80% 1,68M 0s
+   100K .......... .......... ....                            100%  615M=0,08s
+
+2023-05-12 19:53:49 (1,43 MB/s) - ‘./data/0.sde/1375878.pdf’ saved [127244/127244]
+

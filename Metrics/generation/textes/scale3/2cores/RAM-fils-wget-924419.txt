@@ -1,4 +1,0 @@
-****RAM ePerf for PID 924419*****
-time_S: 19.030576403
-avgPower_W: 1.5623484126
-energy_J: 29.7323908357

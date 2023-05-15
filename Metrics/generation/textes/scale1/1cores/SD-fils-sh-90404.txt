@@ -1,4 +1,0 @@
-****SD ePerf for PID 90404*****
-time_S: 7
-avgPower_W: .0038613000
-energy_J: .0270291000

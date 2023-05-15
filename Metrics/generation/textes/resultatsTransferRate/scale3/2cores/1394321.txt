@@ -1,0 +1,17 @@
+--2023-05-12 20:18:46--  https://hal.sorbonne-universite.fr/hal-01394321/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323682 (316K) [application/pdf]
+Saving to: ‘./data/0.spi/1394321.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  890K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,64M 0s
+   100K .......... .......... .......... .......... .......... 47% 1,68M 0s
+   150K .......... .......... .......... .......... .......... 63% 1,65M 0s
+   200K .......... .......... .......... .......... .......... 79%  450M 0s
+   250K .......... .......... .......... .......... .......... 94% 39,8M 0s
+   300K .......... ......                                     100%  422M=0,1s
+
+2023-05-12 20:18:51 (2,11 MB/s) - ‘./data/0.spi/1394321.pdf’ saved [323682/323682]
+

@@ -1,0 +1,17 @@
+--2023-05-13 03:30:46--  https://hal-sciencespo.archives-ouvertes.fr/hal-01522013/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 342141 (334K) [application/pdf]
+Saving to: ‘./data/0.shs/1522013.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  893K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 44% 21,0M 0s
+   150K .......... .......... .......... .......... .......... 59% 1,74M 0s
+   200K .......... .......... .......... .......... .......... 74% 31,1M 0s
+   250K .......... .......... .......... .......... .......... 89% 19,1M 0s
+   300K .......... .......... .......... ....                 100%  166K=0,3s
+
+2023-05-13 03:30:47 (1,01 MB/s) - ‘./data/0.shs/1522013.pdf’ saved [342141/342141]
+

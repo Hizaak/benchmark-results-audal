@@ -1,0 +1,16 @@
+--2023-05-13 02:28:49--  https://univ-rennes.hal.science/hal-01114444/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297284 (290K) [application/pdf]
+Saving to: ‘./data/0.chim/1198760.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  892K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 51% 1,71M 0s
+   150K .......... .......... .......... .......... .......... 68% 31,3M 0s
+   200K .......... .......... .......... .......... .......... 86% 1,71M 0s
+   250K .......... .......... .......... ..........           100%  541M=0,1s
+
+2023-05-13 02:28:50 (1,98 MB/s) - ‘./data/0.chim/1198760.pdf’ saved [297284/297284]
+

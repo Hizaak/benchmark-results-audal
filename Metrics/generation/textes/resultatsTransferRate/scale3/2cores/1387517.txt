@@ -1,0 +1,17 @@
+--2023-05-12 19:58:44--  https://hal-insu.archives-ouvertes.fr/insu-01387517/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309931 (303K) [application/pdf]
+Saving to: ‘./data/0.sdu/1387517.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  898K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,68M 0s
+   150K .......... .......... .......... .......... .......... 66% 1,76M 0s
+   200K .......... .......... .......... .......... .......... 82% 44,8M 0s
+   250K .......... .......... .......... .......... .......... 99% 39,3M 0s
+   300K ..                                                    100% 4,97T=0,1s
+
+2023-05-12 19:58:44 (2,06 MB/s) - ‘./data/0.sdu/1387517.pdf’ saved [309931/309931]
+

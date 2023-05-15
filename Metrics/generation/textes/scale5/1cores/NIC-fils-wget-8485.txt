@@ -1,0 +1,4 @@
+****NIC ePerf for PID 8485*****
+time_S: 1
+avgPower_W: .0003829036
+energy_J: .0003829036

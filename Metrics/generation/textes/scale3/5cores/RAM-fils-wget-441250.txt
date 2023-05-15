@@ -1,0 +1,4 @@
+****RAM ePerf for PID 441250*****
+time_S: 4.014883376
+avgPower_W:
+energy_J:

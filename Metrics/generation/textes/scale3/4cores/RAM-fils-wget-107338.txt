@@ -1,0 +1,4 @@
+****RAM ePerf for PID 107338*****
+time_S: 62.059841841
+avgPower_W: 1.5700324574
+energy_J: 97.4359659957

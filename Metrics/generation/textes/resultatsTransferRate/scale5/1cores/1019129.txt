@@ -1,0 +1,14 @@
+--2023-05-13 00:16:35--  https://hal-sciencespo.archives-ouvertes.fr/hal-01019129/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166269 (162K) [application/pdf]
+Saving to: ‘./data/0.shs/1019129.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  898K 0s
+    50K .......... .......... .......... .......... .......... 61% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 92% 27,2M 0s
+   150K .......... ..                                         100%  491M=0,09s
+
+2023-05-13 00:16:37 (1,86 MB/s) - ‘./data/0.shs/1019129.pdf’ saved [166269/166269]
+

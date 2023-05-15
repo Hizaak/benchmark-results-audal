@@ -1,0 +1,4 @@
+****NIC ePerf for PID 792412*****
+time_S: 4
+avgPower_W: .0010929260
+energy_J: .0043717040

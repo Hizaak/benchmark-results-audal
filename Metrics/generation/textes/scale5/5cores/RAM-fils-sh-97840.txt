@@ -1,4 +1,0 @@
-****RAM ePerf for PID 97840*****
-time_S: 3.002878658
-avgPower_W:
-energy_J:

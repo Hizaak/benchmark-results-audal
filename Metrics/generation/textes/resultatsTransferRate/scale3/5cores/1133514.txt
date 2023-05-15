@@ -1,0 +1,15 @@
+--2023-05-12 21:19:41--  https://hal.univ-grenoble-alpes.fr/hal-01133514/document
+Resolving hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)... 193.48.96.10
+Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217696 (213K) [application/pdf]
+Saving to: ‘./data/0.shs/1133514.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  833K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 70% 1,57M 0s
+   150K .......... .......... .......... .......... .......... 94%  545M 0s
+   200K .......... ..                                         100%  491M=0,1s
+
+2023-05-12 21:19:42 (1,75 MB/s) - ‘./data/0.shs/1133514.pdf’ saved [217696/217696]
+

@@ -1,0 +1,14 @@
+--2023-05-12 19:25:31--  https://hal-audencia.archives-ouvertes.fr/hal-01395333/document
+Resolving hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184587 (180K) [application/pdf]
+Saving to: ‘./data/0.qfin/1395333.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  890K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,58M 0s
+   100K .......... .......... .......... .......... .......... 83% 1,28M 0s
+   150K .......... .......... ..........                      100%  487M=0,1s
+
+2023-05-12 19:25:32 (1,41 MB/s) - ‘./data/0.qfin/1395333.pdf’ saved [184587/184587]
+

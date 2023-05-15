@@ -1,0 +1,4 @@
+****RAM ePerf for PID 55513*****
+time_S: 34.035116318
+avgPower_W: 1.5700241185
+energy_J: 53.4359534959

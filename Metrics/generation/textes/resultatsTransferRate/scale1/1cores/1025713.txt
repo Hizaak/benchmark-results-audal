@@ -1,0 +1,16 @@
+--2023-05-12 17:11:40--  https://hal-polytechnique.archives-ouvertes.fr/hal-01025713/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300257 (293K) [application/pdf]
+Saving to: ‘./data/0.phys/1025713.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  906K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 51% 1,66M 0s
+   150K .......... .......... .......... .......... .......... 68%  137M 0s
+   200K .......... .......... .......... .......... .......... 85% 1,71M 0s
+   250K .......... .......... .......... .......... ...       100% 55,8M=0,1s
+
+2023-05-12 17:11:41 (2,01 MB/s) - ‘./data/0.phys/1025713.pdf’ saved [300257/300257]
+

@@ -1,0 +1,13 @@
+--2023-05-12 20:53:54--  https://u-bourgogne.hal.science/hal-01067716/document
+Resolving u-bourgogne.hal.science (u-bourgogne.hal.science)... 193.48.96.10
+Connecting to u-bourgogne.hal.science (u-bourgogne.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139704 (136K) [application/pdf]
+Saving to: ‘./data/0.spi/1067716.pdf’
+
+     0K .......... .......... .......... .......... .......... 36%  842K 0s
+    50K .......... .......... .......... .......... .......... 73% 1,62M 0s
+   100K .......... .......... .......... ......               100% 1,27M=0,1s
+
+2023-05-12 20:54:00 (1,13 MB/s) - ‘./data/0.spi/1067716.pdf’ saved [139704/139704]
+

@@ -1,0 +1,15 @@
+--2023-05-12 20:02:31--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024114/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242064 (236K) [application/pdf]
+Saving to: ‘./data/0.shs/1024114.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  878K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 63% 16,5M 0s
+   150K .......... .......... .......... .......... .......... 84%  582M 0s
+   200K .......... .......... .......... ......               100% 1,27M=0,1s
+
+2023-05-12 20:02:32 (1,98 MB/s) - ‘./data/0.shs/1024114.pdf’ saved [242064/242064]
+

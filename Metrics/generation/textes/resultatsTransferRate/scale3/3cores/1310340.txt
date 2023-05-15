@@ -1,0 +1,16 @@
+--2023-05-12 20:28:48--  https://hal-amu.archives-ouvertes.fr/hal-01310340/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263048 (257K) [application/pdf]
+Saving to: ‘./data/0.math/1310340.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  225K 1s
+    50K .......... .......... .......... .......... .......... 38%  605K 0s
+   100K .......... .......... .......... .......... .......... 58%  606K 0s
+   150K .......... .......... .......... .......... .......... 77%  594K 0s
+   200K .......... .......... .......... .......... .......... 97%  645K 0s
+   250K ......                                                100% 1,91M=0,6s
+
+2023-05-12 20:28:49 (465 KB/s) - ‘./data/0.math/1310340.pdf’ saved [263048/263048]
+

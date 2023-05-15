@@ -1,0 +1,20 @@
+--2023-05-13 04:27:11--  https://hal-ensta-paris.archives-ouvertes.fr/hal-01160242/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-01160242/document [following]
+--2023-05-13 04:27:12--  https://ensta-paris.hal.science/hal-01160242/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207481 (203K) [application/pdf]
+Saving to: ‘./data/0.math/1160242.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  894K 0s
+    50K .......... .......... .......... .......... .......... 49% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 74% 1,66M 0s
+   150K .......... .......... .......... .......... .......... 98%  503M 0s
+   200K ..                                                    100%  270M=0,1s
+
+2023-05-13 04:27:12 (1,74 MB/s) - ‘./data/0.math/1160242.pdf’ saved [207481/207481]
+

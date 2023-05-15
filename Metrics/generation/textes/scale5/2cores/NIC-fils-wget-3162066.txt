@@ -1,4 +1,0 @@
-****NIC ePerf for PID 3162066*****
-time_S: 5
-avgPower_W: .0008177926
-energy_J: .0040889630

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 610108*****
-time_S: 14.014992928
-avgPower_W: 1.5709572969
-energy_J: 22.0169554075

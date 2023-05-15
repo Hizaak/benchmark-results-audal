@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1111972*****
-time_S: 14
-avgPower_W: .0011766374
-energy_J: .0164729236

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2626*****
+time_S: 1.000813570
+avgPower_W:
+energy_J:

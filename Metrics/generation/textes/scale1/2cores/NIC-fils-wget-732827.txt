@@ -1,0 +1,4 @@
+****NIC ePerf for PID 732827*****
+time_S: 2
+avgPower_W: .0002226819
+energy_J: .0004453638

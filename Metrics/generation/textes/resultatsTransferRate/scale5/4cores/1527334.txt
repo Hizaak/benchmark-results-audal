@@ -1,0 +1,17 @@
+--2023-05-13 03:51:45--  https://hal-univ-tln.archives-ouvertes.fr/hal-01527334/document
+Resolving hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 331203 (323K) [application/pdf]
+Saving to: ‘./data/0.shs/1527334.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  900K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 46% 1,71M 0s
+   150K .......... .......... .......... .......... .......... 61% 1,68M 0s
+   200K .......... .......... .......... .......... .......... 77% 24,6M 0s
+   250K .......... .......... .......... .......... .......... 92%  519M 0s
+   300K .......... .......... ...                             100%  545M=0,1s
+
+2023-05-13 03:51:51 (2,20 MB/s) - ‘./data/0.shs/1527334.pdf’ saved [331203/331203]
+

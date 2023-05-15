@@ -1,0 +1,16 @@
+--2023-05-13 00:09:08--  https://hal-cea.archives-ouvertes.fr/cea-01383762/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278980 (272K) [application/pdf]
+Saving to: ‘./data/0.phys/1383762.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  874K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,76M 0s
+   150K .......... .......... .......... .......... .......... 73% 23,9M 0s
+   200K .......... .......... .......... .......... .......... 91% 1,91M 0s
+   250K .......... .......... ..                              100% 11,2M=0,1s
+
+2023-05-13 00:09:14 (1,86 MB/s) - ‘./data/0.phys/1383762.pdf’ saved [278980/278980]
+

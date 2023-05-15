@@ -1,0 +1,4 @@
+****RAM ePerf for PID 900117*****
+time_S: 372.504378030
+avgPower_W: 1.5604050948
+energy_J: 581.2577293468

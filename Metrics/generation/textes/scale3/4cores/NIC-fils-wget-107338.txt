@@ -1,0 +1,4 @@
+****NIC ePerf for PID 107338*****
+time_S: 62
+avgPower_W: .0031806165
+energy_J: .1971982230

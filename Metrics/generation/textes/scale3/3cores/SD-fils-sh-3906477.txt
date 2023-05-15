@@ -1,0 +1,4 @@
+****SD ePerf for PID 3906477*****
+time_S: 12
+avgPower_W: .0038239375
+energy_J: .0458872500

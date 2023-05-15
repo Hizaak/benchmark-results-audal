@@ -1,0 +1,4 @@
+****RAM ePerf for PID 107315*****
+time_S: 6.004733122
+avgPower_W: 1.5704721576
+energy_J: 9.4302661825

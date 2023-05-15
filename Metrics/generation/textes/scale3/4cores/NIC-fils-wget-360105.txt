@@ -1,0 +1,4 @@
+****NIC ePerf for PID 360105*****
+time_S: 7
+avgPower_W: .0012050480
+energy_J: .0084353360

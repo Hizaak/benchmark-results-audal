@@ -1,0 +1,4 @@
+****CPU ePerf for PID 98890*****
+time_S: 13
+avgPower_W: .0200000000
+energy_J: .2600000000

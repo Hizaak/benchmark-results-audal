@@ -1,0 +1,4 @@
+****SD ePerf for PID 961950*****
+time_S: 17
+avgPower_W: .0039688125
+energy_J: .0674698125

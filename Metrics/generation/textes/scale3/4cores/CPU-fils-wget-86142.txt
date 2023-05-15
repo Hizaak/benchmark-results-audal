@@ -1,0 +1,4 @@
+****CPU ePerf for PID 86142*****
+time_S: 6
+avgPower_W: .0350000000
+energy_J: .2100000000

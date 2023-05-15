@@ -1,0 +1,17 @@
+--2023-05-13 04:05:20--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01498515/document
+Resolving hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 325009 (317K) [application/pdf]
+Saving to: ‘./data/0.scco/1498515.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  699K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 47% 1,67M 0s
+   150K .......... .......... .......... .......... .......... 63% 1,90M 0s
+   200K .......... .......... .......... .......... .......... 78% 14,2M 0s
+   250K .......... .......... .......... .......... .......... 94% 49,8M 0s
+   300K .......... .......                                    100%  574M=0,2s
+
+2023-05-13 04:05:21 (1,95 MB/s) - ‘./data/0.scco/1498515.pdf’ saved [325009/325009]
+

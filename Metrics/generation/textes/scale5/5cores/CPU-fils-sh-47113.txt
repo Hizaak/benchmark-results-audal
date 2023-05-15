@@ -1,0 +1,4 @@
+****CPU ePerf for PID 47113*****
+time_S: -1683945226
+avgPower_W:
+energy_J:

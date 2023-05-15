@@ -1,0 +1,14 @@
+--2023-05-13 01:40:49--  https://hal-insu.archives-ouvertes.fr/insu-01387832/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203607 (199K) [application/pdf]
+Saving to: ‘./data/0.phys/1387832.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  897K 0s
+    50K .......... .......... .......... .......... .......... 50% 1,75M 0s
+   100K .......... .......... .......... .......... .......... 75% 1,66M 0s
+   150K .......... .......... .......... .......... ........  100% 1,79M=0,1s
+
+2023-05-13 01:40:50 (1,39 MB/s) - ‘./data/0.phys/1387832.pdf’ saved [203607/203607]
+

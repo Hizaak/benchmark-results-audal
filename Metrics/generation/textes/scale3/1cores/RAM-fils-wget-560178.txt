@@ -1,4 +1,0 @@
-****RAM ePerf for PID 560178*****
-time_S: 4.004378223
-avgPower_W: 1.5702596376
-energy_J: 6.2879134976

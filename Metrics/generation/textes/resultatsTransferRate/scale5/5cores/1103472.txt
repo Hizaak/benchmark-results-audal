@@ -1,0 +1,15 @@
+--2023-05-13 04:26:16--  https://shs.hal.science/halshs-01103472/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247674 (242K) [application/pdf]
+Saving to: ‘./data/0.shs/1103472.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  824K 0s
+    50K .......... .......... .......... .......... .......... 41% 1,55M 0s
+   100K .......... .......... .......... .......... .......... 62% 99,9M 0s
+   150K .......... .......... .......... .......... .......... 82% 1,75M 0s
+   200K .......... .......... .......... .......... .         100% 35,7M=0,1s
+
+2023-05-13 04:26:17 (1,94 MB/s) - ‘./data/0.shs/1103472.pdf’ saved [247674/247674]
+

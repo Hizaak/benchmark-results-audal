@@ -1,4 +1,0 @@
-****CPU ePerf for PID 137363*****
-time_S: 96
-avgPower_W: .0758620689
-energy_J: 7.2827586144

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 682486*****
+time_S: 13
+avgPower_W: .0009958420
+energy_J: .0129459460

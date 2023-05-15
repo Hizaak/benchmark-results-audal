@@ -1,4 +1,0 @@
-****NIC ePerf for PID 2244151*****
-time_S: 2
-avgPower_W: .0003996909
-energy_J: .0007993818

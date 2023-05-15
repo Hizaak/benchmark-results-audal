@@ -1,0 +1,4 @@
+****NIC ePerf for PID 2004042*****
+time_S: 9
+avgPower_W: .0013511021
+energy_J: .0121599189

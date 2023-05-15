@@ -1,4 +1,0 @@
-****RAM ePerf for PID 76078*****
-time_S: 2.002196307
-avgPower_W:
-energy_J:

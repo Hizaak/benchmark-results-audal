@@ -1,0 +1,14 @@
+--2023-05-12 19:23:54--  https://hal-sciencespo.archives-ouvertes.fr/hal-01027812/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180116 (176K) [application/pdf]
+Saving to: ‘./data/0.shs/1027812.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  803K 0s
+    50K .......... .......... .......... .......... .......... 56% 1,61M 0s
+   100K .......... .......... .......... .......... .......... 85% 1,73M 0s
+   150K .......... .......... .....                           100%  547M=0,1s
+
+2023-05-12 19:24:00 (1,42 MB/s) - ‘./data/0.shs/1027812.pdf’ saved [180116/180116]
+

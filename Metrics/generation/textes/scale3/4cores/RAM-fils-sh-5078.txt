@@ -1,0 +1,4 @@
+****RAM ePerf for PID 5078*****
+time_S: 17.014271889
+avgPower_W:
+energy_J:

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 24501*****
-time_S: 4.004476886
-avgPower_W: 1.5709436963
-energy_J: 6.2908077212

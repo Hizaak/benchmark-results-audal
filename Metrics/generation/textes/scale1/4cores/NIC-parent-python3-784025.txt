@@ -1,4 +1,0 @@
-****NIC ePerf for PID 784025*****
-time_S: 683
-avgPower_W: .0000480755
-energy_J: .0328355665

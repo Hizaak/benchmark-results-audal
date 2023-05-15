@@ -1,4 +1,0 @@
-****CPU ePerf for PID 51027*****
-time_S: -1682639159
-avgPower_W:
-energy_J:

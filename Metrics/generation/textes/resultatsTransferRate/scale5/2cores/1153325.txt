@@ -1,0 +1,13 @@
+--2023-05-13 02:37:43--  https://hal.sorbonne-universite.fr/hal-01153325/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112314 (110K) [application/pdf]
+Saving to: ‘./data/0.sdv/1153325.pdf’
+
+     0K .......... .......... .......... .......... .......... 45%  881K 0s
+    50K .......... .......... .......... .......... .......... 91% 1,79M 0s
+   100K .........                                             100%  738M=0,08s
+
+2023-05-13 02:37:44 (1,27 MB/s) - ‘./data/0.sdv/1153325.pdf’ saved [112314/112314]
+

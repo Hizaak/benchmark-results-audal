@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1136425*****
+time_S: 9.008414122
+avgPower_W: 1.5709240775
+energy_J: 14.1515346445

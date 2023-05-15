@@ -1,0 +1,4 @@
+****CPU ePerf for PID 516063*****
+time_S: 3
+avgPower_W: .0466666666
+energy_J: .1399999998

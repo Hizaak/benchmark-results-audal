@@ -1,0 +1,18 @@
+--2023-05-12 21:18:59--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01111672/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 365632 (357K) [application/pdf]
+Saving to: ‘./data/0.spi/1111672.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  899K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,66M 0s
+   100K .......... .......... .......... .......... .......... 42% 21,7M 0s
+   150K .......... .......... .......... .......... .......... 56%  555M 0s
+   200K .......... .......... .......... .......... .......... 70% 1,68M 0s
+   250K .......... .......... .......... .......... .......... 84% 22,8M 0s
+   300K .......... .......... .......... .......... .......... 98%  242K 0s
+   350K .......                                               100%  129M=0,3s
+
+2023-05-12 21:19:00 (1,07 MB/s) - ‘./data/0.spi/1111672.pdf’ saved [365632/365632]
+

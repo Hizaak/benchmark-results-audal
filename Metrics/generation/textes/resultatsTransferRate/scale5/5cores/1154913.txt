@@ -1,0 +1,14 @@
+--2023-05-13 04:40:55--  https://hal-univ-avignon.archives-ouvertes.fr/hal-01154913/document
+Resolving hal-univ-avignon.archives-ouvertes.fr (hal-univ-avignon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-avignon.archives-ouvertes.fr (hal-univ-avignon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156292 (153K) [application/pdf]
+Saving to: ‘./data/0.math/1154913.pdf’
+
+     0K .......... .......... .......... .......... .......... 32%  884K 0s
+    50K .......... .......... .......... .......... .......... 65% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 98% 96,0M 0s
+   150K ..                                                    100%  244M=0,09s
+
+2023-05-13 04:40:56 (1,75 MB/s) - ‘./data/0.math/1154913.pdf’ saved [156292/156292]
+

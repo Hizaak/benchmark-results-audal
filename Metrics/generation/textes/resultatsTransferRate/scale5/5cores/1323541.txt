@@ -1,0 +1,17 @@
+--2023-05-13 04:32:01--  https://hal-inalco.archives-ouvertes.fr/hal-01323541/document
+Resolving hal-inalco.archives-ouvertes.fr (hal-inalco.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-inalco.archives-ouvertes.fr (hal-inalco.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 352497 (344K) [application/pdf]
+Saving to: ‘./data/0.shs/1323541.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  636K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 43% 1,21M 0s
+   150K .......... .......... .......... .......... .......... 58% 1,07M 0s
+   200K .......... .......... .......... .......... .......... 72% 42,5M 0s
+   250K .......... .......... .......... .......... .......... 87% 21,1M 0s
+   300K .......... .......... .......... .......... ....      100% 98,7M=0,2s
+
+2023-05-13 04:32:03 (1,71 MB/s) - ‘./data/0.shs/1323541.pdf’ saved [352497/352497]
+

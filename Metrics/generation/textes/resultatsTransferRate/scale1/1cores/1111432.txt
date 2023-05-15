@@ -1,0 +1,28 @@
+--2023-05-12 17:15:55--  https://hal.univ-grenoble-alpes.fr/hal-01111432/document
+Resolving hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)... 193.48.96.10
+Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-12 17:16:06--  (try: 2)  https://hal.univ-grenoble-alpes.fr/hal-01111432/document
+Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-12 17:16:18--  (try: 3)  https://hal.univ-grenoble-alpes.fr/hal-01111432/document
+Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 470154 (459K) [application/pdf]
+Saving to: ‘./data/0.shs/1111432.pdf’
+
+     0K .......... .......... .......... .......... .......... 10%  609K 1s
+    50K .......... .......... .......... .......... .......... 21% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 32% 1,74M 0s
+   150K .......... .......... .......... .......... .......... 43% 21,9M 0s
+   200K .......... .......... .......... .......... .......... 54%  549M 0s
+   250K .......... .......... .......... .......... .......... 65% 1,67M 0s
+   300K .......... .......... .......... .......... .......... 76%  241K 0s
+   350K .......... .......... .......... .......... .......... 87%  374M 0s
+   400K .......... .......... .......... .......... .......... 98%  475M 0s
+   450K .........                                             100% 1008M=0,4s
+
+2023-05-12 17:16:22 (1,18 MB/s) - ‘./data/0.shs/1111432.pdf’ saved [470154/470154]
+

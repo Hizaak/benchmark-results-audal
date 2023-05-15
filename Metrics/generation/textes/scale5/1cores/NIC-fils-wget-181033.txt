@@ -1,0 +1,4 @@
+****NIC ePerf for PID 181033*****
+time_S: 4
+avgPower_W: .0012333518
+energy_J: .0049334072

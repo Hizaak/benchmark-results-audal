@@ -1,0 +1,4 @@
+****RAM ePerf for PID 45641*****
+time_S: 6.009888267
+avgPower_W:
+energy_J:

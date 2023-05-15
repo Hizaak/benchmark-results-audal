@@ -1,0 +1,4 @@
+****NIC ePerf for PID 2127481*****
+time_S: 3
+avgPower_W: .0015591905
+energy_J: .0046775715

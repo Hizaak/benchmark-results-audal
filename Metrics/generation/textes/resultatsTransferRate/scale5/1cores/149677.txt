@@ -1,0 +1,14 @@
+--2023-05-13 01:23:13--  https://www.hal.inserm.fr/inserm-00149677/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169958 (166K) [application/pdf]
+Saving to: ‘./data/0.sdv/149677.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  893K 0s
+    50K .......... .......... .......... .......... .......... 60% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 90% 1,77M 0s
+   150K .......... .....                                      100%  477M=0,1s
+
+2023-05-13 01:23:14 (1,44 MB/s) - ‘./data/0.sdv/149677.pdf’ saved [169958/169958]
+

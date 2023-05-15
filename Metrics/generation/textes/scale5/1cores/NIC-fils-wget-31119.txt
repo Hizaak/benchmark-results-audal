@@ -1,0 +1,4 @@
+****NIC ePerf for PID 31119*****
+time_S: 2
+avgPower_W: .0001171665
+energy_J: .0002343330

@@ -1,0 +1,17 @@
+--2023-05-12 20:18:17--  https://hal.sorbonne-universite.fr/hal-01270977/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307246 (300K) [application/pdf]
+Saving to: ‘./data/0.sdv/1270977.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  879K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 49% 24,8M 0s
+   150K .......... .......... .......... .......... .......... 66% 1,72M 0s
+   200K .......... .......... .......... .......... .......... 83% 32,9M 0s
+   250K .......... .......... .......... .......... .......... 99%  454M 0s
+   300K                                                       100% 85,7G=0,1s
+
+2023-05-12 20:18:17 (2,50 MB/s) - ‘./data/0.sdv/1270977.pdf’ saved [307246/307246]
+

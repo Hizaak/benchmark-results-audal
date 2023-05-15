@@ -1,0 +1,4 @@
+****CPU ePerf for PID 900117*****
+time_S: 372
+avgPower_W: .0054634146
+energy_J: 2.0323902312

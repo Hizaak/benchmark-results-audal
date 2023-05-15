@@ -1,4 +1,0 @@
-****CPU ePerf for PID 531446*****
-time_S: 680
-avgPower_W: .0072500000
-energy_J: 4.9300000000

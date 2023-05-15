@@ -1,4 +1,0 @@
-****NIC ePerf for PID 777462*****
-time_S: 6
-avgPower_W: .0007654927
-energy_J: .0045929562

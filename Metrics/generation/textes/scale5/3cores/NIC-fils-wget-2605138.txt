@@ -1,0 +1,4 @@
+****NIC ePerf for PID 2605138*****
+time_S: 12
+avgPower_W: .0032964313
+energy_J: .0395571756

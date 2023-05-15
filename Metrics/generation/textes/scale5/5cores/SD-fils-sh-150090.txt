@@ -1,4 +1,0 @@
-****SD ePerf for PID 150090*****
-time_S: 7
-avgPower_W: 0
-energy_J: 0

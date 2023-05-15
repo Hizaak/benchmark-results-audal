@@ -1,4 +1,0 @@
-****NIC ePerf for PID 92480*****
-time_S: 14
-avgPower_W: .0027869026
-energy_J: .0390166364

@@ -1,0 +1,16 @@
+--2023-05-13 04:09:56--  https://univ-rennes.hal.science/hal-01301359/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283964 (277K) [application/pdf]
+Saving to: ‘./data/0.phys/1310280.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  891K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 54% 29,9M 0s
+   150K .......... .......... .......... .......... .......... 72%  425M 0s
+   200K .......... .......... .......... .......... .......... 90% 1,71M 0s
+   250K .......... .......... .......                         100%  519M=0,1s
+
+2023-05-13 04:09:57 (2,33 MB/s) - ‘./data/0.phys/1310280.pdf’ saved [283964/283964]
+

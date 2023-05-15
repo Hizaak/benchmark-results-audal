@@ -1,4 +1,0 @@
-****NIC ePerf for PID 938004*****
-time_S: 6
-avgPower_W: .0010357555
-energy_J: .0062145330

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 1545083*****
-time_S: -1682619361
-avgPower_W:
-energy_J:

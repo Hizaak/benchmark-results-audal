@@ -1,0 +1,16 @@
+--2023-05-13 00:14:43--  https://hal-sciencespo.archives-ouvertes.fr/hal-01522827/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297677 (291K) [application/pdf]
+Saving to: ‘./data/0.shs/1522827.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  910K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,70M 0s
+   100K .......... .......... .......... .......... .......... 51% 1,65M 0s
+   150K .......... .......... .......... .......... .......... 68% 39,8M 0s
+   200K .......... .......... .......... .......... .......... 85% 1,68M 0s
+   250K .......... .......... .......... ..........           100%  548M=0,1s
+
+2023-05-13 00:14:44 (1,98 MB/s) - ‘./data/0.shs/1522827.pdf’ saved [297677/297677]
+

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 545298*****
-time_S: 3.008118801
-avgPower_W: 1.5695610725
-energy_J: 4.7214261718

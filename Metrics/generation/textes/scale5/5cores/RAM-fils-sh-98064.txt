@@ -1,0 +1,4 @@
+****RAM ePerf for PID 98064*****
+time_S: 10.009217425
+avgPower_W:
+energy_J:

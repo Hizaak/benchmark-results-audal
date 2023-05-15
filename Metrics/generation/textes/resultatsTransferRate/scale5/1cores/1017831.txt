@@ -1,0 +1,13 @@
+--2023-05-13 01:44:44--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017831/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139281 (136K) [application/pdf]
+Saving to: ‘./data/0.shs/1017831.pdf’
+
+     0K .......... .......... .......... .......... .......... 36%  899K 0s
+    50K .......... .......... .......... .......... .......... 73% 1,72M 0s
+   100K .......... .......... .......... ......               100% 53,3M=0,08s
+
+2023-05-13 01:44:46 (1,57 MB/s) - ‘./data/0.shs/1017831.pdf’ saved [139281/139281]
+

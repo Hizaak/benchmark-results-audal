@@ -1,0 +1,18 @@
+--2023-05-12 20:57:53--  https://hal-sciencespo.archives-ouvertes.fr/hal-01065036/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 408714 (399K) [application/pdf]
+Saving to: ‘./data/0.shs/1065036.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  883K 0s
+    50K .......... .......... .......... .......... .......... 25%  903K 0s
+   100K .......... .......... .......... .......... .......... 37% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 50% 1,58M 0s
+   200K .......... .......... .......... .......... .......... 62% 21,8M 0s
+   250K .......... .......... .......... .......... .......... 75%  559M 0s
+   300K .......... .......... .......... .......... .......... 87% 34,2M 0s
+   350K .......... .......... .......... .......... ......... 100%  240K=0,4s
+
+2023-05-12 20:57:55 (1,03 MB/s) - ‘./data/0.shs/1065036.pdf’ saved [408714/408714]
+

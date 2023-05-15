@@ -11,17 +11,8 @@ function on_sigint {
 trap on_sigint SIGINT
 
 delete_all_files() {
-    #Document
-    find /home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkPowerJoular -type f -name "*.txt" -delete
-    find /home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkPowerJoular -type f -name "*.csv" -delete
-
-    #Ingestion
-    find /home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkPowerJoular -type f -name "*.txt" -delete
-    find /home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkPowerJoular -type f -name "*.csv" -delete
-
-    #Scripts
-    find /home/amaurice/Bureau/Stage/AudalMetadata/AdvancedMetadata/benchmarkPowerJoular -type f -name "*.txt" -delete
-    find /home/amaurice/Bureau/Stage/AudalMetadata/AdvancedMetadata/benchmarkPowerJoular -type f -name "*.csv" -delete
+    find /home/amaurice/Bureau/benchmark-results-audal/PowerJoular -type f -name "*.txt" -delete
+    find /home/amaurice/Bureau/benchmark-results-audal/PowerJoular -type f -name "*.csv" -delete
 }
 
 delete_files() {
@@ -70,7 +61,7 @@ ingestion_powerjoular(){
         done
         coeurs=$(echo "$coeurs" | sed 's/.$//')
 
-        echo "Ingestion de $echelle*200 documents avec $coeur coeur(s)."
+        echo "Ingestion de $echelle*200 documents avec $((coeur+1)) coeur(s)."
         
         racine=$(pwd)
 
@@ -80,11 +71,12 @@ ingestion_powerjoular(){
 
         parent=$!
 
-        cd $racine || exit
 
         echo "Mesure de l'ingestion des documents sur le PID $parent."
-        surveiller $parent "/home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkPowerJoular" $echelle $((coeur+1))
-        delete_files csv "/home/amaurice/Bureau/Stage/AudalMetadata/BasicMetadata/benchmarkPowerJoular/"
+
+        surveiller $parent "/home/amaurice/Bureau/benchmark-results-audal/PowerJoular/ingestion" $echelle $((coeur+1))
+        delete_files csv /home/amaurice/Bureau/benchmark-results-audal/PowerJoular/
+        cd $racine || exit
     done
 
 }
@@ -103,10 +95,11 @@ generation_powerjoular(){
             cd /home/amaurice/Bureau/Stage/DLBench/Documents/ || exit;
             python3 /home/amaurice/Bureau/Stage/DLBench/Documents/DocumentDataGen.py -S $i -J $j -B 1 &
             parent=$!
-            cd $racine || exit
             echo "Mesure de la génération des documents sur le PID $parent."
-            surveiller $parent "/home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkPowerJoular" $i $j
-            delete_files csv "/home/amaurice/Bureau/Stage/DLBench/Documents/benchmarkPowerJoular/"
+            surveiller $parent "/home/amaurice/Bureau/benchmark-results-audal/PowerJoular/generation/textes" $i $j
+            delete_files csv /home/amaurice/Bureau/benchmark-results-audal/PowerJoular/
+            cd $racine || exit
+
         done
         
 

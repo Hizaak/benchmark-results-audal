@@ -1,4 +1,0 @@
-****RAM ePerf for PID 59326*****
-time_S: 15.015520482
-avgPower_W: 1.5629215400
-energy_J: 23.4680803960

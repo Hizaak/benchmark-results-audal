@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1013219*****
-time_S: 2.002129035
-avgPower_W: 1.5760578566
-energy_J: 3.1554711957

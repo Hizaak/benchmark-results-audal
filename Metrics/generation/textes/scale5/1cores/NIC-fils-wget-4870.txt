@@ -1,0 +1,4 @@
+****NIC ePerf for PID 4870*****
+time_S: 3
+avgPower_W: .0015166251
+energy_J: .0045498753

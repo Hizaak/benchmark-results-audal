@@ -1,0 +1,15 @@
+--2023-05-13 02:39:39--  https://hal-sciencespo.archives-ouvertes.fr/hal-01310855/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215721 (211K) [application/pdf]
+Saving to: ‘./data/0.shs/1310855.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  886K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 71% 32,4M 0s
+   150K .......... .......... .......... .......... .......... 94% 52,6M 0s
+   200K ..........                                            100%  452M=0,09s
+
+2023-05-13 02:39:40 (2,36 MB/s) - ‘./data/0.shs/1310855.pdf’ saved [215721/215721]
+

@@ -1,0 +1,13 @@
+--2023-05-13 01:58:28--  https://hal.science/hal-00114165/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140007 (137K) [application/pdf]
+Saving to: ‘./data/0.math/114165.pdf’
+
+     0K .......... .......... .......... .......... .......... 36%  889K 0s
+    50K .......... .......... .......... .......... .......... 73% 1,77M 0s
+   100K .......... .......... .......... ......               100% 90,7M=0,08s
+
+2023-05-13 01:58:29 (1,59 MB/s) - ‘./data/0.math/114165.pdf’ saved [140007/140007]
+

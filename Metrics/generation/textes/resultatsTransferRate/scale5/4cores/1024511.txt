@@ -1,0 +1,15 @@
+--2023-05-13 04:05:44--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024511/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243477 (238K) [application/pdf]
+Saving to: ‘./data/0.shs/1024511.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  787K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,80M 0s
+   100K .......... .......... .......... .......... .......... 63% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 84% 2,00M 0s
+   200K .......... .......... .......... .......              100%  438M=0,1s
+
+2023-05-13 04:05:45 (1,61 MB/s) - ‘./data/0.shs/1024511.pdf’ saved [243477/243477]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 196080*****
+time_S: 13.011018942
+avgPower_W: 1.5703823151
+energy_J: 20.4322740488

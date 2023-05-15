@@ -1,0 +1,17 @@
+--2023-05-13 04:07:42--  https://hal-ens-lyon.archives-ouvertes.fr/ensl-01402051/document
+Resolving hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 346047 (338K) [application/pdf]
+Saving to: ‘./data/0.math/1402051.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  897K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 44% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 59% 1,75M 0s
+   200K .......... .......... .......... .......... .......... 73% 23,5M 0s
+   250K .......... .......... .......... .......... .......... 88% 1,71M 0s
+   300K .......... .......... .......... .......              100%  534M=0,2s
+
+2023-05-13 04:07:43 (1,93 MB/s) - ‘./data/0.math/1402051.pdf’ saved [346047/346047]
+

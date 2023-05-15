@@ -1,4 +1,0 @@
-****RAM ePerf for PID 643690*****
-time_S: 12.012387374
-avgPower_W: 1.5648297927
-energy_J: 18.7973416450

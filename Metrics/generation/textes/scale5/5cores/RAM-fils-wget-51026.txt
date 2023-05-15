@@ -1,0 +1,4 @@
+****RAM ePerf for PID 51026*****
+time_S: 9.008768404
+avgPower_W: 1.5708217879
+energy_J: 14.1511696920

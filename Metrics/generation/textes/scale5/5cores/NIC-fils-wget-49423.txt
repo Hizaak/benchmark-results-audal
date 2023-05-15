@@ -1,4 +1,0 @@
-****NIC ePerf for PID 49423*****
-time_S: 11
-avgPower_W: .0000165636
-energy_J: .0001821996

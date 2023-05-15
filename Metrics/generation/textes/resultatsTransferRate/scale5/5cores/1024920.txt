@@ -1,0 +1,18 @@
+--2023-05-13 04:22:47--  https://hal-polytechnique.archives-ouvertes.fr/hal-01024920/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 363940 (355K) [application/pdf]
+Saving to: ‘./data/0.phys/1024920.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  871K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 42% 37,7M 0s
+   150K .......... .......... .......... .......... .......... 56% 1,60M 0s
+   200K .......... .......... .......... .......... .......... 70% 18,7M 0s
+   250K .......... .......... .......... .......... .......... 84%  581M 0s
+   300K .......... .......... .......... .......... .......... 98%  242K 0s
+   350K .....                                                 100%  292M=0,3s
+
+2023-05-13 04:22:48 (1,07 MB/s) - ‘./data/0.phys/1024920.pdf’ saved [363940/363940]
+

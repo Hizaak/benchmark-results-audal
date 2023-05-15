@@ -1,4 +1,0 @@
-****RAM ePerf for PID 52061*****
-time_S: 3.002791251
-avgPower_W:
-energy_J:

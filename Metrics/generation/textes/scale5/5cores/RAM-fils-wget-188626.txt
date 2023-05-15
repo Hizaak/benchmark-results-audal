@@ -1,0 +1,4 @@
+****RAM ePerf for PID 188626*****
+time_S: 9.010339135
+avgPower_W: 1.5701909421
+energy_J: 14.1479528955

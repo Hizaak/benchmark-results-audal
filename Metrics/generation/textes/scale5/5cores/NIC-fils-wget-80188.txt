@@ -1,4 +1,0 @@
-****NIC ePerf for PID 80188*****
-time_S: 4
-avgPower_W: .0000325424
-energy_J: .0001301696

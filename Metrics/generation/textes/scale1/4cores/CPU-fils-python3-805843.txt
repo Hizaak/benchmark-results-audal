@@ -1,4 +1,0 @@
-****CPU ePerf for PID 805843*****
-time_S: 145
-avgPower_W: .0021518987
-energy_J: .3120253115

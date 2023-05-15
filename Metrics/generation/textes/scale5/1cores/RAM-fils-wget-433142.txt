@@ -1,0 +1,4 @@
+****RAM ePerf for PID 433142*****
+time_S: 5.004684265
+avgPower_W: 1.5688608909
+energy_J: 7.8516534149

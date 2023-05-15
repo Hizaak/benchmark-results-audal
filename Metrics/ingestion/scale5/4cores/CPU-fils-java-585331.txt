@@ -1,4 +1,0 @@
-****CPU ePerf for PID 585331*****
-time_S: 878
-avgPower_W: .6853369272
-energy_J: 601.7258220816

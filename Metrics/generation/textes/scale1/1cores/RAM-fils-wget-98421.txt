@@ -1,4 +1,0 @@
-****RAM ePerf for PID 98421*****
-time_S: 2.001623489
-avgPower_W: 1.5713635153
-energy_J: 3.1452781221

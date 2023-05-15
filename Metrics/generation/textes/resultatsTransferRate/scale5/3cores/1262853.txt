@@ -1,0 +1,15 @@
+--2023-05-13 03:15:10--  https://hal-univ-perp.archives-ouvertes.fr/hal-01262853/document
+Resolving hal-univ-perp.archives-ouvertes.fr (hal-univ-perp.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-perp.archives-ouvertes.fr (hal-univ-perp.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226988 (222K) [application/pdf]
+Saving to: ‘./data/0.shs/1262853.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  888K 0s
+    50K .......... .......... .......... .......... .......... 45% 1,75M 0s
+   100K .......... .......... .......... .......... .......... 67% 26,2M 0s
+   150K .......... .......... .......... .......... .......... 90% 1,73M 0s
+   200K .......... .......... .                               100%  410M=0,1s
+
+2023-05-13 03:15:11 (1,89 MB/s) - ‘./data/0.shs/1262853.pdf’ saved [226988/226988]
+

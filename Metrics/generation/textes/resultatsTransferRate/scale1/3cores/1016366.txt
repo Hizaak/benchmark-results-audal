@@ -1,0 +1,16 @@
+--2023-05-12 17:34:02--  https://univ-rennes.hal.science/hal-01016366/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 305787 (299K) [application/pdf]
+Saving to: ‘./data/0.shs/1016366.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  901K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 50% 1,75M 0s
+   150K .......... .......... .......... .......... .......... 66% 1,66M 0s
+   200K .......... .......... .......... .......... .......... 83% 41,8M 0s
+   250K .......... .......... .......... .......... ........  100%  597M=0,1s
+
+2023-05-12 17:34:03 (2,05 MB/s) - ‘./data/0.shs/1016366.pdf’ saved [305787/305787]
+

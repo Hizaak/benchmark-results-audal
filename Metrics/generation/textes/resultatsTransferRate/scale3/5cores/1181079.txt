@@ -1,0 +1,15 @@
+--2023-05-12 21:19:10--  https://archivesic.ccsd.cnrs.fr/sic_01083775/document
+Resolving archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250883 (245K) [application/pdf]
+Saving to: ‘./data/0.shs/1181079.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  888K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,70M 0s
+   100K .......... .......... .......... .......... .......... 61% 1,24M 0s
+   150K .......... .......... .......... .......... .......... 81%  699K 0s
+   200K .......... .......... .......... .......... .....     100%  552M=0,2s
+
+2023-05-12 21:19:11 (1,22 MB/s) - ‘./data/0.shs/1181079.pdf’ saved [250883/250883]
+

@@ -1,4 +1,0 @@
-****SD ePerf for PID 42940*****
-time_S: 5
-avgPower_W: .0013267500
-energy_J: .0066337500

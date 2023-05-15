@@ -1,0 +1,4 @@
+****NIC ePerf for PID 275220*****
+time_S: 6
+avgPower_W: .0002816959
+energy_J: .0016901754

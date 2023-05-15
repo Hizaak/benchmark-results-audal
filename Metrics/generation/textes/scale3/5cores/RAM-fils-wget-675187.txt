@@ -1,0 +1,4 @@
+****RAM ePerf for PID 675187*****
+time_S: 11.031818413
+avgPower_W: 1.5673111012
+energy_J: 17.2902914660

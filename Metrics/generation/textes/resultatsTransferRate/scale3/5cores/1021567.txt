@@ -1,0 +1,17 @@
+--2023-05-12 21:20:37--  https://hal-enac.archives-ouvertes.fr/hal-01021567/document
+Resolving hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340787 (333K) [application/pdf]
+Saving to: ‘./data/0.shs/1021567.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  884K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,70M 0s
+   100K .......... .......... .......... .......... .......... 45% 64,7M 0s
+   150K .......... .......... .......... .......... .......... 60% 1,71M 0s
+   200K .......... .......... .......... .......... .......... 75% 1,98M 0s
+   250K .......... .......... .......... .......... .......... 90%  573M 0s
+   300K .......... .......... .......... ..                   100%  158K=0,3s
+
+2023-05-12 21:20:38 (958 KB/s) - ‘./data/0.shs/1021567.pdf’ saved [340787/340787]
+

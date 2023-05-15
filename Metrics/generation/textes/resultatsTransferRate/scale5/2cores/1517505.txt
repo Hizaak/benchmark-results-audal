@@ -1,0 +1,32 @@
+--2023-05-13 02:25:37--  https://hal-ensta-paris.archives-ouvertes.fr/hal-01517505/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-01517505/document [following]
+--2023-05-13 02:25:37--  https://ensta-paris.hal.science/hal-01517505/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 827126 (808K) [application/pdf]
+Saving to: ‘./data/0.math/1517505.pdf’
+
+     0K .......... .......... .......... .......... ..........  6%  813K 1s
+    50K .......... .......... .......... .......... .......... 12% 2,45M 1s
+   100K .......... .......... .......... .......... .......... 18% 5,90M 0s
+   150K .......... .......... .......... .......... .......... 24% 2,47M 0s
+   200K .......... .......... .......... .......... .......... 30% 5,86M 0s
+   250K .......... .......... .......... .......... .......... 37% 19,2M 0s
+   300K .......... .......... .......... .......... .......... 43%  242K 0s
+   350K .......... .......... .......... .......... .......... 49%  109M 0s
+   400K .......... .......... .......... .......... .......... 55%  480M 0s
+   450K .......... .......... .......... .......... .......... 61%  605M 0s
+   500K .......... .......... .......... .......... .......... 68%  247K 0s
+   550K .......... .......... .......... .......... .......... 74%  557M 0s
+   600K .......... .......... .......... .......... .......... 80%  544M 0s
+   650K .......... .......... .......... .......... .......... 86%  606M 0s
+   700K .......... .......... .......... .......... .......... 92%  247K 0s
+   750K .......... .......... .......... .......... .......... 99%  461M 0s
+   800K .......                                               100%  456M=0,7s
+
+2023-05-13 02:25:38 (1,08 MB/s) - ‘./data/0.math/1517505.pdf’ saved [827126/827126]
+

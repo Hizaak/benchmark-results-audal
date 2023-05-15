@@ -1,0 +1,14 @@
+--2023-05-12 19:43:47--  https://hal-sciencespo.archives-ouvertes.fr/hal-01465511/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185698 (181K) [application/pdf]
+Saving to: ‘./data/0.shs/1465511.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  904K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 82% 38,8M 0s
+   150K .......... .......... .......... .                    100%  587M=0,08s
+
+2023-05-12 19:43:47 (2,08 MB/s) - ‘./data/0.shs/1465511.pdf’ saved [185698/185698]
+

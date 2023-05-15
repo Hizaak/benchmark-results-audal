@@ -1,0 +1,16 @@
+--2023-05-13 00:31:54--  https://hal.univ-cotedazur.fr/hal-01265188/document
+Resolving hal.univ-cotedazur.fr (hal.univ-cotedazur.fr)... 193.48.96.10
+Connecting to hal.univ-cotedazur.fr (hal.univ-cotedazur.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260351 (254K) [application/pdf]
+Saving to: ‘./data/0.math/1265188.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  909K 0s
+    50K .......... .......... .......... .......... .......... 39% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 58% 1,71M 0s
+   150K .......... .......... .......... .......... .......... 78% 1,67M 0s
+   200K .......... .......... .......... .......... .......... 98%  447M 0s
+   250K ....                                                  100% 7,91T=0,1s
+
+2023-05-13 00:31:56 (1,76 MB/s) - ‘./data/0.math/1265188.pdf’ saved [260351/260351]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 86994*****
+time_S: 18.018129011
+avgPower_W: 1.5679907416
+energy_J: 28.2522594710

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 56821*****
+time_S: 6.017641824
+avgPower_W: 1.5644389439
+energy_J: 9.4142332204

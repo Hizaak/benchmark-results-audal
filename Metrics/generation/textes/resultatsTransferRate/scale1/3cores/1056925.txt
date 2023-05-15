@@ -1,0 +1,14 @@
+--2023-05-12 17:31:28--  https://hal-univ-tln.archives-ouvertes.fr/hal-01056925/document
+Resolving hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178129 (174K) [application/pdf]
+Saving to: ‘./data/0.math/1056925.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  545K 0s
+    50K .......... .......... .......... .......... .......... 57% 1,08M 0s
+   100K .......... .......... .......... .......... .......... 86% 1,00M 0s
+   150K .......... .......... ...                             100% 18,4M=0,2s
+
+2023-05-12 17:31:29 (932 KB/s) - ‘./data/0.math/1056925.pdf’ saved [178129/178129]
+

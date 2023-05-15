@@ -1,4 +1,0 @@
-****RAM ePerf for PID 992260*****
-time_S: 1.001027675
-avgPower_W:
-energy_J:

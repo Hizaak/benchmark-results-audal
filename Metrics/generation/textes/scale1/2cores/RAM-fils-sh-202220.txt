@@ -1,4 +1,0 @@
-****RAM ePerf for PID 202220*****
-time_S: 1.000050413
-avgPower_W:
-energy_J:

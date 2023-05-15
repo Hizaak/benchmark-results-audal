@@ -1,0 +1,4 @@
+****SD ePerf for PID 71602*****
+time_S: 7
+avgPower_W: .0038277500
+energy_J: .0267942500

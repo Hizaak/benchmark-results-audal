@@ -1,0 +1,16 @@
+--2023-05-12 19:54:58--  https://univ-rennes.hal.science/hal-01057935/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265198 (259K) [application/pdf]
+Saving to: ‘./data/0.chim/1057935.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  874K 0s
+    50K .......... .......... .......... .......... .......... 38% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 57% 26,5M 0s
+   150K .......... .......... .......... .......... .......... 77% 44,5M 0s
+   200K .......... .......... .......... .......... .......... 96% 1,84M 0s
+   250K ........                                              100%  471M=0,1s
+
+2023-05-12 19:54:59 (2,24 MB/s) - ‘./data/0.chim/1057935.pdf’ saved [265198/265198]
+

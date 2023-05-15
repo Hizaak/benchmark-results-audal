@@ -1,0 +1,4 @@
+****CPU ePerf for PID 734783*****
+time_S: 441
+avgPower_W: .0634944237
+energy_J: 28.0010408517
