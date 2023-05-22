@@ -1,4 +1,0 @@
-****RAM ePerf for PID 593627*****
-time_S: 1.001191099
-avgPower_W:
-energy_J:

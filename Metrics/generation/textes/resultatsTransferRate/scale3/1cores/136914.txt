@@ -1,0 +1,15 @@
+--2023-05-16 13:56:00--  https://shs.hal.science/halshs-00136914/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230175 (225K) [application/pdf]
+Saving to: ‘./data/0.shs/136914.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  423K 0s
+    50K .......... .......... .......... .......... .......... 44%  837K 0s
+   100K .......... .......... .......... .......... .......... 66%  587K 0s
+   150K .......... .......... .......... .......... .......... 88%  848K 0s
+   200K .......... .......... ....                            100%  847K=0,4s
+
+2023-05-16 13:56:01 (640 KB/s) - ‘./data/0.shs/136914.pdf’ saved [230175/230175]
+

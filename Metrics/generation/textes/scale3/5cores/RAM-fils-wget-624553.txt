@@ -1,0 +1,4 @@
+****RAM ePerf for PID 624553*****
+time_S: 16.012140739
+avgPower_W: 1.5701823693
+energy_J: 25.1419810842

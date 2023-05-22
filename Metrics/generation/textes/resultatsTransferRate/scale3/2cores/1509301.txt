@@ -1,0 +1,16 @@
+--2023-05-16 14:22:32--  https://shs.hal.science/halshs-00005227/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 14:22:43--  (try: 2)  https://shs.hal.science/halshs-00005227/document
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 14:23:05--  (try: 3)  https://shs.hal.science/halshs-00005227/document
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

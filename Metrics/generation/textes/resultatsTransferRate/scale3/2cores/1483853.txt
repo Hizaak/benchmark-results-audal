@@ -1,12 +1,12 @@
---2023-05-12 19:58:45--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01483853/document
+--2023-05-16 14:25:16--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01483853/document
 Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 92127 (90K) [application/pdf]
 Saving to: ‘./data/0.info/1483853.pdf’
 
-     0K .......... .......... .......... .......... .......... 55%  865K 0s
-    50K .......... .......... .......... .........            100%  615M=0,06s
+     0K .......... .......... .......... .......... .......... 55%  808K 0s
+    50K .......... .......... .......... .........            100% 1,48M=0,09s
 
-2023-05-12 19:58:46 (1,52 MB/s) - ‘./data/0.info/1483853.pdf’ saved [92127/92127]
+2023-05-16 14:25:16 (1019 KB/s) - ‘./data/0.info/1483853.pdf’ saved [92127/92127]
 

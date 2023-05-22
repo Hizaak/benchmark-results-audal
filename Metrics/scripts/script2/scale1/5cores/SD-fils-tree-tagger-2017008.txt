@@ -1,4 +1,0 @@
-****SD ePerf for PID 2017008*****
-time_S: 119
-avgPower_W:
-energy_J:

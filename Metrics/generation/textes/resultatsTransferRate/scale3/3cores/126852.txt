@@ -1,0 +1,16 @@
+--2023-05-16 14:54:27--  https://edutice.archives-ouvertes.fr/edutice-00109095/document
+Resolving edutice.archives-ouvertes.fr (edutice.archives-ouvertes.fr)... 193.48.96.10
+Connecting to edutice.archives-ouvertes.fr (edutice.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 295855 (289K) [application/pdf]
+Saving to: ‘./data/0.shs/126852.pdf’
+
+     0K .......... .......... .......... .......... .......... 17% 95,6K 2s
+    50K .......... .......... .......... .......... .......... 34% 69,1K 2s
+   100K .......... .......... .......... .......... .......... 51%  115K 2s
+   150K .......... .......... .......... .......... .......... 69%  253K 1s
+   200K .......... .......... .......... .......... .......... 86%  206K 0s
+   250K .......... .......... .......... ........             100% 48,8K=2,9s
+
+2023-05-16 14:54:31 (99,0 KB/s) - ‘./data/0.shs/126852.pdf’ saved [295855/295855]
+

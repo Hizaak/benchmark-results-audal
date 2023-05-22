@@ -1,4 +1,0 @@
-****RAM ePerf for PID 20181*****
-time_S: 6.004777328
-avgPower_W:
-energy_J:

@@ -1,0 +1,15 @@
+--2023-05-16 11:15:42--  https://inria.hal.science/hal-01414145/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213423 (208K) [application/pdf]
+Saving to: ‘./data/0.scco/1414145.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  820K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,55M 0s
+   100K .......... .......... .......... .......... .......... 71% 1,60M 0s
+   150K .......... .......... .......... .......... .......... 95% 1,70M 0s
+   200K ........                                              100%  204M=0,2s
+
+2023-05-16 11:15:42 (1,34 MB/s) - ‘./data/0.scco/1414145.pdf’ saved [213423/213423]
+

@@ -1,0 +1,17 @@
+--2023-05-16 13:14:56--  https://archivesic.ccsd.cnrs.fr/sic_00104558/document
+Resolving archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319104 (312K) [application/pdf]
+Saving to: ‘./data/0.shs/104558.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  429K 1s
+    50K .......... .......... .......... .......... .......... 32%  596K 0s
+   100K .......... .......... .......... .......... .......... 48%  799K 0s
+   150K .......... .......... .......... .......... .......... 64%  836K 0s
+   200K .......... .......... .......... .......... .......... 80%  875K 0s
+   250K .......... .......... .......... .......... .......... 96%  920K 0s
+   300K .......... .                                          100% 3,28M=0,4s
+
+2023-05-16 13:14:57 (712 KB/s) - ‘./data/0.shs/104558.pdf’ saved [319104/319104]
+

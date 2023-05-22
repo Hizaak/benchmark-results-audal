@@ -1,0 +1,4 @@
+****RAM ePerf for PID 73460*****
+time_S: 7.006996746
+avgPower_W:
+energy_J:

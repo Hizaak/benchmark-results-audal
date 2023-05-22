@@ -1,0 +1,17 @@
+--2023-05-16 15:01:48--  https://hal-univ-avignon.archives-ouvertes.fr/hal-01113748/document
+Resolving hal-univ-avignon.archives-ouvertes.fr (hal-univ-avignon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-avignon.archives-ouvertes.fr (hal-univ-avignon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354232 (346K) [application/pdf]
+Saving to: ‘./data/0.math/1113748.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  813K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,14M 0s
+   100K .......... .......... .......... .......... .......... 43% 14,1M 0s
+   150K .......... .......... .......... .......... .......... 57% 47,4M 0s
+   200K .......... .......... .......... .......... .......... 72% 1,71M 0s
+   250K .......... .......... .......... .......... .......... 86% 13,5M 0s
+   300K .......... .......... .......... .......... .....     100%  229K=0,3s
+
+2023-05-16 15:01:49 (1012 KB/s) - ‘./data/0.math/1113748.pdf’ saved [354232/354232]
+

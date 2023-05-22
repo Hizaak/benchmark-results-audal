@@ -1,4 +1,0 @@
-****RAM ePerf for PID 99043*****
-time_S: 1.001026981
-avgPower_W:
-energy_J:

@@ -1,0 +1,23 @@
+--2023-05-16 18:28:24--  https://hal-ensta-paris.archives-ouvertes.fr/hal-00973849/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-00973849/document [following]
+--2023-05-16 18:28:24--  https://ensta-paris.hal.science/hal-00973849/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384056 (375K) [application/pdf]
+Saving to: ‘./data/0.info/1298155.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  925K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 39% 1,89M 0s
+   150K .......... .......... .......... .......... .......... 53% 23,7M 0s
+   200K .......... .......... .......... .......... .......... 66% 78,7M 0s
+   250K .......... .......... .......... .......... .......... 79% 1,92M 0s
+   300K .......... .......... .......... .......... .......... 93%  244K 0s
+   350K .......... .......... .....                           100%  537M=0,3s
+
+2023-05-16 18:28:25 (1,08 MB/s) - ‘./data/0.info/1298155.pdf’ saved [384056/384056]
+

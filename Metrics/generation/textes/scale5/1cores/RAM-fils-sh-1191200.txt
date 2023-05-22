@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1191200*****
-time_S: 4.003421138
-avgPower_W:
-energy_J:

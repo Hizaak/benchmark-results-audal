@@ -1,0 +1,4 @@
+****NIC ePerf for PID 483400*****
+time_S: 4
+avgPower_W: .0013414119
+energy_J: .0053656476

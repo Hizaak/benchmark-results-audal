@@ -1,0 +1,4 @@
+****RAM ePerf for PID 756137*****
+time_S: 398.708974269
+avgPower_W: 1.5606287844
+energy_J: 622.2367018778

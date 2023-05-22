@@ -1,0 +1,14 @@
+--2023-05-16 11:13:57--  https://hal-insu.archives-ouvertes.fr/insu-01411847/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200863 (196K) [application/pdf]
+Saving to: ‘./data/0.sdu/1411847.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  712K 0s
+    50K .......... .......... .......... .......... .......... 50% 1,34M 0s
+   100K .......... .......... .......... .......... .......... 76% 1,49M 0s
+   150K .......... .......... .......... .......... ......    100% 20,0M=0,1s
+
+2023-05-16 11:13:58 (1,35 MB/s) - ‘./data/0.sdu/1411847.pdf’ saved [200863/200863]
+

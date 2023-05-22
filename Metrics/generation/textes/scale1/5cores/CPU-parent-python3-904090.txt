@@ -1,0 +1,4 @@
+****CPU ePerf for PID 904090*****
+time_S: 320
+avgPower_W: .1233566433
+energy_J: 39.4741258560

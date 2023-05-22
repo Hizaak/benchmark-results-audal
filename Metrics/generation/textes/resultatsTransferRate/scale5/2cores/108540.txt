@@ -1,0 +1,14 @@
+--2023-05-16 20:25:24--  https://hal-lirmm.ccsd.cnrs.fr/lirmm-00108540/document
+Resolving hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179697 (175K) [application/pdf]
+Saving to: ‘./data/0.math/108540.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  896K 0s
+    50K .......... .......... .......... .......... .......... 56% 1,66M 0s
+   100K .......... .......... .......... .......... .......... 85% 82,4M 0s
+   150K .......... .......... .....                           100% 41,8M=0,09s
+
+2023-05-16 20:25:24 (1,98 MB/s) - ‘./data/0.math/108540.pdf’ saved [179697/179697]
+

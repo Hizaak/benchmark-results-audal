@@ -1,0 +1,17 @@
+--2023-05-16 12:44:42--  https://hal-cea.archives-ouvertes.fr/cea-01230212/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351722 (343K) [application/pdf]
+Saving to: ‘./data/0.phys/1230212.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  836K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,75M 0s
+   100K .......... .......... .......... .......... .......... 43% 1,63M 0s
+   150K .......... .......... .......... .......... .......... 58% 1,43M 0s
+   200K .......... .......... .......... .......... .......... 72%  491M 0s
+   250K .......... .......... .......... .......... .......... 87% 1,90M 0s
+   300K .......... .......... .......... .......... ...       100% 30,0M=0,2s
+
+2023-05-16 12:44:42 (1,87 MB/s) - ‘./data/0.phys/1230212.pdf’ saved [351722/351722]
+

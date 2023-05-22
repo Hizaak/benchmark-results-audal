@@ -1,0 +1,4 @@
+****SD ePerf for PID 904090*****
+time_S: 322
+avgPower_W: .0002928000
+energy_J: .0942816000

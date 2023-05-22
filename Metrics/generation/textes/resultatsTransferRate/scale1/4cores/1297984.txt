@@ -1,0 +1,16 @@
+--2023-05-16 11:30:18--  https://hal.sorbonne-universite.fr/hal-01297984/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284013 (277K) [application/pdf]
+Saving to: ‘./data/0.sdv/1297984.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  887K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 54% 1,62M 0s
+   150K .......... .......... .......... .......... .......... 72% 1,92M 0s
+   200K .......... .......... .......... .......... .......... 90% 14,6M 0s
+   250K .......... .......... .......                         100% 84,4M=0,1s
+
+2023-05-16 11:30:19 (1,87 MB/s) - ‘./data/0.sdv/1297984.pdf’ saved [284013/284013]
+

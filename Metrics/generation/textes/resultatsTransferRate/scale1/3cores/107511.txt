@@ -1,0 +1,15 @@
+--2023-05-16 11:21:43--  https://hal.science/hal-00107511/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214507 (209K) [application/pdf]
+Saving to: ‘./data/0.sdu/107511.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  838K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,61M 0s
+   100K .......... .......... .......... .......... .......... 71% 11,1M 0s
+   150K .......... .......... .......... .......... .......... 95% 22,0M 0s
+   200K .........                                             100%  384M=0,1s
+
+2023-05-16 11:21:49 (2,12 MB/s) - ‘./data/0.sdu/107511.pdf’ saved [214507/214507]
+

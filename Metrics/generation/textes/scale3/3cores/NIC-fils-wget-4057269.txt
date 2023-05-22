@@ -1,0 +1,4 @@
+****NIC ePerf for PID 4057269*****
+time_S: 2
+avgPower_W: .0010553775
+energy_J: .0021107550

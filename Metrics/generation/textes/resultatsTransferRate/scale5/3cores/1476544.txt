@@ -1,0 +1,16 @@
+--2023-05-16 21:23:55--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01476544/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 306273 (299K) [application/pdf]
+Saving to: ‘./data/0.shs/1476544.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  908K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 50% 76,4M 0s
+   150K .......... .......... .......... .......... .......... 66%  119M 0s
+   200K .......... .......... .......... .......... .......... 83% 1,75M 0s
+   250K .......... .......... .......... .......... ......... 100% 63,7M=0,1s
+
+2023-05-16 21:23:56 (2,62 MB/s) - ‘./data/0.shs/1476544.pdf’ saved [306273/306273]
+

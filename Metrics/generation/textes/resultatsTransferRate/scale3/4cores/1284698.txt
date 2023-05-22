@@ -1,0 +1,17 @@
+--2023-05-16 15:10:28--  https://hal-inalco.archives-ouvertes.fr/hal-01284698/document
+Resolving hal-inalco.archives-ouvertes.fr (hal-inalco.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-inalco.archives-ouvertes.fr (hal-inalco.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340792 (333K) [application/pdf]
+Saving to: ‘./data/0.shs/1284698.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  815K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,46M 0s
+   100K .......... .......... .......... .......... .......... 45% 1,09M 0s
+   150K .......... .......... .......... .......... .......... 60% 7,20M 0s
+   200K .......... .......... .......... .......... .......... 75% 1,46M 0s
+   250K .......... .......... .......... .......... .......... 90% 16,9M 0s
+   300K .......... .......... .......... ..                   100% 1,07M=0,2s
+
+2023-05-16 15:10:29 (1,53 MB/s) - ‘./data/0.shs/1284698.pdf’ saved [340792/340792]
+

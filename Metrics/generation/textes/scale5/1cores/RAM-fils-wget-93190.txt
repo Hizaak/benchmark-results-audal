@@ -1,0 +1,4 @@
+****RAM ePerf for PID 93190*****
+time_S: 24.023524378
+avgPower_W: 1.5696823070
+energy_J: 37.7093011681

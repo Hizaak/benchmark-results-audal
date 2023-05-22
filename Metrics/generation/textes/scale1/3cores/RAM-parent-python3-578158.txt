@@ -1,0 +1,4 @@
+****RAM ePerf for PID 578158*****
+time_S: 490.796145619
+avgPower_W: 1.6251323616
+energy_J: 797.6086992251

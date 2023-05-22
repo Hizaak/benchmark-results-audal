@@ -1,0 +1,19 @@
+--2023-05-16 14:30:38--  https://hal-centralesupelec.archives-ouvertes.fr/hal-01408571/document
+Resolving hal-centralesupelec.archives-ouvertes.fr (hal-centralesupelec.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-centralesupelec.archives-ouvertes.fr (hal-centralesupelec.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 457679 (447K) [application/pdf]
+Saving to: ‘./data/0.spi/1408571.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  848K 0s
+    50K .......... .......... .......... .......... .......... 22% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 33% 1,65M 0s
+   150K .......... .......... .......... .......... .......... 44% 1,53M 0s
+   200K .......... .......... .......... .......... .......... 55% 12,5M 0s
+   250K .......... .......... .......... .......... .......... 67%  590M 0s
+   300K .......... .......... .......... .......... .......... 78%  244K 0s
+   350K .......... .......... .......... .......... .......... 89%  455M 0s
+   400K .......... .......... .......... .......... ......    100%  448M=0,4s
+
+2023-05-16 14:30:45 (1,22 MB/s) - ‘./data/0.spi/1408571.pdf’ saved [457679/457679]
+

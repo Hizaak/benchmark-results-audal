@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2518213*****
+time_S: 8.009504827
+avgPower_W: 1.5690849919
+energy_J: 12.5675938167

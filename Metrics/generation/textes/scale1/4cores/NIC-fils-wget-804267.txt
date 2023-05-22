@@ -1,0 +1,4 @@
+****NIC ePerf for PID 804267*****
+time_S: 13
+avgPower_W: .0002045854
+energy_J: .0026596102

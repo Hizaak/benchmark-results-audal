@@ -1,0 +1,24 @@
+--2023-05-16 22:12:39--  https://hal.sorbonne-universite.fr/hal-01480141/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 22:12:50--  (try: 2)  https://hal.sorbonne-universite.fr/hal-01480141/document
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 417902 (408K) [application/pdf]
+Saving to: ‘./data/0.phys/1480141.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  953K 0s
+    50K .......... .......... .......... .......... .......... 24% 1,92M 0s
+   100K .......... .......... .......... .......... .......... 36% 1,87M 0s
+   150K .......... .......... .......... .......... .......... 49% 33,7M 0s
+   200K .......... .......... .......... .......... .......... 61%  107M 0s
+   250K .......... .......... .......... .......... .......... 73% 2,02M 0s
+   300K .......... .......... .......... .......... .......... 85%  249K 0s
+   350K .......... .......... .......... .......... .......... 98%  574M 0s
+   400K ........                                              100%  320M=0,3s
+
+2023-05-16 22:12:56 (1,20 MB/s) - ‘./data/0.phys/1480141.pdf’ saved [417902/417902]
+

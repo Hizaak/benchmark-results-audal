@@ -1,0 +1,16 @@
+--2023-05-16 14:35:40--  https://hal-sciencespo.archives-ouvertes.fr/hal-01462080/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302157 (295K) [application/pdf]
+Saving to: ‘./data/0.shs/1462080.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  269K 1s
+    50K .......... .......... .......... .......... .......... 33%  573K 1s
+   100K .......... .......... .......... .......... .......... 50%  540K 0s
+   150K .......... .......... .......... .......... .......... 67%  587K 0s
+   200K .......... .......... .......... .......... .......... 84%  826K 0s
+   250K .......... .......... .......... .......... .....     100%  740K=0,6s
+
+2023-05-16 14:35:42 (516 KB/s) - ‘./data/0.shs/1462080.pdf’ saved [302157/302157]
+

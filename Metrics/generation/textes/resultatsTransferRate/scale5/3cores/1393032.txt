@@ -1,0 +1,16 @@
+--2023-05-16 21:11:39--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01393032/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261727 (256K) [application/pdf]
+Saving to: ‘./data/0.shs/1393032.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  938K 0s
+    50K .......... .......... .......... .......... .......... 39% 1,89M 0s
+   100K .......... .......... .......... .......... .......... 58% 1,89M 0s
+   150K .......... .......... .......... .......... .......... 78% 24,3M 0s
+   200K .......... .......... .......... .......... .......... 97% 42,9M 0s
+   250K .....                                                 100% 10,4T=0,1s
+
+2023-05-16 21:11:44 (2,31 MB/s) - ‘./data/0.shs/1393032.pdf’ saved [261727/261727]
+

@@ -1,0 +1,20 @@
+--2023-05-16 21:04:46--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01148613/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 463454 (453K) [application/pdf]
+Saving to: ‘./data/0.shs/1258181.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  916K 0s
+    50K .......... .......... .......... .......... .......... 22% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 33% 1,82M 0s
+   150K .......... .......... .......... .......... .......... 44% 49,2M 0s
+   200K .......... .......... .......... .......... .......... 55% 1,86M 0s
+   250K .......... .......... .......... .......... .......... 66% 63,1M 0s
+   300K .......... .......... .......... .......... .......... 77%  246K 0s
+   350K .......... .......... .......... .......... .......... 88%  580M 0s
+   400K .......... .......... .......... .......... .......... 99%  491M 0s
+   450K ..                                                    100% 4,83T=0,3s
+
+2023-05-16 21:04:47 (1,30 MB/s) - ‘./data/0.shs/1258181.pdf’ saved [463454/463454]
+

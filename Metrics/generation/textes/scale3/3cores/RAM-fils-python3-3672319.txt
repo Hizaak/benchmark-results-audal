@@ -1,4 +1,0 @@
-****RAM ePerf for PID 3672319*****
-time_S: 1325.620101945
-avgPower_W: 1.5778089739
-energy_J: 2091.5752929172

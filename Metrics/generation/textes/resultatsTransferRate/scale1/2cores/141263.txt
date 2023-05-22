@@ -1,0 +1,14 @@
+--2023-05-16 11:18:17--  https://artxiker.ccsd.cnrs.fr/artxibo-00141263/document
+Resolving artxiker.ccsd.cnrs.fr (artxiker.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to artxiker.ccsd.cnrs.fr (artxiker.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188228 (184K) [application/pdf]
+Saving to: ‘./data/0.shs/141263.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  837K 0s
+    50K .......... .......... .......... .......... .......... 54% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 81% 12,3M 0s
+   150K .......... .......... .......... ...                  100%  457M=0,09s
+
+2023-05-16 11:18:18 (1,96 MB/s) - ‘./data/0.shs/141263.pdf’ saved [188228/188228]
+

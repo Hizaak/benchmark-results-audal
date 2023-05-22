@@ -1,0 +1,4 @@
+****NIC ePerf for PID 542627*****
+time_S: 7
+avgPower_W: .0021927115
+energy_J: .0153489805

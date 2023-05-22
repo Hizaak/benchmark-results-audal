@@ -1,0 +1,4 @@
+****NIC ePerf for PID 30205*****
+time_S: 4
+avgPower_W: .0004325361
+energy_J: .0017301444

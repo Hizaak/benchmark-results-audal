@@ -1,0 +1,16 @@
+--2023-05-16 15:31:48--  https://archivesic.ccsd.cnrs.fr/sic_01426441/document
+Resolving archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292275 (285K) [application/pdf]
+Saving to: ‘./data/0.shs/1426441.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  561K 0s
+    50K .......... .......... .......... .......... .......... 35% 1,54M 0s
+   100K .......... .......... .......... .......... .......... 52% 2,02M 0s
+   150K .......... .......... .......... .......... .......... 70% 6,30M 0s
+   200K .......... .......... .......... .......... .......... 87% 1,90M 0s
+   250K .......... .......... .......... .....                100% 10,1M=0,2s
+
+2023-05-16 15:31:50 (1,53 MB/s) - ‘./data/0.shs/1426441.pdf’ saved [292275/292275]
+

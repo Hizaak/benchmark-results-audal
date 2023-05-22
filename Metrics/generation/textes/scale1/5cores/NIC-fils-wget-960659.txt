@@ -1,0 +1,4 @@
+****NIC ePerf for PID 960659*****
+time_S: 7
+avgPower_W: .0016898274
+energy_J: .0118287918

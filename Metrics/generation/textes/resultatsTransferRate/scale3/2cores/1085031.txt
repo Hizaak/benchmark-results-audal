@@ -1,0 +1,15 @@
+--2023-05-16 14:08:59--  https://hal-insu.archives-ouvertes.fr/insu-01084932/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242504 (237K) [application/pdf]
+Saving to: ‘./data/0.sdu/1085031.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  779K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,63M 0s
+   100K .......... .......... .......... .......... .......... 63% 1,85M 0s
+   150K .......... .......... .......... .......... .......... 84% 7,85M 0s
+   200K .......... .......... .......... ......               100% 1,70M=0,1s
+
+2023-05-16 14:09:00 (1,56 MB/s) - ‘./data/0.sdu/1085031.pdf’ saved [242504/242504]
+

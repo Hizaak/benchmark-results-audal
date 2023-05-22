@@ -1,4 +1,0 @@
-****NIC ePerf for PID 735834*****
-time_S: 439
-avgPower_W:
-energy_J:

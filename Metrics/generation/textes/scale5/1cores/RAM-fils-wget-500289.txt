@@ -1,4 +1,0 @@
-****RAM ePerf for PID 500289*****
-time_S: 3.004743278
-avgPower_W:
-energy_J:

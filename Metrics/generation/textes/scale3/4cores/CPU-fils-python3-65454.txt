@@ -1,0 +1,4 @@
+****CPU ePerf for PID 65454*****
+time_S: 1104
+avgPower_W: .0045238095
+energy_J: 4.9942856880

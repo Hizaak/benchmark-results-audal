@@ -1,4 +1,0 @@
-****RAM ePerf for PID 802119*****
-time_S: 9.006668599
-avgPower_W:
-energy_J:

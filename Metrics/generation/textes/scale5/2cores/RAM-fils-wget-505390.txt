@@ -1,0 +1,4 @@
+****RAM ePerf for PID 505390*****
+time_S: 15.013073833
+avgPower_W: 1.5698198751
+energy_J: 23.5678216902

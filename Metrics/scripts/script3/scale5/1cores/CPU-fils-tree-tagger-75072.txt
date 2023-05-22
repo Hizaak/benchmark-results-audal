@@ -1,4 +1,0 @@
-****CPU ePerf for PID 75072*****
-time_S: 77
-avgPower_W: 2.0934375000
-energy_J: 161.1946875000

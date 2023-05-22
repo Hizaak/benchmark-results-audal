@@ -1,0 +1,4 @@
+****RAM ePerf for PID 3651441*****
+time_S: 6.007006727
+avgPower_W: 1.5726999103
+energy_J: 9.4472189409

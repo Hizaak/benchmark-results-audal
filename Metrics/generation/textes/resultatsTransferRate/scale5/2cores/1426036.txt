@@ -1,0 +1,12 @@
+--2023-05-16 20:28:00--  https://hal.uca.fr/hal-01426036/document
+Resolving hal.uca.fr (hal.uca.fr)... 193.48.96.10
+Connecting to hal.uca.fr (hal.uca.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79277 (77K) [application/pdf]
+Saving to: ‘./data/0.sdv/1426036.pdf’
+
+     0K .......... .......... .......... .......... .......... 64%  883K 0s
+    50K .......... .......... .......                         100% 15,8M=0,06s
+
+2023-05-16 20:28:00 (1,30 MB/s) - ‘./data/0.sdv/1426036.pdf’ saved [79277/79277]
+

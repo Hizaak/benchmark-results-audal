@@ -1,0 +1,13 @@
+--2023-05-16 14:02:33--  https://auf.hal.science/hal-01519398/document
+Resolving auf.hal.science (auf.hal.science)... 193.48.96.10
+Connecting to auf.hal.science (auf.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122444 (120K) [application/pdf]
+Saving to: ‘./data/0.scco/1519398.pdf’
+
+     0K .......... .......... .......... .......... .......... 41%  436K 0s
+    50K .......... .......... .......... .......... .......... 83%  607K 0s
+   100K .......... .........                                  100% 11,3M=0,2s
+
+2023-05-16 14:02:34 (602 KB/s) - ‘./data/0.scco/1519398.pdf’ saved [122444/122444]
+

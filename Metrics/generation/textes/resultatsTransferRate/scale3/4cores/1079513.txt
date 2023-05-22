@@ -1,0 +1,13 @@
+--2023-05-16 15:07:30--  https://archivesic.ccsd.cnrs.fr/sic_01079513/document
+Resolving archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116089 (113K) [application/pdf]
+Saving to: ‘./data/0.shs/1079513.pdf’
+
+     0K .......... .......... .......... .......... .......... 44%  802K 0s
+    50K .......... .......... .......... .......... .......... 88%  784K 0s
+   100K .......... ...                                        100%  248M=0,1s
+
+2023-05-16 15:07:31 (898 KB/s) - ‘./data/0.shs/1079513.pdf’ saved [116089/116089]
+

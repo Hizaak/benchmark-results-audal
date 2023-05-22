@@ -1,4 +1,4 @@
 ****CPU ePerf for PID 659996*****
-time_S: 2
+time_S: 4
 avgPower_W: 0
 energy_J: 0

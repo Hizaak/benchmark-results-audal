@@ -1,0 +1,14 @@
+--2023-05-16 15:07:08--  https://hal.uca.fr/hal-01152825/document
+Resolving hal.uca.fr (hal.uca.fr)... 193.48.96.10
+Connecting to hal.uca.fr (hal.uca.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156879 (153K) [application/pdf]
+Saving to: ‘./data/0.shs/1152825.pdf’
+
+     0K .......... .......... .......... .......... .......... 32%  554K 0s
+    50K .......... .......... .......... .......... .......... 65%  333K 0s
+   100K .......... .......... .......... .......... .......... 97%  343M 0s
+   150K ...                                                   100%  343M=0,2s
+
+2023-05-16 15:07:15 (637 KB/s) - ‘./data/0.shs/1152825.pdf’ saved [156879/156879]
+

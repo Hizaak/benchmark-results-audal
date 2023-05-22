@@ -1,0 +1,4 @@
+****NIC ePerf for PID 772030*****
+time_S: 6
+avgPower_W: .0029442267
+energy_J: .0176653602

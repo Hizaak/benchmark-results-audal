@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1020911*****
+time_S: 751.098350634
+avgPower_W: 7.1507261565
+energy_J: 5370.8986219829

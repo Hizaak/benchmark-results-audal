@@ -1,0 +1,15 @@
+--2023-05-16 15:29:36--  https://hal-iogs.archives-ouvertes.fr/hal-01102100/document
+Resolving hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230979 (226K) [application/pdf]
+Saving to: ‘./data/0.phys/1102100.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  792K 0s
+    50K .......... .......... .......... .......... .......... 44% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 66% 15,4M 0s
+   150K .......... .......... .......... .......... .......... 88% 1,74M 0s
+   200K .......... .......... .....                           100% 14,3M=0,1s
+
+2023-05-16 15:29:42 (1,79 MB/s) - ‘./data/0.phys/1102100.pdf’ saved [230979/230979]
+

@@ -1,0 +1,13 @@
+--2023-05-16 15:11:34--  https://hal-sciencespo.archives-ouvertes.fr/hal-01021768/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120240 (117K) [application/pdf]
+Saving to: ‘./data/0.shs/1021768.pdf’
+
+     0K .......... .......... .......... .......... .......... 42%  650K 0s
+    50K .......... .......... .......... .......... .......... 85% 1,51M 0s
+   100K .......... .......                                    100%  421M=0,1s
+
+2023-05-16 15:11:35 (1,05 MB/s) - ‘./data/0.shs/1021768.pdf’ saved [120240/120240]
+

@@ -1,4 +1,0 @@
-****SD ePerf for PID 18009*****
-time_S: 16
-avgPower_W:
-energy_J:

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 560828*****
+time_S: 31.026172404
+avgPower_W: 1.5698544817
+energy_J: 48.7065757992

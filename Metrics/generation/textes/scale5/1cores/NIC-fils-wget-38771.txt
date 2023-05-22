@@ -1,4 +1,0 @@
-****NIC ePerf for PID 38771*****
-time_S: 2
-avgPower_W: .0001959679
-energy_J: .0003919358

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 452526*****
-time_S: 1
-avgPower_W: .0002337622
-energy_J: .0002337622

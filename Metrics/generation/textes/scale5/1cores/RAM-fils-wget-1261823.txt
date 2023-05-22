@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1261823*****
-time_S: 4.004617731
-avgPower_W: 1.5718530185
-energy_J: 6.2946704685

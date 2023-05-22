@@ -1,0 +1,15 @@
+--2023-05-16 22:00:09--  https://hal-amu.archives-ouvertes.fr/hal-01429429/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250646 (245K) [application/pdf]
+Saving to: ‘./data/0.shs/1429429.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  802K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 61% 1,89M 0s
+   150K .......... .......... .......... .......... .......... 81% 37,2M 0s
+   200K .......... .......... .......... .......... ....      100%  122M=0,1s
+
+2023-05-16 22:00:10 (2,05 MB/s) - ‘./data/0.shs/1429429.pdf’ saved [250646/250646]
+

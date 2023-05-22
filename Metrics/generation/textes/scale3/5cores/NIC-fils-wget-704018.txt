@@ -1,0 +1,4 @@
+****NIC ePerf for PID 704018*****
+time_S: 7
+avgPower_W: .0007578126
+energy_J: .0053046882

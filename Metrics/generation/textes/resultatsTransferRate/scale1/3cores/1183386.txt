@@ -1,0 +1,15 @@
+--2023-05-16 11:27:18--  http://hal.grenoble-em.com/hal-01183386/document
+Resolving hal.grenoble-em.com (hal.grenoble-em.com)... 193.48.96.10
+Connecting to hal.grenoble-em.com (hal.grenoble-em.com)|193.48.96.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 221850 (217K) [application/pdf]
+Saving to: ‘./data/0.shs/1183386.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  879K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 69% 8,22M 0s
+   150K .......... .......... .......... .......... .......... 92% 2,86M 0s
+   200K .......... ......                                     100% 2,23M=0,1s
+
+2023-05-16 11:27:19 (1,82 MB/s) - ‘./data/0.shs/1183386.pdf’ saved [221850/221850]
+

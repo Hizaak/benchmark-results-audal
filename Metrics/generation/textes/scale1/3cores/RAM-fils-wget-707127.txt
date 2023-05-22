@@ -1,0 +1,4 @@
+****RAM ePerf for PID 707127*****
+time_S: 20.018336175
+avgPower_W: 1.5700343848
+energy_J: 31.4294761230

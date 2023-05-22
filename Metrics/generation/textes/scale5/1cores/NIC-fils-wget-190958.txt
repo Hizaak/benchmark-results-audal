@@ -1,4 +1,0 @@
-****NIC ePerf for PID 190958*****
-time_S: 18
-avgPower_W: .0000354894
-energy_J: .0006388092

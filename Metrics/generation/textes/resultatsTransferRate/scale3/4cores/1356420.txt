@@ -1,0 +1,15 @@
+--2023-05-16 15:06:16--  https://hal.science/hal-01019968/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 209592 (205K) [application/pdf]
+Saving to: ‘./data/0.sdv/1356420.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  677K 0s
+    50K .......... .......... .......... .......... .......... 48% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 73% 3,81M 0s
+   150K .......... .......... .......... .......... .......... 97% 1,65M 0s
+   200K ....                                                  100%  209M=0,1s
+
+2023-05-16 15:06:22 (1,38 MB/s) - ‘./data/0.sdv/1356420.pdf’ saved [209592/209592]
+

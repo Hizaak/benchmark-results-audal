@@ -1,0 +1,4 @@
+****NIC ePerf for PID 42026*****
+time_S: 2
+avgPower_W: .0010146922
+energy_J: .0020293844

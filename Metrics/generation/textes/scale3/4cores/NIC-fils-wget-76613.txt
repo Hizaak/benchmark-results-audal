@@ -1,0 +1,4 @@
+****NIC ePerf for PID 76613*****
+time_S: 3
+avgPower_W: .0013551030
+energy_J: .0040653090

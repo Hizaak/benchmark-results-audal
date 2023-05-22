@@ -1,0 +1,4 @@
+****NIC ePerf for PID 48038*****
+time_S: 7
+avgPower_W: .0003028280
+energy_J: .0021197960

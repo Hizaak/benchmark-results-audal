@@ -1,0 +1,4 @@
+****NIC ePerf for PID 807211*****
+time_S: 2
+avgPower_W: .0009587910
+energy_J: .0019175820

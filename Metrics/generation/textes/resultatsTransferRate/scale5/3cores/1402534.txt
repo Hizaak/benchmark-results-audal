@@ -1,0 +1,14 @@
+--2023-05-16 20:59:56--  https://hal.science/hal-01402534/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198075 (193K) [application/pdf]
+Saving to: ‘./data/0.shs/1402534.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  930K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 77% 1,81M 0s
+   150K .......... .......... .......... .......... ...       100% 74,7M=0,1s
+
+2023-05-16 20:59:57 (1,72 MB/s) - ‘./data/0.shs/1402534.pdf’ saved [198075/198075]
+

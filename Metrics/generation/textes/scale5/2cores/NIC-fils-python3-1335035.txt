@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1335035*****
-time_S: 3628
-avgPower_W:
-energy_J:

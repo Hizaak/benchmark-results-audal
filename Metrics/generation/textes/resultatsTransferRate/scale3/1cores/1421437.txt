@@ -1,0 +1,16 @@
+--2023-05-16 12:43:55--  https://hal-enpc.archives-ouvertes.fr/hal-00583858/document
+Resolving hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278019 (272K) [application/pdf]
+Saving to: ‘./data/0.shs/1421437.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  832K 0s
+    50K .......... .......... .......... .......... .......... 36%  862K 0s
+   100K .......... .......... .......... .......... .......... 55% 27,3M 0s
+   150K .......... .......... .......... .......... .......... 73% 1,43M 0s
+   200K .......... .......... .......... .......... .......... 92%  300M 0s
+   250K .......... .......... .                               100%  669M=0,2s
+
+2023-05-16 12:44:01 (1,72 MB/s) - ‘./data/0.shs/1421437.pdf’ saved [278019/278019]
+

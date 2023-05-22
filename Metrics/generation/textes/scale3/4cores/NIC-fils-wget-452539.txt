@@ -1,0 +1,4 @@
+****NIC ePerf for PID 452539*****
+time_S: 7
+avgPower_W: .0004227401
+energy_J: .0029591807

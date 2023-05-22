@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1687*****
-time_S: 6
-avgPower_W: .0008626653
-energy_J: .0051759918

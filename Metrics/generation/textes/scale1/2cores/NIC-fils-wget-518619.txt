@@ -1,4 +1,0 @@
-****NIC ePerf for PID 518619*****
-time_S: 2
-avgPower_W: .0010838381
-energy_J: .0021676762

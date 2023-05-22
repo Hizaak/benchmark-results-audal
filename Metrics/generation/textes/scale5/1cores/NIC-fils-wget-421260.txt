@@ -1,4 +1,0 @@
-****NIC ePerf for PID 421260*****
-time_S: 7
-avgPower_W: .0000288982
-energy_J: .0002022874

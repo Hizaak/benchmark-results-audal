@@ -1,0 +1,13 @@
+--2023-05-16 20:19:29--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01195819/document
+Resolving hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119341 (117K) [application/pdf]
+Saving to: ‘./data/0.shs/1195819.pdf’
+
+     0K .......... .......... .......... .......... .......... 42%  787K 0s
+    50K .......... .......... .......... .......... .......... 85% 1,32M 0s
+   100K .......... ......                                     100%  109M=0,1s
+
+2023-05-16 20:19:30 (1,13 MB/s) - ‘./data/0.shs/1195819.pdf’ saved [119341/119341]
+

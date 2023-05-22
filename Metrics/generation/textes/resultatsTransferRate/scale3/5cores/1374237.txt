@@ -1,0 +1,14 @@
+--2023-05-16 15:38:01--  https://hal-unilim.archives-ouvertes.fr/hal-01374237/document
+Resolving hal-unilim.archives-ouvertes.fr (hal-unilim.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-unilim.archives-ouvertes.fr (hal-unilim.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196309 (192K) [application/pdf]
+Saving to: ‘./data/0.shs/1374237.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  673K 0s
+    50K .......... .......... .......... .......... .......... 52% 1,60M 0s
+   100K .......... .......... .......... .......... .......... 78% 1,61M 0s
+   150K .......... .......... .......... .......... .         100% 1,54M=0,2s
+
+2023-05-16 15:38:06 (1,16 MB/s) - ‘./data/0.shs/1374237.pdf’ saved [196309/196309]
+

@@ -1,0 +1,13 @@
+--2023-05-16 15:12:53--  https://hal.univ-lorraine.fr/hal-01503488/document
+Resolving hal.univ-lorraine.fr (hal.univ-lorraine.fr)... 193.48.96.10
+Connecting to hal.univ-lorraine.fr (hal.univ-lorraine.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144000 (141K) [application/pdf]
+Saving to: ‘./data/0.shs/1503488.pdf’
+
+     0K .......... .......... .......... .......... .......... 35%  839K 0s
+    50K .......... .......... .......... .......... .......... 71% 1,56M 0s
+   100K .......... .......... .......... ..........           100% 1,41M=0,1s
+
+2023-05-16 15:12:54 (1,15 MB/s) - ‘./data/0.shs/1503488.pdf’ saved [144000/144000]
+

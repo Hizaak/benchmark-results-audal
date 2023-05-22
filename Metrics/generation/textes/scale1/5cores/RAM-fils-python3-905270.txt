@@ -1,0 +1,4 @@
+****RAM ePerf for PID 905270*****
+time_S: 317.368367117
+avgPower_W: 1.5748203910
+energy_J: 499.7981760239

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 99513*****
-time_S: 5.005414141
-avgPower_W:
-energy_J:

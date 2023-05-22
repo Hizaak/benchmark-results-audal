@@ -1,4 +1,0 @@
-****NIC ePerf for PID 207736*****
-time_S: 7
-avgPower_W: .0028645724
-energy_J: .0200520068

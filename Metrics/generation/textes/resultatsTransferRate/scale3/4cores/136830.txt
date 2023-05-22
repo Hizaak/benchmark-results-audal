@@ -1,0 +1,16 @@
+--2023-05-16 15:23:43--  https://archivesic.ccsd.cnrs.fr/sic_00136830/document
+Resolving archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307054 (300K) [application/pdf]
+Saving to: ‘./data/0.shs/136830.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  843K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 50% 10,9M 0s
+   150K .......... .......... .......... .......... .......... 66% 1,99M 0s
+   200K .......... .......... .......... .......... .......... 83% 7,78M 0s
+   250K .......... .......... .......... .......... ......... 100% 2,11M=0,1s
+
+2023-05-16 15:23:44 (2,00 MB/s) - ‘./data/0.shs/136830.pdf’ saved [307054/307054]
+

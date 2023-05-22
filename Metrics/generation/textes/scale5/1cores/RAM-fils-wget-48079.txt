@@ -1,0 +1,4 @@
+****RAM ePerf for PID 48079*****
+time_S: 6.005290899
+avgPower_W:
+energy_J:

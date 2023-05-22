@@ -1,0 +1,4 @@
+****RAM ePerf for PID 81780*****
+time_S: 1.001025101
+avgPower_W:
+energy_J:

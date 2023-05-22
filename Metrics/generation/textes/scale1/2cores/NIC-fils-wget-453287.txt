@@ -1,0 +1,4 @@
+****NIC ePerf for PID 453287*****
+time_S: 2
+avgPower_W: .0002621300
+energy_J: .0005242600

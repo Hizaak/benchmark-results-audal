@@ -1,4 +1,0 @@
-****SD ePerf for PID 604771*****
-time_S: 5
-avgPower_W: .0037972500
-energy_J: .0189862500

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 501223*****
-time_S: 3
-avgPower_W: .0007342790
-energy_J: .0022028370

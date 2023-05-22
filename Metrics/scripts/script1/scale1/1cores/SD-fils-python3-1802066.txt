@@ -1,4 +1,0 @@
-****SD ePerf for PID 1802066*****
-time_S: 65
-avgPower_W: .0073938463
-energy_J: .4806000095

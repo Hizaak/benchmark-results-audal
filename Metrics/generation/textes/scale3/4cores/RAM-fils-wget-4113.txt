@@ -1,4 +1,0 @@
-****RAM ePerf for PID 4113*****
-time_S: 3.001942748
-avgPower_W:
-energy_J:

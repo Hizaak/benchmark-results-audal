@@ -1,4 +1,0 @@
-****NIC ePerf for PID 193123*****
-time_S: 3
-avgPower_W: .0014128619
-energy_J: .0042385857

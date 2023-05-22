@@ -1,4 +1,0 @@
-****NIC ePerf for PID 2187311*****
-time_S: 18
-avgPower_W: .0000854988
-energy_J: .0015389784

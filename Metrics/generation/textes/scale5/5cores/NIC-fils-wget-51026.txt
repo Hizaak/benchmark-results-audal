@@ -1,4 +1,0 @@
-****NIC ePerf for PID 51026*****
-time_S: 10
-avgPower_W: .0013847483
-energy_J: .0138474830

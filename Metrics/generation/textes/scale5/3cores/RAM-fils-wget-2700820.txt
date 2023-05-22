@@ -1,4 +1,0 @@
-****RAM ePerf for PID 2700820*****
-time_S: 14.027389090
-avgPower_W: 1.5664289802
-energy_J: 21.9729087875

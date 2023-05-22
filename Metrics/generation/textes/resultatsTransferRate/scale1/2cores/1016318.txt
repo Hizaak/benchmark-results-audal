@@ -1,0 +1,14 @@
+--2023-05-16 11:15:39--  https://inria.hal.science/hal-01016318/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153663 (150K) [application/pdf]
+Saving to: ‘./data/0.info/1016318.pdf’
+
+     0K .......... .......... .......... .......... .......... 33%  829K 0s
+    50K .......... .......... .......... .......... .......... 66% 1,64M 0s
+   100K .......... .......... .......... .......... .......... 99% 1,85M 0s
+   150K                                                       100%  117G=0,1s
+
+2023-05-16 11:15:39 (1,26 MB/s) - ‘./data/0.info/1016318.pdf’ saved [153663/153663]
+

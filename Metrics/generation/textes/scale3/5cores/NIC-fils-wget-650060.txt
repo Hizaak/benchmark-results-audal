@@ -1,0 +1,4 @@
+****NIC ePerf for PID 650060*****
+time_S: 32
+avgPower_W: .0000035251
+energy_J: .0001128032

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 71553*****
-time_S: 6.005133282
-avgPower_W:
-energy_J:

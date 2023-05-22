@@ -1,0 +1,17 @@
+--2023-05-16 13:22:07--  https://hal-brgm.archives-ouvertes.fr/hal-01017115/document
+Resolving hal-brgm.archives-ouvertes.fr (hal-brgm.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-brgm.archives-ouvertes.fr (hal-brgm.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 352027 (344K) [application/pdf]
+Saving to: ‘./data/0.chim/1017115.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  418K 1s
+    50K .......... .......... .......... .......... .......... 29%  583K 1s
+   100K .......... .......... .......... .......... .......... 43%  853K 0s
+   150K .......... .......... .......... .......... .......... 58%  865K 0s
+   200K .......... .......... .......... .......... .......... 72%  867K 0s
+   250K .......... .......... .......... .......... .......... 87%  870K 0s
+   300K .......... .......... .......... .......... ...       100%  844K=0,5s
+
+2023-05-16 13:22:08 (703 KB/s) - ‘./data/0.chim/1017115.pdf’ saved [352027/352027]
+

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 644734*****
-time_S: 7
-avgPower_W: .0020281101
-energy_J: .0141967707

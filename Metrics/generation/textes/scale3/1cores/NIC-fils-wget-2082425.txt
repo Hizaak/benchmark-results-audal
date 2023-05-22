@@ -1,0 +1,4 @@
+****NIC ePerf for PID 2082425*****
+time_S: 7
+avgPower_W: .0006910015
+energy_J: .0048370105

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1981583*****
-time_S: 10
-avgPower_W: .0022727884
-energy_J: .0227278840

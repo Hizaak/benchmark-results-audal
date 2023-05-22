@@ -1,0 +1,13 @@
+--2023-05-16 14:01:20--  https://hal.sorbonne-universite.fr/hal-01266453/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124669 (122K) [application/pdf]
+Saving to: ‘./data/0.phys/1266453.pdf’
+
+     0K .......... .......... .......... .......... .......... 41%  437K 0s
+    50K .......... .......... .......... .......... .......... 82%  807K 0s
+   100K .......... .......... .                               100%  801K=0,2s
+
+2023-05-16 14:01:21 (598 KB/s) - ‘./data/0.phys/1266453.pdf’ saved [124669/124669]
+

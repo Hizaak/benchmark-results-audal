@@ -1,0 +1,13 @@
+--2023-05-16 15:16:37--  https://hal.science/hal-00008612/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112574 (110K) [application/pdf]
+Saving to: ‘./data/0.phys/1301608.pdf’
+
+     0K .......... .......... .......... .......... .......... 45% 45,1K 1s
+    50K .......... .......... .......... .......... .......... 90%  290K 0s
+   100K .........                                             100%  356M=1,3s
+
+2023-05-16 15:16:39 (85,9 KB/s) - ‘./data/0.phys/1301608.pdf’ saved [112574/112574]
+

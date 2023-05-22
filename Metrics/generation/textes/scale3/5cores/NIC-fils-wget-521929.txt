@@ -1,0 +1,4 @@
+****NIC ePerf for PID 521929*****
+time_S: 5
+avgPower_W: .0025170527
+energy_J: .0125852635

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 5904*****
+time_S: 5.004672413
+avgPower_W:
+energy_J:

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 203871*****
-time_S: 1.001026338
-avgPower_W:
-energy_J:

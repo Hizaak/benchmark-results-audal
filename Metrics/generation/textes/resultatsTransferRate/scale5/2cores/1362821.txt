@@ -1,0 +1,15 @@
+--2023-05-16 20:31:56--  https://hal-amu.archives-ouvertes.fr/hal-01362821/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 221787 (217K) [application/pdf]
+Saving to: ‘./data/0.shs/1362821.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  902K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,60M 0s
+   100K .......... .......... .......... .......... .......... 69% 60,0M 0s
+   150K .......... .......... .......... .......... .......... 92% 65,2M 0s
+   200K .......... ......                                     100%  665K=0,1s
+
+2023-05-16 20:31:57 (1,88 MB/s) - ‘./data/0.shs/1362821.pdf’ saved [221787/221787]
+

@@ -1,0 +1,22 @@
+--2023-05-16 14:57:04--  https://hal.science/hal-00136751/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 14:57:15--  (try: 2)  https://hal.science/hal-00136751/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 346218 (338K) [application/pdf]
+Saving to: ‘./data/0.sdv/136751.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  759K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,78M 0s
+   100K .......... .......... .......... .......... .......... 44% 1,24M 0s
+   150K .......... .......... .......... .......... .......... 59%  409M 0s
+   200K .......... .......... .......... .......... .......... 73% 1,41M 0s
+   250K .......... .......... .......... .......... .......... 88%  560M 0s
+   300K .......... .......... .......... ........             100%  569M=0,2s
+
+2023-05-16 14:57:15 (1,97 MB/s) - ‘./data/0.sdv/136751.pdf’ saved [346218/346218]
+

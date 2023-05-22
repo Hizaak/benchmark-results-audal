@@ -1,0 +1,4 @@
+****RAM ePerf for PID 5232*****
+time_S: 1.000987474
+avgPower_W:
+energy_J:

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 70023*****
-time_S: -1683945294
-avgPower_W:
-energy_J:

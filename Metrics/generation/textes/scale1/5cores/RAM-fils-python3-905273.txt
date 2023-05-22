@@ -1,0 +1,4 @@
+****RAM ePerf for PID 905273*****
+time_S: 317.405550632
+avgPower_W: 1.5741093942
+energy_J: 499.6310590231

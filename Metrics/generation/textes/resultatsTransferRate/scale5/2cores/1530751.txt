@@ -1,0 +1,15 @@
+--2023-05-16 20:05:01--  https://hal.univ-antilles.fr/hal-01530751/document
+Resolving hal.univ-antilles.fr (hal.univ-antilles.fr)... 193.48.96.10
+Connecting to hal.univ-antilles.fr (hal.univ-antilles.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253852 (248K) [application/pdf]
+Saving to: ‘./data/0.math/1530751.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  928K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 60% 82,1M 0s
+   150K .......... .......... .......... .......... .......... 80% 1,91M 0s
+   200K .......... .......... .......... .......... .......   100% 42,2M=0,1s
+
+2023-05-16 20:05:03 (2,25 MB/s) - ‘./data/0.math/1530751.pdf’ saved [253852/253852]
+

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 520262*****
+time_S: 18
+avgPower_W: .0034038633
+energy_J: .0612695394

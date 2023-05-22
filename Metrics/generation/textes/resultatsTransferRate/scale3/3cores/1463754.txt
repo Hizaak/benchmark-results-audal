@@ -1,0 +1,15 @@
+--2023-05-16 15:01:36--  https://hal-ujm.archives-ouvertes.fr/ujm-01463754/document
+Resolving hal-ujm.archives-ouvertes.fr (hal-ujm.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ujm.archives-ouvertes.fr (hal-ujm.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 221075 (216K) [application/pdf]
+Saving to: ‘./data/0.shs/1463754.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  530K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,50M 0s
+   100K .......... .......... .......... .......... .......... 69%  385K 0s
+   150K .......... .......... .......... .......... .......... 92%  871K 0s
+   200K .......... .....                                      100%  540M=0,3s
+
+2023-05-16 15:01:42 (687 KB/s) - ‘./data/0.shs/1463754.pdf’ saved [221075/221075]
+

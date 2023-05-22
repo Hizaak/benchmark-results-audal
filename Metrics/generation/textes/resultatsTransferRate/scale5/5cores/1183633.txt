@@ -1,0 +1,17 @@
+--2023-05-16 22:01:17--  https://hal.sorbonne-universite.fr/hal-01183633/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 324247 (317K) [application/pdf]
+Saving to: ‘./data/0.chim/1183633.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  924K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 47% 1,88M 0s
+   150K .......... .......... .......... .......... .......... 63% 29,7M 0s
+   200K .......... .......... .......... .......... .......... 78%  114M 0s
+   250K .......... .......... .......... .......... .......... 94% 1,95M 0s
+   300K .......... ......                                     100%  537M=0,1s
+
+2023-05-16 22:01:17 (2,31 MB/s) - ‘./data/0.chim/1183633.pdf’ saved [324247/324247]
+

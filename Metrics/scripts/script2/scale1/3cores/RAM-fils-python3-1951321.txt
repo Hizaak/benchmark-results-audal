@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1951321*****
-time_S: 135.131283281
-avgPower_W: 9.0122646021
-energy_J: 1217.8388809623

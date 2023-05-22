@@ -1,0 +1,19 @@
+--2023-05-16 20:13:07--  https://hal.science/hal-01266554/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 20:13:18--  (try: 2)  https://hal.science/hal-01266554/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199463 (195K) [application/pdf]
+Saving to: ‘./data/0.math/1266554.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  927K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 77% 1,84M 0s
+   150K .......... .......... .......... .......... ....      100%  152M=0,1s
+
+2023-05-16 20:13:19 (1,77 MB/s) - ‘./data/0.math/1266554.pdf’ saved [199463/199463]
+

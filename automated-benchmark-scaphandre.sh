@@ -125,7 +125,7 @@ generation(){
 
             racine=$(pwd)
             cd /home/amaurice/Bureau/Stage/DLBench/Documents/ || exit;
-            python3 /home/amaurice/Bureau/Stage/DLBench/Documents/DocumentDataGen.py -S $i -J $j -B 1 &
+            python3 /home/amaurice/Bureau/Stage/DLBench/Documents/DocumentDataGen.py -S $i -J $j -B 0 &
             parent=$!
             echo "Mesure de la génération des documents sur le PID $parent."
             surveiller $parent /home/amaurice/Bureau/benchmark-results-audal/Scaphandre/generation/textes $i $j
@@ -140,15 +140,14 @@ generation(){
 }
 
 main() {
-    ########################################################################
-    # INSERER ICI LA LIGNE QUE L'ON UTILISERA POUR MONITORER AVEC SCAPHANDRE
-    ########################################################################
 
-    scaphandre json -t 60 -s 0 -n 100000 -m 10000 -f benchmarkScaphandre.json &
-
+    scaphandre json -t 172800 -s 0 -n 100000 -m 10000 -f benchmarkScaphandre.json &
+    pidScaphandre=$!
     delete_all_files
     
     generation $1 $2
+
+    kill -9 $pidScaphandre
 }
 
 if [ $# -eq 0 ]; then

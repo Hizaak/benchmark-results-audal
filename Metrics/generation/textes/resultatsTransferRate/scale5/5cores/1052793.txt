@@ -1,0 +1,18 @@
+--2023-05-16 22:08:20--  https://hal-sciencespo.archives-ouvertes.fr/hal-01052793/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384005 (375K) [application/pdf]
+Saving to: ‘./data/0.shs/1052793.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  881K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 39% 1,46M 0s
+   150K .......... .......... .......... .......... .......... 53% 9,98M 0s
+   200K .......... .......... .......... .......... .......... 66%  458M 0s
+   250K .......... .......... .......... .......... .......... 79% 2,26M 0s
+   300K .......... .......... .......... .......... .......... 93%  242K 0s
+   350K .......... .......... .....                           100%  522M=0,4s
+
+2023-05-16 22:08:21 (1,05 MB/s) - ‘./data/0.shs/1052793.pdf’ saved [384005/384005]
+

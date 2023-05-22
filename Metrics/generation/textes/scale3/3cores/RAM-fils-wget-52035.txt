@@ -1,0 +1,4 @@
+****RAM ePerf for PID 52035*****
+time_S: 2.001883991
+avgPower_W:
+energy_J:

@@ -1,0 +1,16 @@
+--2023-05-16 22:03:24--  https://hal-enpc.archives-ouvertes.fr/hal-01258169/document
+Resolving hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266200 (260K) [application/pdf]
+Saving to: ‘./data/0.shs/1258169.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  930K 0s
+    50K .......... .......... .......... .......... .......... 38% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 57% 44,6M 0s
+   150K .......... .......... .......... .......... .......... 76% 43,0M 0s
+   200K .......... .......... .......... .......... .......... 96% 1,94M 0s
+   250K .........                                             100% 33,7M=0,1s
+
+2023-05-16 22:03:30 (2,34 MB/s) - ‘./data/0.shs/1258169.pdf’ saved [266200/266200]
+

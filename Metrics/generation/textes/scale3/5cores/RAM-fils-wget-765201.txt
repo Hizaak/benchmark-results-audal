@@ -1,0 +1,4 @@
+****RAM ePerf for PID 765201*****
+time_S: 9.007427251
+avgPower_W: 1.5688193367
+energy_J: 14.1310260457

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 314000*****
+time_S: 16
+avgPower_W: .0010626259
+energy_J: .0170020144

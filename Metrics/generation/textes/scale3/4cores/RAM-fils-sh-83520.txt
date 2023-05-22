@@ -1,4 +1,0 @@
-****RAM ePerf for PID 83520*****
-time_S: 6.004999804
-avgPower_W:
-energy_J:

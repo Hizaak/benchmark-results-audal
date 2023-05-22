@@ -1,0 +1,4 @@
+****RAM ePerf for PID 76562*****
+time_S: 6.004904427
+avgPower_W:
+energy_J:

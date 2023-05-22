@@ -1,0 +1,4 @@
+****RAM ePerf for PID 860712*****
+time_S: 5.003537965
+avgPower_W:
+energy_J:

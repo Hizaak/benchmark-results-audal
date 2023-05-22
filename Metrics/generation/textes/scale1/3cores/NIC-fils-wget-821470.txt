@@ -1,4 +1,0 @@
-****NIC ePerf for PID 821470*****
-time_S: 11
-avgPower_W: .0031823421
-energy_J: .0350057631

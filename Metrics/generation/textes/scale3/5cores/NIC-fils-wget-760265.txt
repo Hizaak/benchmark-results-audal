@@ -1,0 +1,4 @@
+****NIC ePerf for PID 760265*****
+time_S: 35
+avgPower_W: .0030130337
+energy_J: .1054561795

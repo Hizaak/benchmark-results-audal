@@ -1,0 +1,27 @@
+--2023-05-16 18:07:35--  https://hal-ensta-paris.archives-ouvertes.fr/hal-00838876/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-00838876/document [following]
+--2023-05-16 18:07:35--  https://ensta-paris.hal.science/hal-00838876/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 569979 (557K) [application/pdf]
+Saving to: ‘./data/0.phys/1287041.pdf’
+
+     0K .......... .......... .......... .......... ..........  8%  871K 1s
+    50K .......... .......... .......... .......... .......... 17% 1,91M 0s
+   100K .......... .......... .......... .......... .......... 26% 32,2M 0s
+   150K .......... .......... .......... .......... .......... 35% 27,7M 0s
+   200K .......... .......... .......... .......... .......... 44% 1,75M 0s
+   250K .......... .......... .......... .......... .......... 53%  247K 0s
+   300K .......... .......... .......... .......... .......... 62%  420M 0s
+   350K .......... .......... .......... .......... .......... 71%  608M 0s
+   400K .......... .......... .......... .......... .......... 80%  493M 0s
+   450K .......... .......... .......... .......... .......... 89%  607M 0s
+   500K .......... .......... .......... .......... .......... 98%  246K 0s
+   550K ......                                                100%  517M=0,5s
+
+2023-05-16 18:07:37 (1,05 MB/s) - ‘./data/0.phys/1287041.pdf’ saved [569979/569979]
+

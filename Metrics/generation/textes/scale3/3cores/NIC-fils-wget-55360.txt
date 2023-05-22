@@ -1,0 +1,4 @@
+****NIC ePerf for PID 55360*****
+time_S: 3
+avgPower_W: .0010581462
+energy_J: .0031744386

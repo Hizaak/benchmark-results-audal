@@ -1,0 +1,16 @@
+--2023-05-16 18:55:27--  https://hal-enpc.archives-ouvertes.fr/hal-01274378/document
+Resolving hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271603 (265K) [application/pdf]
+Saving to: ‘./data/0.shs/1274378.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  903K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 56% 1,75M 0s
+   150K .......... .......... .......... .......... .......... 75% 30,8M 0s
+   200K .......... .......... .......... .......... .......... 94% 75,6M 0s
+   250K .......... .....                                      100% 20,0M=0,1s
+
+2023-05-16 18:55:28 (2,29 MB/s) - ‘./data/0.shs/1274378.pdf’ saved [271603/271603]
+

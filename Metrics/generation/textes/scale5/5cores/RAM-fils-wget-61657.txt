@@ -1,4 +1,0 @@
-****RAM ePerf for PID 61657*****
-time_S: 4.026821624
-avgPower_W:
-energy_J:

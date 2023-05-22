@@ -1,0 +1,13 @@
+--2023-05-16 14:06:10--  https://hal-sciencespo.archives-ouvertes.fr/hal-01045226/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140762 (137K) [application/pdf]
+Saving to: ‘./data/0.shs/1045226.pdf’
+
+     0K .......... .......... .......... .......... .......... 36%  816K 0s
+    50K .......... .......... .......... .......... .......... 72% 1,45M 0s
+   100K .......... .......... .......... .......              100% 2,06M=0,1s
+
+2023-05-16 14:06:11 (1,19 MB/s) - ‘./data/0.shs/1045226.pdf’ saved [140762/140762]
+

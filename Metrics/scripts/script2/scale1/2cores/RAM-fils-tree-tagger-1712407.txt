@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1712407*****
+time_S: 95.105443624
+avgPower_W: 1.9337059639
+energy_J: 183.9059635426

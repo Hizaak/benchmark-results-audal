@@ -1,4 +1,0 @@
-****RAM ePerf for PID 2600552*****
-time_S: 25.025545749
-avgPower_W: 1.5697291116
-energy_J: 39.2833276975

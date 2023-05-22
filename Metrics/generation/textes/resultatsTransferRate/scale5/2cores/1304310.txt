@@ -1,0 +1,17 @@
+--2023-05-16 20:06:48--  https://hal-sciencespo.archives-ouvertes.fr/hal-01304310/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 339046 (331K) [application/pdf]
+Saving to: ‘./data/0.shs/1304310.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  927K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 45% 1,86M 0s
+   150K .......... .......... .......... .......... .......... 60% 48,2M 0s
+   200K .......... .......... .......... .......... .......... 75% 89,5M 0s
+   250K .......... .......... .......... .......... .......... 90% 1,91M 0s
+   300K .......... .......... .......... .                    100%  152K=0,3s
+
+2023-05-16 20:06:54 (975 KB/s) - ‘./data/0.shs/1304310.pdf’ saved [339046/339046]
+

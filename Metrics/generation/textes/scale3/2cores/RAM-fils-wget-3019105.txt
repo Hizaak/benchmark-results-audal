@@ -1,4 +1,0 @@
-****RAM ePerf for PID 3019105*****
-time_S: 2.001862747
-avgPower_W: 1.5734950117
-energy_J: 3.1499210467

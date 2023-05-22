@@ -1,0 +1,4 @@
+****NIC ePerf for PID 940130*****
+time_S: 8
+avgPower_W: .0020721303
+energy_J: .0165770424

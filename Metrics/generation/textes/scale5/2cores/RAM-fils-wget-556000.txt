@@ -1,0 +1,4 @@
+****RAM ePerf for PID 556000*****
+time_S: 6.005671238
+avgPower_W: 1.5705857662
+energy_J: 9.4324217633

@@ -1,0 +1,14 @@
+--2023-05-16 21:19:21--  https://hal.univ-grenoble-alpes.fr/hal-01228688/document
+Resolving hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)... 193.48.96.10
+Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168307 (164K) [application/pdf]
+Saving to: ‘./data/0.shs/1228688.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  919K 0s
+    50K .......... .......... .......... .......... .......... 60% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 91% 1,81M 0s
+   150K .......... ....                                       100% 77,5M=0,1s
+
+2023-05-16 21:19:22 (1,48 MB/s) - ‘./data/0.shs/1228688.pdf’ saved [168307/168307]
+

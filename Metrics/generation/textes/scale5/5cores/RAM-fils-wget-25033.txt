@@ -1,4 +1,0 @@
-****RAM ePerf for PID 25033*****
-time_S: 4.017360616
-avgPower_W:
-energy_J:

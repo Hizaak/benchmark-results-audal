@@ -1,0 +1,14 @@
+--2023-05-16 14:12:12--  https://hal-sciencespo.archives-ouvertes.fr/hal-01021875/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180659 (176K) [application/pdf]
+Saving to: ‘./data/0.shs/1021875.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  851K 0s
+    50K .......... .......... .......... .......... .......... 56% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 85% 1,53M 0s
+   150K .......... .......... ......                          100%  332M=0,1s
+
+2023-05-16 14:12:12 (1,44 MB/s) - ‘./data/0.shs/1021875.pdf’ saved [180659/180659]
+

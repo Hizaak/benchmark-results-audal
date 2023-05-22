@@ -1,0 +1,13 @@
+--2023-05-16 21:39:10--  https://hal-sciencespo.archives-ouvertes.fr/hal-01022372/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121317 (118K) [application/pdf]
+Saving to: ‘./data/0.shs/1022372.pdf’
+
+     0K .......... .......... .......... .......... .......... 42%  943K 0s
+    50K .......... .......... .......... .......... .......... 84% 1,89M 0s
+   100K .......... ........                                   100% 38,6M=0,08s
+
+2023-05-16 21:39:10 (1,46 MB/s) - ‘./data/0.shs/1022372.pdf’ saved [121317/121317]
+

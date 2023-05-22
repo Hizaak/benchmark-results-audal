@@ -1,0 +1,16 @@
+--2023-05-16 20:54:58--  https://hal-cea.archives-ouvertes.fr/cea-01321419/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 268320 (262K) [application/pdf]
+Saving to: ‘./data/0.phys/1321419.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  899K 0s
+    50K .......... .......... .......... .......... .......... 38% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 57% 72,4M 0s
+   150K .......... .......... .......... .......... .......... 76% 82,9M 0s
+   200K .......... .......... .......... .......... .......... 95% 1,82M 0s
+   250K .......... ..                                         100%  583M=0,1s
+
+2023-05-16 20:54:59 (2,31 MB/s) - ‘./data/0.phys/1321419.pdf’ saved [268320/268320]
+

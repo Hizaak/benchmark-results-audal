@@ -1,0 +1,16 @@
+--2023-05-16 11:38:03--  https://hal-amu.archives-ouvertes.fr/hal-01316151/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297214 (290K) [application/pdf]
+Saving to: ‘./data/0.shs/1316151.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  838K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 51% 1,86M 0s
+   150K .......... .......... .......... .......... .......... 68% 1,53M 0s
+   200K .......... .......... .......... .......... .......... 86%  498M 0s
+   250K .......... .......... .......... ..........           100% 48,9M=0,1s
+
+2023-05-16 11:38:05 (1,93 MB/s) - ‘./data/0.shs/1316151.pdf’ saved [297214/297214]
+

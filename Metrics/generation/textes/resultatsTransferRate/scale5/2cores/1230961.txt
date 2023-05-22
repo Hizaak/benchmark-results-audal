@@ -1,0 +1,14 @@
+--2023-05-16 19:59:14--  https://hal-confremo.archives-ouvertes.fr/hal-01230961/document
+Resolving hal-confremo.archives-ouvertes.fr (hal-confremo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-confremo.archives-ouvertes.fr (hal-confremo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202285 (198K) [application/pdf]
+Saving to: ‘./data/0.shs/1230961.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  920K 0s
+    50K .......... .......... .......... .......... .......... 50% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 75% 13,0M 0s
+   150K .......... .......... .......... .......... .......   100% 1,96M=0,1s
+
+2023-05-16 19:59:14 (1,78 MB/s) - ‘./data/0.shs/1230961.pdf’ saved [202285/202285]
+

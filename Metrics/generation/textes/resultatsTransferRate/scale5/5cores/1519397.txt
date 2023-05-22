@@ -1,0 +1,13 @@
+--2023-05-16 22:05:46--  https://shs.hal.science/halshs-00372633/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:05:57--  (try: 2)  https://shs.hal.science/halshs-00372633/document
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:06:09--  (try: 3)  https://shs.hal.science/halshs-00372633/document
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 72537*****
+time_S: 7
+avgPower_W: .0008966166
+energy_J: .0062763162

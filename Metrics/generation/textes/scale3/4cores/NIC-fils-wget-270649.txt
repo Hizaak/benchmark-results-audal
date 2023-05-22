@@ -1,0 +1,4 @@
+****NIC ePerf for PID 270649*****
+time_S: 6
+avgPower_W: .0008754628
+energy_J: .0052527768

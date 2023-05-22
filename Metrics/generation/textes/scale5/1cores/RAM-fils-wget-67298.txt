@@ -1,0 +1,4 @@
+****RAM ePerf for PID 67298*****
+time_S: 7.006789244
+avgPower_W: 1.5685318922
+energy_J: 10.9903723913

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 82256*****
-time_S: 4.004453049
-avgPower_W:
-energy_J:

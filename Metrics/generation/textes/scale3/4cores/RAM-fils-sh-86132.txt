@@ -1,4 +1,0 @@
-****RAM ePerf for PID 86132*****
-time_S: 6.004706745
-avgPower_W:
-energy_J:

@@ -1,0 +1,18 @@
+--2023-05-16 11:19:24--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01130968/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 372673 (364K) [application/pdf]
+Saving to: ‘./data/0.sdv/1130968.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  832K 0s
+    50K .......... .......... .......... .......... .......... 27% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 41%  864K 0s
+   150K .......... .......... .......... .......... .......... 54% 15,7M 0s
+   200K .......... .......... .......... .......... .......... 68%  514M 0s
+   250K .......... .......... .......... .......... .......... 82% 1,67M 0s
+   300K .......... .......... .......... .......... .......... 96%  579M 0s
+   350K .......... ...                                        100%  512M=0,2s
+
+2023-05-16 11:19:25 (1,99 MB/s) - ‘./data/0.sdv/1130968.pdf’ saved [372673/372673]
+

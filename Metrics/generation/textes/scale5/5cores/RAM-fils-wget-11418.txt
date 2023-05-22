@@ -1,4 +1,0 @@
-****RAM ePerf for PID 11418*****
-time_S: 2.002039094
-avgPower_W:
-energy_J:

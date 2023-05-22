@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1047004*****
-time_S: 7
-avgPower_W: .0000341346
-energy_J: .0002389422

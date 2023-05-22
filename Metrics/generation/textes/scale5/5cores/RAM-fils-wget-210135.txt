@@ -1,4 +1,0 @@
-****RAM ePerf for PID 210135*****
-time_S: 2.002466901
-avgPower_W:
-energy_J:

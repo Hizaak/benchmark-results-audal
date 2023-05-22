@@ -1,0 +1,4 @@
+****CPU ePerf for PID 62008*****
+time_S: 208
+avgPower_W: 2.0782758620
+energy_J: 432.2813792960

@@ -1,0 +1,17 @@
+--2023-05-16 15:28:45--  https://u-bourgogne.hal.science/hal-01157902/document
+Resolving u-bourgogne.hal.science (u-bourgogne.hal.science)... 193.48.96.10
+Connecting to u-bourgogne.hal.science (u-bourgogne.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307325 (300K) [application/pdf]
+Saving to: ‘./data/0.info/1309109.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  709K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,41M 0s
+   100K .......... .......... .......... .......... .......... 49% 8,48M 0s
+   150K .......... .......... .......... .......... .......... 66% 1,70M 0s
+   200K .......... .......... .......... .......... .......... 83% 1,71M 0s
+   250K .......... .......... .......... .......... .......... 99% 11,2M 0s
+   300K                                                       100%  233G=0,2s
+
+2023-05-16 15:28:46 (1,70 MB/s) - ‘./data/0.info/1309109.pdf’ saved [307325/307325]
+

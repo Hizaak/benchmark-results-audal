@@ -1,0 +1,4 @@
+****RAM ePerf for PID 72043*****
+time_S: 6.006846875
+avgPower_W: 1.5695043398
+energy_J: 9.4277722389

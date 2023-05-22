@@ -1,0 +1,4 @@
+****RAM ePerf for PID 58720*****
+time_S: 12.009065655
+avgPower_W: 1.5669952709
+energy_J: 18.8181490903

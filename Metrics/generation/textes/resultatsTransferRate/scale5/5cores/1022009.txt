@@ -1,0 +1,17 @@
+--2023-05-16 22:08:30--  https://hal-sciencespo.archives-ouvertes.fr/hal-01022009/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 308318 (301K) [application/pdf]
+Saving to: ‘./data/0.shs/1022009.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  934K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,82M 0s
+   150K .......... .......... .......... .......... .......... 66% 98,9M 0s
+   200K .......... .......... .......... .......... .......... 83% 78,6M 0s
+   250K .......... .......... .......... .......... .......... 99% 1,82M 0s
+   300K .                                                     100% 2,03T=0,1s
+
+2023-05-16 22:08:31 (2,18 MB/s) - ‘./data/0.shs/1022009.pdf’ saved [308318/308318]
+

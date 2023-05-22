@@ -1,4 +1,0 @@
-****NIC ePerf for PID 75676*****
-time_S: 4
-avgPower_W: .0018971751
-energy_J: .0075887004

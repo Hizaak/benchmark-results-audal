@@ -1,0 +1,15 @@
+--2023-05-16 21:04:44--  https://hal.sorbonne-universite.fr/hal-01104136/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236074 (231K) [application/pdf]
+Saving to: ‘./data/0.sdv/1104136.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  923K 0s
+    50K .......... .......... .......... .......... .......... 43% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 65% 57,9M 0s
+   150K .......... .......... .......... .......... .......... 86%  147M 0s
+   200K .......... .......... ..........                      100% 1,15M=0,1s
+
+2023-05-16 21:04:45 (2,08 MB/s) - ‘./data/0.sdv/1104136.pdf’ saved [236074/236074]
+

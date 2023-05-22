@@ -1,0 +1,17 @@
+--2023-05-16 15:11:23--  https://hal-imt.archives-ouvertes.fr/hal-01148692/document
+Resolving hal-imt.archives-ouvertes.fr (hal-imt.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-imt.archives-ouvertes.fr (hal-imt.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309441 (302K) [application/pdf]
+Saving to: ‘./data/0.math/1148692.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  732K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,21M 0s
+   100K .......... .......... .......... .......... .......... 49%  358M 0s
+   150K .......... .......... .......... .......... .......... 66% 1,01M 0s
+   200K .......... .......... .......... .......... .......... 82%  639K 0s
+   250K .......... .......... .......... .......... .......... 99% 1,61M 0s
+   300K ..                                                    100% 4,08T=0,3s
+
+2023-05-16 15:11:29 (1,11 MB/s) - ‘./data/0.math/1148692.pdf’ saved [309441/309441]
+

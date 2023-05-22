@@ -1,13 +1,13 @@
---2023-05-13 00:23:42--  https://edutice.archives-ouvertes.fr/edutice-00142194/document
+--2023-05-16 18:33:59--  https://edutice.archives-ouvertes.fr/edutice-00142194/document
 Resolving edutice.archives-ouvertes.fr (edutice.archives-ouvertes.fr)... 193.48.96.10
 Connecting to edutice.archives-ouvertes.fr (edutice.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 150609 (147K) [application/pdf]
 Saving to: ‘./data/0.shs/142194.pdf’
 
-     0K .......... .......... .......... .......... .......... 33%  888K 0s
-    50K .......... .......... .......... .......... .......... 67% 1,69M 0s
-   100K .......... .......... .......... .......... .......   100%  528M=0,09s
+     0K .......... .......... .......... .......... .......... 33%  816K 0s
+    50K .......... .......... .......... .......... .......... 67% 1,84M 0s
+   100K .......... .......... .......... .......... .......   100% 21,0M=0,09s
 
-2023-05-13 00:23:44 (1,68 MB/s) - ‘./data/0.shs/142194.pdf’ saved [150609/150609]
+2023-05-16 18:34:00 (1,60 MB/s) - ‘./data/0.shs/142194.pdf’ saved [150609/150609]
 

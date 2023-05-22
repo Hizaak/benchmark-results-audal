@@ -1,0 +1,18 @@
+--2023-05-16 20:03:24--  https://www.hal.inserm.fr/inserm-00135054/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 20:03:35--  (try: 2)  https://www.hal.inserm.fr/inserm-00135054/document
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144391 (141K) [application/pdf]
+Saving to: ‘./data/0.sdv/135054.pdf’
+
+     0K .......... .......... .......... .......... .......... 35%  878K 0s
+    50K .......... .......... .......... .......... .......... 70% 1,82M 0s
+   100K .......... .......... .......... .......... .         100% 67,8M=0,08s
+
+2023-05-16 20:03:36 (1,63 MB/s) - ‘./data/0.sdv/135054.pdf’ saved [144391/144391]
+

@@ -1,0 +1,16 @@
+--2023-05-16 15:26:35--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01075478/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297647 (291K) [application/pdf]
+Saving to: ‘./data/0.shs/1075478.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  700K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,29M 0s
+   100K .......... .......... .......... .......... .......... 51% 1,51M 0s
+   150K .......... .......... .......... .......... .......... 68% 19,8M 0s
+   200K .......... .......... .......... .......... .......... 86% 1,32M 0s
+   250K .......... .......... .......... ..........           100% 29,0M=0,2s
+
+2023-05-16 15:26:36 (1,56 MB/s) - ‘./data/0.shs/1075478.pdf’ saved [297647/297647]
+

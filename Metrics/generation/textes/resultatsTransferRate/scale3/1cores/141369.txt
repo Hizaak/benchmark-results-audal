@@ -1,0 +1,14 @@
+--2023-05-16 13:21:26--  https://www.hal.inserm.fr/inserm-00141369/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161981 (158K) [application/pdf]
+Saving to: ‘./data/0.sdv/141369.pdf’
+
+     0K .......... .......... .......... .......... .......... 31%  402K 0s
+    50K .......... .......... .......... .......... .......... 63%  824K 0s
+   100K .......... .......... .......... .......... .......... 94%  585K 0s
+   150K ........                                              100%  303M=0,3s
+
+2023-05-16 13:21:32 (584 KB/s) - ‘./data/0.sdv/141369.pdf’ saved [161981/161981]
+

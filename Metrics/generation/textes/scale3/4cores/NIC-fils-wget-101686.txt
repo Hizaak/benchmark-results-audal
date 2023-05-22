@@ -1,0 +1,4 @@
+****NIC ePerf for PID 101686*****
+time_S: 6
+avgPower_W: .0002278924
+energy_J: .0013673544

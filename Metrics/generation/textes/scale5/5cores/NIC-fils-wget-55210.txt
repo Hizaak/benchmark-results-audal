@@ -1,4 +1,0 @@
-****NIC ePerf for PID 55210*****
-time_S: 11
-avgPower_W: .0025322218
-energy_J: .0278544398

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 73709*****
+time_S: 3.002444215
+avgPower_W:
+energy_J:

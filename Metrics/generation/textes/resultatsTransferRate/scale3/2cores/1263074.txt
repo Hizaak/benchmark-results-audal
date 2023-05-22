@@ -1,0 +1,16 @@
+--2023-05-16 14:24:52--  https://hal.sorbonne-universite.fr/hal-01263074/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283186 (277K) [application/pdf]
+Saving to: ‘./data/0.math/1263074.pdf’
+
+     0K .......... .......... .......... .......... .......... 18% 83,5K 3s
+    50K .......... .......... .......... .......... .......... 36%  440K 1s
+   100K .......... .......... .......... .......... .......... 54%  532K 1s
+   150K .......... .......... .......... .......... .......... 72%  697K 0s
+   200K .......... .......... .......... .......... .......... 90%  624K 0s
+   250K .......... .......... ......                          100%  974K=1,0s
+
+2023-05-16 14:24:54 (281 KB/s) - ‘./data/0.math/1263074.pdf’ saved [283186/283186]
+

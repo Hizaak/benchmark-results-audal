@@ -1,4 +1,0 @@
-****RAM ePerf for PID 650817*****
-time_S: 7.006637749
-avgPower_W:
-energy_J:

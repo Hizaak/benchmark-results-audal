@@ -1,4 +1,0 @@
-****RAM ePerf for PID 178103*****
-time_S: 2.001671431
-avgPower_W:
-energy_J:

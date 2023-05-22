@@ -1,4 +1,0 @@
-****RAM ePerf for PID 12040*****
-time_S:
-avgPower_W:
-energy_J:

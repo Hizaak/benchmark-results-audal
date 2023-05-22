@@ -1,0 +1,17 @@
+--2023-05-16 22:11:44--  https://hal-riip.archives-ouvertes.fr/pasteur-01078450/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307651 (300K) [application/pdf]
+Saving to: ‘./data/0.sdv/1078450.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  912K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,78M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,82M 0s
+   150K .......... .......... .......... .......... .......... 66% 87,4M 0s
+   200K .......... .......... .......... .......... .......... 83%  109M 0s
+   250K .......... .......... .......... .......... .......... 99% 1,88M 0s
+   300K                                                       100%  840G=0,1s
+
+2023-05-16 22:11:45 (2,16 MB/s) - ‘./data/0.sdv/1078450.pdf’ saved [307651/307651]
+

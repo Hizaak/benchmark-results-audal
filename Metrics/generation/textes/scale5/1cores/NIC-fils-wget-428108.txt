@@ -1,4 +1,0 @@
-****NIC ePerf for PID 428108*****
-time_S: 2
-avgPower_W: .0002186086
-energy_J: .0004372172

@@ -1,0 +1,13 @@
+--2023-05-16 22:06:19--  https://www.hal.inserm.fr/inserm-01444251/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:06:30--  (try: 2)  https://www.hal.inserm.fr/inserm-01444251/document
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:06:42--  (try: 3)  https://www.hal.inserm.fr/inserm-01444251/document
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 622431*****
-time_S: 8
-avgPower_W: .0018033294
-energy_J: .0144266352

@@ -1,0 +1,16 @@
+--2023-05-16 21:22:15--  https://univ-rennes.hal.science/hal-01231428/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276028 (270K) [application/pdf]
+Saving to: ‘./data/0.sdv/1251354.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  913K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,83M 0s
+   150K .......... .......... .......... .......... .......... 74% 79,1M 0s
+   200K .......... .......... .......... .......... .......... 92% 1,84M 0s
+   250K .......... .........                                  100%  123M=0,1s
+
+2023-05-16 21:22:15 (1,94 MB/s) - ‘./data/0.sdv/1251354.pdf’ saved [276028/276028]
+

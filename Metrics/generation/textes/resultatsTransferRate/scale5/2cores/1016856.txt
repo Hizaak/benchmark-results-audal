@@ -1,15 +1,15 @@
---2023-05-13 02:33:48--  https://hal-sciencespo.archives-ouvertes.fr/hal-01016856/document
+--2023-05-16 19:57:39--  https://hal-sciencespo.archives-ouvertes.fr/hal-01016856/document
 Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 221141 (216K) [application/pdf]
 Saving to: ‘./data/0.shs/1016856.pdf’
 
-     0K .......... .......... .......... .......... .......... 23%  866K 0s
-    50K .......... .......... .......... .......... .......... 46% 1,71M 0s
-   100K .......... .......... .......... .......... .......... 69% 1,75M 0s
-   150K .......... .......... .......... .......... .......... 92% 1,72M 0s
-   200K .......... .....                                      100%  323M=0,1s
+     0K .......... .......... .......... .......... .......... 23%  909K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 69% 1,88M 0s
+   150K .......... .......... .......... .......... .......... 92% 30,9M 0s
+   200K .......... .....                                      100%  517M=0,1s
 
-2023-05-13 02:33:48 (1,48 MB/s) - ‘./data/0.shs/1016856.pdf’ saved [221141/221141]
+2023-05-16 19:57:40 (1,93 MB/s) - ‘./data/0.shs/1016856.pdf’ saved [221141/221141]
 

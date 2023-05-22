@@ -1,0 +1,14 @@
+--2023-05-16 14:27:45--  https://hal-inalco.archives-ouvertes.fr/hal-01442978/document
+Resolving hal-inalco.archives-ouvertes.fr (hal-inalco.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-inalco.archives-ouvertes.fr (hal-inalco.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201323 (197K) [application/pdf]
+Saving to: ‘./data/0.shs/1442978.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  634K 0s
+    50K .......... .......... .......... .......... .......... 50% 1,15M 0s
+   100K .......... .......... .......... .......... .......... 76% 1,59M 0s
+   150K .......... .......... .......... .......... ......    100% 14,4M=0,2s
+
+2023-05-16 14:27:51 (1,24 MB/s) - ‘./data/0.shs/1442978.pdf’ saved [201323/201323]
+

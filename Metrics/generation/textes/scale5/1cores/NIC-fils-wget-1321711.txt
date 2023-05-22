@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1321711*****
-time_S: 2
-avgPower_W: .0003749875
-energy_J: .0007499750

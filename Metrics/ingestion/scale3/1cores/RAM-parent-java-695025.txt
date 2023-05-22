@@ -1,4 +1,0 @@
-****RAM ePerf for PID 695025*****
-time_S: 2634.476133215
-avgPower_W: 6.3357199354
-energy_J: 16691.3029567733

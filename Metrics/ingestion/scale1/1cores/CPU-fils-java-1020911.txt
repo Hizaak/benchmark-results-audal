@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1020911*****
+time_S: 752
+avgPower_W: .3346242774
+energy_J: 251.6374566048

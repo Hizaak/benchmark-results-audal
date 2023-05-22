@@ -1,0 +1,4 @@
+****RAM ePerf for PID 32070*****
+time_S: 6.004880761
+avgPower_W:
+energy_J:

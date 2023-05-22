@@ -1,0 +1,4 @@
+****NIC ePerf for PID 3704580*****
+time_S: 27
+avgPower_W: .0024949445
+energy_J: .0673635015

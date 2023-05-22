@@ -1,0 +1,4 @@
+****RAM ePerf for PID 724277*****
+time_S: 22.017428402
+avgPower_W: 1.5676355024
+energy_J: 34.5153024351

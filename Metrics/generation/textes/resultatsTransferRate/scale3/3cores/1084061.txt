@@ -1,0 +1,15 @@
+--2023-05-16 14:47:38--  https://shs.hal.science/halshs-01084061/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245981 (240K) [application/pdf]
+Saving to: ‘./data/0.shs/1084061.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  548K 0s
+    50K .......... .......... .......... .......... .......... 41%  562K 0s
+   100K .......... .......... .......... .......... .......... 62% 19,0M 0s
+   150K .......... .......... .......... .......... .......... 83% 1,36M 0s
+   200K .......... .......... .......... ..........           100%  303M=0,2s
+
+2023-05-16 14:47:39 (1,07 MB/s) - ‘./data/0.shs/1084061.pdf’ saved [245981/245981]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 4000609*****
+time_S: 329.389853772
+avgPower_W: 8.6579351723
+energy_J: 2851.8360004021

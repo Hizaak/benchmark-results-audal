@@ -1,0 +1,4 @@
+****CPU ePerf for PID 756141*****
+time_S: 397
+avgPower_W: .0134246575
+energy_J: 5.3295890275

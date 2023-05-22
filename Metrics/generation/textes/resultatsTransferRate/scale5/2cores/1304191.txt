@@ -1,0 +1,14 @@
+--2023-05-16 20:05:46--  https://hal-amu.archives-ouvertes.fr/hal-01304191/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172772 (169K) [application/pdf]
+Saving to: ‘./data/0.shs/1304191.pdf’
+
+     0K .......... .......... .......... .......... .......... 29%  911K 0s
+    50K .......... .......... .......... .......... .......... 59% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 88% 78,8M 0s
+   150K .......... ........                                   100%  474M=0,08s
+
+2023-05-16 20:05:52 (1,98 MB/s) - ‘./data/0.shs/1304191.pdf’ saved [172772/172772]
+

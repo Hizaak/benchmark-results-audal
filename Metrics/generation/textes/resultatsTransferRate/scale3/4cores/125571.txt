@@ -1,0 +1,14 @@
+--2023-05-16 15:21:01--  https://archivesic.ccsd.cnrs.fr/sic_00125571/document
+Resolving archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to archivesic.ccsd.cnrs.fr (archivesic.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198239 (194K) [application/pdf]
+Saving to: ‘./data/0.shs/125571.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  789K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,57M 0s
+   100K .......... .......... .......... .......... .......... 77% 9,77M 0s
+   150K .......... .......... .......... .......... ...       100% 1,42M=0,1s
+
+2023-05-16 15:21:03 (1,46 MB/s) - ‘./data/0.shs/125571.pdf’ saved [198239/198239]
+

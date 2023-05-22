@@ -1,0 +1,4 @@
+****NIC ePerf for PID 1931864*****
+time_S: 153
+avgPower_W:
+energy_J:

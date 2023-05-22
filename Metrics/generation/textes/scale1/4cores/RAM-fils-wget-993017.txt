@@ -1,4 +1,0 @@
-****RAM ePerf for PID 993017*****
-time_S: 1.002223437
-avgPower_W:
-energy_J:

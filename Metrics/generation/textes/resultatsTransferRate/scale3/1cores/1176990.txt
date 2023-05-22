@@ -1,0 +1,14 @@
+--2023-05-16 13:45:56--  https://hal.sorbonne-universite.fr/hal-01176990/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194858 (190K) [application/pdf]
+Saving to: ‘./data/0.sdv/1176990.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  432K 0s
+    50K .......... .......... .......... .......... .......... 52%  861K 0s
+   100K .......... .......... .......... .......... .......... 78%  574K 0s
+   150K .......... .......... .......... ..........           100% 1,28M=0,3s
+
+2023-05-16 13:45:57 (652 KB/s) - ‘./data/0.sdv/1176990.pdf’ saved [194858/194858]
+

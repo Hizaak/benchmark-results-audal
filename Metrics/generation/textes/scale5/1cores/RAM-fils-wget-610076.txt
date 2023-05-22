@@ -1,4 +1,0 @@
-****RAM ePerf for PID 610076*****
-time_S: 18.018525126
-avgPower_W: 1.5702558219
-energy_J: 28.2936939820

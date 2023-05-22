@@ -1,0 +1,15 @@
+--2023-05-16 11:17:40--  https://hal-sciencespo.archives-ouvertes.fr/hal-01053320/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 248639 (243K) [application/pdf]
+Saving to: ‘./data/0.shs/1053320.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  833K 0s
+    50K .......... .......... .......... .......... .......... 41% 1,54M 0s
+   100K .......... .......... .......... .......... .......... 61% 18,9M 0s
+   150K .......... .......... .......... .......... .......... 82% 2,19M 0s
+   200K .......... .......... .......... .......... ..        100% 10,7M=0,1s
+
+2023-05-16 11:17:46 (1,97 MB/s) - ‘./data/0.shs/1053320.pdf’ saved [248639/248639]
+

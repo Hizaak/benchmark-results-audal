@@ -1,0 +1,4 @@
+****SD ePerf for PID 981110*****
+time_S: 7
+avgPower_W: .0040183750
+energy_J: .0281286250

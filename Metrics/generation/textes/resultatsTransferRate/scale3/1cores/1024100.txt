@@ -1,0 +1,18 @@
+--2023-05-16 12:39:08--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024100/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 385505 (376K) [application/pdf]
+Saving to: ‘./data/0.shs/1024100.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  848K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 39% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 53% 1,89M 0s
+   200K .......... .......... .......... .......... .......... 66% 8,32M 0s
+   250K .......... .......... .......... .......... .......... 79%  594M 0s
+   300K .......... .......... .......... .......... .......... 92%  241K 0s
+   350K .......... .......... ......                          100%  335M=0,4s
+
+2023-05-16 12:39:14 (1,03 MB/s) - ‘./data/0.shs/1024100.pdf’ saved [385505/385505]
+

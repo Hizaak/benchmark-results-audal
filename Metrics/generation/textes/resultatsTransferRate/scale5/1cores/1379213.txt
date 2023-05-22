@@ -1,0 +1,16 @@
+--2023-05-16 19:35:58--  https://univ-rennes.hal.science/hal-01334050/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 267811 (262K) [application/pdf]
+Saving to: ‘./data/0.chim/1379213.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  925K 0s
+    50K .......... .......... .......... .......... .......... 38% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 57% 1,83M 0s
+   150K .......... .......... .......... .......... .......... 76% 71,7M 0s
+   200K .......... .......... .......... .......... .......... 95% 73,2M 0s
+   250K .......... .                                          100%  675M=0,1s
+
+2023-05-16 19:36:04 (2,35 MB/s) - ‘./data/0.chim/1379213.pdf’ saved [267811/267811]
+

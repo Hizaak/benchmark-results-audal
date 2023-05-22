@@ -1,0 +1,4 @@
+****RAM ePerf for PID 752213*****
+time_S: 5.003723053
+avgPower_W:
+energy_J:

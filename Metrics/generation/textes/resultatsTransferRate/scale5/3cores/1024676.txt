@@ -1,0 +1,13 @@
+--2023-05-16 20:53:47--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024676/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151512 (148K) [application/pdf]
+Saving to: ‘./data/0.shs/1024676.pdf’
+
+     0K .......... .......... .......... .......... .......... 33%  919K 0s
+    50K .......... .......... .......... .......... .......... 67% 1,81M 0s
+   100K .......... .......... .......... .......... .......   100% 91,9M=0,08s
+
+2023-05-16 20:53:48 (1,77 MB/s) - ‘./data/0.shs/1024676.pdf’ saved [151512/151512]
+

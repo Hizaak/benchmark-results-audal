@@ -1,4 +1,0 @@
-****RAM ePerf for PID 79583*****
-time_S: 3.011892104
-avgPower_W:
-energy_J:

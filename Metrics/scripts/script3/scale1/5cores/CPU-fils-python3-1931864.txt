@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1931864*****
+time_S: 151
+avgPower_W: 10.6840740740
+energy_J: 1613.2951851740

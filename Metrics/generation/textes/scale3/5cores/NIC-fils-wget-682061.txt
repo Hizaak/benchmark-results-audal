@@ -1,0 +1,4 @@
+****NIC ePerf for PID 682061*****
+time_S: 3
+avgPower_W: .0002490906
+energy_J: .0007472718

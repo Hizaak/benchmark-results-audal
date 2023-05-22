@@ -1,0 +1,15 @@
+--2023-05-16 22:17:09--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01468167/document
+Resolving hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 234148 (229K) [application/pdf]
+Saving to: ‘./data/0.shs/1468167.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  967K 0s
+    50K .......... .......... .......... .......... .......... 43% 1,89M 0s
+   100K .......... .......... .......... .......... .......... 65% 1,91M 0s
+   150K .......... .......... .......... .......... .......... 87% 56,8M 0s
+   200K .......... .......... ........                        100%  246M=0,1s
+
+2023-05-16 22:17:10 (2,14 MB/s) - ‘./data/0.shs/1468167.pdf’ saved [234148/234148]
+

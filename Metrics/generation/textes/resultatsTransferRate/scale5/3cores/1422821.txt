@@ -1,0 +1,17 @@
+--2023-05-16 21:07:41--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01422821/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 346436 (338K) [application/pdf]
+Saving to: ‘./data/0.sdv/1422821.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  673K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 44% 43,2M 0s
+   150K .......... .......... .......... .......... .......... 59% 1,86M 0s
+   200K .......... .......... .......... .......... .......... 73% 93,7M 0s
+   250K .......... .......... .......... .......... .......... 88%  244K 0s
+   300K .......... .......... .......... ........             100%  343M=0,3s
+
+2023-05-16 21:07:42 (1013 KB/s) - ‘./data/0.sdv/1422821.pdf’ saved [346436/346436]
+

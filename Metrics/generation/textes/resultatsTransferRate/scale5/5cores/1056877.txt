@@ -1,0 +1,13 @@
+--2023-05-16 22:05:12--  https://hal.science/hal-01056877/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:05:24--  (try: 2)  https://hal.science/hal-01056877/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:05:36--  (try: 3)  https://hal.science/hal-01056877/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 756350*****
+time_S: 40
+avgPower_W: .0027439768
+energy_J: .1097590720

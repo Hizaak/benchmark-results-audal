@@ -1,0 +1,15 @@
+--2023-05-16 12:50:12--  https://hal-enpc.archives-ouvertes.fr/hal-01083004/document
+Resolving hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207189 (202K) [application/pdf]
+Saving to: ‘./data/0.chim/1083004.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  835K 0s
+    50K .......... .......... .......... .......... .......... 49%  927K 0s
+   100K .......... .......... .......... .......... .......... 74% 8,54M 0s
+   150K .......... .......... .......... .......... .......... 98% 2,00M 0s
+   200K ..                                                    100%  141M=0,1s
+
+2023-05-16 12:50:12 (1,37 MB/s) - ‘./data/0.chim/1083004.pdf’ saved [207189/207189]
+

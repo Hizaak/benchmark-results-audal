@@ -1,4 +1,0 @@
-****NIC ePerf for PID 80677*****
-time_S: 6
-avgPower_W: .0007678712
-energy_J: .0046072272

@@ -1,0 +1,17 @@
+--2023-05-16 15:14:24--  https://hal.sorbonne-universite.fr/hal-01018205/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322341 (315K) [application/pdf]
+Saving to: ‘./data/0.chim/1018205.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  810K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,53M 0s
+   100K .......... .......... .......... .......... .......... 47% 1,56M 0s
+   150K .......... .......... .......... .......... .......... 63% 1,78M 0s
+   200K .......... .......... .......... .......... .......... 79% 10,2M 0s
+   250K .......... .......... .......... .......... .......... 95% 1,82M 0s
+   300K .......... ....                                       100%  503M=0,2s
+
+2023-05-16 15:14:25 (1,67 MB/s) - ‘./data/0.chim/1018205.pdf’ saved [322341/322341]
+

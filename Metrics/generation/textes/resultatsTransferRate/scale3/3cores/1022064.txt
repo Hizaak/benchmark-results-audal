@@ -1,0 +1,18 @@
+--2023-05-16 14:36:15--  https://hal-sciencespo.archives-ouvertes.fr/hal-01022064/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 370931 (362K) [application/pdf]
+Saving to: ‘./data/0.shs/1022064.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  806K 0s
+    50K .......... .......... .......... .......... .......... 27% 1,64M 0s
+   100K .......... .......... .......... .......... .......... 41% 9,70M 0s
+   150K .......... .......... .......... .......... .......... 55% 20,9M 0s
+   200K .......... .......... .......... .......... .......... 69% 2,03M 0s
+   250K .......... .......... .......... .......... .......... 82% 12,8M 0s
+   300K .......... .......... .......... .......... .......... 96%  223K 0s
+   350K .......... ..                                         100%  403M=0,4s
+
+2023-05-16 14:36:16 (1,01 MB/s) - ‘./data/0.shs/1022064.pdf’ saved [370931/370931]
+

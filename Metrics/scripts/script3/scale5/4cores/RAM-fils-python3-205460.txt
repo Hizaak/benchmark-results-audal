@@ -1,0 +1,4 @@
+****RAM ePerf for PID 205460*****
+time_S: 283.261433353
+avgPower_W: 9.6110641387
+energy_J: 2722.4438040034

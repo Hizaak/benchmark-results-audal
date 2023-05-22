@@ -1,4 +1,0 @@
-****RAM ePerf for PID 513010*****
-time_S: 10.011544757
-avgPower_W:
-energy_J:

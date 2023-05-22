@@ -1,0 +1,4 @@
+****RAM ePerf for PID 940130*****
+time_S: 8.006572140
+avgPower_W: 1.5656672298
+energy_J: 12.5356276229

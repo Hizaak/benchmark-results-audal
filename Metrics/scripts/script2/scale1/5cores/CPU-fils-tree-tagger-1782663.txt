@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1782663*****
+time_S: 107
+avgPower_W: .8648888888
+energy_J: 92.5431111016

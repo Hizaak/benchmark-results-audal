@@ -1,0 +1,4 @@
+****CPU ePerf for PID 755625*****
+time_S: 400
+avgPower_W: .0837442922
+energy_J: 33.4977168800

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 36312*****
-time_S: 6
-avgPower_W: .0017449051
-energy_J: .0104694306

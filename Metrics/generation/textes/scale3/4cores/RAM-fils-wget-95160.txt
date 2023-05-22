@@ -1,4 +1,0 @@
-****RAM ePerf for PID 95160*****
-time_S: 8.007651768
-avgPower_W: 1.5694656835
-energy_J: 12.5677346554

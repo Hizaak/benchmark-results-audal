@@ -1,4 +1,0 @@
-****NIC ePerf for PID 2751910*****
-time_S: 5
-avgPower_W: .0019382560
-energy_J: .0096912800

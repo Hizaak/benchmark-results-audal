@@ -1,0 +1,4 @@
+****NIC ePerf for PID 369130*****
+time_S: 6
+avgPower_W: .0028991010
+energy_J: .0173946060

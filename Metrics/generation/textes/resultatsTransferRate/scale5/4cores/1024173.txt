@@ -1,0 +1,14 @@
+--2023-05-16 21:27:44--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024173/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179854 (176K) [application/pdf]
+Saving to: ‘./data/0.shs/1024173.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  936K 0s
+    50K .......... .......... .......... .......... .......... 56% 1,88M 0s
+   100K .......... .......... .......... .......... .......... 85% 1,91M 0s
+   150K .......... .......... .....                           100% 56,0M=0,1s
+
+2023-05-16 21:27:44 (1,63 MB/s) - ‘./data/0.shs/1024173.pdf’ saved [179854/179854]
+

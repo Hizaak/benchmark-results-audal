@@ -1,0 +1,16 @@
+--2023-05-16 20:55:44--  https://hal.sorbonne-universite.fr/hal-01267020/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284432 (278K) [application/pdf]
+Saving to: ‘./data/0.phys/1267020.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  894K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 54% 1,77M 0s
+   150K .......... .......... .......... .......... .......... 72% 83,6M 0s
+   200K .......... .......... .......... .......... .......... 90% 33,5M 0s
+   250K .......... .......... .......                         100% 1,05M=0,1s
+
+2023-05-16 20:55:45 (1,95 MB/s) - ‘./data/0.phys/1267020.pdf’ saved [284432/284432]
+

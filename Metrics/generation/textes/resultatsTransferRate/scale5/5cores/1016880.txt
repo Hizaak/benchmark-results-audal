@@ -1,0 +1,13 @@
+--2023-05-16 22:01:39--  https://hal-sciencespo.archives-ouvertes.fr/hal-01016880/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119519 (117K) [application/pdf]
+Saving to: ‘./data/0.shs/1016880.pdf’
+
+     0K .......... .......... .......... .......... .......... 42%  960K 0s
+    50K .......... .......... .......... .......... .......... 85% 1,86M 0s
+   100K .......... ......                                     100%  481M=0,08s
+
+2023-05-16 22:01:40 (1,45 MB/s) - ‘./data/0.shs/1016880.pdf’ saved [119519/119519]
+

@@ -1,0 +1,4 @@
+--2023-05-16 20:45:21--  https://hal.science/hal-01352227/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+Unable to establish SSL connection.

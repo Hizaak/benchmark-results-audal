@@ -1,4 +1,0 @@
-****NIC ePerf for PID 400820*****
-time_S: 3
-avgPower_W: .0012384805
-energy_J: .0037154415

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 74141*****
-time_S: 78
-avgPower_W: 10.6721311475
-energy_J: 832.4262295050

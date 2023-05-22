@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1201023*****
-time_S: 18
-avgPower_W: .0034917696
-energy_J: .0628518528

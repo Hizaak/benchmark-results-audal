@@ -1,0 +1,4 @@
+****RAM ePerf for PID 564518*****
+time_S: 13.028530880
+avgPower_W: 1.5670291271
+energy_J: 20.4160873735

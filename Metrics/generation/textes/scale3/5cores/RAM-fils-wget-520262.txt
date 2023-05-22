@@ -1,0 +1,4 @@
+****RAM ePerf for PID 520262*****
+time_S: 18.021096628
+avgPower_W: 1.5698775613
+energy_J: 28.2909152272

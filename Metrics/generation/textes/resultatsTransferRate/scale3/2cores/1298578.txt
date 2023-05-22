@@ -1,0 +1,16 @@
+--2023-05-16 14:22:24--  https://hal.sorbonne-universite.fr/hal-01298578/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 14:22:35--  (try: 2)  https://hal.sorbonne-universite.fr/hal-01298578/document
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... failed: Connection timed out.
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 14:22:57--  (try: 3)  https://hal.sorbonne-universite.fr/hal-01298578/document
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

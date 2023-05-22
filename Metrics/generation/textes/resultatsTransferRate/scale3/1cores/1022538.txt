@@ -1,0 +1,19 @@
+--2023-05-16 13:29:32--  https://hal-sciencespo.archives-ouvertes.fr/hal-01022538/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 13:29:43--  (try: 2)  https://hal-sciencespo.archives-ouvertes.fr/hal-01022538/document
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181440 (177K) [application/pdf]
+Saving to: ‘./data/0.shs/1022538.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  420K 0s
+    50K .......... .......... .......... .......... .......... 56%  588K 0s
+   100K .......... .......... .......... .......... .......... 84%  718K 0s
+   150K .......... .......... .......                         100%  963K=0,3s
+
+2023-05-16 13:29:44 (587 KB/s) - ‘./data/0.shs/1022538.pdf’ saved [181440/181440]
+

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 451315*****
-time_S: 4
-avgPower_W: .0016448496
-energy_J: .0065793984

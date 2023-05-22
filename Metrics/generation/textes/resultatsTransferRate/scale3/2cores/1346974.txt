@@ -1,0 +1,14 @@
+--2023-05-16 14:19:32--  http://hal.grenoble-em.com/hal-01346974/document
+Resolving hal.grenoble-em.com (hal.grenoble-em.com)... 193.48.96.10
+Connecting to hal.grenoble-em.com (hal.grenoble-em.com)|193.48.96.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190978 (187K) [application/pdf]
+Saving to: ‘./data/0.shs/1346974.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  648K 0s
+    50K .......... .......... .......... .......... .......... 53% 1,49M 0s
+   100K .......... .......... .......... .......... .......... 80% 8,17M 0s
+   150K .......... .......... .......... ......               100% 1,40M=0,1s
+
+2023-05-16 14:19:33 (1,29 MB/s) - ‘./data/0.shs/1346974.pdf’ saved [190978/190978]
+

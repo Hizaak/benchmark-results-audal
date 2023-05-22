@@ -1,0 +1,15 @@
+--2023-05-16 20:25:24--  https://hal-amu.archives-ouvertes.fr/hal-01501731/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227177 (222K) [application/pdf]
+Saving to: ‘./data/0.chim/1501736.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  899K 0s
+    50K .......... .......... .......... .......... .......... 45% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 67% 1,83M 0s
+   150K .......... .......... .......... .......... .......... 90% 1,84M 0s
+   200K .......... .......... .                               100% 13,8M=0,1s
+
+2023-05-16 20:25:25 (1,57 MB/s) - ‘./data/0.chim/1501736.pdf’ saved [227177/227177]
+

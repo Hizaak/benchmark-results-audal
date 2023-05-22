@@ -1,0 +1,13 @@
+--2023-05-16 22:05:46--  https://hal-cea.archives-ouvertes.fr/cea-01468364/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:05:57--  (try: 2)  https://hal-cea.archives-ouvertes.fr/cea-01468364/document
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:06:09--  (try: 3)  https://hal-cea.archives-ouvertes.fr/cea-01468364/document
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

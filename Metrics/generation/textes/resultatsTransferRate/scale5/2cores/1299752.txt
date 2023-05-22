@@ -1,0 +1,16 @@
+--2023-05-16 20:12:22--  https://hal-sciencespo.archives-ouvertes.fr/hal-01299752/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 275683 (269K) [application/pdf]
+Saving to: ‘./data/0.shs/1299752.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  910K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,80M 0s
+   150K .......... .......... .......... .......... .......... 74% 37,0M 0s
+   200K .......... .......... .......... .......... .......... 92%  469M 0s
+   250K .......... .........                                  100%  687M=0,1s
+
+2023-05-16 20:12:28 (2,39 MB/s) - ‘./data/0.shs/1299752.pdf’ saved [275683/275683]
+

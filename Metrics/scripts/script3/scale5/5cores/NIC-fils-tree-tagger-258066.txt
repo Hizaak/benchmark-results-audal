@@ -1,0 +1,4 @@
+****NIC ePerf for PID 258066*****
+time_S: 281
+avgPower_W:
+energy_J:

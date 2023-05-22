@@ -1,0 +1,4 @@
+****NIC ePerf for PID 99721*****
+time_S: 1
+avgPower_W: .0001281797
+energy_J: .0001281797

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 441402*****
+time_S: 12.011833622
+avgPower_W:
+energy_J:

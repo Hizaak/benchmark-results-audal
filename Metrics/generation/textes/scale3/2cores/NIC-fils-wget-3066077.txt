@@ -1,0 +1,4 @@
+****NIC ePerf for PID 3066077*****
+time_S: 5
+avgPower_W: .0025952216
+energy_J: .0129761080

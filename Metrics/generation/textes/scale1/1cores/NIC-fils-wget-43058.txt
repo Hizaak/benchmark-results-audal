@@ -1,0 +1,4 @@
+****NIC ePerf for PID 43058*****
+time_S: 2
+avgPower_W: .0004789992
+energy_J: .0009579984

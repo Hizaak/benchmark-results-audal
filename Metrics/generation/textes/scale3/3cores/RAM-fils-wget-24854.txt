@@ -1,0 +1,4 @@
+****RAM ePerf for PID 24854*****
+time_S: 14.012364257
+avgPower_W: 1.5674951736
+energy_J: 21.9643133437

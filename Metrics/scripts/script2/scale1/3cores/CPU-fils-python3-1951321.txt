@@ -1,4 +1,0 @@
-****CPU ePerf for PID 1951321*****
-time_S: 135
-avgPower_W: 10.4274074074
-energy_J: 1407.6999999990

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 657107*****
-time_S: 5
-avgPower_W: .0003552962
-energy_J: .0017764810

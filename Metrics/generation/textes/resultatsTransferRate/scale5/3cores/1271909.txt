@@ -1,0 +1,17 @@
+--2023-05-16 21:04:17--  https://hal-amu.archives-ouvertes.fr/hal-01271909/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 347543 (339K) [application/pdf]
+Saving to: ‘./data/0.shs/1271909.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  947K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 44% 1,84M 0s
+   150K .......... .......... .......... .......... .......... 58%  153M 0s
+   200K .......... .......... .......... .......... .......... 73% 64,8M 0s
+   250K .......... .......... .......... .......... .......... 88% 1,92M 0s
+   300K .......... .......... .......... .........            100%  190K=0,3s
+
+2023-05-16 21:04:18 (1001 KB/s) - ‘./data/0.shs/1271909.pdf’ saved [347543/347543]
+

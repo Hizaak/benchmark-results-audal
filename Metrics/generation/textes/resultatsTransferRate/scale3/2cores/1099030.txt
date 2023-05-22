@@ -1,13 +1,13 @@
---2023-05-12 19:54:16--  https://hal.science/hal-01099030/document
+--2023-05-16 14:15:17--  https://hal.science/hal-01099030/document
 Resolving hal.science (hal.science)... 193.48.96.10
 Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 106612 (104K) [application/pdf]
 Saving to: ‘./data/0.info/1099030.pdf’
 
-     0K .......... .......... .......... .......... .......... 48%  891K 0s
-    50K .......... .......... .......... .......... .......... 96% 1,78M 0s
-   100K ....                                                  100%  292M=0,08s
+     0K .......... .......... .......... .......... .......... 48%  874K 0s
+    50K .......... .......... .......... .......... .......... 96% 1,31M 0s
+   100K ....                                                  100%  352M=0,09s
 
-2023-05-12 19:54:22 (1,22 MB/s) - ‘./data/0.info/1099030.pdf’ saved [106612/106612]
+2023-05-16 14:15:18 (1,07 MB/s) - ‘./data/0.info/1099030.pdf’ saved [106612/106612]
 

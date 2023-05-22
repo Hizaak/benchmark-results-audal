@@ -1,0 +1,19 @@
+--2023-05-16 15:39:30--  https://hal-polytechnique.archives-ouvertes.fr/hal-01021155/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 431147 (421K) [application/pdf]
+Saving to: ‘./data/0.phys/1021155.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  696K 1s
+    50K .......... .......... .......... .......... .......... 23%  931K 0s
+   100K .......... .......... .......... .......... .......... 35% 1,76M 0s
+   150K .......... .......... .......... .......... .......... 47% 1,90M 0s
+   200K .......... .......... .......... .......... .......... 59% 10,3M 0s
+   250K .......... .......... .......... .......... .......... 71% 2,09M 0s
+   300K .......... .......... .......... .......... .......... 83% 12,1M 0s
+   350K .......... .......... .......... .......... .......... 95%  239K 0s
+   400K .......... .......... .                               100%  268M=0,4s
+
+2023-05-16 15:39:36 (1001 KB/s) - ‘./data/0.phys/1021155.pdf’ saved [431147/431147]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2700238*****
+time_S: 117.108003082
+avgPower_W: 1.6878665071
+energy_J: 197.6626761262

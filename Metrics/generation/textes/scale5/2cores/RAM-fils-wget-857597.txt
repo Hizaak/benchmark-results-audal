@@ -1,0 +1,4 @@
+****RAM ePerf for PID 857597*****
+time_S: 17.014254318
+avgPower_W: 1.5704685022
+energy_J: 26.7203504962

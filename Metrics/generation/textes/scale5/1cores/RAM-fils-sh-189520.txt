@@ -1,4 +1,0 @@
-****RAM ePerf for PID 189520*****
-time_S: 2.002039789
-avgPower_W:
-energy_J:

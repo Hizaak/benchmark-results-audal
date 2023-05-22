@@ -1,0 +1,4 @@
+****RAM ePerf for PID 682205*****
+time_S: 13.011417776
+avgPower_W: 1.5669474988
+energy_J: 20.3882085406

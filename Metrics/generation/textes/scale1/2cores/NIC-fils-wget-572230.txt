@@ -1,4 +1,0 @@
-****NIC ePerf for PID 572230*****
-time_S: 3
-avgPower_W: .0000713242
-energy_J: .0002139726

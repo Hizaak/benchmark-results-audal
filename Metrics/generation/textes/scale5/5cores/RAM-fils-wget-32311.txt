@@ -1,4 +1,0 @@
-****RAM ePerf for PID 32311*****
-time_S: 9.009180679
-avgPower_W: 1.5675630415
-energy_J: 14.1224586669

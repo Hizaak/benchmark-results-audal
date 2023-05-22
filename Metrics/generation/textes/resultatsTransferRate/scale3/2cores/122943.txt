@@ -1,0 +1,24 @@
+--2023-05-16 14:00:12--  https://hal-ens-lyon.archives-ouvertes.fr/ensl-00122943/document
+Resolving hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ens-lyon.hal.science/ensl-00122943/document [following]
+--2023-05-16 14:00:12--  https://ens-lyon.hal.science/ensl-00122943/document
+Resolving ens-lyon.hal.science (ens-lyon.hal.science)... 193.48.96.10
+Connecting to ens-lyon.hal.science (ens-lyon.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 425979 (416K) [application/pdf]
+Saving to: ‘./data/0.sdu/122943.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  423K 1s
+    50K .......... .......... .......... .......... .......... 24%  763K 1s
+   100K .......... .......... .......... .......... .......... 36%  624K 0s
+   150K .......... .......... .......... .......... .......... 48%  826K 0s
+   200K .......... .......... .......... .......... .......... 60%  768K 0s
+   250K .......... .......... .......... .......... .......... 72%  995K 0s
+   300K .......... .......... .......... .......... .......... 84%  861K 0s
+   350K .......... .......... .......... .......... .......... 96% 1,26M 0s
+   400K .......... .....                                      100%  815K=0,6s
+
+2023-05-16 14:00:13 (748 KB/s) - ‘./data/0.sdu/122943.pdf’ saved [425979/425979]
+

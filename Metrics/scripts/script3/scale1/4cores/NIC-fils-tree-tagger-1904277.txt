@@ -1,0 +1,4 @@
+****NIC ePerf for PID 1904277*****
+time_S: 130
+avgPower_W:
+energy_J:

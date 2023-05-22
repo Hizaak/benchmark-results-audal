@@ -1,0 +1,4 @@
+****NIC ePerf for PID 507092*****
+time_S: 5
+avgPower_W: .0023092040
+energy_J: .0115460200

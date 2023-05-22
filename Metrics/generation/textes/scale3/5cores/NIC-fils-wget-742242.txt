@@ -1,0 +1,4 @@
+****NIC ePerf for PID 742242*****
+time_S: 10
+avgPower_W: .0024101149
+energy_J: .0241011490

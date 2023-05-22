@@ -1,0 +1,17 @@
+--2023-05-16 22:08:05--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01107503/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 346781 (339K) [application/pdf]
+Saving to: ‘./data/0.info/1107503.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  908K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 44% 1,82M 0s
+   150K .......... .......... .......... .......... .......... 59% 21,1M 0s
+   200K .......... .......... .......... .......... .......... 73% 18,8M 0s
+   250K .......... .......... .......... .......... .......... 88% 2,27M 0s
+   300K .......... .......... .......... ........             100%  188K=0,3s
+
+2023-05-16 22:08:12 (994 KB/s) - ‘./data/0.info/1107503.pdf’ saved [346781/346781]
+

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 4015113*****
-time_S: 186.208941294
-avgPower_W: 1.8404067026
-energy_J: 342.7001836451

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 771222*****
+time_S: 18.016044538
+avgPower_W: 1.5650443697
+energy_J: 28.1959090700

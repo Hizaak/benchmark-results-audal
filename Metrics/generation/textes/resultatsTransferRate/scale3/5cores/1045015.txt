@@ -1,0 +1,15 @@
+--2023-05-16 15:28:52--  https://hal-sciencespo.archives-ouvertes.fr/hal-01045015/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210688 (206K) [application/pdf]
+Saving to: ‘./data/0.shs/1045015.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  829K 0s
+    50K .......... .......... .......... .......... .......... 48% 1,44M 0s
+   100K .......... .......... .......... .......... .......... 72% 1,07M 0s
+   150K .......... .......... .......... .......... .......... 97%  865K 0s
+   200K .....                                                 100%  218M=0,2s
+
+2023-05-16 15:28:53 (1,02 MB/s) - ‘./data/0.shs/1045015.pdf’ saved [210688/210688]
+

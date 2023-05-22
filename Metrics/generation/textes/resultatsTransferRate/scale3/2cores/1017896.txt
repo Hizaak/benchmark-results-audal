@@ -1,0 +1,17 @@
+--2023-05-16 14:00:47--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017896/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311398 (304K) [application/pdf]
+Saving to: ‘./data/0.shs/1017896.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  403K 1s
+    50K .......... .......... .......... .......... .......... 32%  610K 0s
+   100K .......... .......... .......... .......... .......... 49%  752K 0s
+   150K .......... .......... .......... .......... .......... 65%  641K 0s
+   200K .......... .......... .......... .......... .......... 82%  725K 0s
+   250K .......... .......... .......... .......... .......... 98%  872K 0s
+   300K ....                                                  100%  241M=0,5s
+
+2023-05-16 14:00:54 (638 KB/s) - ‘./data/0.shs/1017896.pdf’ saved [311398/311398]
+

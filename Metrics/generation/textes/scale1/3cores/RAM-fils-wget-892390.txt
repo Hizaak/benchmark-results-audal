@@ -1,4 +1,0 @@
-****RAM ePerf for PID 892390*****
-time_S: 8.007899454
-avgPower_W: 1.5702552374
-energy_J: 12.5744460585

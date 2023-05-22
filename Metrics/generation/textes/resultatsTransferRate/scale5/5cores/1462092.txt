@@ -1,0 +1,18 @@
+--2023-05-16 21:59:33--  https://hal-sciencespo.archives-ouvertes.fr/hal-01462092/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 399398 (390K) [application/pdf]
+Saving to: ‘./data/0.shs/1462092.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  854K 0s
+    50K .......... .......... .......... .......... .......... 25% 1,28M 0s
+   100K .......... .......... .......... .......... .......... 38% 69,4M 0s
+   150K .......... .......... .......... .......... .......... 51% 1,70M 0s
+   200K .......... .......... .......... .......... .......... 64% 39,1M 0s
+   250K .......... .......... .......... .......... .......... 76% 1,94M 0s
+   300K .......... .......... .......... .......... .......... 89%  246K 0s
+   350K .......... .......... .......... ..........           100%  434M=0,4s
+
+2023-05-16 21:59:34 (1,07 MB/s) - ‘./data/0.shs/1462092.pdf’ saved [399398/399398]
+

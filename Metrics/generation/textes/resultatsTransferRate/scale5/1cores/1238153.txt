@@ -1,0 +1,17 @@
+--2023-05-16 18:06:38--  https://hal-iogs.archives-ouvertes.fr/hal-00679136/document
+Resolving hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 318131 (311K) [application/pdf]
+Saving to: ‘./data/0.spi/1238153.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  912K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 48% 62,3M 0s
+   150K .......... .......... .......... .......... .......... 64% 1,70M 0s
+   200K .......... .......... .......... .......... .......... 80%  553M 0s
+   250K .......... .......... .......... .......... .......... 96% 1,96M 0s
+   300K ..........                                            100% 24,6M=0,1s
+
+2023-05-16 18:06:43 (2,21 MB/s) - ‘./data/0.spi/1238153.pdf’ saved [318131/318131]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 44394*****
+time_S: 7.006829519
+avgPower_W: 1.5701971868
+energy_J: 11.0021039996

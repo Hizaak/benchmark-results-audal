@@ -1,0 +1,4 @@
+****RAM ePerf for PID 470001*****
+time_S: 8.007752325
+avgPower_W: 1.5694794375
+energy_J: 12.5680026147

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 43062*****
-time_S: 1.001697536
-avgPower_W:
-energy_J:

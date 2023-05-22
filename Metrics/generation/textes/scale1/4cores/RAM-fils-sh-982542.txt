@@ -1,4 +1,0 @@
-****RAM ePerf for PID 982542*****
-time_S: 5.006657254
-avgPower_W:
-energy_J:

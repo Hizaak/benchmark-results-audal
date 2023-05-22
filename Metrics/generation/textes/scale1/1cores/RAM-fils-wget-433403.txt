@@ -1,4 +1,0 @@
-****RAM ePerf for PID 433403*****
-time_S: 7.006123014
-avgPower_W: 1.5702247728
-energy_J: 11.0011879185

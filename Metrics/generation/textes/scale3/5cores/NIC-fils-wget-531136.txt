@@ -1,0 +1,4 @@
+****NIC ePerf for PID 531136*****
+time_S: 6
+avgPower_W: .0001737228
+energy_J: .0010423368

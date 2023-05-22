@@ -1,0 +1,14 @@
+--2023-05-16 19:27:17--  https://sorbonne-paris-nord.hal.science/hal-01408284/document
+Resolving sorbonne-paris-nord.hal.science (sorbonne-paris-nord.hal.science)... 193.48.96.10
+Connecting to sorbonne-paris-nord.hal.science (sorbonne-paris-nord.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165790 (162K) [application/pdf]
+Saving to: ‘./data/0.shs/1408284.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  911K 0s
+    50K .......... .......... .......... .......... .......... 61% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 92% 1,84M 0s
+   150K .......... .                                          100% 88,8M=0,1s
+
+2023-05-16 19:27:18 (1,45 MB/s) - ‘./data/0.shs/1408284.pdf’ saved [165790/165790]
+

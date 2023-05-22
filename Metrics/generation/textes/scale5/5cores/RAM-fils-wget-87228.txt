@@ -1,4 +1,0 @@
-****RAM ePerf for PID 87228*****
-time_S: 7.006286861
-avgPower_W:
-energy_J:

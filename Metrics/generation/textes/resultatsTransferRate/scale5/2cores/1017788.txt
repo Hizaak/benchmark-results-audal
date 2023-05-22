@@ -1,0 +1,15 @@
+--2023-05-16 19:58:04--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017788/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253605 (248K) [application/pdf]
+Saving to: ‘./data/0.shs/1017788.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  662K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 60% 50,2M 0s
+   150K .......... .......... .......... .......... .......... 80% 1,77M 0s
+   200K .......... .......... .......... .......... .......   100% 25,1M=0,1s
+
+2023-05-16 19:58:06 (1,81 MB/s) - ‘./data/0.shs/1017788.pdf’ saved [253605/253605]
+

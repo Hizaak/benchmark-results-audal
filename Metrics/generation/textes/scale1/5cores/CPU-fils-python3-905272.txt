@@ -1,0 +1,4 @@
+****CPU ePerf for PID 905272*****
+time_S: 317
+avgPower_W: .0176223776
+energy_J: 5.5862936992

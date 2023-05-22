@@ -1,0 +1,16 @@
+--2023-05-16 14:19:12--  https://hal.sorbonne-universite.fr/hal-01080131/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279030 (272K) [application/pdf]
+Saving to: ‘./data/0.math/1080131.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  775K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,50M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,74M 0s
+   150K .......... .......... .......... .......... .......... 73% 1,46M 0s
+   200K .......... .......... .......... .......... .......... 91%  451M 0s
+   250K .......... .......... ..                              100%  493M=0,2s
+
+2023-05-16 14:19:12 (1,67 MB/s) - ‘./data/0.math/1080131.pdf’ saved [279030/279030]
+

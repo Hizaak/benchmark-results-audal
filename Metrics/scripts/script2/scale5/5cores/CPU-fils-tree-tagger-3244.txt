@@ -1,0 +1,4 @@
+****CPU ePerf for PID 3244*****
+time_S: 250
+avgPower_W: 3.9383495145
+energy_J: 984.5873786250

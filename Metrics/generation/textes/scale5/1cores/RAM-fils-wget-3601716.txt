@@ -1,0 +1,4 @@
+****RAM ePerf for PID 3601716*****
+time_S: 3.003055482
+avgPower_W: 1.5774944783
+energy_J: 4.7373034411

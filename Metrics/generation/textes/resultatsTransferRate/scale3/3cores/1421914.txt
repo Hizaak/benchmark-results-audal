@@ -1,0 +1,14 @@
+--2023-05-16 14:46:06--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01421914/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192909 (188K) [application/pdf]
+Saving to: ‘./data/0.shs/1421914.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  801K 0s
+    50K .......... .......... .......... .......... .......... 53% 1,60M 0s
+   100K .......... .......... .......... .......... .......... 79% 6,00M 0s
+   150K .......... .......... .......... ........             100%  542M=0,1s
+
+2023-05-16 14:46:08 (1,82 MB/s) - ‘./data/0.shs/1421914.pdf’ saved [192909/192909]
+

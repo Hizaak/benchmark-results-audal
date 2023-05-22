@@ -1,0 +1,4 @@
+****RAM ePerf for PID 112770*****
+time_S: 6.005642207
+avgPower_W: 1.5630364474
+energy_J: 9.3870376597

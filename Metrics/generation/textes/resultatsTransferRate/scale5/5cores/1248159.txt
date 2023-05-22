@@ -1,0 +1,14 @@
+--2023-05-16 22:14:57--  https://hal.univ-reunion.fr/hal-01248159/document
+Resolving hal.univ-reunion.fr (hal.univ-reunion.fr)... 193.48.96.10
+Connecting to hal.univ-reunion.fr (hal.univ-reunion.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 174073 (170K) [application/pdf]
+Saving to: ‘./data/0.shs/1248159.pdf’
+
+     0K .......... .......... .......... .......... .......... 29%  959K 0s
+    50K .......... .......... .......... .......... .......... 58% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 88%  251M 0s
+   150K .......... .........                                  100% 19,5M=0,08s
+
+2023-05-16 22:14:58 (2,06 MB/s) - ‘./data/0.shs/1248159.pdf’ saved [174073/174073]
+

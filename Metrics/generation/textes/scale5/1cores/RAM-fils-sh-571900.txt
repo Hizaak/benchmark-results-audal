@@ -1,4 +1,0 @@
-****RAM ePerf for PID 571900*****
-time_S: 6.005425564
-avgPower_W:
-energy_J:

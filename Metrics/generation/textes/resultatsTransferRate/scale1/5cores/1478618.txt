@@ -1,0 +1,17 @@
+--2023-05-16 11:38:51--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01478618/document
+Resolving hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 321756 (314K) [application/pdf]
+Saving to: ‘./data/0.shs/1478618.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  726K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,56M 0s
+   100K .......... .......... .......... .......... .......... 47% 1,27M 0s
+   150K .......... .......... .......... .......... .......... 63% 1,55M 0s
+   200K .......... .......... .......... .......... .......... 79% 9,15M 0s
+   250K .......... .......... .......... .......... .......... 95%  590M 0s
+   300K .......... ....                                       100%  516M=0,2s
+
+2023-05-16 11:38:52 (1,75 MB/s) - ‘./data/0.shs/1478618.pdf’ saved [321756/321756]
+

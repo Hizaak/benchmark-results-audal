@@ -1,0 +1,11 @@
+--2023-05-16 20:23:41--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017864/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30414 (30K) [application/pdf]
+Saving to: ‘./data/0.shs/1017864.pdf’
+
+     0K .......... .......... .........                       100% 1,04M=0,03s
+
+2023-05-16 20:23:41 (1,04 MB/s) - ‘./data/0.shs/1017864.pdf’ saved [30414/30414]
+

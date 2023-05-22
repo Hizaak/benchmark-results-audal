@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1442130*****
-time_S: 6.010485902
-avgPower_W:
-energy_J:

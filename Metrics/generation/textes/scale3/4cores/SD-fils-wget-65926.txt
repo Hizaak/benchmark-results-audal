@@ -1,0 +1,4 @@
+****SD ePerf for PID 65926*****
+time_S: 5
+avgPower_W: .0031415000
+energy_J: .0157075000

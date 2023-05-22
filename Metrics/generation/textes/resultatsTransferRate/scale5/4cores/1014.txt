@@ -1,0 +1,13 @@
+--2023-05-16 21:37:40--  https://hal.science/hal-00001014/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 114917 (112K) [application/pdf]
+Saving to: ‘./data/0.math/1014.pdf’
+
+     0K .......... .......... .......... .......... .......... 44%  915K 0s
+    50K .......... .......... .......... .......... .......... 89% 1,78M 0s
+   100K .......... ..                                         100%  312M=0,08s
+
+2023-05-16 21:37:41 (1,33 MB/s) - ‘./data/0.math/1014.pdf’ saved [114917/114917]
+

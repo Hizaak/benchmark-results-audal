@@ -1,0 +1,4 @@
+****NIC ePerf for PID 60081*****
+time_S: 4
+avgPower_W: .0021908985
+energy_J: .0087635940

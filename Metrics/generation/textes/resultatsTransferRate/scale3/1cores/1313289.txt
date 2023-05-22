@@ -1,0 +1,3 @@
+--2023-05-16 13:08:20--  https://shs.hal.science/halshs-01313289/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... failed: No route to host.

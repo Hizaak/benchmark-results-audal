@@ -1,0 +1,15 @@
+--2023-05-16 18:12:06--  https://hal-amu.archives-ouvertes.fr/hal-01392428/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225418 (220K) [application/pdf]
+Saving to: ‘./data/0.shs/1392428.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  940K 0s
+    50K .......... .......... .......... .......... .......... 45% 1,53M 0s
+   100K .......... .......... .......... .......... .......... 68% 1,90M 0s
+   150K .......... .......... .......... .......... .......... 90% 52,2M 0s
+   200K .......... ..........                                 100% 71,9M=0,1s
+
+2023-05-16 18:12:12 (1,92 MB/s) - ‘./data/0.shs/1392428.pdf’ saved [225418/225418]
+

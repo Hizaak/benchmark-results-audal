@@ -1,0 +1,15 @@
+--2023-05-16 21:17:04--  https://hal-amu.archives-ouvertes.fr/hal-01212109/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220411 (215K) [application/pdf]
+Saving to: ‘./data/0.shs/1212109.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  921K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 69%  115M 0s
+   150K .......... .......... .......... .......... .......... 92% 1,94M 0s
+   200K .......... .....                                      100% 12,1M=0,1s
+
+2023-05-16 21:17:11 (1,92 MB/s) - ‘./data/0.shs/1212109.pdf’ saved [220411/220411]
+

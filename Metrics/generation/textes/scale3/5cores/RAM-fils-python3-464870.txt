@@ -1,0 +1,4 @@
+****RAM ePerf for PID 464870*****
+time_S: 966.330238749
+avgPower_W: 1.5755260190
+energy_J: 1522.4784341626

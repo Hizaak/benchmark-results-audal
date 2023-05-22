@@ -1,4 +1,0 @@
-****RAM ePerf for PID 508920*****
-time_S: 7.006920854
-avgPower_W: 1.5660756410
-energy_J: 10.9733680680

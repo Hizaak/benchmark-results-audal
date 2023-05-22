@@ -1,0 +1,4 @@
+****RAM ePerf for PID 10053*****
+time_S: 1487.014955207
+avgPower_W: 1.5766990780
+energy_J: 2344.5751089055

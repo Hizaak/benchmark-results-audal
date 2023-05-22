@@ -1,4 +1,0 @@
-****NIC ePerf for PID 79823*****
-time_S: 12
-avgPower_W: .0001994661
-energy_J: .0023935932

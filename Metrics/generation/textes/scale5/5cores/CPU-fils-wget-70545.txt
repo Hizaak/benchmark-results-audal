@@ -1,4 +1,0 @@
-****CPU ePerf for PID 70545*****
-time_S: -1683945297
-avgPower_W:
-energy_J:

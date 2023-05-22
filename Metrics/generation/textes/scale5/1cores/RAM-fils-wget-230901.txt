@@ -1,4 +1,0 @@
-****RAM ePerf for PID 230901*****
-time_S: 9.008482018
-avgPower_W: 1.5707826161
-energy_J: 14.1503669521

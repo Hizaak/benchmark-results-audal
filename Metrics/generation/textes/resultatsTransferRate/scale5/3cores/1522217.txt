@@ -1,0 +1,17 @@
+--2023-05-16 21:21:48--  https://hal-amu.archives-ouvertes.fr/hal-01522217/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 350973 (343K) [application/pdf]
+Saving to: ‘./data/0.shs/1522217.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  918K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,62M 0s
+   100K .......... .......... .......... .......... .......... 43% 54,5M 0s
+   150K .......... .......... .......... .......... .......... 58%  101M 0s
+   200K .......... .......... .......... .......... .......... 72% 1,81M 0s
+   250K .......... .......... .......... .......... .......... 87%  246K 0s
+   300K .......... .......... .......... .......... ..        100%  404M=0,3s
+
+2023-05-16 21:21:49 (1,06 MB/s) - ‘./data/0.shs/1522217.pdf’ saved [350973/350973]
+

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 725202*****
-time_S: 4.003966429
-avgPower_W: 1.5703104250
-energy_J: 6.2874702252

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 77003*****
-time_S: 1.001075631
-avgPower_W:
-energy_J:

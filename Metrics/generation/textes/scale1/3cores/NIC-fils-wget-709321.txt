@@ -1,0 +1,4 @@
+****NIC ePerf for PID 709321*****
+time_S: 2
+avgPower_W: .0011598657
+energy_J: .0023197314

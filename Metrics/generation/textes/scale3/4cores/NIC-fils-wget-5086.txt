@@ -1,4 +1,0 @@
-****NIC ePerf for PID 5086*****
-time_S: 16
-avgPower_W: .0001007863
-energy_J: .0016125808

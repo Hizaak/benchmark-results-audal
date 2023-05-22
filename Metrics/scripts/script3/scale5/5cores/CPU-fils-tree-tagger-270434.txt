@@ -1,0 +1,4 @@
+****CPU ePerf for PID 270434*****
+time_S: 207
+avgPower_W: 2.2195321637
+energy_J: 459.4431578859

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 347433*****
-time_S: 14
-avgPower_W: .0002843083
-energy_J: .0039803162

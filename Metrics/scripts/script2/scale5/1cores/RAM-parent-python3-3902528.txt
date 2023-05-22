@@ -1,0 +1,4 @@
+****RAM ePerf for PID 3902528*****
+time_S: 91.119037322
+avgPower_W: 6.6449906696
+energy_J: 605.4851528332

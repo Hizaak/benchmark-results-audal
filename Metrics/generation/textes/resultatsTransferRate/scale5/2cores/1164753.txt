@@ -1,0 +1,30 @@
+--2023-05-16 20:12:22--  https://hal-ensta-paris.archives-ouvertes.fr/hal-01164753/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-01164753/document [following]
+--2023-05-16 20:12:22--  https://ensta-paris.hal.science/hal-01164753/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 742119 (725K) [application/pdf]
+Saving to: ‘./data/0.phys/1164753.pdf’
+
+     0K .......... .......... .......... .......... ..........  6%  913K 1s
+    50K .......... .......... .......... .......... .......... 13% 1,76M 1s
+   100K .......... .......... .......... .......... .......... 20%  102M 0s
+   150K .......... .......... .......... .......... .......... 27% 66,1M 0s
+   200K .......... .......... .......... .......... .......... 34% 1,84M 0s
+   250K .......... .......... .......... .......... .......... 41%  243K 0s
+   300K .......... .......... .......... .......... .......... 48%  429M 0s
+   350K .......... .......... .......... .......... .......... 55%  614M 0s
+   400K .......... .......... .......... .......... .......... 62%  501M 0s
+   450K .......... .......... .......... .......... .......... 68%  623M 0s
+   500K .......... .......... .......... .......... .......... 75%  246K 0s
+   550K .......... .......... .......... .......... .......... 82%  589M 0s
+   600K .......... .......... .......... .......... .......... 89%  562M 0s
+   650K .......... .......... .......... .......... .......... 96%  629M 0s
+   700K .......... .......... ....                            100%  122K=0,7s
+
+2023-05-16 20:12:24 (1003 KB/s) - ‘./data/0.phys/1164753.pdf’ saved [742119/742119]
+

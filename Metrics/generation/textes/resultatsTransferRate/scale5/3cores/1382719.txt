@@ -1,0 +1,17 @@
+--2023-05-16 21:16:41--  https://hal.sorbonne-universite.fr/hal-01382719/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319840 (312K) [application/pdf]
+Saving to: ‘./data/0.phys/1382719.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  907K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 48% 1,73M 0s
+   150K .......... .......... .......... .......... .......... 64% 23,4M 0s
+   200K .......... .......... .......... .......... .......... 80% 1,78M 0s
+   250K .......... .......... .......... .......... .......... 96% 58,2M 0s
+   300K .......... ..                                         100%  184M=0,1s
+
+2023-05-16 21:16:42 (2,15 MB/s) - ‘./data/0.phys/1382719.pdf’ saved [319840/319840]
+

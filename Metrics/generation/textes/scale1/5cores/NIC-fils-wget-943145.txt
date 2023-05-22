@@ -1,0 +1,4 @@
+****NIC ePerf for PID 943145*****
+time_S: 2
+avgPower_W: .0010091962
+energy_J: .0020183924

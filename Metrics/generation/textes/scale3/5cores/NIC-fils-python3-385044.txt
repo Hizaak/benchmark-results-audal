@@ -1,4 +1,0 @@
-****NIC ePerf for PID 385044*****
-time_S: 874
-avgPower_W:
-energy_J:

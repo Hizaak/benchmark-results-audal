@@ -1,0 +1,16 @@
+--2023-05-16 11:37:14--  https://u-bourgogne.hal.science/hal-01018823/document
+Resolving u-bourgogne.hal.science (u-bourgogne.hal.science)... 193.48.96.10
+Connecting to u-bourgogne.hal.science (u-bourgogne.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292629 (286K) [application/pdf]
+Saving to: ‘./data/0.shs/1018823.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  589K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 52% 1,49M 0s
+   150K .......... .......... .......... .......... .......... 69% 29,7M 0s
+   200K .......... .......... .......... .......... .......... 87% 1,67M 0s
+   250K .......... .......... .......... .....                100%  520M=0,2s
+
+2023-05-16 11:37:20 (1,58 MB/s) - ‘./data/0.shs/1018823.pdf’ saved [292629/292629]
+

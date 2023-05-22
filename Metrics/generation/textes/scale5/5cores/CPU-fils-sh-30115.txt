@@ -1,4 +1,0 @@
-****CPU ePerf for PID 30115*****
-time_S: -1683945173
-avgPower_W:
-energy_J:

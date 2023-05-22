@@ -1,0 +1,12 @@
+--2023-05-16 21:26:04--  https://hal-sciencespo.archives-ouvertes.fr/hal-01018166/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92444 (90K) [application/pdf]
+Saving to: ‘./data/0.shs/1018166.pdf’
+
+     0K .......... .......... .......... .......... .......... 55%  906K 0s
+    50K .......... .......... .......... ..........           100% 89,7M=0,06s
+
+2023-05-16 21:26:06 (1,59 MB/s) - ‘./data/0.shs/1018166.pdf’ saved [92444/92444]
+

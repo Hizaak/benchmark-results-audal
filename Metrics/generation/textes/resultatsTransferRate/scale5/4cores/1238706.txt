@@ -1,0 +1,14 @@
+--2023-05-16 21:52:10--  https://hal-audencia.archives-ouvertes.fr/hal-01238706/document
+Resolving hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193067 (189K) [application/pdf]
+Saving to: ‘./data/0.qfin/1238706.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  945K 0s
+    50K .......... .......... .......... .......... .......... 53% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 79% 1,90M 0s
+   150K .......... .......... .......... ........             100% 63,1M=0,1s
+
+2023-05-16 21:52:16 (1,74 MB/s) - ‘./data/0.qfin/1238706.pdf’ saved [193067/193067]
+

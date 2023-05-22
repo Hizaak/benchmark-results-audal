@@ -1,0 +1,4 @@
+****RAM ePerf for PID 271664*****
+time_S: 4.004129023
+avgPower_W: 1.5706457059
+energy_J: 6.2890680560

@@ -1,0 +1,15 @@
+--2023-05-16 20:32:08--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024416/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213219 (208K) [application/pdf]
+Saving to: ‘./data/0.shs/1024416.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  942K 0s
+    50K .......... .......... .......... .......... .......... 48% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 72% 1,88M 0s
+   150K .......... .......... .......... .......... .......... 96% 56,4M 0s
+   200K ........                                              100%  309M=0,1s
+
+2023-05-16 20:32:14 (1,91 MB/s) - ‘./data/0.shs/1024416.pdf’ saved [213219/213219]
+

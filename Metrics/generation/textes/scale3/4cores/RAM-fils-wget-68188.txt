@@ -1,0 +1,4 @@
+****RAM ePerf for PID 68188*****
+time_S: 14.028603564
+avgPower_W: 1.5673378340
+energy_J: 21.9875611248

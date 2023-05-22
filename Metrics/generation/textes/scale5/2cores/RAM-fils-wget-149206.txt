@@ -1,0 +1,4 @@
+****RAM ePerf for PID 149206*****
+time_S: 2.003583832
+avgPower_W: 1.5742859047
+energy_J: 3.1542137857

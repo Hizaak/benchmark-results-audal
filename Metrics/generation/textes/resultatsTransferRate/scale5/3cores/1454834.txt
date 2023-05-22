@@ -1,0 +1,16 @@
+--2023-05-16 21:25:32--  https://hal-sciencespo.archives-ouvertes.fr/hal-01454834/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293509 (287K) [application/pdf]
+Saving to: ‘./data/0.shs/1454834.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  739K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,68M 0s
+   100K .......... .......... .......... .......... .......... 52% 48,0M 0s
+   150K .......... .......... .......... .......... .......... 69% 1,53M 0s
+   200K .......... .......... .......... .......... .......... 87% 1,80M 0s
+   250K .......... .......... .......... ......               100% 44,1M=0,2s
+
+2023-05-16 21:25:33 (1,78 MB/s) - ‘./data/0.shs/1454834.pdf’ saved [293509/293509]
+

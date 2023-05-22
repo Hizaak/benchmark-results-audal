@@ -1,4 +1,0 @@
-****RAM ePerf for PID 89279*****
-time_S: 76.080028313
-avgPower_W: 1.8776693201
-energy_J: 142.8531350396

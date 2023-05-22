@@ -1,0 +1,4 @@
+****RAM ePerf for PID 20611*****
+time_S: 1.001023869
+avgPower_W:
+energy_J:

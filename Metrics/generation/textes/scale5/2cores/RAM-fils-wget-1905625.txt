@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1905625*****
-time_S: 13.022736383
-avgPower_W: 1.5668852764
-energy_J: 20.4051338976

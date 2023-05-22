@@ -1,0 +1,13 @@
+--2023-05-16 21:44:33--  https://hal-sciencespo.archives-ouvertes.fr/hal-01022167/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132640 (130K) [application/pdf]
+Saving to: ‘./data/0.shs/1022167.pdf’
+
+     0K .......... .......... .......... .......... .......... 38%  915K 0s
+    50K .......... .......... .......... .......... .......... 77% 1,67M 0s
+   100K .......... .......... .........                       100%  172M=0,08s
+
+2023-05-16 21:44:34 (1,50 MB/s) - ‘./data/0.shs/1022167.pdf’ saved [132640/132640]
+

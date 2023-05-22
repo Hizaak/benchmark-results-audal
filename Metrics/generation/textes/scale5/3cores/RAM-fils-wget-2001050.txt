@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2001050*****
+time_S: 6.005505138
+avgPower_W: 1.5629673399
+energy_J: 9.3864083903

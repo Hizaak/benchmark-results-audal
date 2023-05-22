@@ -1,0 +1,19 @@
+--2023-05-16 22:00:41--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01196125/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 455213 (445K) [application/pdf]
+Saving to: ‘./data/0.shs/1196125.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  928K 0s
+    50K .......... .......... .......... .......... .......... 22% 1,81M 0s
+   100K .......... .......... .......... .......... .......... 33% 1,82M 0s
+   150K .......... .......... .......... .......... .......... 44%  108M 0s
+   200K .......... .......... .......... .......... .......... 56% 72,2M 0s
+   250K .......... .......... .......... .......... .......... 67% 1,88M 0s
+   300K .......... .......... .......... .......... .......... 78%  244K 0s
+   350K .......... .......... .......... .......... .......... 89%  572M 0s
+   400K .......... .......... .......... .......... ....      100%  546M=0,3s
+
+2023-05-16 22:00:42 (1,28 MB/s) - ‘./data/0.shs/1196125.pdf’ saved [455213/455213]
+

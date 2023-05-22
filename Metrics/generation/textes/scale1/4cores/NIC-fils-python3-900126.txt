@@ -1,4 +1,0 @@
-****NIC ePerf for PID 900126*****
-time_S: 372
-avgPower_W:
-energy_J:

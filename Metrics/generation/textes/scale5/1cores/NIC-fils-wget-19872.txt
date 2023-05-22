@@ -1,4 +1,0 @@
-****NIC ePerf for PID 19872*****
-time_S: 2
-avgPower_W: .0005265127
-energy_J: .0010530254

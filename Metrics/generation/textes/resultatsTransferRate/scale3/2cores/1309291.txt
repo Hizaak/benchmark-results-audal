@@ -1,0 +1,16 @@
+--2023-05-16 14:24:41--  https://hal-sciencespo.archives-ouvertes.fr/hal-01309291/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281621 (275K) [application/pdf]
+Saving to: ‘./data/0.shs/1309291.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  729K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,50M 0s
+   100K .......... .......... .......... .......... .......... 54% 1,28M 0s
+   150K .......... .......... .......... .......... .......... 72% 9,02M 0s
+   200K .......... .......... .......... .......... .......... 90% 1,80M 0s
+   250K .......... .......... .....                           100% 39,7M=0,2s
+
+2023-05-16 14:24:42 (1,56 MB/s) - ‘./data/0.shs/1309291.pdf’ saved [281621/281621]
+

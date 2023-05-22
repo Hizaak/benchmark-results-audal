@@ -1,0 +1,18 @@
+--2023-05-16 21:13:53--  https://hal-sciencespo.archives-ouvertes.fr/hal-01140572/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 409455 (400K) [application/pdf]
+Saving to: ‘./data/0.shs/1140572.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  928K 0s
+    50K .......... .......... .......... .......... .......... 25% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 37%  241M 0s
+   150K .......... .......... .......... .......... .......... 50% 6,69M 0s
+   200K .......... .......... .......... .......... .......... 62% 2,48M 0s
+   250K .......... .......... .......... .......... .......... 75%  240K 0s
+   300K .......... .......... .......... .......... .......... 87%  442M 0s
+   350K .......... .......... .......... .......... ......... 100%  591M=0,3s
+
+2023-05-16 21:13:59 (1,24 MB/s) - ‘./data/0.shs/1140572.pdf’ saved [409455/409455]
+

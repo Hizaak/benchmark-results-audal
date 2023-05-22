@@ -1,4 +1,0 @@
-****RAM ePerf for PID 95902*****
-time_S: 6.005062431
-avgPower_W:
-energy_J:

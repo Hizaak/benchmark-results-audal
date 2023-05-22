@@ -1,0 +1,11 @@
+--2023-05-16 15:35:06--  https://hal-sciencespo.archives-ouvertes.fr/hal-01015763/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20300 (20K) [application/pdf]
+Saving to: ‘./data/0.shs/1015763.pdf’
+
+     0K .......... .........                                  100%  638K=0,03s
+
+2023-05-16 15:35:08 (638 KB/s) - ‘./data/0.shs/1015763.pdf’ saved [20300/20300]
+

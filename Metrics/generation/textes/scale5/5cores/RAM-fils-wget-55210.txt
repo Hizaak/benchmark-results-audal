@@ -1,4 +1,0 @@
-****RAM ePerf for PID 55210*****
-time_S: 11.009486686
-avgPower_W: 1.5680884130
-energy_J: 17.2638485063

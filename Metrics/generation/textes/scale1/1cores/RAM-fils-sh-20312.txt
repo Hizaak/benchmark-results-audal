@@ -1,0 +1,4 @@
+****RAM ePerf for PID 20312*****
+time_S: 3.003008773
+avgPower_W:
+energy_J:

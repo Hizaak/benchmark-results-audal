@@ -1,0 +1,16 @@
+--2023-05-16 21:18:09--  https://hal-amu.archives-ouvertes.fr/hal-01220542/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 298332 (291K) [application/pdf]
+Saving to: ‘./data/0.shs/1220542.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  907K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 51% 1,79M 0s
+   150K .......... .......... .......... .......... .......... 68%  147M 0s
+   200K .......... .......... .......... .......... .......... 85%  108M 0s
+   250K .......... .......... .......... .......... .         100% 1,54M=0,1s
+
+2023-05-16 21:18:10 (2,10 MB/s) - ‘./data/0.shs/1220542.pdf’ saved [298332/298332]
+

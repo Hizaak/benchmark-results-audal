@@ -1,0 +1,14 @@
+--2023-05-16 18:15:20--  https://hal.univ-brest.fr/hal-01087633/document
+Resolving hal.univ-brest.fr (hal.univ-brest.fr)... 193.48.96.10
+Connecting to hal.univ-brest.fr (hal.univ-brest.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196277 (192K) [application/pdf]
+Saving to: ‘./data/0.shs/1087633.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  881K 0s
+    50K .......... .......... .......... .......... .......... 52% 1,72M 0s
+   100K .......... .......... .......... .......... .......... 78%  327M 0s
+   150K .......... .......... .......... .......... .         100% 69,3M=0,09s
+
+2023-05-16 18:15:21 (2,18 MB/s) - ‘./data/0.shs/1087633.pdf’ saved [196277/196277]
+

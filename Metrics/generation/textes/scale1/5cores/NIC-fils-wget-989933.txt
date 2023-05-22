@@ -1,0 +1,4 @@
+****NIC ePerf for PID 989933*****
+time_S: 7
+avgPower_W: .0019836257
+energy_J: .0138853799

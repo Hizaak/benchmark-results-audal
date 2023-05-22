@@ -1,0 +1,4 @@
+****NIC ePerf for PID 322026*****
+time_S: 797
+avgPower_W:
+energy_J:

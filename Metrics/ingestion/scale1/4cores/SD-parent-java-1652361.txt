@@ -1,4 +1,0 @@
-****SD ePerf for PID 1652361*****
-time_S: 275
-avgPower_W: .2820945000
-energy_J: 77.5759875000

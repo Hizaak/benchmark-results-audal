@@ -1,0 +1,4 @@
+****RAM ePerf for PID 204955*****
+time_S: 42.044986538
+avgPower_W: 1.5688754862
+energy_J: 65.9633486993

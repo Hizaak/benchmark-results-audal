@@ -1,0 +1,17 @@
+--2023-05-16 15:22:14--  https://hal-univ-tln.archives-ouvertes.fr/hal-01096804/document
+Resolving hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319367 (312K) [application/pdf]
+Saving to: ‘./data/0.chim/1096804.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  879K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,32M 0s
+   100K .......... .......... .......... .......... .......... 48% 23,8M 0s
+   150K .......... .......... .......... .......... .......... 64% 1,77M 0s
+   200K .......... .......... .......... .......... .......... 80% 1,60M 0s
+   250K .......... .......... .......... .......... .......... 96% 17,9M 0s
+   300K .......... .                                          100%  595M=0,2s
+
+2023-05-16 15:22:15 (1,94 MB/s) - ‘./data/0.chim/1096804.pdf’ saved [319367/319367]
+

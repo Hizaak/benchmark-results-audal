@@ -1,4 +1,0 @@
-****NIC ePerf for PID 530108*****
-time_S: 1
-avgPower_W: .0006502642
-energy_J: .0006502642

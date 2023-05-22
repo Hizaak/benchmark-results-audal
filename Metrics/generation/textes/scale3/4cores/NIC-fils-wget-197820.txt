@@ -1,0 +1,4 @@
+****NIC ePerf for PID 197820*****
+time_S: 9
+avgPower_W: .0027603959
+energy_J: .0248435631

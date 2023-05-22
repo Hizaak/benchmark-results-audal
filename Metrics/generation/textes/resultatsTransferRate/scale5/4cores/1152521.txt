@@ -1,0 +1,13 @@
+--2023-05-16 21:54:23--  https://www.hal.inserm.fr/inserm-01152521/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130292 (127K) [application/pdf]
+Saving to: ‘./data/0.sdv/1152521.pdf’
+
+     0K .......... .......... .......... .......... .......... 39%  905K 0s
+    50K .......... .......... .......... .......... .......... 78% 1,79M 0s
+   100K .......... .......... .......                         100% 50,7M=0,08s
+
+2023-05-16 21:54:24 (1,50 MB/s) - ‘./data/0.sdv/1152521.pdf’ saved [130292/130292]
+

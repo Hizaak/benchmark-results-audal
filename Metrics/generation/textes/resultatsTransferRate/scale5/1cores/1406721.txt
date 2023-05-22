@@ -1,0 +1,15 @@
+--2023-05-16 18:59:39--  https://u-paris.hal.science/hal-01406721/document
+Resolving u-paris.hal.science (u-paris.hal.science)... 193.48.96.10
+Connecting to u-paris.hal.science (u-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255570 (250K) [application/pdf]
+Saving to: ‘./data/0.phys/1406721.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  932K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,78M 0s
+   100K .......... .......... .......... .......... .......... 60% 1,76M 0s
+   150K .......... .......... .......... .......... .......... 80% 53,3M 0s
+   200K .......... .......... .......... .......... ......... 100%  124M=0,1s
+
+2023-05-16 18:59:40 (2,22 MB/s) - ‘./data/0.phys/1406721.pdf’ saved [255570/255570]
+

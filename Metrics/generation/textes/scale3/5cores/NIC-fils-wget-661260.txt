@@ -1,0 +1,4 @@
+****NIC ePerf for PID 661260*****
+time_S: 7
+avgPower_W: .0013891076
+energy_J: .0097237532

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 22049*****
+time_S: 13
+avgPower_W: .0036650431
+energy_J: .0476455603

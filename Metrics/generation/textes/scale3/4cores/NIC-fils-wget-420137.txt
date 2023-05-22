@@ -1,0 +1,4 @@
+****NIC ePerf for PID 420137*****
+time_S: 4
+avgPower_W: .0010658109
+energy_J: .0042632436

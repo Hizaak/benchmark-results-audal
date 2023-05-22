@@ -1,0 +1,17 @@
+--2023-05-16 14:41:40--  https://hal-sciencespo.archives-ouvertes.fr/hal-01022568/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310919 (304K) [application/pdf]
+Saving to: ‘./data/0.shs/1022568.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  780K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,50M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,33M 0s
+   150K .......... .......... .......... .......... .......... 65% 1,25M 0s
+   200K .......... .......... .......... .......... .......... 82% 12,6M 0s
+   250K .......... .......... .......... .......... .......... 98% 2,03M 0s
+   300K ...                                                   100% 6,76T=0,2s
+
+2023-05-16 14:41:41 (1,48 MB/s) - ‘./data/0.shs/1022568.pdf’ saved [310919/310919]
+

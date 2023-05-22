@@ -1,0 +1,12 @@
+--2023-05-16 19:25:25--  https://hal.univ-lorraine.fr/hal-01529651/document
+Resolving hal.univ-lorraine.fr (hal.univ-lorraine.fr)... 193.48.96.10
+Connecting to hal.univ-lorraine.fr (hal.univ-lorraine.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66810 (65K) [application/pdf]
+Saving to: ‘./data/0.sdu/1529651.pdf’
+
+     0K .......... .......... .......... .......... .......... 76%  926K 0s
+    50K .......... .....                                      100%  312M=0,05s
+
+2023-05-16 19:25:26 (1,18 MB/s) - ‘./data/0.sdu/1529651.pdf’ saved [66810/66810]
+

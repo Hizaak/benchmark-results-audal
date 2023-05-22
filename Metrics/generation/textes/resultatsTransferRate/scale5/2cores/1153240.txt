@@ -1,0 +1,24 @@
+--2023-05-16 20:14:39--  https://univ-rennes.hal.science/hal-01153240/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 20:14:51--  (try: 2)  https://univ-rennes.hal.science/hal-01153240/document
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 433372 (423K) [application/pdf]
+Saving to: ‘./data/0.phys/1153240.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  910K 0s
+    50K .......... .......... .......... .......... .......... 23% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 35% 61,8M 0s
+   150K .......... .......... .......... .......... .......... 47% 75,8M 0s
+   200K .......... .......... .......... .......... .......... 59% 1,89M 0s
+   250K .......... .......... .......... .......... .......... 70%  236K 0s
+   300K .......... .......... .......... .......... .......... 82%  290M 0s
+   350K .......... .......... .......... .......... .......... 94%  603M 0s
+   400K .......... .......... ...                             100%  524M=0,3s
+
+2023-05-16 20:14:51 (1,29 MB/s) - ‘./data/0.phys/1153240.pdf’ saved [433372/433372]
+

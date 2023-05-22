@@ -1,0 +1,16 @@
+--2023-05-16 14:01:47--  https://hal-univ-tln.archives-ouvertes.fr/hal-01101641/document
+Resolving hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 267111 (261K) [application/pdf]
+Saving to: ‘./data/0.math/1103068.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  433K 0s
+    50K .......... .......... .......... .......... .......... 38%  610K 0s
+   100K .......... .......... .......... .......... .......... 57%  832K 0s
+   150K .......... .......... .......... .......... .......... 76%  863K 0s
+   200K .......... .......... .......... .......... .......... 95%  892K 0s
+   250K ..........                                            100%  544K=0,4s
+
+2023-05-16 14:01:48 (666 KB/s) - ‘./data/0.math/1103068.pdf’ saved [267111/267111]
+

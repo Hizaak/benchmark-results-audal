@@ -1,0 +1,4 @@
+****CPU ePerf for PID 564802*****
+time_S: -1684243754
+avgPower_W:
+energy_J:

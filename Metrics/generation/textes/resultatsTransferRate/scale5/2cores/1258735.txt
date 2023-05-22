@@ -1,0 +1,16 @@
+--2023-05-16 19:53:55--  https://hal.sorbonne-universite.fr/hal-01258735/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 259923 (254K) [application/pdf]
+Saving to: ‘./data/0.sdu/1258735.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  952K 0s
+    50K .......... .......... .......... .......... .......... 39% 1,87M 0s
+   100K .......... .......... .......... .......... .......... 59% 1,90M 0s
+   150K .......... .......... .......... .......... .......... 78% 38,1M 0s
+   200K .......... .......... .......... .......... .......... 98% 48,0M 0s
+   250K ...                                                   100% 7,14T=0,1s
+
+2023-05-16 19:54:00 (2,33 MB/s) - ‘./data/0.sdu/1258735.pdf’ saved [259923/259923]
+

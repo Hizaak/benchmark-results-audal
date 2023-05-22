@@ -1,0 +1,4 @@
+****NIC ePerf for PID 48440*****
+time_S: 286
+avgPower_W:
+energy_J:

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 659330*****
-time_S: 2
-avgPower_W: .0002653767
-energy_J: .0005307534

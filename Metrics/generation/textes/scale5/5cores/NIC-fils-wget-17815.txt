@@ -1,4 +1,0 @@
-****NIC ePerf for PID 17815*****
-time_S: 13
-avgPower_W: .0025127684
-energy_J: .0326659892

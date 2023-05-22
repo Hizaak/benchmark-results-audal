@@ -1,4 +1,0 @@
-****RAM ePerf for PID 2104184*****
-time_S: 80.076705581
-avgPower_W: 1.6264357000
-energy_J: 130.2396127005

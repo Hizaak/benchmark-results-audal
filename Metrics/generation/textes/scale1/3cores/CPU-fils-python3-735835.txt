@@ -1,4 +1,0 @@
-****CPU ePerf for PID 735835*****
-time_S: 439
-avgPower_W: .0005243445
-energy_J: .2301872355

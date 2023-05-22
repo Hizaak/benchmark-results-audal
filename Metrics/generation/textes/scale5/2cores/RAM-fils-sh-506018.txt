@@ -1,0 +1,4 @@
+****RAM ePerf for PID 506018*****
+time_S: 1.001025450
+avgPower_W:
+energy_J:

@@ -1,0 +1,17 @@
+--2023-05-16 13:53:13--  https://hal-iogs.archives-ouvertes.fr/hal-00820911/document
+Resolving hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-iogs.archives-ouvertes.fr (hal-iogs.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310442 (303K) [application/pdf]
+Saving to: ‘./data/0.phys/1299244.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  425K 1s
+    50K .......... .......... .......... .......... .......... 32%  586K 0s
+   100K .......... .......... .......... .......... .......... 49%  858K 0s
+   150K .......... .......... .......... .......... .......... 65%  862K 0s
+   200K .......... .......... .......... .......... .......... 82%  863K 0s
+   250K .......... .......... .......... .......... .......... 98%  836K 0s
+   300K ...                                                   100% 5,90T=0,4s
+
+2023-05-16 13:53:14 (694 KB/s) - ‘./data/0.phys/1299244.pdf’ saved [310442/310442]
+

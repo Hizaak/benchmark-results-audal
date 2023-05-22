@@ -1,0 +1,4 @@
+****CPU ePerf for PID 195160*****
+time_S: -1684242712
+avgPower_W:
+energy_J:

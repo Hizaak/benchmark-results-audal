@@ -1,4 +1,0 @@
-****SD ePerf for PID 100287*****
-time_S: 4
-avgPower_W: .0036040831
-energy_J: .0144163324

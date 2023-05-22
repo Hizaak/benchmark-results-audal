@@ -1,0 +1,15 @@
+--2023-05-16 15:09:24--  https://hal.science/hal-01099371/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216287 (211K) [application/pdf]
+Saving to: ‘./data/0.info/1099371.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  759K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,40M 0s
+   100K .......... .......... .......... .......... .......... 71% 1,18M 0s
+   150K .......... .......... .......... .......... .......... 94% 1,51M 0s
+   200K .......... .                                          100%  313M=0,2s
+
+2023-05-16 15:09:24 (1,18 MB/s) - ‘./data/0.info/1099371.pdf’ saved [216287/216287]
+

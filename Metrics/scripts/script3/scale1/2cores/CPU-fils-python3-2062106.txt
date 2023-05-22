@@ -1,4 +1,0 @@
-****CPU ePerf for PID 2062106*****
-time_S: 79
-avgPower_W: 10.8920000000
-energy_J: 860.4680000000

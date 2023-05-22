@@ -1,0 +1,4 @@
+****NIC ePerf for PID 199750*****
+time_S: 4
+avgPower_W: .0021292112
+energy_J: .0085168448

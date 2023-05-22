@@ -1,0 +1,4 @@
+****RAM ePerf for PID 80525*****
+time_S: 3.002185249
+avgPower_W:
+energy_J:

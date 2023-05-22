@@ -1,0 +1,18 @@
+--2023-05-16 19:02:50--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01372500/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 404217 (395K) [application/pdf]
+Saving to: ‘./data/0.sdv/1372500.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  840K 0s
+    50K .......... .......... .......... .......... .......... 25% 1,80M 0s
+   100K .......... .......... .......... .......... .......... 37% 1,78M 0s
+   150K .......... .......... .......... .......... .......... 50% 26,8M 0s
+   200K .......... .......... .......... .......... .......... 63% 45,8M 0s
+   250K .......... .......... .......... .......... .......... 75% 1,98M 0s
+   300K .......... .......... .......... .......... .......... 88%  248K 0s
+   350K .......... .......... .......... .......... ....      100%  473M=0,3s
+
+2023-05-16 19:02:51 (1,12 MB/s) - ‘./data/0.sdv/1372500.pdf’ saved [404217/404217]
+

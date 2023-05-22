@@ -1,4 +1,0 @@
-****RAM ePerf for PID 772741*****
-time_S: 9.007620594
-avgPower_W:
-energy_J:

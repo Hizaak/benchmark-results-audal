@@ -1,0 +1,14 @@
+--2023-05-16 21:50:45--  https://hal.univ-reunion.fr/hal-01226983/document
+Resolving hal.univ-reunion.fr (hal.univ-reunion.fr)... 193.48.96.10
+Connecting to hal.univ-reunion.fr (hal.univ-reunion.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197268 (193K) [application/pdf]
+Saving to: ‘./data/0.shs/1326634.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  926K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 77% 1,84M 0s
+   150K .......... .......... .......... .......... ..        100% 75,8M=0,1s
+
+2023-05-16 21:50:46 (1,75 MB/s) - ‘./data/0.shs/1326634.pdf’ saved [197268/197268]
+

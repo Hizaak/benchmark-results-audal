@@ -1,0 +1,17 @@
+--2023-05-16 13:31:16--  https://hal-centralesupelec.archives-ouvertes.fr/hal-01104886/document
+Resolving hal-centralesupelec.archives-ouvertes.fr (hal-centralesupelec.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-centralesupelec.archives-ouvertes.fr (hal-centralesupelec.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319746 (312K) [application/pdf]
+Saving to: ‘./data/0.spi/1104886.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  413K 1s
+    50K .......... .......... .......... .......... .......... 32%  579K 0s
+   100K .......... .......... .......... .......... .......... 48%  848K 0s
+   150K .......... .......... .......... .......... .......... 64%  834K 0s
+   200K .......... .......... .......... .......... .......... 80%  565K 0s
+   250K .......... .......... .......... .......... .......... 96%  781K 0s
+   300K .......... ..                                         100%  409K=0,5s
+
+2023-05-16 13:31:17 (614 KB/s) - ‘./data/0.spi/1104886.pdf’ saved [319746/319746]
+

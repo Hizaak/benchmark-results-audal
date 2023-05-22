@@ -1,4 +1,0 @@
-****CPU ePerf for PID 578156*****
-time_S: 41
-avgPower_W: 0
-energy_J: 0

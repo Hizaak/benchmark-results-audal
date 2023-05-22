@@ -1,4 +1,0 @@
-****RAM ePerf for PID 470264*****
-time_S: 3.002389809
-avgPower_W:
-energy_J:

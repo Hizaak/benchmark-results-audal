@@ -1,4 +1,4 @@
 ****NIC ePerf for PID 659996*****
-time_S: 3
-avgPower_W:
-energy_J:
+time_S: 4
+avgPower_W: .0000004350
+energy_J: .0000017400

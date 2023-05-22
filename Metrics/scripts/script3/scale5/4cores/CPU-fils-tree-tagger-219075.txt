@@ -1,0 +1,4 @@
+****CPU ePerf for PID 219075*****
+time_S: 207
+avgPower_W: 2.1919767441
+energy_J: 453.7391860287

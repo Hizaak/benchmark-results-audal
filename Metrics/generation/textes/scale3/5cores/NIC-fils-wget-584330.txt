@@ -1,4 +1,0 @@
-****NIC ePerf for PID 584330*****
-time_S: 9
-avgPower_W: .0022191203
-energy_J: .0199720827

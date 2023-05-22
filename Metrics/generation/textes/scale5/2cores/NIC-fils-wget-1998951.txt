@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1998951*****
-time_S: 13
-avgPower_W: .0006678857
-energy_J: .0086825141

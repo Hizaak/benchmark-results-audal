@@ -1,0 +1,4 @@
+****RAM ePerf for PID 841614*****
+time_S: 12.012029102
+avgPower_W: 1.5699590314
+energy_J: 18.8583935745

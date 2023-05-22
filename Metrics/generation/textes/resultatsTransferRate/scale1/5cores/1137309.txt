@@ -1,0 +1,16 @@
+--2023-05-16 11:40:02--  https://hal-riip.archives-ouvertes.fr/pasteur-01137309/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301096 (294K) [application/pdf]
+Saving to: ‘./data/0.sdv/1137309.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  824K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,57M 0s
+   100K .......... .......... .......... .......... .......... 51% 1,56M 0s
+   150K .......... .......... .......... .......... .......... 68% 2,02M 0s
+   200K .......... .......... .......... .......... .......... 85% 3,86M 0s
+   250K .......... .......... .......... .......... ....      100%  598M=0,2s
+
+2023-05-16 11:40:04 (1,79 MB/s) - ‘./data/0.sdv/1137309.pdf’ saved [301096/301096]
+

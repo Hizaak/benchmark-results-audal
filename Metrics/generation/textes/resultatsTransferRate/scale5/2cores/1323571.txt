@@ -1,0 +1,17 @@
+--2023-05-16 20:40:33--  https://hal-cea.archives-ouvertes.fr/cea-01323571/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 318867 (311K) [application/pdf]
+Saving to: ‘./data/0.phys/1323571.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  948K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 48% 1,85M 0s
+   150K .......... .......... .......... .......... .......... 64% 36,4M 0s
+   200K .......... .......... .......... .......... .......... 80%  394M 0s
+   250K .......... .......... .......... .......... .......... 96% 1,95M 0s
+   300K .......... .                                          100%  547M=0,1s
+
+2023-05-16 20:40:34 (2,31 MB/s) - ‘./data/0.phys/1323571.pdf’ saved [318867/318867]
+

@@ -1,0 +1,15 @@
+--2023-05-16 20:39:07--  https://hal-amu.archives-ouvertes.fr/hal-01265465/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242850 (237K) [application/pdf]
+Saving to: ‘./data/0.shs/1265465.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  894K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 63% 1,79M 0s
+   150K .......... .......... .......... .......... .......... 84% 47,5M 0s
+   200K .......... .......... .......... .......              100% 74,4M=0,1s
+
+2023-05-16 20:39:08 (2,08 MB/s) - ‘./data/0.shs/1265465.pdf’ saved [242850/242850]
+

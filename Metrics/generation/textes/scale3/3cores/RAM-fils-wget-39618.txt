@@ -1,0 +1,4 @@
+****RAM ePerf for PID 39618*****
+time_S: 5.005338695
+avgPower_W: 1.5711531979
+energy_J: 7.8641538976

@@ -1,0 +1,14 @@
+--2023-05-16 15:23:26--  https://hal.univ-lorraine.fr/hal-01507425/document
+Resolving hal.univ-lorraine.fr (hal.univ-lorraine.fr)... 193.48.96.10
+Connecting to hal.univ-lorraine.fr (hal.univ-lorraine.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184229 (180K) [application/pdf]
+Saving to: ‘./data/0.chim/1520268.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  705K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,45M 0s
+   100K .......... .......... .......... .......... .......... 83% 1,43M 0s
+   150K .......... .......... .........                       100% 11,3M=0,1s
+
+2023-05-16 15:23:27 (1,24 MB/s) - ‘./data/0.chim/1520268.pdf’ saved [184229/184229]
+

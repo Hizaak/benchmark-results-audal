@@ -1,0 +1,3 @@
+--2023-05-16 13:07:31--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01370752/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... failed: No route to host.

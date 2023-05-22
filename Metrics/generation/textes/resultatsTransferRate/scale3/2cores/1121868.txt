@@ -1,0 +1,17 @@
+--2023-05-16 14:14:39--  https://hal.sorbonne-universite.fr/hal-01121868/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 351849 (344K) [application/pdf]
+Saving to: ‘./data/0.sdv/1121868.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  339K 1s
+    50K .......... .......... .......... .......... .......... 29%  573K 1s
+   100K .......... .......... .......... .......... .......... 43%  554K 0s
+   150K .......... .......... .......... .......... .......... 58%  537K 0s
+   200K .......... .......... .......... .......... .......... 72%  570K 0s
+   250K .......... .......... .......... .......... .......... 87%  793K 0s
+   300K .......... .......... .......... .......... ...       100%  785K=0,6s
+
+2023-05-16 14:14:41 (550 KB/s) - ‘./data/0.sdv/1121868.pdf’ saved [351849/351849]
+

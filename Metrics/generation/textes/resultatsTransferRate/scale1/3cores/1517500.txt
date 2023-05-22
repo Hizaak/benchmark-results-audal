@@ -1,0 +1,13 @@
+--2023-05-16 11:25:18--  https://hal.science/hal-01517500/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149339 (146K) [application/pdf]
+Saving to: ‘./data/0.sdu/1517500.pdf’
+
+     0K .......... .......... .......... .......... .......... 34%  786K 0s
+    50K .......... .......... .......... .......... .......... 68% 1,67M 0s
+   100K .......... .......... .......... .......... .....     100% 1,73M=0,1s
+
+2023-05-16 11:25:24 (1,20 MB/s) - ‘./data/0.sdu/1517500.pdf’ saved [149339/149339]
+

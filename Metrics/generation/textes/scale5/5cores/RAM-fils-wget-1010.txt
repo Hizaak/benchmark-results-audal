@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1010*****
-time_S: 5.003501593
-avgPower_W:
-energy_J:

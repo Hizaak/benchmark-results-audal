@@ -1,0 +1,16 @@
+--2023-05-16 11:36:09--  https://hal-insu.archives-ouvertes.fr/insu-01285794/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294210 (287K) [application/pdf]
+Saving to: ‘./data/0.sdu/1285794.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  809K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,59M 0s
+   100K .......... .......... .......... .......... .......... 52% 1,44M 0s
+   150K .......... .......... .......... .......... .......... 69% 1,36M 0s
+   200K .......... .......... .......... .......... .......... 87%  431M 0s
+   250K .......... .......... .......... .......              100%  652M=0,2s
+
+2023-05-16 11:36:10 (1,73 MB/s) - ‘./data/0.sdu/1285794.pdf’ saved [294210/294210]
+

@@ -1,4 +1,0 @@
-****SD ePerf for PID 3010178*****
-time_S: 2048
-avgPower_W: 0
-energy_J: 0

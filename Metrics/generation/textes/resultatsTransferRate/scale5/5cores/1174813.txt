@@ -1,0 +1,15 @@
+--2023-05-16 22:15:17--  https://hal-lirmm.ccsd.cnrs.fr/lirmm-00276716/document
+Resolving hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217483 (212K) [application/pdf]
+Saving to: ‘./data/0.info/1174813.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  921K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,88M 0s
+   100K .......... .......... .......... .......... .......... 70% 1,91M 0s
+   150K .......... .......... .......... .......... .......... 94% 34,7M 0s
+   200K .......... ..                                         100%  435M=0,1s
+
+2023-05-16 22:15:17 (1,93 MB/s) - ‘./data/0.info/1174813.pdf’ saved [217483/217483]
+

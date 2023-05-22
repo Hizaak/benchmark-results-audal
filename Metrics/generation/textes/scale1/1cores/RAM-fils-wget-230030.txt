@@ -1,0 +1,4 @@
+****RAM ePerf for PID 230030*****
+time_S: 26.022049412
+avgPower_W: 1.5696960787
+energy_J: 40.8467089227

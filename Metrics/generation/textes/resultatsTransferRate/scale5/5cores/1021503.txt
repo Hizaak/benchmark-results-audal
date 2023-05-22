@@ -1,0 +1,14 @@
+--2023-05-16 22:14:25--  https://hal-sciencespo.archives-ouvertes.fr/hal-01021503/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189228 (185K) [application/pdf]
+Saving to: ‘./data/0.shs/1021503.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  956K 0s
+    50K .......... .......... .......... .......... .......... 54% 1,88M 0s
+   100K .......... .......... .......... .......... .......... 81% 1,90M 0s
+   150K .......... .......... .......... ....                 100% 9,64M=0,1s
+
+2023-05-16 22:14:26 (1,68 MB/s) - ‘./data/0.shs/1021503.pdf’ saved [189228/189228]
+

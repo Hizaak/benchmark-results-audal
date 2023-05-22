@@ -1,0 +1,13 @@
+--2023-05-16 15:17:03--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010350/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112920 (110K) [application/pdf]
+Saving to: ‘./data/0.shs/1010350.pdf’
+
+     0K .......... .......... .......... .......... .......... 45%  814K 0s
+    50K .......... .......... .......... .......... .......... 90% 1,68M 0s
+   100K ..........                                            100%  592M=0,09s
+
+2023-05-16 15:17:09 (1,19 MB/s) - ‘./data/0.shs/1010350.pdf’ saved [112920/112920]
+

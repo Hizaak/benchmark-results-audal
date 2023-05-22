@@ -1,4 +1,0 @@
-****RAM ePerf for PID 601718*****
-time_S: 6.004262233
-avgPower_W:
-energy_J:

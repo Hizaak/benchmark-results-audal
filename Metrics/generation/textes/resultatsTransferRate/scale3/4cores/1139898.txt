@@ -1,0 +1,15 @@
+--2023-05-16 15:18:19--  https://hal-enpc.archives-ouvertes.fr/hal-00716356/document
+Resolving hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242119 (236K) [application/pdf]
+Saving to: ‘./data/0.sde/1139898.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  599K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,31M 0s
+   100K .......... .......... .......... .......... .......... 63% 14,4M 0s
+   150K .......... .......... .......... .......... .......... 84% 1,26M 0s
+   200K .......... .......... .......... ......               100% 14,8M=0,2s
+
+2023-05-16 15:18:20 (1,40 MB/s) - ‘./data/0.sde/1139898.pdf’ saved [242119/242119]
+

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 650821*****
-time_S: 7.006183477
-avgPower_W:
-energy_J:

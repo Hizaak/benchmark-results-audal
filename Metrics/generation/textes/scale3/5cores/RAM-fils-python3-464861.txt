@@ -1,0 +1,4 @@
+****RAM ePerf for PID 464861*****
+time_S: 966.279877244
+avgPower_W: 1.5755415920
+energy_J: 1522.4141361599

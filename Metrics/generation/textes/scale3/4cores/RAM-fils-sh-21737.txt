@@ -1,4 +1,0 @@
-****RAM ePerf for PID 21737*****
-time_S: 11.011644386
-avgPower_W:
-energy_J:

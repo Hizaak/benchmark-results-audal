@@ -1,0 +1,4 @@
+****RAM ePerf for PID 14243*****
+time_S: 23.022735514
+avgPower_W: 1.5701797589
+energy_J: 36.1498332993

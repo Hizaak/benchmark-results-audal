@@ -1,4 +1,0 @@
-****NIC ePerf for PID 67016*****
-time_S: 3
-avgPower_W: .0017024241
-energy_J: .0051072723

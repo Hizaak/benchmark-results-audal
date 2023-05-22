@@ -1,0 +1,14 @@
+--2023-05-16 11:29:15--  https://hal.sorbonne-universite.fr/hal-00832153/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185659 (181K) [application/pdf]
+Saving to: ‘./data/0.chim/1128613.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  751K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,50M 0s
+   100K .......... .......... .......... .......... .......... 82% 1,64M 0s
+   150K .......... .......... .......... .                    100%  474M=0,1s
+
+2023-05-16 11:29:15 (1,37 MB/s) - ‘./data/0.chim/1128613.pdf’ saved [185659/185659]
+

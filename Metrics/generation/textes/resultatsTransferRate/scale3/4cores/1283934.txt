@@ -1,0 +1,14 @@
+--2023-05-16 15:18:29--  https://hal.science/hal-01283934/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198194 (194K) [application/pdf]
+Saving to: ‘./data/0.math/1283934.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  754K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,37M 0s
+   100K .......... .......... .......... .......... .......... 77% 1,56M 0s
+   150K .......... .......... .......... .......... ...       100% 1,21M=0,2s
+
+2023-05-16 15:18:30 (1,12 MB/s) - ‘./data/0.math/1283934.pdf’ saved [198194/198194]
+

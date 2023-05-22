@@ -1,0 +1,4 @@
+****CPU ePerf for PID 1169820*****
+time_S: 2
+avgPower_W: .0700000000
+energy_J: .1400000000

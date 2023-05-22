@@ -1,0 +1,16 @@
+--2023-05-16 14:55:07--  https://hal-enpc.archives-ouvertes.fr/hal-00659630/document
+Resolving hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277223 (271K) [application/pdf]
+Saving to: ‘./data/0.shs/1264794.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  792K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,56M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,40M 0s
+   150K .......... .......... .......... .......... .......... 73% 1,50M 0s
+   200K .......... .......... .......... .......... .......... 92% 16,7M 0s
+   250K .......... ..........                                 100% 7,85M=0,2s
+
+2023-05-16 14:55:16 (1,58 MB/s) - ‘./data/0.shs/1264794.pdf’ saved [277223/277223]
+

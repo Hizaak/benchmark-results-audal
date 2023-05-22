@@ -1,0 +1,4 @@
+****NIC ePerf for PID 855971*****
+time_S: 13
+avgPower_W: .0028440913
+energy_J: .0369731869

@@ -1,0 +1,14 @@
+--2023-05-16 11:38:43--  https://hal-brgm.archives-ouvertes.fr/hal-01326426/document
+Resolving hal-brgm.archives-ouvertes.fr (hal-brgm.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-brgm.archives-ouvertes.fr (hal-brgm.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170722 (167K) [application/pdf]
+Saving to: ‘./data/0.sdu/1326426.pdf’
+
+     0K .......... .......... .......... .......... .......... 29%  697K 0s
+    50K .......... .......... .......... .......... .......... 59% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 89% 14,2M 0s
+   150K .......... ......                                     100% 10,7M=0,1s
+
+2023-05-16 11:38:44 (1,55 MB/s) - ‘./data/0.sdu/1326426.pdf’ saved [170722/170722]
+

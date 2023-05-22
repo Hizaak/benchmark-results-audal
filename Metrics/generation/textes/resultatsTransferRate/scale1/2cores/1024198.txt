@@ -1,0 +1,18 @@
+--2023-05-16 11:14:14--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024198/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384973 (376K) [application/pdf]
+Saving to: ‘./data/0.shs/1024198.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  827K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,45M 0s
+   100K .......... .......... .......... .......... .......... 39% 1,67M 0s
+   150K .......... .......... .......... .......... .......... 53% 1,73M 0s
+   200K .......... .......... .......... .......... .......... 66% 10,4M 0s
+   250K .......... .......... .......... .......... .......... 79% 18,3M 0s
+   300K .......... .......... .......... .......... .......... 93% 2,57M 0s
+   350K .......... .......... .....                           100%  129K=0,4s
+
+2023-05-16 11:14:15 (991 KB/s) - ‘./data/0.shs/1024198.pdf’ saved [384973/384973]
+

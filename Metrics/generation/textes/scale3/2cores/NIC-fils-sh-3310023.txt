@@ -1,4 +1,0 @@
-****NIC ePerf for PID 3310023*****
-time_S: 15
-avgPower_W:
-energy_J:

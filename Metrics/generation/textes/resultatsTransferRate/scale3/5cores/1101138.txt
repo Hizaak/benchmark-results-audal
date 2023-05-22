@@ -1,0 +1,14 @@
+--2023-05-16 15:38:17--  https://shs.hal.science/halshs-01101138/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168645 (165K) [application/pdf]
+Saving to: ‘./data/0.shs/1101138.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  625K 0s
+    50K .......... .......... .......... .......... .......... 60% 1,17M 0s
+   100K .......... .......... .......... .......... .......... 91% 18,7M 0s
+   150K .......... ....                                       100%  582M=0,1s
+
+2023-05-16 15:38:23 (1,29 MB/s) - ‘./data/0.shs/1101138.pdf’ saved [168645/168645]
+

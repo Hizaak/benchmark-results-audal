@@ -1,4 +1,0 @@
-****CPU ePerf for PID 70103*****
-time_S: -1683917552
-avgPower_W:
-energy_J:

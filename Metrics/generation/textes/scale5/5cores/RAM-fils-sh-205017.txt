@@ -1,4 +1,0 @@
-****RAM ePerf for PID 205017*****
-time_S: 1.000099555
-avgPower_W:
-energy_J:

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 300798*****
-time_S: 18
-avgPower_W: .0031005490
-energy_J: .0558098820

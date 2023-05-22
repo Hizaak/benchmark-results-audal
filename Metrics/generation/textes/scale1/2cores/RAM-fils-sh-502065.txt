@@ -1,0 +1,4 @@
+****RAM ePerf for PID 502065*****
+time_S: 6.018580315
+avgPower_W:
+energy_J:

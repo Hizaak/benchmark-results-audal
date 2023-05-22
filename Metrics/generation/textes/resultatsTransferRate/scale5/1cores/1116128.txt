@@ -1,0 +1,16 @@
+--2023-05-16 18:42:54--  https://hal-audencia.archives-ouvertes.fr/hal-01116128/document
+Resolving hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293658 (287K) [application/pdf]
+Saving to: ‘./data/0.shs/1116128.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  923K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 52% 87,2M 0s
+   150K .......... .......... .......... .......... .......... 69% 44,4M 0s
+   200K .......... .......... .......... .......... .......... 87% 1,89M 0s
+   250K .......... .......... .......... ......               100% 76,1M=0,1s
+
+2023-05-16 18:42:55 (2,58 MB/s) - ‘./data/0.shs/1116128.pdf’ saved [293658/293658]
+

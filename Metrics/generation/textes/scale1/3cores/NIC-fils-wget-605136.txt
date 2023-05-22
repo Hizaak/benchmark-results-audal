@@ -1,0 +1,4 @@
+****NIC ePerf for PID 605136*****
+time_S: 7
+avgPower_W: .0012421413
+energy_J: .0086949891

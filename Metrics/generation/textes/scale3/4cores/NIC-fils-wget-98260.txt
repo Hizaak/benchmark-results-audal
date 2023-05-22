@@ -1,0 +1,4 @@
+****NIC ePerf for PID 98260*****
+time_S: 2
+avgPower_W: .0000426630
+energy_J: .0000853260

@@ -1,0 +1,4 @@
+--2023-05-16 21:31:22--  https://hal-ens-lyon.archives-ouvertes.fr/ensl-01404276/document
+Resolving hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+Unable to establish SSL connection.

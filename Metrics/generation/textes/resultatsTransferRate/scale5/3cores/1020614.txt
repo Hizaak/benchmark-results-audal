@@ -1,0 +1,17 @@
+--2023-05-16 21:19:50--  https://hal-sciencespo.archives-ouvertes.fr/hal-01020614/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313933 (307K) [application/pdf]
+Saving to: ‘./data/0.shs/1020614.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  919K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 48% 1,80M 0s
+   150K .......... .......... .......... .......... .......... 65% 62,2M 0s
+   200K .......... .......... .......... .......... .......... 81% 79,3M 0s
+   250K .......... .......... .......... .......... .......... 97% 1,89M 0s
+   300K ......                                                100%  360M=0,1s
+
+2023-05-16 21:19:50 (2,20 MB/s) - ‘./data/0.shs/1020614.pdf’ saved [313933/313933]
+

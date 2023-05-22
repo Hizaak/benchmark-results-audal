@@ -1,0 +1,17 @@
+--2023-05-16 18:45:49--  https://hal-cea.archives-ouvertes.fr/cea-01377261/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 334463 (327K) [application/pdf]
+Saving to: ‘./data/0.phys/1377261.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  897K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,78M 0s
+   100K .......... .......... .......... .......... .......... 45% 1,81M 0s
+   150K .......... .......... .......... .......... .......... 61% 62,4M 0s
+   200K .......... .......... .......... .......... .......... 76% 75,0M 0s
+   250K .......... .......... .......... .......... .......... 91% 1,84M 0s
+   300K .......... .......... ......                          100%  132K=0,3s
+
+2023-05-16 18:45:50 (963 KB/s) - ‘./data/0.phys/1377261.pdf’ saved [334463/334463]
+

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 2703238*****
-time_S: 8
-avgPower_W: 0
-energy_J: 0

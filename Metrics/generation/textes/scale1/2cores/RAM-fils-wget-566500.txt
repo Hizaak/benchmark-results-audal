@@ -1,4 +1,0 @@
-****RAM ePerf for PID 566500*****
-time_S: 18.015233612
-avgPower_W: 1.5691890849
-energy_J: 28.2693079470

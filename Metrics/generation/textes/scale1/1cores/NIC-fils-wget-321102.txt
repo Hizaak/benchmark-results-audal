@@ -1,4 +1,0 @@
-****NIC ePerf for PID 321102*****
-time_S: 12
-avgPower_W: .0001979582
-energy_J: .0023754984

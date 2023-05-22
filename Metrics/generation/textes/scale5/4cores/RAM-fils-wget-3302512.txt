@@ -1,4 +1,0 @@
-****RAM ePerf for PID 3302512*****
-time_S: 8.012676946
-avgPower_W: 1.5706766180
-energy_J: 12.5853243269

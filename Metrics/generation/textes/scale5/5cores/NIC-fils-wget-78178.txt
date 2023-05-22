@@ -1,4 +1,0 @@
-****NIC ePerf for PID 78178*****
-time_S: 26
-avgPower_W: .0032326323
-energy_J: .0840484398

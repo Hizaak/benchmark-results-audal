@@ -1,0 +1,17 @@
+--2023-05-16 21:01:39--  https://hal.sorbonne-universite.fr/hal-01143420/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348835 (341K) [application/pdf]
+Saving to: ‘./data/0.scco/1143420.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  731K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,99M 0s
+   100K .......... .......... .......... .......... .......... 44% 13,6M 0s
+   150K .......... .......... .......... .......... .......... 58% 1,08M 0s
+   200K .......... .......... .......... .......... .......... 73% 46,0M 0s
+   250K .......... .......... .......... .......... .......... 88% 1,41M 0s
+   300K .......... .......... .......... ..........           100% 20,1M=0,2s
+
+2023-05-16 21:01:40 (1,86 MB/s) - ‘./data/0.scco/1143420.pdf’ saved [348835/348835]
+

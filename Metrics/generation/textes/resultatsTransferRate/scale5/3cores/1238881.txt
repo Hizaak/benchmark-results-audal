@@ -1,0 +1,21 @@
+--2023-05-16 21:12:07--  https://hal-ensta-paris.archives-ouvertes.fr/hal-00838482/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-00838482/document [following]
+--2023-05-16 21:12:07--  https://ensta-paris.hal.science/hal-00838482/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297478 (291K) [application/pdf]
+Saving to: ‘./data/0.phys/1238881.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  906K 0s
+    50K .......... .......... .......... .......... .......... 34% 1,81M 0s
+   100K .......... .......... .......... .......... .......... 51% 1,81M 0s
+   150K .......... .......... .......... .......... .......... 68% 22,2M 0s
+   200K .......... .......... .......... .......... .......... 86%  382M 0s
+   250K .......... .......... .......... ..........           100% 11,0M=0,1s
+
+2023-05-16 21:12:08 (2,47 MB/s) - ‘./data/0.phys/1238881.pdf’ saved [297478/297478]
+

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 1142922*****
-time_S: 830
-avgPower_W: .2792802056
-energy_J: 231.8025706480

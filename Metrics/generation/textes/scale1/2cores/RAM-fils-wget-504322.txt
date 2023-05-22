@@ -1,4 +1,0 @@
-****RAM ePerf for PID 504322*****
-time_S: 17.017185833
-avgPower_W: 1.5670736551
-energy_J: 26.6671836036

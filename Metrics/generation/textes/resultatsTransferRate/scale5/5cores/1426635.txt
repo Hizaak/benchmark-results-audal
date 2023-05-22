@@ -1,0 +1,17 @@
+--2023-05-16 22:13:58--  https://hal-cea.archives-ouvertes.fr/cea-01426635/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 343343 (335K) [application/pdf]
+Saving to: ‘./data/0.phys/1426635.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  940K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 44% 1,87M 0s
+   150K .......... .......... .......... .......... .......... 59% 56,1M 0s
+   200K .......... .......... .......... .......... .......... 74% 1,96M 0s
+   250K .......... .......... .......... .......... .......... 89% 22,8M 0s
+   300K .......... .......... .......... .....                100%  173K=0,3s
+
+2023-05-16 22:13:59 (989 KB/s) - ‘./data/0.phys/1426635.pdf’ saved [343343/343343]
+

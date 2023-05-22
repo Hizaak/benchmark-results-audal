@@ -1,0 +1,4 @@
+****CPU ePerf for PID 4002302*****
+time_S: 328
+avgPower_W: 1.1918215613
+energy_J: 390.9174721064

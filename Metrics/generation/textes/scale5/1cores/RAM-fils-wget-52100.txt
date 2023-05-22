@@ -1,4 +1,0 @@
-****RAM ePerf for PID 52100*****
-time_S: 7.006290708
-avgPower_W:
-energy_J:

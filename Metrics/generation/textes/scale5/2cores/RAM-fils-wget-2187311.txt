@@ -1,4 +1,0 @@
-****RAM ePerf for PID 2187311*****
-time_S: 17.017524462
-avgPower_W: 1.5615086900
-energy_J: 26.5730123298

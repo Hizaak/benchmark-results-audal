@@ -1,0 +1,4 @@
+****NIC ePerf for PID 2251712*****
+time_S: 2
+avgPower_W: .0002637220
+energy_J: .0005274440

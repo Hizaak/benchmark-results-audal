@@ -1,0 +1,15 @@
+--2023-05-16 15:25:20--  https://hal-sciencespo.archives-ouvertes.fr/hal-01021360/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207448 (203K) [application/pdf]
+Saving to: ‘./data/0.shs/1021360.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  637K 0s
+    50K .......... .......... .......... .......... .......... 49%  724K 0s
+   100K .......... .......... .......... .......... .......... 74%  680K 0s
+   150K .......... .......... .......... .......... .......... 98% 1,34M 0s
+   200K ..                                                    100%  119M=0,3s
+
+2023-05-16 15:25:21 (786 KB/s) - ‘./data/0.shs/1021360.pdf’ saved [207448/207448]
+

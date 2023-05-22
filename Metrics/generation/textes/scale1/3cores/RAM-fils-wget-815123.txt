@@ -1,4 +1,0 @@
-****RAM ePerf for PID 815123*****
-time_S: 7.007514140
-avgPower_W: 1.5710282503
-energy_J: 11.0090026790

@@ -1,0 +1,20 @@
+--2023-05-16 21:59:33--  https://hal-ens-lyon.archives-ouvertes.fr/lirmm-00125483/document
+Resolving hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ens-lyon.hal.science/lirmm-00125483/document [following]
+--2023-05-16 21:59:33--  https://ens-lyon.hal.science/lirmm-00125483/document
+Resolving ens-lyon.hal.science (ens-lyon.hal.science)... 193.48.96.10
+Connecting to ens-lyon.hal.science (ens-lyon.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218012 (213K) [application/pdf]
+Saving to: ‘./data/0.info/122724.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  952K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 70% 1,89M 0s
+   150K .......... .......... .......... .......... .......... 93% 49,3M 0s
+   200K .......... ..                                         100%  447M=0,1s
+
+2023-05-16 21:59:38 (1,97 MB/s) - ‘./data/0.info/122724.pdf’ saved [218012/218012]
+

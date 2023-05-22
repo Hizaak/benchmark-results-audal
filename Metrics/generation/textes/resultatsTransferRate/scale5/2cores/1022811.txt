@@ -1,0 +1,17 @@
+--2023-05-16 20:39:11--  https://hal-polytechnique.archives-ouvertes.fr/hal-01022811/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311145 (304K) [application/pdf]
+Saving to: ‘./data/0.phys/1022811.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  912K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 49% 93,3M 0s
+   150K .......... .......... .......... .......... .......... 65% 57,6M 0s
+   200K .......... .......... .......... .......... .......... 82% 1,88M 0s
+   250K .......... .......... .......... .......... .......... 98%  243K 0s
+   300K ...                                                   100% 7,18T=0,3s
+
+2023-05-16 20:39:12 (961 KB/s) - ‘./data/0.phys/1022811.pdf’ saved [311145/311145]
+

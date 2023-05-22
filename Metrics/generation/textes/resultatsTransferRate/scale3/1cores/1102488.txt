@@ -1,0 +1,14 @@
+--2023-05-16 13:41:32--  https://hal.science/hal-00685861/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196433 (192K) [application/pdf]
+Saving to: ‘./data/0.phys/1102488.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  440K 0s
+    50K .......... .......... .......... .......... .......... 52%  831K 0s
+   100K .......... .......... .......... .......... .......... 78%  605K 0s
+   150K .......... .......... .......... .......... .         100% 1,42M=0,3s
+
+2023-05-16 13:41:33 (672 KB/s) - ‘./data/0.phys/1102488.pdf’ saved [196433/196433]
+

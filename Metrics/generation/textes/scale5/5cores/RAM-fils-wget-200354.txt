@@ -1,4 +1,0 @@
-****RAM ePerf for PID 200354*****
-time_S: 2.001761681
-avgPower_W:
-energy_J:

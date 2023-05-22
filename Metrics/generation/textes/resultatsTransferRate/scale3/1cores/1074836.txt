@@ -1,0 +1,15 @@
+--2023-05-16 12:44:06--  https://inria.hal.science/hal-01074836/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208455 (204K) [application/pdf]
+Saving to: ‘./data/0.math/1074836.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  812K 0s
+    50K .......... .......... .......... .......... .......... 49% 1,56M 0s
+   100K .......... .......... .......... .......... .......... 73% 1,67M 0s
+   150K .......... .......... .......... .......... .......... 98% 1,66M 0s
+   200K ...                                                   100%  120M=0,2s
+
+2023-05-16 12:44:09 (1,31 MB/s) - ‘./data/0.math/1074836.pdf’ saved [208455/208455]
+

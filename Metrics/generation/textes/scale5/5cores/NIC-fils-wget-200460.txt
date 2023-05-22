@@ -1,4 +1,0 @@
-****NIC ePerf for PID 200460*****
-time_S: 8
-avgPower_W: .0012151471
-energy_J: .0097211768

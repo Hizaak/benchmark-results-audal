@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1019573*****
+time_S: 4.003495620
+avgPower_W:
+energy_J:

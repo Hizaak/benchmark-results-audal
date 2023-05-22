@@ -1,0 +1,21 @@
+--2023-05-16 15:08:42--  https://hal.science/hal-01053777/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 15:08:53--  (try: 2)  https://hal.science/hal-01053777/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276902 (270K) [application/pdf]
+Saving to: ‘./data/0.chim/1053777.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  787K 0s
+    50K .......... .......... .......... .......... .......... 36%  845K 0s
+   100K .......... .......... .......... .......... .......... 55% 1,58M 0s
+   150K .......... .......... .......... .......... .......... 73% 18,8M 0s
+   200K .......... .......... .......... .......... .......... 92% 1,69M 0s
+   250K .......... ..........                                 100%  574M=0,2s
+
+2023-05-16 15:08:53 (1,43 MB/s) - ‘./data/0.chim/1053777.pdf’ saved [276902/276902]
+

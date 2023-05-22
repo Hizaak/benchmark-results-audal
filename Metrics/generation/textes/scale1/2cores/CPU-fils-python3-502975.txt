@@ -1,4 +1,0 @@
-****CPU ePerf for PID 502975*****
-time_S: 687
-avgPower_W: .0063762376
-energy_J: 4.3804752312

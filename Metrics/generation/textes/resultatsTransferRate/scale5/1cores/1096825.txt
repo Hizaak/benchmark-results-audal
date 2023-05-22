@@ -1,0 +1,17 @@
+--2023-05-16 19:15:04--  https://hal-univ-tln.archives-ouvertes.fr/hal-01096825/document
+Resolving hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332611 (325K) [application/pdf]
+Saving to: ‘./data/0.chim/1096825.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  943K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,89M 0s
+   100K .......... .......... .......... .......... .......... 46% 1,84M 0s
+   150K .......... .......... .......... .......... .......... 61% 48,0M 0s
+   200K .......... .......... .......... .......... .......... 76% 23,2M 0s
+   250K .......... .......... .......... .......... .......... 92% 2,10M 0s
+   300K .......... .......... ....                            100%  122K=0,3s
+
+2023-05-16 19:15:06 (967 KB/s) - ‘./data/0.chim/1096825.pdf’ saved [332611/332611]
+

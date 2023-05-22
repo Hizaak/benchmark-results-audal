@@ -1,0 +1,4 @@
+****RAM ePerf for PID 79640*****
+time_S: 6.005657553
+avgPower_W:
+energy_J:

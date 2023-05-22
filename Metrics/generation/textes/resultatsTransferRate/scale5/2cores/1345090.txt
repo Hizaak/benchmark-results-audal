@@ -1,0 +1,4 @@
+--2023-05-16 20:44:51--  https://hal.sorbonne-universite.fr/hal-01345090/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+Unable to establish SSL connection.

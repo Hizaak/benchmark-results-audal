@@ -1,0 +1,18 @@
+--2023-05-16 11:28:38--  https://hal-pasteur.archives-ouvertes.fr/pasteur-00139174/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 370801 (362K) [application/pdf]
+Saving to: ‘./data/0.sdv/139174.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  837K 0s
+    50K .......... .......... .......... .......... .......... 27% 1,73M 0s
+   100K .......... .......... .......... .......... .......... 41% 1,56M 0s
+   150K .......... .......... .......... .......... .......... 55% 35,0M 0s
+   200K .......... .......... .......... .......... .......... 69% 1,63M 0s
+   250K .......... .......... .......... .......... .......... 82% 19,6M 0s
+   300K .......... .......... .......... .......... .......... 96%  246K 0s
+   350K .......... ..                                         100%  219M=0,4s
+
+2023-05-16 11:28:39 (1016 KB/s) - ‘./data/0.sdv/139174.pdf’ saved [370801/370801]
+

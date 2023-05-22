@@ -1,0 +1,16 @@
+--2023-05-16 22:15:41--  https://hal-amu.archives-ouvertes.fr/hal-01432637/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284771 (278K) [application/pdf]
+Saving to: ‘./data/0.shs/1432637.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  901K 0s
+    50K .......... .......... .......... .......... .......... 35% 1,59M 0s
+   100K .......... .......... .......... .......... .......... 53% 1,83M 0s
+   150K .......... .......... .......... .......... .......... 71% 11,6M 0s
+   200K .......... .......... .......... .......... .......... 89% 2,12M 0s
+   250K .......... .......... ........                        100% 19,8M=0,1s
+
+2023-05-16 22:15:41 (1,92 MB/s) - ‘./data/0.shs/1432637.pdf’ saved [284771/284771]
+

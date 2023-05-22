@@ -1,0 +1,13 @@
+--2023-05-16 18:58:04--  https://inria.hal.science/hal-01096598/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123561 (121K) [application/pdf]
+Saving to: ‘./data/0.math/1096598.pdf’
+
+     0K .......... .......... .......... .......... .......... 41%  917K 0s
+    50K .......... .......... .......... .......... .......... 82% 1,46M 0s
+   100K .......... ..........                                 100% 9,87M=0,09s
+
+2023-05-16 18:58:05 (1,31 MB/s) - ‘./data/0.math/1096598.pdf’ saved [123561/123561]
+

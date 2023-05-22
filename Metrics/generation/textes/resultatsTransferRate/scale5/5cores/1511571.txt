@@ -1,0 +1,22 @@
+--2023-05-16 22:04:55--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01511571/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 22:05:06--  (try: 2)  https://hal-pasteur.archives-ouvertes.fr/pasteur-01511571/document
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2840183 (2,7M) [application/pdf]
+Saving to: ‘./data/0.sdv/1511571.pdf’
+
+     0K                                                         0% 0,00 =0s
+
+2023-05-16 22:05:23 (0,00 B/s) - Read error at byte 0/2840183 (Connection timed out). Retrying.
+
+--2023-05-16 22:05:25--  (try: 3)  https://hal-pasteur.archives-ouvertes.fr/pasteur-01511571/document
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... failed: Connection timed out.
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

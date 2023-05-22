@@ -1,0 +1,13 @@
+--2023-05-16 22:06:19--  https://hal.sorbonne-universite.fr/hal-00797027/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:06:33--  (try: 2)  https://hal.sorbonne-universite.fr/hal-00797027/document
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:06:45--  (try: 3)  https://hal.sorbonne-universite.fr/hal-00797027/document
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

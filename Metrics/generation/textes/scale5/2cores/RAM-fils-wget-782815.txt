@@ -1,0 +1,4 @@
+****RAM ePerf for PID 782815*****
+time_S: 10.009683549
+avgPower_W: 1.5705471756
+energy_J: 15.7206802270

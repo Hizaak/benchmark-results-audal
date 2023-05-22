@@ -1,4 +1,0 @@
-****NIC ePerf for PID 2121941*****
-time_S: 4165
-avgPower_W:
-energy_J:

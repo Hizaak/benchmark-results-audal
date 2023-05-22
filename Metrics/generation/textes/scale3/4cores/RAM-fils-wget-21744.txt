@@ -1,4 +1,0 @@
-****RAM ePerf for PID 21744*****
-time_S: 11.010048616
-avgPower_W:
-energy_J:

@@ -1,0 +1,13 @@
+--2023-05-16 21:28:17--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010797/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104449 (102K) [application/pdf]
+Saving to: ‘./data/0.shs/1010797.pdf’
+
+     0K .......... .......... .......... .......... .......... 49%  953K 0s
+    50K .......... .......... .......... .......... .......... 98% 1,88M 0s
+   100K ..                                                    100% 3,73T=0,08s
+
+2023-05-16 21:28:24 (1,27 MB/s) - ‘./data/0.shs/1010797.pdf’ saved [104449/104449]
+

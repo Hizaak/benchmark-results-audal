@@ -1,4 +1,0 @@
-****RAM ePerf for PID 80677*****
-time_S: 5.029701380
-avgPower_W: 1.5636864899
-energy_J: 7.8648760966

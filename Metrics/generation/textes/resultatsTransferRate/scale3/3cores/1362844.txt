@@ -1,0 +1,16 @@
+--2023-05-16 14:55:36--  https://hal-amu.archives-ouvertes.fr/hal-01362844/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282942 (276K) [application/pdf]
+Saving to: ‘./data/0.shs/1362844.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  833K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,92M 0s
+   100K .......... .......... .......... .......... .......... 54% 8,80M 0s
+   150K .......... .......... .......... .......... .......... 72% 2,18M 0s
+   200K .......... .......... .......... .......... .......... 90% 6,99M 0s
+   250K .......... .......... ......                          100% 51,9M=0,1s
+
+2023-05-16 14:55:37 (2,23 MB/s) - ‘./data/0.shs/1362844.pdf’ saved [282942/282942]
+

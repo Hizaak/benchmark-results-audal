@@ -1,4 +1,0 @@
-****RAM ePerf for PID 73823*****
-time_S:
-avgPower_W:
-energy_J:

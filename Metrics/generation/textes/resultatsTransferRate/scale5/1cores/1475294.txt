@@ -1,0 +1,27 @@
+--2023-05-16 19:25:26--  https://hal-ens-lyon.archives-ouvertes.fr/ensl-01475294/document
+Resolving hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ens-lyon.hal.science/ensl-01475294/document [following]
+--2023-05-16 19:25:26--  https://ens-lyon.hal.science/ensl-01475294/document
+Resolving ens-lyon.hal.science (ens-lyon.hal.science)... 193.48.96.10
+Connecting to ens-lyon.hal.science (ens-lyon.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 565402 (552K) [application/pdf]
+Saving to: ‘./data/0.math/1475294.pdf’
+
+     0K .......... .......... .......... .......... ..........  9%  935K 1s
+    50K .......... .......... .......... .......... .......... 18% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 27% 1,83M 0s
+   150K .......... .......... .......... .......... .......... 36% 33,5M 0s
+   200K .......... .......... .......... .......... .......... 45% 1,92M 0s
+   250K .......... .......... .......... .......... .......... 54%  153M 0s
+   300K .......... .......... .......... .......... .......... 63%  244K 0s
+   350K .......... .......... .......... .......... .......... 72%  573M 0s
+   400K .......... .......... .......... .......... .......... 81%  496M 0s
+   450K .......... .......... .......... .......... .......... 90%  375M 0s
+   500K .......... .......... .......... .......... .......... 99%  247K 0s
+   550K ..                                                    100%  164M=0,5s
+
+2023-05-16 19:25:27 (1018 KB/s) - ‘./data/0.math/1475294.pdf’ saved [565402/565402]
+

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 20310*****
-time_S: 4
-avgPower_W: .0017434652
-energy_J: .0069738608

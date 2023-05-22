@@ -1,0 +1,14 @@
+--2023-05-16 21:33:48--  https://www.hal.inserm.fr/inserm-00138455/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185026 (181K) [application/pdf]
+Saving to: ‘./data/0.sdv/138455.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  911K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,69M 0s
+   100K .......... .......... .......... .......... .......... 83% 1,82M 0s
+   150K .......... .......... ..........                      100% 39,6M=0,1s
+
+2023-05-16 21:33:49 (1,59 MB/s) - ‘./data/0.sdv/138455.pdf’ saved [185026/185026]
+

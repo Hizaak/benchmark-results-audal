@@ -1,0 +1,4 @@
+****NIC ePerf for PID 227363*****
+time_S: 11
+avgPower_W: .0024143645
+energy_J: .0265580095

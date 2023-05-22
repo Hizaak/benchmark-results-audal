@@ -1,0 +1,14 @@
+--2023-05-16 11:38:30--  https://hal-insu.archives-ouvertes.fr/insu-00279687/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202007 (197K) [application/pdf]
+Saving to: ‘./data/0.sdu/1294430.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  738K 0s
+    50K .......... .......... .......... .......... .......... 50% 2,09M 0s
+   100K .......... .......... .......... .......... .......... 76% 27,6M 0s
+   150K .......... .......... .......... .......... .......   100% 1,53M=0,1s
+
+2023-05-16 11:38:31 (1,57 MB/s) - ‘./data/0.sdu/1294430.pdf’ saved [202007/202007]
+

@@ -1,0 +1,14 @@
+--2023-05-16 21:59:39--  https://hal-lirmm.ccsd.cnrs.fr/lirmm-00145805/document
+Resolving hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185804 (181K) [application/pdf]
+Saving to: ‘./data/0.info/145805.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  952K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 82% 1,84M 0s
+   150K .......... .......... .......... .                    100%  492M=0,1s
+
+2023-05-16 21:59:39 (1,68 MB/s) - ‘./data/0.info/145805.pdf’ saved [185804/185804]
+

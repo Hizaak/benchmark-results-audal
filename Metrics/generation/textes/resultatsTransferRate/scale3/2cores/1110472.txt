@@ -1,0 +1,16 @@
+--2023-05-16 14:17:02--  https://hal.sorbonne-universite.fr/hal-01110472/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303959 (297K) [application/pdf]
+Saving to: ‘./data/0.sdv/1110472.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  744K 0s
+    50K .......... .......... .......... .......... .......... 33% 1,66M 0s
+   100K .......... .......... .......... .......... .......... 50% 16,9M 0s
+   150K .......... .......... .......... .......... .......... 67% 1,64M 0s
+   200K .......... .......... .......... .......... .......... 84% 11,2M 0s
+   250K .......... .......... .......... .......... ......    100%  273M=0,1s
+
+2023-05-16 14:17:04 (2,17 MB/s) - ‘./data/0.sdv/1110472.pdf’ saved [303959/303959]
+

@@ -1,0 +1,13 @@
+--2023-05-16 15:23:35--  https://hal-insu.archives-ouvertes.fr/insu-01302827/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139031 (136K) [application/pdf]
+Saving to: ‘./data/0.sdu/1302827.pdf’
+
+     0K .......... .......... .......... .......... .......... 36%  831K 0s
+    50K .......... .......... .......... .......... .......... 73% 1,46M 0s
+   100K .......... .......... .......... .....                100%  247M=0,09s
+
+2023-05-16 15:23:41 (1,41 MB/s) - ‘./data/0.sdu/1302827.pdf’ saved [139031/139031]
+

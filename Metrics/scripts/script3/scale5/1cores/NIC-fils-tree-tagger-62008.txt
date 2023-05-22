@@ -1,0 +1,4 @@
+****NIC ePerf for PID 62008*****
+time_S: 208
+avgPower_W:
+energy_J:

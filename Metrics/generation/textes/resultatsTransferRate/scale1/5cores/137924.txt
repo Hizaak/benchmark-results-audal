@@ -1,0 +1,14 @@
+--2023-05-16 11:40:11--  https://hal.science/hal-00137924/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169898 (166K) [application/pdf]
+Saving to: ‘./data/0.math/137924.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  780K 0s
+    50K .......... .......... .......... .......... .......... 60%  784K 0s
+   100K .......... .......... .......... .......... .......... 90% 8,26M 0s
+   150K .......... .....                                      100%  163M=0,1s
+
+2023-05-16 11:40:12 (1,21 MB/s) - ‘./data/0.math/137924.pdf’ saved [169898/169898]
+

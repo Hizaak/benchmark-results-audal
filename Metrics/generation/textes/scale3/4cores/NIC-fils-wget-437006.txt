@@ -1,0 +1,4 @@
+****NIC ePerf for PID 437006*****
+time_S: 2
+avgPower_W: .0012540730
+energy_J: .0025081460

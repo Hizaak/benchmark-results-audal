@@ -1,0 +1,18 @@
+--2023-05-16 19:50:20--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024151/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 386140 (377K) [application/pdf]
+Saving to: ‘./data/0.shs/1024151.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  921K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 39% 1,87M 0s
+   150K .......... .......... .......... .......... .......... 53% 15,1M 0s
+   200K .......... .......... .......... .......... .......... 66%  531M 0s
+   250K .......... .......... .......... .......... .......... 79% 1,97M 0s
+   300K .......... .......... .......... .......... .......... 92%  245K 0s
+   350K .......... .......... .......                         100%  478M=0,3s
+
+2023-05-16 19:50:21 (1,08 MB/s) - ‘./data/0.shs/1024151.pdf’ saved [386140/386140]
+

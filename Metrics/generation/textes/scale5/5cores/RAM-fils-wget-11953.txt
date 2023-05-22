@@ -1,4 +1,0 @@
-****RAM ePerf for PID 11953*****
-time_S: 6.004854286
-avgPower_W:
-energy_J:

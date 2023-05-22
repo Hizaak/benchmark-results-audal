@@ -1,0 +1,14 @@
+--2023-05-16 13:18:31--  https://www.hal.inserm.fr/inserm-00107119/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175899 (172K) [application/pdf]
+Saving to: ‘./data/0.sdv/107119.pdf’
+
+     0K .......... .......... .......... .......... .......... 29%  425K 0s
+    50K .......... .......... .......... .......... .......... 58%  583K 0s
+   100K .......... .......... .......... .......... .......... 87%  799K 0s
+   150K .......... .......... .                               100%  706K=0,3s
+
+2023-05-16 13:18:31 (579 KB/s) - ‘./data/0.sdv/107119.pdf’ saved [175899/175899]
+

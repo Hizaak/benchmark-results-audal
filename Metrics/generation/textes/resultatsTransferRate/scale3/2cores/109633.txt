@@ -1,0 +1,15 @@
+--2023-05-16 14:22:22--  https://artxiker.ccsd.cnrs.fr/artxibo-00109633/document
+Resolving artxiker.ccsd.cnrs.fr (artxiker.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to artxiker.ccsd.cnrs.fr (artxiker.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219986 (215K) [application/pdf]
+Saving to: ‘./data/0.shs/109633.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  703K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,21M 0s
+   100K .......... .......... .......... .......... .......... 69% 11,9M 0s
+   150K .......... .......... .......... .......... .......... 93% 1,45M 0s
+   200K .......... ....                                       100%  364M=0,1s
+
+2023-05-16 14:22:23 (1,41 MB/s) - ‘./data/0.shs/109633.pdf’ saved [219986/219986]
+

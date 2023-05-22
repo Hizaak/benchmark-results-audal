@@ -1,0 +1,13 @@
+--2023-05-16 22:20:50--  https://hal.sorbonne-universite.fr/hal-01284561/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153431 (150K) [application/pdf]
+Saving to: ‘./data/0.sdv/1284561.pdf’
+
+     0K .......... .......... .......... .......... .......... 33%  935K 0s
+    50K .......... .......... .......... .......... .......... 66% 1,85M 0s
+   100K .......... .......... .......... .......... ......... 100% 13,6M=0,08s
+
+2023-05-16 22:20:51 (1,75 MB/s) - ‘./data/0.sdv/1284561.pdf’ saved [153431/153431]
+

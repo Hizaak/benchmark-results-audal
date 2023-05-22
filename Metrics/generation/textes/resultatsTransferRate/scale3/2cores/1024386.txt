@@ -1,0 +1,15 @@
+--2023-05-16 14:25:21--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024386/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223401 (218K) [application/pdf]
+Saving to: ‘./data/0.shs/1024386.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  850K 0s
+    50K .......... .......... .......... .......... .......... 45% 1,57M 0s
+   100K .......... .......... .......... .......... .......... 68% 10,5M 0s
+   150K .......... .......... .......... .......... .......... 91% 9,59M 0s
+   200K .......... ........                                   100%  324M=0,1s
+
+2023-05-16 14:25:27 (2,13 MB/s) - ‘./data/0.shs/1024386.pdf’ saved [223401/223401]
+

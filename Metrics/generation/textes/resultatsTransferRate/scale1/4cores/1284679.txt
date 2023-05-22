@@ -1,0 +1,15 @@
+--2023-05-16 11:30:07--  https://inria.hal.science/hal-01284679/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255939 (250K) [application/pdf]
+Saving to: ‘./data/0.math/1284679.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  694K 0s
+    50K .......... .......... .......... .......... .......... 40% 2,04M 0s
+   100K .......... .......... .......... .......... .......... 60% 1,75M 0s
+   150K .......... .......... .......... .......... .......... 80% 1,86M 0s
+   200K .......... .......... .......... .......... ......... 100% 15,9M=0,2s
+
+2023-05-16 11:30:09 (1,59 MB/s) - ‘./data/0.math/1284679.pdf’ saved [255939/255939]
+

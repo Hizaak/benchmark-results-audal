@@ -1,0 +1,17 @@
+--2023-05-16 22:18:17--  https://hal.univ-grenoble-alpes.fr/hal-01346847/document
+Resolving hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)... 193.48.96.10
+Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312424 (305K) [application/pdf]
+Saving to: ‘./data/0.shs/1346847.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  909K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,53M 0s
+   100K .......... .......... .......... .......... .......... 49% 57,1M 0s
+   150K .......... .......... .......... .......... .......... 65% 63,5M 0s
+   200K .......... .......... .......... .......... .......... 81% 1,90M 0s
+   250K .......... .......... .......... .......... .......... 98%  247K 0s
+   300K .....                                                 100%  190M=0,3s
+
+2023-05-16 22:18:18 (964 KB/s) - ‘./data/0.shs/1346847.pdf’ saved [312424/312424]
+

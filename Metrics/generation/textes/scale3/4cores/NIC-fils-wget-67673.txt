@@ -1,4 +1,0 @@
-****NIC ePerf for PID 67673*****
-time_S: 6
-avgPower_W: .0002525348
-energy_J: .0015152088

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2601064*****
+time_S: 8.008517853
+avgPower_W: 1.5720229603
+energy_J: 12.5895739429

@@ -1,0 +1,4 @@
+--2023-05-16 20:43:46--  https://inria.hal.science/hal-01352670/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... connected.
+Unable to establish SSL connection.

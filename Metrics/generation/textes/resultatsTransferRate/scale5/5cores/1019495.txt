@@ -1,0 +1,15 @@
+--2023-05-16 22:07:30--  https://hal-sciencespo.archives-ouvertes.fr/hal-01019495/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233840 (228K) [application/pdf]
+Saving to: ‘./data/0.shs/1019495.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  939K 0s
+    50K .......... .......... .......... .......... .......... 43% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 65% 1,85M 0s
+   150K .......... .......... .......... .......... .......... 87% 49,1M 0s
+   200K .......... .......... ........                        100% 83,0M=0,1s
+
+2023-05-16 22:07:36 (2,08 MB/s) - ‘./data/0.shs/1019495.pdf’ saved [233840/233840]
+

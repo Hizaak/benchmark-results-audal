@@ -1,0 +1,18 @@
+--2023-05-16 13:15:54--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024834/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 394918 (386K) [application/pdf]
+Saving to: ‘./data/0.shs/1024834.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  433K 1s
+    50K .......... .......... .......... .......... .......... 25%  851K 0s
+   100K .......... .......... .......... .......... .......... 38%  589K 0s
+   150K .......... .......... .......... .......... .......... 51%  853K 0s
+   200K .......... .......... .......... .......... .......... 64%  875K 0s
+   250K .......... .......... .......... .......... .......... 77%  916K 0s
+   300K .......... .......... .......... .......... .......... 90%  932K 0s
+   350K .......... .......... .......... .....                100%  987K=0,5s
+
+2023-05-16 13:15:55 (743 KB/s) - ‘./data/0.shs/1024834.pdf’ saved [394918/394918]
+

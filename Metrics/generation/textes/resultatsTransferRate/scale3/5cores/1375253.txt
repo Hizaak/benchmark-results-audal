@@ -1,0 +1,22 @@
+--2023-05-16 15:36:25--  https://hal-riip.archives-ouvertes.fr/pasteur-01375253/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 15:36:36--  (try: 2)  https://hal-riip.archives-ouvertes.fr/pasteur-01375253/document
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 343961 (336K) [application/pdf]
+Saving to: ‘./data/0.sdv/1375253.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  670K 0s
+    50K .......... .......... .......... .......... .......... 29% 1,78M 0s
+   100K .......... .......... .......... .......... .......... 44% 1,59M 0s
+   150K .......... .......... .......... .......... .......... 59% 1,72M 0s
+   200K .......... .......... .......... .......... .......... 74% 12,6M 0s
+   250K .......... .......... .......... .......... .......... 89% 1,87M 0s
+   300K .......... .......... .......... .....                100%  603M=0,2s
+
+2023-05-16 15:36:37 (1,72 MB/s) - ‘./data/0.sdv/1375253.pdf’ saved [343961/343961]
+

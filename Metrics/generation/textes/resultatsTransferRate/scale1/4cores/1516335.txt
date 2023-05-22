@@ -1,0 +1,15 @@
+--2023-05-16 11:31:36--  https://hal-inrap.archives-ouvertes.fr/hal-01516335/document
+Resolving hal-inrap.archives-ouvertes.fr (hal-inrap.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-inrap.archives-ouvertes.fr (hal-inrap.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222863 (218K) [application/pdf]
+Saving to: ‘./data/0.shs/1516335.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  806K 0s
+    50K .......... .......... .......... .......... .......... 45% 1,58M 0s
+   100K .......... .......... .......... .......... .......... 68% 1,32M 0s
+   150K .......... .......... .......... .......... .......... 91% 1,79M 0s
+   200K .......... .......                                    100%  359M=0,2s
+
+2023-05-16 11:31:37 (1,35 MB/s) - ‘./data/0.shs/1516335.pdf’ saved [222863/222863]
+

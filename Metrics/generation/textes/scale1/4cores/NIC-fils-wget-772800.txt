@@ -1,0 +1,4 @@
+****NIC ePerf for PID 772800*****
+time_S: 21
+avgPower_W: .0032213188
+energy_J: .0676476948

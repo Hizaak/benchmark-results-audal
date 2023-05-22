@@ -1,4 +1,0 @@
-****CPU ePerf for PID 48230*****
-time_S: -1683917491
-avgPower_W:
-energy_J:

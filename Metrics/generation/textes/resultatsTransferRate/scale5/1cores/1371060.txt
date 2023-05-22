@@ -1,0 +1,18 @@
+--2023-05-16 19:06:12--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01371060/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 360264 (352K) [application/pdf]
+Saving to: ‘./data/0.sdv/1371060.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  893K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 42% 52,5M 0s
+   150K .......... .......... .......... .......... .......... 56% 90,8M 0s
+   200K .......... .......... .......... .......... .......... 71% 1,91M 0s
+   250K .......... .......... .......... .......... .......... 85%  243K 0s
+   300K .......... .......... .......... .......... .......... 99%  296M 0s
+   350K .                                                     100% 3,39T=0,3s
+
+2023-05-16 19:06:13 (1,09 MB/s) - ‘./data/0.sdv/1371060.pdf’ saved [360264/360264]
+

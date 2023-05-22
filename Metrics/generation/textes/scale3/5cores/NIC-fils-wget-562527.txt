@@ -1,0 +1,4 @@
+****NIC ePerf for PID 562527*****
+time_S: 8
+avgPower_W: .0022037797
+energy_J: .0176302376

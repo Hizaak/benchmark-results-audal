@@ -1,0 +1,4 @@
+****CPU ePerf for PID 2697638*****
+time_S: 7
+avgPower_W: .0200000000
+energy_J: .1400000000

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 52700*****
+time_S: 6.005743790
+avgPower_W:
+energy_J:

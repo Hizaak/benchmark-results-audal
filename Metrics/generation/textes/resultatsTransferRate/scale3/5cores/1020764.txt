@@ -1,0 +1,14 @@
+--2023-05-16 15:36:08--  https://hal-sciencespo.archives-ouvertes.fr/hal-01020764/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197082 (192K) [application/pdf]
+Saving to: ‘./data/0.shs/1020764.pdf’
+
+     0K .......... .......... .......... .......... .......... 25%  805K 0s
+    50K .......... .......... .......... .......... .......... 51% 1,51M 0s
+   100K .......... .......... .......... .......... .......... 77% 1,56M 0s
+   150K .......... .......... .......... .......... ..        100% 17,7M=0,1s
+
+2023-05-16 15:36:09 (1,47 MB/s) - ‘./data/0.shs/1020764.pdf’ saved [197082/197082]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 45068*****
+time_S: 8.006663364
+avgPower_W: 1.5702350691
+energy_J: 12.5723436009

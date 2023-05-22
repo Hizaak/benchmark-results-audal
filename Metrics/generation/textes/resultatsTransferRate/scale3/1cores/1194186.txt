@@ -1,0 +1,15 @@
+--2023-05-16 13:25:25--  https://hal.univ-cotedazur.fr/hal-00790674/document
+Resolving hal.univ-cotedazur.fr (hal.univ-cotedazur.fr)... 193.48.96.10
+Connecting to hal.univ-cotedazur.fr (hal.univ-cotedazur.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217534 (212K) [application/pdf]
+Saving to: ‘./data/0.chim/1194186.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  432K 0s
+    50K .......... .......... .......... .......... .......... 47%  607K 0s
+   100K .......... .......... .......... .......... .......... 70%  810K 0s
+   150K .......... .......... .......... .......... .......... 94%  864K 0s
+   200K .......... ..                                         100%  534K=0,3s
+
+2023-05-16 13:25:32 (623 KB/s) - ‘./data/0.chim/1194186.pdf’ saved [217534/217534]
+

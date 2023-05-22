@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1691942*****
-time_S: 4.004082580
-avgPower_W: 1.5707943195
-energy_J: 6.2895901717

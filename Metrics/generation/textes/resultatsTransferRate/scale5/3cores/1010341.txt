@@ -1,15 +1,15 @@
---2023-05-13 03:44:07--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010341/document
+--2023-05-16 21:16:07--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010341/document
 Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
 Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 228287 (223K) [application/pdf]
 Saving to: ‘./data/0.shs/1010341.pdf’
 
-     0K .......... .......... .......... .......... .......... 22%  865K 0s
-    50K .......... .......... .......... .......... .......... 44% 1,64M 0s
-   100K .......... .......... .......... .......... .......... 67% 1,58M 0s
-   150K .......... .......... .......... .......... .......... 89% 23,0M 0s
-   200K .......... .......... ..                              100%  836K=0,1s
+     0K .......... .......... .......... .......... .......... 22%  888K 0s
+    50K .......... .......... .......... .......... .......... 44% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 67% 1,77M 0s
+   150K .......... .......... .......... .......... .......... 89%  111M 0s
+   200K .......... .......... ..                              100% 40,8M=0,1s
 
-2023-05-13 03:44:09 (1,47 MB/s) - ‘./data/0.shs/1010341.pdf’ saved [228287/228287]
+2023-05-16 21:16:13 (1,94 MB/s) - ‘./data/0.shs/1010341.pdf’ saved [228287/228287]
 

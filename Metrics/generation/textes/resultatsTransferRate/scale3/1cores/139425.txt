@@ -1,0 +1,13 @@
+--2023-05-16 13:53:25--  https://hal.science/ijn_00139425/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127944 (125K) [application/pdf]
+Saving to: ‘./data/0.shs/139425.pdf’
+
+     0K .......... .......... .......... .......... .......... 40%  418K 0s
+    50K .......... .......... .......... .......... .......... 80%  601K 0s
+   100K .......... .......... ....                            100% 10,6M=0,2s
+
+2023-05-16 13:53:26 (609 KB/s) - ‘./data/0.shs/139425.pdf’ saved [127944/127944]
+

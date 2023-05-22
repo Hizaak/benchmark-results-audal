@@ -1,0 +1,15 @@
+--2023-05-16 21:05:01--  https://hal-amu.archives-ouvertes.fr/hal-01471568/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214732 (210K) [application/pdf]
+Saving to: ‘./data/0.math/1471568.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  918K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,81M 0s
+   100K .......... .......... .......... .......... .......... 71% 1,85M 0s
+   150K .......... .......... .......... .......... .......... 95% 65,6M 0s
+   200K .........                                             100%  113M=0,1s
+
+2023-05-16 21:05:02 (1,88 MB/s) - ‘./data/0.math/1471568.pdf’ saved [214732/214732]
+

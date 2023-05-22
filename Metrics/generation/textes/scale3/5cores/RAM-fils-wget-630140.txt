@@ -1,4 +1,0 @@
-****RAM ePerf for PID 630140*****
-time_S: 1.000973368
-avgPower_W:
-energy_J:

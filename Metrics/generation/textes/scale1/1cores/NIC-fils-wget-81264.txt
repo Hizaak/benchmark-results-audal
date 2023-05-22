@@ -1,0 +1,4 @@
+****NIC ePerf for PID 81264*****
+time_S: 2
+avgPower_W: .0003959036
+energy_J: .0007918072

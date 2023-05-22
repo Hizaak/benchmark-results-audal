@@ -1,4 +1,0 @@
-****CPU ePerf for PID 3322670*****
-time_S: 10
-avgPower_W: 2.1000000000
-energy_J: 21.0000000000

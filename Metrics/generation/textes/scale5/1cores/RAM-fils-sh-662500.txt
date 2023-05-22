@@ -1,4 +1,0 @@
-****RAM ePerf for PID 662500*****
-time_S: 1.001023509
-avgPower_W:
-energy_J:

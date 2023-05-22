@@ -1,0 +1,4 @@
+****RAM ePerf for PID 48440*****
+time_S: 284.255938909
+avgPower_W: 9.5873564761
+energy_J: 2725.2630167771

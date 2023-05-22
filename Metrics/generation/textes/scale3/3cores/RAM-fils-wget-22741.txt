@@ -1,0 +1,4 @@
+****RAM ePerf for PID 22741*****
+time_S: 21.026253574
+avgPower_W: 1.5632301788
+energy_J: 32.8688741347

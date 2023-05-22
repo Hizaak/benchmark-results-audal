@@ -1,4 +1,0 @@
-****NIC ePerf for PID 522718*****
-time_S: 6
-avgPower_W: .0003581232
-energy_J: .0021487392

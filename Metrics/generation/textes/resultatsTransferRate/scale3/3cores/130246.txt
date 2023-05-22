@@ -1,0 +1,19 @@
+--2023-05-16 14:45:02--  https://hal-ens-lyon.archives-ouvertes.fr/ensl-00130246/document
+Resolving hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ens-lyon.hal.science/ensl-00130246/document [following]
+--2023-05-16 14:45:04--  https://ens-lyon.hal.science/ensl-00130246/document
+Resolving ens-lyon.hal.science (ens-lyon.hal.science)... 193.48.96.10
+Connecting to ens-lyon.hal.science (ens-lyon.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169498 (166K) [application/pdf]
+Saving to: ‘./data/0.math/130246.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  496K 0s
+    50K .......... .......... .......... .......... .......... 60% 1,20M 0s
+   100K .......... .......... .......... .......... .......... 90% 6,29M 0s
+   150K .......... .....                                      100%  564M=0,1s
+
+2023-05-16 14:45:12 (1,08 MB/s) - ‘./data/0.math/130246.pdf’ saved [169498/169498]
+

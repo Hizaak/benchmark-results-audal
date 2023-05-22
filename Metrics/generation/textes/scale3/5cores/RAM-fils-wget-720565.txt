@@ -1,0 +1,4 @@
+****RAM ePerf for PID 720565*****
+time_S: 19.021777275
+avgPower_W: 1.5704517961
+energy_J: 29.8727842878

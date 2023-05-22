@@ -1,0 +1,4 @@
+****RAM ePerf for PID 525001*****
+time_S: 10.020835701
+avgPower_W:
+energy_J:

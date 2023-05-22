@@ -1,0 +1,17 @@
+--2023-05-16 19:20:44--  https://hal-insu.archives-ouvertes.fr/insu-01204563/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312973 (306K) [application/pdf]
+Saving to: ‘./data/0.sde/1204563.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  874K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,65M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,95M 0s
+   150K .......... .......... .......... .......... .......... 65% 18,4M 0s
+   200K .......... .......... .......... .......... .......... 81% 57,9M 0s
+   250K .......... .......... .......... .......... .......... 98% 1,93M 0s
+   300K .....                                                 100%  316M=0,1s
+
+2023-05-16 19:20:45 (2,12 MB/s) - ‘./data/0.sde/1204563.pdf’ saved [312973/312973]
+

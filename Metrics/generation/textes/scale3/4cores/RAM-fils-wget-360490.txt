@@ -1,0 +1,4 @@
+****RAM ePerf for PID 360490*****
+time_S: 32.037134000
+avgPower_W: 1.5685774979
+energy_J: 50.2527274923

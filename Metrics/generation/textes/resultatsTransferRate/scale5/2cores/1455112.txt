@@ -1,0 +1,17 @@
+--2023-05-16 20:13:34--  https://hal.sorbonne-universite.fr/hal-01455112/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313188 (306K) [application/pdf]
+Saving to: ‘./data/0.chim/1455112.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  815K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,81M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,77M 0s
+   150K .......... .......... .......... .......... .......... 65% 32,7M 0s
+   200K .......... .......... .......... .......... .......... 81% 60,1M 0s
+   250K .......... .......... .......... .......... .......... 98% 1,91M 0s
+   300K .....                                                 100%  302M=0,1s
+
+2023-05-16 20:13:34 (2,08 MB/s) - ‘./data/0.chim/1455112.pdf’ saved [313188/313188]
+

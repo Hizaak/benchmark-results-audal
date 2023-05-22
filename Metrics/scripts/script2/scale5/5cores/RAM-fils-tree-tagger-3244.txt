@@ -1,0 +1,4 @@
+****RAM ePerf for PID 3244*****
+time_S: 250.245142880
+avgPower_W: 1.9217157185
+energy_J: 480.9000245617

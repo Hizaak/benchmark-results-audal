@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1186060*****
+time_S: 16.017411907
+avgPower_W: 1.5657745156
+energy_J: 25.0796553712

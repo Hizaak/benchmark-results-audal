@@ -1,4 +1,0 @@
-****RAM ePerf for PID 752125*****
-time_S: 2.002101187
-avgPower_W:
-energy_J:

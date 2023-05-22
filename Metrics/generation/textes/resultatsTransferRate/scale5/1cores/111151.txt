@@ -1,0 +1,13 @@
+--2023-05-16 19:31:43--  https://hal.science/hal-00111151/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122208 (119K) [application/pdf]
+Saving to: ‘./data/0.info/111151.pdf’
+
+     0K .......... .......... .......... .......... .......... 41%  929K 0s
+    50K .......... .......... .......... .......... .......... 83% 1,81M 0s
+   100K .......... .........                                  100%  101M=0,08s
+
+2023-05-16 19:31:44 (1,44 MB/s) - ‘./data/0.info/111151.pdf’ saved [122208/122208]
+

@@ -1,0 +1,3 @@
+--2023-05-16 13:06:25--  https://shs.hal.science/halshs-01518818/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... failed: Network is unreachable.

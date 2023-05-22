@@ -1,0 +1,22 @@
+--2023-05-16 20:04:23--  https://hal-polytechnique.archives-ouvertes.fr/hal-01024915/document
+Resolving hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 20:04:34--  (try: 2)  https://hal-polytechnique.archives-ouvertes.fr/hal-01024915/document
+Connecting to hal-polytechnique.archives-ouvertes.fr (hal-polytechnique.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311568 (304K) [application/pdf]
+Saving to: ‘./data/0.phys/1024915.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  894K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 49% 14,1M 0s
+   150K .......... .......... .......... .......... .......... 65% 1,81M 0s
+   200K .......... .......... .......... .......... .......... 82% 27,0M 0s
+   250K .......... .......... .......... .......... .......... 98% 1,81M 0s
+   300K ....                                                  100%  239M=0,1s
+
+2023-05-16 20:04:35 (2,07 MB/s) - ‘./data/0.phys/1024915.pdf’ saved [311568/311568]
+

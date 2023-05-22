@@ -1,0 +1,18 @@
+--2023-05-16 15:29:11--  https://hal-univ-tlse2.archives-ouvertes.fr/hal-01511025/document
+Resolving hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tlse2.archives-ouvertes.fr (hal-univ-tlse2.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 369454 (361K) [application/pdf]
+Saving to: ‘./data/0.shs/1511025.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  246K 1s
+    50K .......... .......... .......... .......... .......... 27%  351K 1s
+   100K .......... .......... .......... .......... .......... 41%  425K 1s
+   150K .......... .......... .......... .......... .......... 55%  570K 0s
+   200K .......... .......... .......... .......... .......... 69%  554K 0s
+   250K .......... .......... .......... .......... .......... 83%  782K 0s
+   300K .......... .......... .......... .......... .......... 97%  630K 0s
+   350K ..........                                            100% 3,20M=0,8s
+
+2023-05-16 15:29:12 (458 KB/s) - ‘./data/0.shs/1511025.pdf’ saved [369454/369454]
+

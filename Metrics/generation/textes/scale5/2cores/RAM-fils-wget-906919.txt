@@ -1,0 +1,4 @@
+****RAM ePerf for PID 906919*****
+time_S: 3.002884271
+avgPower_W: 1.5724231746
+energy_J: 4.7218048184

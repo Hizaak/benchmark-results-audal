@@ -1,0 +1,4 @@
+****RAM ePerf for PID 955009*****
+time_S: 8.039063112
+avgPower_W: 1.5698780056
+energy_J: 12.6203483652

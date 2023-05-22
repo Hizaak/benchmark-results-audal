@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2560331*****
+time_S: 6.004932876
+avgPower_W: 1.5654922112
+energy_J: 9.4006756462

@@ -1,0 +1,15 @@
+--2023-05-16 14:43:13--  https://hal-sciencespo.archives-ouvertes.fr/hal-01045136/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240845 (235K) [application/pdf]
+Saving to: ‘./data/0.shs/1045136.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  663K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,28M 0s
+   100K .......... .......... .......... .......... .......... 63% 1,05M 0s
+   150K .......... .......... .......... .......... .......... 85%  105K 0s
+   200K .......... .......... .......... .....                100% 1,12M=0,7s
+
+2023-05-16 14:43:20 (352 KB/s) - ‘./data/0.shs/1045136.pdf’ saved [240845/240845]
+

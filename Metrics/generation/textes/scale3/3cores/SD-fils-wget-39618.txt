@@ -1,0 +1,4 @@
+****SD ePerf for PID 39618*****
+time_S: 6
+avgPower_W: .0039383125
+energy_J: .0236298750

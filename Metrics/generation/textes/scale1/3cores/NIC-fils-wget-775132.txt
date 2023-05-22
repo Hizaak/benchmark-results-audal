@@ -1,4 +1,0 @@
-****NIC ePerf for PID 775132*****
-time_S: 6
-avgPower_W: .0005937449
-energy_J: .0035624694

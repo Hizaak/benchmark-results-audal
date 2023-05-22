@@ -1,4 +1,0 @@
-****CPU ePerf for PID 370002*****
-time_S: 1
-avgPower_W: 0
-energy_J: 0

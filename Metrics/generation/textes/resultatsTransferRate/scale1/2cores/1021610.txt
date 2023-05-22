@@ -1,0 +1,13 @@
+--2023-05-16 11:19:27--  https://hal-enac.archives-ouvertes.fr/hal-01021610/document
+Resolving hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enac.archives-ouvertes.fr (hal-enac.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133940 (131K) [application/pdf]
+Saving to: ‘./data/0.shs/1021610.pdf’
+
+     0K .......... .......... .......... .......... .......... 38%  847K 0s
+    50K .......... .......... .......... .......... .......... 76% 1,59M 0s
+   100K .......... .......... ..........                      100% 6,98M=0,09s
+
+2023-05-16 11:19:28 (1,36 MB/s) - ‘./data/0.shs/1021610.pdf’ saved [133940/133940]
+

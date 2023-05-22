@@ -36,7 +36,6 @@ surveiller(){
         done
     done
     
-    find "$chemin" -type f -name "*--*.txt" -delete
 }
 
 
@@ -140,6 +139,9 @@ generation_maison(){
         ingestion_maison $i $j
 
         lancement_scripts_maison $i $j
+
+        find /home/amaurice/Bureau/benchmark-results-audal -type f -name "*--*.txt" -delete
+        
     done
 }
 

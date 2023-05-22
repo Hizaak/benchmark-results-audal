@@ -1,0 +1,23 @@
+--2023-05-16 18:07:00--  https://hal-ensta-paris.archives-ouvertes.fr/hal-01452458/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-01452458/document [following]
+--2023-05-16 18:07:00--  https://ensta-paris.hal.science/hal-01452458/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 364044 (356K) [application/pdf]
+Saving to: ‘./data/0.math/1452458.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  909K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 42% 34,5M 0s
+   150K .......... .......... .......... .......... .......... 56% 54,3M 0s
+   200K .......... .......... .......... .......... .......... 70% 1,90M 0s
+   250K .......... .......... .......... .......... .......... 84%  242K 0s
+   300K .......... .......... .......... .......... .......... 98%  407M 0s
+   350K .....                                                 100%  362M=0,3s
+
+2023-05-16 18:07:01 (1,10 MB/s) - ‘./data/0.math/1452458.pdf’ saved [364044/364044]
+

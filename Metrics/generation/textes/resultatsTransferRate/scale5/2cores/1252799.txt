@@ -1,0 +1,4 @@
+--2023-05-16 20:44:21--  https://hal-insu.archives-ouvertes.fr/insu-01239903/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+Unable to establish SSL connection.

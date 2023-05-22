@@ -1,0 +1,15 @@
+--2023-05-16 15:11:55--  https://hal.sorbonne-universite.fr/hal-01265723/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251038 (245K) [application/pdf]
+Saving to: ‘./data/0.spi/1265723.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  831K 0s
+    50K .......... .......... .......... .......... .......... 40% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 61% 1,64M 0s
+   150K .......... .......... .......... .......... .......... 81% 7,72M 0s
+   200K .......... .......... .......... .......... .....     100% 1,44M=0,2s
+
+2023-05-16 15:11:56 (1,55 MB/s) - ‘./data/0.spi/1265723.pdf’ saved [251038/251038]
+

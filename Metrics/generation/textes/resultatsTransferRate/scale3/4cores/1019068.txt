@@ -1,0 +1,15 @@
+--2023-05-16 15:18:36--  https://hal-sciencespo.archives-ouvertes.fr/hal-01019068/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215485 (210K) [application/pdf]
+Saving to: ‘./data/0.shs/1019068.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  135K 1s
+    50K .......... .......... .......... .......... .......... 47%  329K 1s
+   100K .......... .......... .......... .......... .......... 71%  303K 0s
+   150K .......... .......... .......... .......... .......... 95%  745K 0s
+   200K ..........                                            100%  254K=0,8s
+
+2023-05-16 15:18:42 (265 KB/s) - ‘./data/0.shs/1019068.pdf’ saved [215485/215485]
+

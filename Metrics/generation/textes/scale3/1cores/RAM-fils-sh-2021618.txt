@@ -1,0 +1,4 @@
+****RAM ePerf for PID 2021618*****
+time_S: 3.002953502
+avgPower_W:
+energy_J:

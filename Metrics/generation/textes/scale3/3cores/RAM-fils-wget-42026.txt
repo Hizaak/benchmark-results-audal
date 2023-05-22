@@ -1,0 +1,4 @@
+****RAM ePerf for PID 42026*****
+time_S: 2.003927956
+avgPower_W:
+energy_J:

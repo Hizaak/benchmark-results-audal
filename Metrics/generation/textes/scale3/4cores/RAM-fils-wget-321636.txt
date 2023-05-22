@@ -1,0 +1,4 @@
+****RAM ePerf for PID 321636*****
+time_S: 12.011872090
+avgPower_W: 1.5673687263
+energy_J: 18.8270326592

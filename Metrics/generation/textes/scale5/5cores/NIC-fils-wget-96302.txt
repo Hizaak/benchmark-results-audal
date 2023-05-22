@@ -1,4 +1,0 @@
-****NIC ePerf for PID 96302*****
-time_S: 3
-avgPower_W: .0008650026
-energy_J: .0025950078

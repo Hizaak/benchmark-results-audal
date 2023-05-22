@@ -1,0 +1,14 @@
+--2023-05-16 14:21:36--  https://hal-sciencespo.archives-ouvertes.fr/hal-01020907/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165520 (162K) [application/pdf]
+Saving to: ‘./data/0.shs/1020907.pdf’
+
+     0K .......... .......... .......... .......... .......... 30%  856K 0s
+    50K .......... .......... .......... .......... .......... 61% 1,64M 0s
+   100K .......... .......... .......... .......... .......... 92% 1,67M 0s
+   150K .......... .                                          100%  444M=0,1s
+
+2023-05-16 14:21:37 (1,34 MB/s) - ‘./data/0.shs/1020907.pdf’ saved [165520/165520]
+

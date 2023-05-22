@@ -1,0 +1,4 @@
+****NIC ePerf for PID 64004*****
+time_S: 2
+avgPower_W: .0006110152
+energy_J: .0012220304

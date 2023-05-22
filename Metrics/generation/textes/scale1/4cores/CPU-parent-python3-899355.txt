@@ -1,4 +1,0 @@
-****CPU ePerf for PID 899355*****
-time_S: 374
-avgPower_W: .0782352941
-energy_J: 29.2599999934

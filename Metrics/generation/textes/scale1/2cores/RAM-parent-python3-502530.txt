@@ -1,4 +1,0 @@
-****RAM ePerf for PID 502530*****
-time_S: 690.696968756
-avgPower_W: 1.6036648828
-energy_J: 1107.6464734704

@@ -1,0 +1,12 @@
+--2023-05-16 21:02:59--  https://hal.sorbonne-universite.fr/hal-01358344/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101067 (99K) [application/pdf]
+Saving to: ‘./data/0.sdv/1358344.pdf’
+
+     0K .......... .......... .......... .......... .......... 50%  878K 0s
+    50K .......... .......... .......... .......... ........  100% 1,79M=0,08s
+
+2023-05-16 21:03:00 (1,15 MB/s) - ‘./data/0.sdv/1358344.pdf’ saved [101067/101067]
+

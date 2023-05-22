@@ -1,4 +1,0 @@
-****CPU ePerf for PID 484024*****
-time_S: 39
-avgPower_W: 0
-energy_J: 0

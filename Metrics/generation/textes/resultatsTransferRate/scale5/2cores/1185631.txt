@@ -1,0 +1,18 @@
+--2023-05-16 20:12:15--  https://hal-sciencespo.archives-ouvertes.fr/hal-01053897/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 364198 (356K) [application/pdf]
+Saving to: ‘./data/0.shs/1185631.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  933K 0s
+    50K .......... .......... .......... .......... .......... 28% 1,87M 0s
+   100K .......... .......... .......... .......... .......... 42% 35,5M 0s
+   150K .......... .......... .......... .......... .......... 56%  261M 0s
+   200K .......... .......... .......... .......... .......... 70% 1,92M 0s
+   250K .......... .......... .......... .......... .......... 84%  248K 0s
+   300K .......... .......... .......... .......... .......... 98%  469M 0s
+   350K .....                                                 100%  367M=0,3s
+
+2023-05-16 20:12:22 (1,13 MB/s) - ‘./data/0.shs/1185631.pdf’ saved [364198/364198]
+

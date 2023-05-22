@@ -1,0 +1,16 @@
+--2023-05-16 10:50:08--  https://hal-sciencespo.archives-ouvertes.fr/hal-01491421/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288893 (282K) [application/pdf]
+Saving to: ‘./data/0.shs/1491421.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  826K 0s
+    50K .......... .......... .......... .......... .......... 35% 1,74M 0s
+   100K .......... .......... .......... .......... .......... 53% 1,69M 0s
+   150K .......... .......... .......... .......... .......... 70% 1,52M 0s
+   200K .......... .......... .......... .......... .......... 88% 26,9M 0s
+   250K .......... .......... .......... ..                   100% 19,6M=0,2s
+
+2023-05-16 10:50:14 (1,80 MB/s) - ‘./data/0.shs/1491421.pdf’ saved [288893/288893]
+

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 861933*****
-time_S: 2.002512527
-avgPower_W:
-energy_J:

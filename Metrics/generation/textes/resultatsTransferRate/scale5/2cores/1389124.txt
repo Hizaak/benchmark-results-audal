@@ -1,0 +1,13 @@
+--2023-05-16 20:22:45--  https://hal.univ-reunion.fr/hal-01232317/document
+Resolving hal.univ-reunion.fr (hal.univ-reunion.fr)... 193.48.96.10
+Connecting to hal.univ-reunion.fr (hal.univ-reunion.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133811 (131K) [application/pdf]
+Saving to: ‘./data/0.phys/1389124.pdf’
+
+     0K .......... .......... .......... .......... .......... 38%  861K 0s
+    50K .......... .......... .......... .......... .......... 76% 1,80M 0s
+   100K .......... .......... ..........                      100% 51,9M=0,09s
+
+2023-05-16 20:22:45 (1,49 MB/s) - ‘./data/0.phys/1389124.pdf’ saved [133811/133811]
+

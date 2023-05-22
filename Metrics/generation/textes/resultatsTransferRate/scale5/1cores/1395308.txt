@@ -1,0 +1,17 @@
+--2023-05-16 18:32:57--  https://hal-cea.archives-ouvertes.fr/cea-01395308/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 337381 (329K) [application/pdf]
+Saving to: ‘./data/0.phys/1395308.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  903K 0s
+    50K .......... .......... .......... .......... .......... 30% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 45% 81,8M 0s
+   150K .......... .......... .......... .......... .......... 60% 68,7M 0s
+   200K .......... .......... .......... .......... .......... 75% 1,84M 0s
+   250K .......... .......... .......... .......... .......... 91%  241K 0s
+   300K .......... .......... .........                       100%  347M=0,3s
+
+2023-05-16 18:32:58 (1,01 MB/s) - ‘./data/0.phys/1395308.pdf’ saved [337381/337381]
+

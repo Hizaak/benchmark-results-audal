@@ -1,0 +1,13 @@
+--2023-05-16 22:06:19--  https://inria.hal.science/hal-01345627/document
+Resolving inria.hal.science (inria.hal.science)... 193.48.96.10
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:06:30--  (try: 2)  https://inria.hal.science/hal-01345627/document
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 22:06:42--  (try: 3)  https://inria.hal.science/hal-01345627/document
+Connecting to inria.hal.science (inria.hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Giving up.
+

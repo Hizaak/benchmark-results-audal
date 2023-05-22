@@ -1,0 +1,14 @@
+--2023-05-16 20:54:43--  https://hal-sciencespo.archives-ouvertes.fr/hal-01019404/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176194 (172K) [application/pdf]
+Saving to: ‘./data/0.shs/1019404.pdf’
+
+     0K .......... .......... .......... .......... .......... 29%  869K 0s
+    50K .......... .......... .......... .......... .......... 58% 2,02M 0s
+   100K .......... .......... .......... .......... .......... 87% 13,4M 0s
+   150K .......... .......... ..                              100%  532M=0,09s
+
+2023-05-16 20:54:44 (1,97 MB/s) - ‘./data/0.shs/1019404.pdf’ saved [176194/176194]
+

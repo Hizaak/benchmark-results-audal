@@ -1,4 +1,0 @@
-****NIC ePerf for PID 56090*****
-time_S: 7
-avgPower_W: .0003732857
-energy_J: .0026129999

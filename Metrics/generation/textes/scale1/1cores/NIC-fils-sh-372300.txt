@@ -1,4 +1,0 @@
-****NIC ePerf for PID 372300*****
-time_S: 10
-avgPower_W:
-energy_J:

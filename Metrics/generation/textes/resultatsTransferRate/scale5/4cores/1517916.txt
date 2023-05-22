@@ -1,0 +1,16 @@
+--2023-05-16 21:51:59--  https://hal.parisnanterre.fr/hal-01517916/document
+Resolving hal.parisnanterre.fr (hal.parisnanterre.fr)... 193.48.96.10
+Connecting to hal.parisnanterre.fr (hal.parisnanterre.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279270 (273K) [application/pdf]
+Saving to: ‘./data/0.shs/1517916.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  925K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 55% 56,5M 0s
+   150K .......... .......... .......... .......... .......... 73% 74,6M 0s
+   200K .......... .......... .......... .......... .......... 91% 1,82M 0s
+   250K .......... .......... ..                              100%  352M=0,1s
+
+2023-05-16 21:51:59 (2,44 MB/s) - ‘./data/0.shs/1517916.pdf’ saved [279270/279270]
+

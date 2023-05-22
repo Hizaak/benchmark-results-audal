@@ -1,0 +1,14 @@
+--2023-05-16 21:56:21--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010835/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158394 (155K) [application/pdf]
+Saving to: ‘./data/0.shs/1010835.pdf’
+
+     0K .......... .......... .......... .......... .......... 32%  905K 0s
+    50K .......... .......... .......... .......... .......... 64% 1,81M 0s
+   100K .......... .......... .......... .......... .......... 96%  124M 0s
+   150K ....                                                  100%  330M=0,08s
+
+2023-05-16 21:56:21 (1,83 MB/s) - ‘./data/0.shs/1010835.pdf’ saved [158394/158394]
+

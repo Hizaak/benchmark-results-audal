@@ -1,0 +1,4 @@
+****NIC ePerf for PID 34792*****
+time_S: 5
+avgPower_W: .0000108316
+energy_J: .0000541580

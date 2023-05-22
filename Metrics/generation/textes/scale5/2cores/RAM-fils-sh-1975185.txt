@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1975185*****
-time_S: 6.003700273
-avgPower_W:
-energy_J:

@@ -1,0 +1,15 @@
+--2023-05-16 22:13:47--  https://hal-amu.archives-ouvertes.fr/hal-01217286/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 237713 (232K) [application/pdf]
+Saving to: ‘./data/0.shs/1217286.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  862K 0s
+    50K .......... .......... .......... .......... .......... 43% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 64% 80,2M 0s
+   150K .......... .......... .......... .......... .......... 86%  114M 0s
+   200K .......... .......... .......... ..                   100% 1005K=0,1s
+
+2023-05-16 22:13:47 (1,93 MB/s) - ‘./data/0.shs/1217286.pdf’ saved [237713/237713]
+

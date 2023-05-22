@@ -1,4 +1,0 @@
-****RAM ePerf for PID 900125*****
-time_S: 371.497520632
-avgPower_W: 1.5762048889
-energy_J: 585.5562082645

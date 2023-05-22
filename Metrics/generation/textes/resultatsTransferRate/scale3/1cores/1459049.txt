@@ -1,0 +1,15 @@
+--2023-05-16 13:43:17--  https://hal-sciencespo.archives-ouvertes.fr/hal-01459049/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218072 (213K) [application/pdf]
+Saving to: ‘./data/0.shs/1459049.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  415K 0s
+    50K .......... .......... .......... .......... .......... 46%  864K 0s
+   100K .......... .......... .......... .......... .......... 70%  550K 0s
+   150K .......... .......... .......... .......... .......... 93%  865K 0s
+   200K .......... ..                                         100%  283M=0,3s
+
+2023-05-16 13:43:23 (651 KB/s) - ‘./data/0.shs/1459049.pdf’ saved [218072/218072]
+

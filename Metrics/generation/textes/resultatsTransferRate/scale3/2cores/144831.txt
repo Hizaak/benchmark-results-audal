@@ -1,0 +1,14 @@
+--2023-05-16 14:07:16--  https://shs.hal.science/halshs-00089329/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162676 (159K) [application/pdf]
+Saving to: ‘./data/0.shs/144831.pdf’
+
+     0K .......... .......... .......... .......... .......... 31%  654K 0s
+    50K .......... .......... .......... .......... .......... 62% 1,47M 0s
+   100K .......... .......... .......... .......... .......... 94% 8,14M 0s
+   150K ........                                              100%  808M=0,1s
+
+2023-05-16 14:07:17 (1,34 MB/s) - ‘./data/0.shs/144831.pdf’ saved [162676/162676]
+

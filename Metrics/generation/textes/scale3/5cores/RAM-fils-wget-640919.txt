@@ -1,4 +1,0 @@
-****RAM ePerf for PID 640919*****
-time_S: 50.048336960
-avgPower_W: 1.5700362354
-energy_J: 78.5777025495

@@ -1,0 +1,4 @@
+****SD ePerf for PID 8279*****
+time_S: 49
+avgPower_W: .0038890928
+energy_J: .1905655472

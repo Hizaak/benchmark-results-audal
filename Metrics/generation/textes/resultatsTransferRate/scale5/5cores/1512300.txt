@@ -1,0 +1,15 @@
+--2023-05-16 22:11:36--  https://hal-sciencespo.archives-ouvertes.fr/hal-01512300/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246562 (241K) [application/pdf]
+Saving to: ‘./data/0.shs/1512300.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  948K 0s
+    50K .......... .......... .......... .......... .......... 41% 1,88M 0s
+   100K .......... .......... .......... .......... .......... 62% 1,87M 0s
+   150K .......... .......... .......... .......... .......... 83% 74,6M 0s
+   200K .......... .......... .......... ..........           100% 81,2M=0,1s
+
+2023-05-16 22:11:36 (2,22 MB/s) - ‘./data/0.shs/1512300.pdf’ saved [246562/246562]
+

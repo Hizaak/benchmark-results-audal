@@ -1,0 +1,11 @@
+--2023-05-16 13:07:01--  https://hal.science/hal-01189841/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 13:07:12--  (try: 2)  https://hal.science/hal-01189841/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... failed: Connection timed out.
+Retrying.
+
+--2023-05-16 13:07:24--  (try: 3)  https://hal.science/hal-01189841/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... failed: No route to host.

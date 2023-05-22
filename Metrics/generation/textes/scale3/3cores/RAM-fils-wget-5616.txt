@@ -1,0 +1,4 @@
+****RAM ePerf for PID 5616*****
+time_S: 2.002079687
+avgPower_W: 1.5716029216
+energy_J: 3.1464742854

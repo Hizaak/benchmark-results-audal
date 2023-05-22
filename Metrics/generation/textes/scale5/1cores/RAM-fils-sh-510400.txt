@@ -1,4 +1,0 @@
-****RAM ePerf for PID 510400*****
-time_S: 6.004762290
-avgPower_W:
-energy_J:

@@ -1,0 +1,16 @@
+--2023-05-16 21:36:14--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01108904/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 259713 (254K) [application/pdf]
+Saving to: ‘./data/0.spi/1108904.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  898K 0s
+    50K .......... .......... .......... .......... .......... 39% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 59% 1,82M 0s
+   150K .......... .......... .......... .......... .......... 78% 39,3M 0s
+   200K .......... .......... .......... .......... .......... 98% 31,0M 0s
+   250K ...                                                   100% 6,75T=0,1s
+
+2023-05-16 21:36:15 (2,20 MB/s) - ‘./data/0.spi/1108904.pdf’ saved [259713/259713]
+

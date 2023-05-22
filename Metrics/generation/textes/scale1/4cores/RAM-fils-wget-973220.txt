@@ -1,4 +1,0 @@
-****RAM ePerf for PID 973220*****
-time_S: 2.001301794
-avgPower_W:
-energy_J:

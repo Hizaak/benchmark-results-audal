@@ -1,4 +1,0 @@
-****NIC ePerf for PID 862619*****
-time_S: 8
-avgPower_W: .0016475785
-energy_J: .0131806280

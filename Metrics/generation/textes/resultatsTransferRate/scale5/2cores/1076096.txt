@@ -1,0 +1,16 @@
+--2023-05-16 20:16:46--  https://hal-lirmm.ccsd.cnrs.fr/lirmm-01076096/document
+Resolving hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278396 (272K) [application/pdf]
+Saving to: ‘./data/0.info/1076096.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  927K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,88M 0s
+   100K .......... .......... .......... .......... .......... 55% 84,9M 0s
+   150K .......... .......... .......... .......... .......... 73%  115M 0s
+   200K .......... .......... .......... .......... .......... 91% 1,87M 0s
+   250K .......... .......... .                               100%  181M=0,1s
+
+2023-05-16 20:16:47 (2,48 MB/s) - ‘./data/0.info/1076096.pdf’ saved [278396/278396]
+

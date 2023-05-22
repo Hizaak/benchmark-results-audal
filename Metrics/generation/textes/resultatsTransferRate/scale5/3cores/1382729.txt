@@ -1,0 +1,13 @@
+--2023-05-16 21:09:13--  https://hal.univ-cotedazur.fr/hal-01307076/document
+Resolving hal.univ-cotedazur.fr (hal.univ-cotedazur.fr)... 193.48.96.10
+Connecting to hal.univ-cotedazur.fr (hal.univ-cotedazur.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136501 (133K) [application/pdf]
+Saving to: ‘./data/0.math/1382729.pdf’
+
+     0K .......... .......... .......... .......... .......... 37%  932K 0s
+    50K .......... .......... .......... .......... .......... 75% 1,84M 0s
+   100K .......... .......... .......... ...                  100% 64,5M=0,08s
+
+2023-05-16 21:09:14 (1,61 MB/s) - ‘./data/0.math/1382729.pdf’ saved [136501/136501]
+

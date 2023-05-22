@@ -1,4 +1,0 @@
-****RAM ePerf for PID 74889*****
-time_S: 4.002454442
-avgPower_W:
-energy_J:

@@ -1,0 +1,14 @@
+--2023-05-16 22:09:51--  https://hal-sciencespo.archives-ouvertes.fr/hal-01023726/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186304 (182K) [application/pdf]
+Saving to: ‘./data/0.shs/1023726.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  904K 0s
+    50K .......... .......... .......... .......... .......... 54% 1,85M 0s
+   100K .......... .......... .......... .......... .......... 82% 1,86M 0s
+   150K .......... .......... .......... .                    100% 74,3M=0,1s
+
+2023-05-16 22:09:56 (1,64 MB/s) - ‘./data/0.shs/1023726.pdf’ saved [186304/186304]
+

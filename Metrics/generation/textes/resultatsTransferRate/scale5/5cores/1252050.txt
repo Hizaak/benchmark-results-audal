@@ -1,0 +1,17 @@
+--2023-05-16 22:18:17--  https://hal.sorbonne-universite.fr/hal-01252050/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 328968 (321K) [application/pdf]
+Saving to: ‘./data/0.chim/1252050.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  889K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,59M 0s
+   100K .......... .......... .......... .......... .......... 46% 62,4M 0s
+   150K .......... .......... .......... .......... .......... 62% 1,81M 0s
+   200K .......... .......... .......... .......... .......... 77%  103M 0s
+   250K .......... .......... .......... .......... .......... 93%  247K 0s
+   300K .......... .......... .                               100%  333M=0,3s
+
+2023-05-16 22:18:18 (1011 KB/s) - ‘./data/0.chim/1252050.pdf’ saved [328968/328968]
+

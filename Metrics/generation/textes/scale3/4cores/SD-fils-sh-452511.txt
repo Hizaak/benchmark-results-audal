@@ -1,0 +1,4 @@
+****SD ePerf for PID 452511*****
+time_S: 8
+avgPower_W: .0003888750
+energy_J: .0031110000

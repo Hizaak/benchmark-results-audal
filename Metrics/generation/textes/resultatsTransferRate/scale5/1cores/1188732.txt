@@ -1,0 +1,20 @@
+--2023-05-16 19:49:50--  https://hal-ens-lyon.archives-ouvertes.fr/ensl-01188732/document
+Resolving hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ens-lyon.archives-ouvertes.fr (hal-ens-lyon.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ens-lyon.hal.science/ensl-01188732/document [following]
+--2023-05-16 19:49:50--  https://ens-lyon.hal.science/ensl-01188732/document
+Resolving ens-lyon.hal.science (ens-lyon.hal.science)... 193.48.96.10
+Connecting to ens-lyon.hal.science (ens-lyon.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236585 (231K) [application/pdf]
+Saving to: ‘./data/0.math/1188732.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  905K 0s
+    50K .......... .......... .......... .......... .......... 43% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 64% 1,70M 0s
+   150K .......... .......... .......... .......... .......... 86% 30,3M 0s
+   200K .......... .......... .......... .                    100% 44,2M=0,1s
+
+2023-05-16 19:49:51 (2,00 MB/s) - ‘./data/0.math/1188732.pdf’ saved [236585/236585]
+

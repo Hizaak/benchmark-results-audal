@@ -1,0 +1,4 @@
+--2023-05-16 20:44:42--  https://hal-amu.archives-ouvertes.fr/hal-01239330/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+Unable to establish SSL connection.

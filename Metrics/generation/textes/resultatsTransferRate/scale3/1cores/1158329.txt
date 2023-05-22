@@ -1,0 +1,22 @@
+--2023-05-16 13:26:29--  https://hal-ensta-paris.archives-ouvertes.fr/hal-01158329/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-01158329/document [following]
+--2023-05-16 13:26:29--  https://ensta-paris.hal.science/hal-01158329/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 313485 (306K) [application/pdf]
+Saving to: ‘./data/0.sdv/1158329.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  435K 1s
+    50K .......... .......... .......... .......... .......... 32%  608K 0s
+   100K .......... .......... .......... .......... .......... 48%  779K 0s
+   150K .......... .......... .......... .......... .......... 65%  878K 0s
+   200K .......... .......... .......... .......... .......... 81%  869K 0s
+   250K .......... .......... .......... .......... .......... 97%  875K 0s
+   300K ......                                                100% 8,46M=0,4s
+
+2023-05-16 13:26:35 (706 KB/s) - ‘./data/0.sdv/1158329.pdf’ saved [313485/313485]
+

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 120248*****
+time_S: 4
+avgPower_W: .0018715102
+energy_J: .0074860408

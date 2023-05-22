@@ -1,0 +1,4 @@
+****CPU ePerf for PID 322520*****
+time_S: 794
+avgPower_W: .0045941278
+energy_J: 3.6477374732

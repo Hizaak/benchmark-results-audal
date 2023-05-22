@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1802066*****
-time_S: 36
-avgPower_W:
-energy_J:

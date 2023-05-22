@@ -1,4 +1,0 @@
-****CPU ePerf for PID 43004*****
-time_S: -1683945213
-avgPower_W:
-energy_J:

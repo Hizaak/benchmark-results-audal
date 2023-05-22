@@ -1,4 +1,0 @@
-****RAM ePerf for PID 200409*****
-time_S: 5.004652377
-avgPower_W:
-energy_J:

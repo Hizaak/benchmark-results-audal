@@ -1,0 +1,16 @@
+--2023-05-16 15:33:49--  https://hal.laas.fr/hal-01496631/document
+Resolving hal.laas.fr (hal.laas.fr)... 195.83.132.154, 2001:660:6602:2::849a
+Connecting to hal.laas.fr (hal.laas.fr)|195.83.132.154|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 15:34:00--  (try: 2)  https://hal.laas.fr/hal-01496631/document
+Connecting to hal.laas.fr (hal.laas.fr)|195.83.132.154|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 15:34:13--  (try: 3)  https://hal.laas.fr/hal-01496631/document
+Connecting to hal.laas.fr (hal.laas.fr)|195.83.132.154|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

@@ -1,0 +1,18 @@
+--2023-05-16 21:29:20--  https://hal-mines-paristech.archives-ouvertes.fr/hal-00870436/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 394699 (385K) [application/pdf]
+Saving to: ‘./data/0.shs/1103107.pdf’
+
+     0K .......... .......... .......... .......... .......... 12%  928K 0s
+    50K .......... .......... .......... .......... .......... 25% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 38% 1,83M 0s
+   150K .......... .......... .......... .......... .......... 51% 61,5M 0s
+   200K .......... .......... .......... .......... .......... 64%  127M 0s
+   250K .......... .......... .......... .......... .......... 77% 1,90M 0s
+   300K .......... .......... .......... .......... .......... 90%  243K 0s
+   350K .......... .......... .......... .....                100%  479M=0,3s
+
+2023-05-16 21:29:21 (1,11 MB/s) - ‘./data/0.shs/1103107.pdf’ saved [394699/394699]
+

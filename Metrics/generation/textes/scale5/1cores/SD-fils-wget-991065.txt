@@ -1,4 +1,0 @@
-****SD ePerf for PID 991065*****
-time_S: 9
-avgPower_W: .0039475710
-energy_J: .0355281390

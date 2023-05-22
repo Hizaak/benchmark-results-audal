@@ -1,0 +1,4 @@
+****RAM ePerf for PID 791142*****
+time_S: 13.010721155
+avgPower_W: 1.5664649486
+energy_J: 20.3808386455

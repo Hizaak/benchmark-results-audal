@@ -1,4 +1,0 @@
-****NIC ePerf for PID 823921*****
-time_S: 5
-avgPower_W: .0000762646
-energy_J: .0003813230

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 760772*****
+time_S: 3.005281329
+avgPower_W: 1.5726582644
+energy_J: 4.7262805191

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 632770*****
-time_S: 8
-avgPower_W: .0010511800
-energy_J: .0084094400

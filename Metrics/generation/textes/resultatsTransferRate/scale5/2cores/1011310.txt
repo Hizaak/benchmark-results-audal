@@ -1,0 +1,11 @@
+--2023-05-16 20:29:10--  https://hal-sciencespo.archives-ouvertes.fr/hal-01011310/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48086 (47K) [application/pdf]
+Saving to: ‘./data/0.shs/1011310.pdf’
+
+     0K .......... .......... .......... .......... ......    100%  840K=0,06s
+
+2023-05-16 20:29:16 (840 KB/s) - ‘./data/0.shs/1011310.pdf’ saved [48086/48086]
+

@@ -1,0 +1,13 @@
+--2023-05-16 20:12:27--  https://shs.hal.science/halshs-01017236/document
+Resolving shs.hal.science (shs.hal.science)... 193.48.96.10
+Connecting to shs.hal.science (shs.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123772 (121K) [application/pdf]
+Saving to: ‘./data/0.shs/1017236.pdf’
+
+     0K .......... .......... .......... .......... .......... 41%  865K 0s
+    50K .......... .......... .......... .......... .......... 82% 1,87M 0s
+   100K .......... ..........                                 100% 46,0M=0,08s
+
+2023-05-16 20:12:28 (1,40 MB/s) - ‘./data/0.shs/1017236.pdf’ saved [123772/123772]
+

@@ -1,0 +1,15 @@
+--2023-05-16 20:41:09--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01445375/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245061 (239K) [application/pdf]
+Saving to: ‘./data/0.shs/1445375.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  844K 0s
+    50K .......... .......... .......... .......... .......... 41% 2,05M 0s
+   100K .......... .......... .......... .......... .......... 62% 12,7M 0s
+   150K .......... .......... .......... .......... .......... 83% 1,56M 0s
+   200K .......... .......... .......... .........            100% 47,1M=0,1s
+
+2023-05-16 20:41:15 (1,96 MB/s) - ‘./data/0.shs/1445375.pdf’ saved [245061/245061]
+

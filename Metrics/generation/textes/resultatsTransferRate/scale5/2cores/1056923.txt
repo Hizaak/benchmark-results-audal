@@ -1,0 +1,4 @@
+--2023-05-16 20:45:01--  https://hal-univ-tln.archives-ouvertes.fr/hal-01056923/document
+Resolving hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-tln.archives-ouvertes.fr (hal-univ-tln.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+Unable to establish SSL connection.

@@ -1,0 +1,15 @@
+--2023-05-16 21:55:05--  https://hal-sciencespo.archives-ouvertes.fr/hal-01017737/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218608 (213K) [application/pdf]
+Saving to: ‘./data/0.shs/1017737.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  811K 0s
+    50K .......... .......... .......... .......... .......... 46% 1,88M 0s
+   100K .......... .......... .......... .......... .......... 70% 61,6M 0s
+   150K .......... .......... .......... .......... .......... 93%  341M 0s
+   200K .......... ...                                        100%  555K=0,1s
+
+2023-05-16 21:55:13 (1,85 MB/s) - ‘./data/0.shs/1017737.pdf’ saved [218608/218608]
+

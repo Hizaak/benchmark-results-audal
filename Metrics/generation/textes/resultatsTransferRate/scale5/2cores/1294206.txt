@@ -1,0 +1,14 @@
+--2023-05-16 20:04:57--  https://hal-enpc.archives-ouvertes.fr/hal-00812094/document
+Resolving hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176964 (173K) [application/pdf]
+Saving to: ‘./data/0.shs/1294206.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  909K 0s
+    50K .......... .......... .......... .......... .......... 57% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 86% 40,2M 0s
+   150K .......... .......... ..                              100%  855K=0,1s
+
+2023-05-16 20:05:03 (1,54 MB/s) - ‘./data/0.shs/1294206.pdf’ saved [176964/176964]
+

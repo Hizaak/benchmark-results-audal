@@ -1,0 +1,4 @@
+****SD ePerf for PID 706018*****
+time_S: 7
+avgPower_W: .0038887500
+energy_J: .0272212500

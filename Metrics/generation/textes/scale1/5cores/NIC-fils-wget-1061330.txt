@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1061330*****
-time_S: 6
-avgPower_W: .0024328577
-energy_J: .0145971462

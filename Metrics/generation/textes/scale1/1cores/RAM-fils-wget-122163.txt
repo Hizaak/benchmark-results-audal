@@ -1,0 +1,4 @@
+****RAM ePerf for PID 122163*****
+time_S: 5.004272697
+avgPower_W: 1.5719492003
+energy_J: 7.8664624645

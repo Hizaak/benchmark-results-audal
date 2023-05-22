@@ -1,4 +1,0 @@
-****RAM ePerf for PID 962212*****
-time_S: 2.000879108
-avgPower_W:
-energy_J:

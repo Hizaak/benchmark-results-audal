@@ -1,4 +1,0 @@
-****NIC ePerf for PID 986800*****
-time_S: 5
-avgPower_W: .0004536323
-energy_J: .0022681615

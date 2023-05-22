@@ -1,4 +1,0 @@
-****RAM ePerf for PID 512190*****
-time_S: 20.040246032
-avgPower_W: 1.5699301908
-energy_J: 31.4617872784

@@ -1,4 +1,0 @@
-****RAM ePerf for PID 117136*****
-time_S: 20.016477228
-avgPower_W:
-energy_J:

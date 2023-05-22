@@ -1,0 +1,4 @@
+****RAM ePerf for PID 98627*****
+time_S: 8.007425810
+avgPower_W: 1.5713798889
+energy_J: 12.5827078803

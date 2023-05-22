@@ -1,0 +1,16 @@
+--2023-05-16 15:37:35--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01420521/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 291336 (285K) [application/pdf]
+Saving to: ‘./data/0.sdv/1523480.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  645K 0s
+    50K .......... .......... .......... .......... .......... 35% 1,23M 0s
+   100K .......... .......... .......... .......... .......... 52% 1,44M 0s
+   150K .......... .......... .......... .......... .......... 70% 1,20M 0s
+   200K .......... .......... .......... .......... .......... 87%  404M 0s
+   250K .......... .......... .......... ....                 100%  505M=0,2s
+
+2023-05-16 15:37:41 (1,45 MB/s) - ‘./data/0.sdv/1523480.pdf’ saved [291336/291336]
+

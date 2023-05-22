@@ -1,0 +1,14 @@
+--2023-05-16 20:00:27--  https://hal-cea.archives-ouvertes.fr/cea-01053354/document
+Resolving hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-cea.archives-ouvertes.fr (hal-cea.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187935 (184K) [application/pdf]
+Saving to: ‘./data/0.spi/1053354.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  555K 0s
+    50K .......... .......... .......... .......... .......... 54% 1,67M 0s
+   100K .......... .......... .......... .......... .......... 81% 13,0M 0s
+   150K .......... .......... .......... ...                  100% 1,16M=0,2s
+
+2023-05-16 20:00:33 (1,18 MB/s) - ‘./data/0.spi/1053354.pdf’ saved [187935/187935]
+

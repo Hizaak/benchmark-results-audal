@@ -1,0 +1,4 @@
+****SD ePerf for PID 1901764*****
+time_S: 2048
+avgPower_W: .1225094220
+energy_J: 250.8992962560

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 197820*****
+time_S: 9.017327612
+avgPower_W: 1.5704614571
+energy_J: 14.1613654611

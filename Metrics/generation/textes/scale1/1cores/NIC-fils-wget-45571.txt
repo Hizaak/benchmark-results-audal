@@ -1,0 +1,4 @@
+****NIC ePerf for PID 45571*****
+time_S: 8
+avgPower_W: .0029619808
+energy_J: .0236958464

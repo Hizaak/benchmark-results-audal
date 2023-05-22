@@ -1,4 +1,0 @@
-****SD ePerf for PID 914136*****
-time_S: 5
-avgPower_W:
-energy_J:

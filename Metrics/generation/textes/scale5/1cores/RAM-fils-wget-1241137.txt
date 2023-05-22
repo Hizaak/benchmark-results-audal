@@ -1,4 +1,0 @@
-****RAM ePerf for PID 1241137*****
-time_S: 10.008185587
-avgPower_W: 1.5688761442
-energy_J: 15.7016036142

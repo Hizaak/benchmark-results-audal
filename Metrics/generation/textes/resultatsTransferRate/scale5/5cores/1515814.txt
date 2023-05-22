@@ -1,0 +1,16 @@
+--2023-05-16 22:20:00--  https://hal.univ-cotedazur.fr/hal-01515814/document
+Resolving hal.univ-cotedazur.fr (hal.univ-cotedazur.fr)... 193.48.96.10
+Connecting to hal.univ-cotedazur.fr (hal.univ-cotedazur.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274864 (268K) [application/pdf]
+Saving to: ‘./data/0.shs/1515814.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  942K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 55% 35,2M 0s
+   150K .......... .......... .......... .......... .......... 74% 1,16M 0s
+   200K .......... .......... .......... .......... .......... 93% 18,5M 0s
+   250K .......... ........                                   100%  608M=0,1s
+
+2023-05-16 22:20:00 (2,09 MB/s) - ‘./data/0.shs/1515814.pdf’ saved [274864/274864]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 994819*****
+time_S: 6.004285627
+avgPower_W:
+energy_J:

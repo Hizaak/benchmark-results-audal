@@ -1,0 +1,16 @@
+--2023-05-16 11:41:21--  https://hal-amu.archives-ouvertes.fr/hal-01449786/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272749 (266K) [application/pdf]
+Saving to: ‘./data/0.shs/1449796.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  860K 0s
+    50K .......... .......... .......... .......... .......... 37%  838K 0s
+   100K .......... .......... .......... .......... .......... 56% 1,68M 0s
+   150K .......... .......... .......... .......... .......... 75% 1,65M 0s
+   200K .......... .......... .......... .......... .......... 93% 17,3M 0s
+   250K .......... ......                                     100%  482M=0,2s
+
+2023-05-16 11:41:21 (1,45 MB/s) - ‘./data/0.shs/1449796.pdf’ saved [272749/272749]
+

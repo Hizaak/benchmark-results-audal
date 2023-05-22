@@ -1,0 +1,14 @@
+--2023-05-16 22:16:05--  https://hal-univ-artois.archives-ouvertes.fr/hal-00387212/document
+Resolving hal-univ-artois.archives-ouvertes.fr (hal-univ-artois.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-artois.archives-ouvertes.fr (hal-univ-artois.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184173 (180K) [application/pdf]
+Saving to: ‘./data/0.shs/1524340.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  942K 0s
+    50K .......... .......... .......... .......... .......... 55% 1,80M 0s
+   100K .......... .......... .......... .......... .......... 83%  332M 0s
+   150K .......... .......... .........                       100%  579M=0,08s
+
+2023-05-16 22:16:06 (2,19 MB/s) - ‘./data/0.shs/1524340.pdf’ saved [184173/184173]
+

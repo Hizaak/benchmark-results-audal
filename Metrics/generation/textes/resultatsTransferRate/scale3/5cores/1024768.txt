@@ -1,0 +1,17 @@
+--2023-05-16 15:25:21--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024768/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 345647 (338K) [application/pdf]
+Saving to: ‘./data/0.shs/1024768.pdf’
+
+     0K .......... .......... .......... .......... .......... 14%  249K 1s
+    50K .......... .......... .......... .......... .......... 29% 1,46M 1s
+   100K .......... .......... .......... .......... .......... 44%  489K 0s
+   150K .......... .......... .......... .......... .......... 59%  755K 0s
+   200K .......... .......... .......... .......... .......... 74%  727K 0s
+   250K .......... .......... .......... .......... .......... 88%  566K 0s
+   300K .......... .......... .......... .......              100% 1,00M=0,6s
+
+2023-05-16 15:25:22 (566 KB/s) - ‘./data/0.shs/1024768.pdf’ saved [345647/345647]
+

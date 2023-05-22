@@ -1,4 +1,0 @@
-****RAM ePerf for PID 42016*****
-time_S: 7.006541020
-avgPower_W:
-energy_J:

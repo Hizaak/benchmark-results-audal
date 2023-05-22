@@ -1,0 +1,15 @@
+--2023-05-16 14:36:55--  https://hal-enpc.archives-ouvertes.fr/hal-01086752/document
+Resolving hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-enpc.archives-ouvertes.fr (hal-enpc.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230169 (225K) [application/pdf]
+Saving to: ‘./data/0.sde/1086752.pdf’
+
+     0K .......... .......... .......... .......... .......... 22%  677K 0s
+    50K .......... .......... .......... .......... .......... 44% 1,68M 0s
+   100K .......... .......... .......... .......... .......... 66% 1,39M 0s
+   150K .......... .......... .......... .......... .......... 88% 3,13M 0s
+   200K .......... .......... ....                            100%  546K=0,2s
+
+2023-05-16 14:36:57 (1,10 MB/s) - ‘./data/0.sde/1086752.pdf’ saved [230169/230169]
+

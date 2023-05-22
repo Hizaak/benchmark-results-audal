@@ -1,0 +1,15 @@
+--2023-05-16 21:08:30--  https://www.hal.inserm.fr/inserm-00108706/document
+Resolving www.hal.inserm.fr (www.hal.inserm.fr)... 193.48.96.10
+Connecting to www.hal.inserm.fr (www.hal.inserm.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240423 (235K) [application/pdf]
+Saving to: ‘./data/0.sdv/108706.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  908K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 63% 1,75M 0s
+   150K .......... .......... .......... .......... .......... 85% 80,9M 0s
+   200K .......... .......... .......... ....                 100% 1,27M=0,1s
+
+2023-05-16 21:08:30 (1,67 MB/s) - ‘./data/0.sdv/108706.pdf’ saved [240423/240423]
+

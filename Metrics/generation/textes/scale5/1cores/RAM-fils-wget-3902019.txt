@@ -1,0 +1,4 @@
+****RAM ePerf for PID 3902019*****
+time_S: 1.000707426
+avgPower_W:
+energy_J:

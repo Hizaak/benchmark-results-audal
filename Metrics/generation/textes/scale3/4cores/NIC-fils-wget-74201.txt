@@ -1,4 +1,0 @@
-****NIC ePerf for PID 74201*****
-time_S: 2
-avgPower_W: .0000452403
-energy_J: .0000904806

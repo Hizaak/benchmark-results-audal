@@ -1,4 +1,0 @@
-****RAM ePerf for PID 900118*****
-time_S: 372.488009486
-avgPower_W:
-energy_J:

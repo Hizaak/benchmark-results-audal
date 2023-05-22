@@ -1,0 +1,4 @@
+****RAM ePerf for PID 65134*****
+time_S: 16.016799184
+avgPower_W: 1.5698082776
+energy_J: 25.1433039407

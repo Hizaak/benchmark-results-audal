@@ -1,0 +1,14 @@
+--2023-05-16 13:25:59--  https://hal.science/hal-01108267/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185062 (181K) [application/pdf]
+Saving to: ‘./data/0.shs/1108267.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  435K 0s
+    50K .......... .......... .......... .......... .......... 55%  577K 0s
+   100K .......... .......... .......... .......... .......... 82%  771K 0s
+   150K .......... .......... ..........                      100% 1,01M=0,3s
+
+2023-05-16 13:26:00 (610 KB/s) - ‘./data/0.shs/1108267.pdf’ saved [185062/185062]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 87700*****
+time_S: 1.001024093
+avgPower_W:
+energy_J:

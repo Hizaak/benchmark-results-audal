@@ -1,4 +1,0 @@
-****NIC ePerf for PID 821761*****
-time_S: 7
-avgPower_W: .0004014166
-energy_J: .0028099162

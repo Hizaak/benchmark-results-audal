@@ -1,4 +1,0 @@
-****RAM ePerf for PID 98176*****
-time_S: 1.001022435
-avgPower_W:
-energy_J:

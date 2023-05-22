@@ -1,0 +1,14 @@
+--2023-05-16 21:54:55--  https://hal-sciencespo.archives-ouvertes.fr/hal-01024578/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188203 (184K) [application/pdf]
+Saving to: ‘./data/0.shs/1024578.pdf’
+
+     0K .......... .......... .......... .......... .......... 27%  892K 0s
+    50K .......... .......... .......... .......... .......... 54% 1,38M 0s
+   100K .......... .......... .......... .......... .......... 81%  120M 0s
+   150K .......... .......... .......... ...                  100% 55,3M=0,09s
+
+2023-05-16 21:55:01 (1,94 MB/s) - ‘./data/0.shs/1024578.pdf’ saved [188203/188203]
+

@@ -1,0 +1,15 @@
+--2023-05-16 15:38:18--  https://hal.science/hal-01323323/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208801 (204K) [application/pdf]
+Saving to: ‘./data/0.chim/1339904.pdf’
+
+     0K .......... .......... .......... .......... .......... 24%  834K 0s
+    50K .......... .......... .......... .......... .......... 49% 1,13M 0s
+   100K .......... .......... .......... .......... .......... 73% 1,64M 0s
+   150K .......... .......... .......... .......... .......... 98% 5,16M 0s
+   200K ...                                                   100%  190M=0,1s
+
+2023-05-16 15:38:20 (1,40 MB/s) - ‘./data/0.chim/1339904.pdf’ saved [208801/208801]
+

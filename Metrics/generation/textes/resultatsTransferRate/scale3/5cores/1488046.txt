@@ -1,0 +1,16 @@
+--2023-05-16 15:32:00--  https://hal-pasteur.archives-ouvertes.fr/pasteur-01481636/document
+Resolving hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-pasteur.archives-ouvertes.fr (hal-pasteur.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278070 (272K) [application/pdf]
+Saving to: ‘./data/0.sdv/1488046.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  812K 0s
+    50K .......... .......... .......... .......... .......... 36% 1,60M 0s
+   100K .......... .......... .......... .......... .......... 55% 1,80M 0s
+   150K .......... .......... .......... .......... .......... 73% 1,76M 0s
+   200K .......... .......... .......... .......... .......... 92% 8,89M 0s
+   250K .......... .......... .                               100% 36,1M=0,2s
+
+2023-05-16 15:32:01 (1,73 MB/s) - ‘./data/0.sdv/1488046.pdf’ saved [278070/278070]
+

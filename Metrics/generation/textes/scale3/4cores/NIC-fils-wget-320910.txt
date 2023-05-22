@@ -1,4 +1,4 @@
 ****NIC ePerf for PID 320910*****
-time_S: 1
-avgPower_W:
-energy_J:
+time_S: 3
+avgPower_W: .0008225497
+energy_J: .0024676491

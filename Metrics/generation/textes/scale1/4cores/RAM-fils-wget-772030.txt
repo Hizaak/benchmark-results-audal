@@ -1,0 +1,4 @@
+****RAM ePerf for PID 772030*****
+time_S: 6.005288771
+avgPower_W:
+energy_J:

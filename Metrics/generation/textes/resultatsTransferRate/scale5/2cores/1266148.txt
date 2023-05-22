@@ -1,0 +1,19 @@
+--2023-05-16 20:35:57--  https://hal.sorbonne-universite.fr/hal-01266148/document
+Resolving hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)... 193.48.96.10
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 20:36:08--  (try: 2)  https://hal.sorbonne-universite.fr/hal-01266148/document
+Connecting to hal.sorbonne-universite.fr (hal.sorbonne-universite.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196772 (192K) [application/pdf]
+Saving to: ‘./data/0.sdv/1266148.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  908K 0s
+    50K .......... .......... .......... .......... .......... 52% 1,80M 0s
+   100K .......... .......... .......... .......... .......... 78% 1,96M 0s
+   150K .......... .......... .......... .......... ..        100% 23,7M=0,1s
+
+2023-05-16 20:36:09 (1,72 MB/s) - ‘./data/0.sdv/1266148.pdf’ saved [196772/196772]
+

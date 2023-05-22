@@ -1,4 +1,0 @@
-****RAM ePerf for PID 430907*****
-time_S: 1.000798196
-avgPower_W:
-energy_J:

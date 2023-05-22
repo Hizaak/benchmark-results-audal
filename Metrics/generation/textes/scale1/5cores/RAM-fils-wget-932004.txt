@@ -1,0 +1,4 @@
+****RAM ePerf for PID 932004*****
+time_S: 6.005861959
+avgPower_W:
+energy_J:

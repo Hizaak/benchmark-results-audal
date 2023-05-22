@@ -1,4 +1,0 @@
-****RAM ePerf for PID 890066*****
-time_S: 12.011013708
-avgPower_W:
-energy_J:

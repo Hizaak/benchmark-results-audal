@@ -1,0 +1,16 @@
+--2023-05-16 21:29:00--  https://hal-audencia.archives-ouvertes.fr/hal-01217306/document
+Resolving hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-audencia.archives-ouvertes.fr (hal-audencia.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 257076 (251K) [application/pdf]
+Saving to: ‘./data/0.shs/1217306.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  914K 0s
+    50K .......... .......... .......... .......... .......... 39% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 59% 1,84M 0s
+   150K .......... .......... .......... .......... .......... 79% 63,0M 0s
+   200K .......... .......... .......... .......... .......... 99% 66,8M 0s
+   250K .                                                     100% 1,96T=0,1s
+
+2023-05-16 21:29:01 (2,24 MB/s) - ‘./data/0.shs/1217306.pdf’ saved [257076/257076]
+

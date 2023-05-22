@@ -1,4 +1,0 @@
-****NIC ePerf for PID 1081611*****
-time_S: 7
-avgPower_W: .0006031808
-energy_J: .0042222656

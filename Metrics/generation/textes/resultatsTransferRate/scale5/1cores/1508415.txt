@@ -1,0 +1,15 @@
+--2023-05-16 18:36:39--  https://univ-lyon3.hal.science/hal-01508415/document
+Resolving univ-lyon3.hal.science (univ-lyon3.hal.science)... 193.48.96.10
+Connecting to univ-lyon3.hal.science (univ-lyon3.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215437 (210K) [application/pdf]
+Saving to: ‘./data/0.shs/1508415.pdf’
+
+     0K .......... .......... .......... .......... .......... 23%  926K 0s
+    50K .......... .......... .......... .......... .......... 47% 1,83M 0s
+   100K .......... .......... .......... .......... .......... 71% 76,6M 0s
+   150K .......... .......... .......... .......... .......... 95% 1,70M 0s
+   200K ..........                                            100%  241M=0,1s
+
+2023-05-16 18:36:40 (1,87 MB/s) - ‘./data/0.shs/1508415.pdf’ saved [215437/215437]
+

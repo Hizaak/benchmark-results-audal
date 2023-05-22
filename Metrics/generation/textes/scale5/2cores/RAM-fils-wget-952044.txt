@@ -1,0 +1,4 @@
+****RAM ePerf for PID 952044*****
+time_S: 8.007388342
+avgPower_W: 1.5646388155
+energy_J: 12.5286706109

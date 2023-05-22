@@ -1,4 +1,0 @@
-****NIC ePerf for PID 99525*****
-time_S: 5
-avgPower_W: .0002462772
-energy_J: .0012313860

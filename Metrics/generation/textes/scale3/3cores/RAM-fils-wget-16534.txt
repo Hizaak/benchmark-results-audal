@@ -1,0 +1,4 @@
+****RAM ePerf for PID 16534*****
+time_S: 18.018745024
+avgPower_W: 1.5698419327
+energy_J: 28.2865815145

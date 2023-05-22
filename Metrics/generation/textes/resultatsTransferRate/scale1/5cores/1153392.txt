@@ -1,0 +1,26 @@
+--2023-05-16 11:38:01--  https://univ-rennes.hal.science/hal-01134317/document
+Resolving univ-rennes.hal.science (univ-rennes.hal.science)... 193.48.96.10
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 11:38:13--  (try: 2)  https://univ-rennes.hal.science/hal-01134317/document
+Connecting to univ-rennes.hal.science (univ-rennes.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 532184 (520K) [application/pdf]
+Saving to: ‘./data/0.sdv/1153392.pdf’
+
+     0K .......... .......... .......... .......... ..........  9%  851K 1s
+    50K .......... .......... .......... .......... .......... 19% 1,59M 0s
+   100K .......... .......... .......... .......... .......... 28% 1,72M 0s
+   150K .......... .......... .......... .......... .......... 38% 1,85M 0s
+   200K .......... .......... .......... .......... .......... 48% 12,6M 0s
+   250K .......... .......... .......... .......... .......... 57% 18,3M 0s
+   300K .......... .......... .......... .......... .......... 67%  243K 0s
+   350K .......... .......... .......... .......... .......... 76%  499M 0s
+   400K .......... .......... .......... .......... .......... 86%  492M 0s
+   450K .......... .......... .......... .......... .......... 96%  616M 0s
+   500K .......... .........                                  100%  710M=0,4s
+
+2023-05-16 11:38:14 (1,42 MB/s) - ‘./data/0.sdv/1153392.pdf’ saved [532184/532184]
+

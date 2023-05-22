@@ -1,0 +1,22 @@
+--2023-05-16 21:59:22--  https://hal.science/hal-01053420/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2023-05-16 21:59:33--  (try: 2)  https://hal.science/hal-01053420/document
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 325969 (318K) [application/pdf]
+Saving to: ‘./data/0.phys/1053420.pdf’
+
+     0K .......... .......... .......... .......... .......... 15%  929K 0s
+    50K .......... .......... .......... .......... .......... 31% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 47% 1,85M 0s
+   150K .......... .......... .......... .......... .......... 62% 58,3M 0s
+   200K .......... .......... .......... .......... .......... 78% 1,87M 0s
+   250K .......... .......... .......... .......... .......... 94%  126M 0s
+   300K .......... ........                                   100% 67,0M=0,1s
+
+2023-05-16 21:59:34 (2,29 MB/s) - ‘./data/0.phys/1053420.pdf’ saved [325969/325969]
+

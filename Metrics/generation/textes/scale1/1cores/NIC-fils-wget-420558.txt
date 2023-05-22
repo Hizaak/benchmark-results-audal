@@ -1,4 +1,0 @@
-****NIC ePerf for PID 420558*****
-time_S: 6
-avgPower_W: .0028528199
-energy_J: .0171169194

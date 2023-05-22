@@ -1,0 +1,4 @@
+****NIC ePerf for PID 87044*****
+time_S: 2
+avgPower_W: .0006312690
+energy_J: .0012625380

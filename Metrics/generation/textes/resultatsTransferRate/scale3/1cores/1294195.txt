@@ -1,0 +1,13 @@
+--2023-05-16 13:35:30--  https://hal.science/hal-01294195/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144009 (141K) [application/pdf]
+Saving to: ‘./data/0.shs/1294195.pdf’
+
+     0K .......... .......... .......... .......... .......... 35%  404K 0s
+    50K .......... .......... .......... .......... .......... 71%  569K 0s
+   100K .......... .......... .......... ..........           100% 1,29M=0,2s
+
+2023-05-16 13:35:31 (580 KB/s) - ‘./data/0.shs/1294195.pdf’ saved [144009/144009]
+

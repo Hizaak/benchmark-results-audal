@@ -1,0 +1,4 @@
+****RAM ePerf for PID 743007*****
+time_S: 17.016763068
+avgPower_W: 1.5699835748
+energy_J: 26.7160385137

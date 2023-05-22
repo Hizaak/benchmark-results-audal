@@ -1,0 +1,4 @@
+****RAM ePerf for PID 50116*****
+time_S: 8.007231991
+avgPower_W: 1.5647034441
+energy_J: 12.5289434742

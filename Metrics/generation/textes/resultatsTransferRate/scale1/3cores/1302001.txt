@@ -1,0 +1,19 @@
+--2023-05-16 11:27:49--  https://hal-mines-paristech.archives-ouvertes.fr/hal-01062760/document
+Resolving hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-mines-paristech.archives-ouvertes.fr (hal-mines-paristech.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 446680 (436K) [application/pdf]
+Saving to: ‘./data/0.shs/1302001.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  675K 1s
+    50K .......... .......... .......... .......... .......... 22% 1,38M 0s
+   100K .......... .......... .......... .......... .......... 34% 1,87M 0s
+   150K .......... .......... .......... .......... .......... 45% 3,42M 0s
+   200K .......... .......... .......... .......... .......... 57% 24,3M 0s
+   250K .......... .......... .......... .......... .......... 68% 1,44M 0s
+   300K .......... .......... .......... .......... .......... 80% 6,35M 0s
+   350K .......... .......... .......... .......... .......... 91%  247K 0s
+   400K .......... .......... .......... ......               100%  475M=0,4s
+
+2023-05-16 11:27:50 (1,08 MB/s) - ‘./data/0.shs/1302001.pdf’ saved [446680/446680]
+

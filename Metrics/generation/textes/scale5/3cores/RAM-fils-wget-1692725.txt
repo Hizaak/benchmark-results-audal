@@ -1,0 +1,4 @@
+****RAM ePerf for PID 1692725*****
+time_S: 10.003453360
+avgPower_W: 1.5660188903
+energy_J: 15.6655969308

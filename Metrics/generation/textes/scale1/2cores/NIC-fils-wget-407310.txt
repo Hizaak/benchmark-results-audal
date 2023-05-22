@@ -1,0 +1,4 @@
+****NIC ePerf for PID 407310*****
+time_S: 6
+avgPower_W: .0027825763
+energy_J: .0166954578

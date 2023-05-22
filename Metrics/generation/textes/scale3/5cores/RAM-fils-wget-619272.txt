@@ -1,4 +1,0 @@
-****RAM ePerf for PID 619272*****
-time_S: 17.016635204
-avgPower_W: 1.5678018938
-energy_J: 26.6787129006

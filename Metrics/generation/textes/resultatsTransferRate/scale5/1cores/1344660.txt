@@ -1,0 +1,16 @@
+--2023-05-16 19:08:25--  https://hal-amu.archives-ouvertes.fr/hal-01344660/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266771 (261K) [application/pdf]
+Saving to: ‘./data/0.shs/1344660.pdf’
+
+     0K .......... .......... .......... .......... .......... 19%  904K 0s
+    50K .......... .......... .......... .......... .......... 38% 1,78M 0s
+   100K .......... .......... .......... .......... .......... 57% 45,1M 0s
+   150K .......... .......... .......... .......... .......... 76% 42,1M 0s
+   200K .......... .......... .......... .......... .......... 95% 1,87M 0s
+   250K ..........                                            100% 44,9M=0,1s
+
+2023-05-16 19:08:26 (2,28 MB/s) - ‘./data/0.shs/1344660.pdf’ saved [266771/266771]
+

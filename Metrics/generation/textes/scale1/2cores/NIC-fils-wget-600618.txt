@@ -1,4 +1,0 @@
-****NIC ePerf for PID 600618*****
-time_S: 5
-avgPower_W: .0017498803
-energy_J: .0087494015

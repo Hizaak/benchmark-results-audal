@@ -1,0 +1,15 @@
+--2023-05-16 21:15:16--  https://hal-sciencespo.archives-ouvertes.fr/hal-01018153/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243510 (238K) [application/pdf]
+Saving to: ‘./data/0.shs/1018153.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  880K 0s
+    50K .......... .......... .......... .......... .......... 42% 1,82M 0s
+   100K .......... .......... .......... .......... .......... 63% 1,63M 0s
+   150K .......... .......... .......... .......... .......... 84%  160M 0s
+   200K .......... .......... .......... .......              100% 73,7M=0,1s
+
+2023-05-16 21:15:17 (2,03 MB/s) - ‘./data/0.shs/1018153.pdf’ saved [243510/243510]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 8523*****
+time_S: 3.003193208
+avgPower_W:
+energy_J:

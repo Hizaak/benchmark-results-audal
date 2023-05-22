@@ -1,0 +1,4 @@
+****NIC ePerf for PID 781804*****
+time_S: 4
+avgPower_W: .0004998174
+energy_J: .0019992696

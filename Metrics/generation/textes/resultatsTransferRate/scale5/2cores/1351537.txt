@@ -1,0 +1,4 @@
+--2023-05-16 20:44:09--  https://hal-riip.archives-ouvertes.fr/pasteur-01351537/document
+Resolving hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-riip.archives-ouvertes.fr (hal-riip.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+Unable to establish SSL connection.

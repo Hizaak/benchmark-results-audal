@@ -1,0 +1,4 @@
+****RAM ePerf for PID 941814*****
+time_S: 11.012080059
+avgPower_W:
+energy_J:

@@ -1,4 +1,0 @@
-****CPU ePerf for PID 900126*****
-time_S: 370
-avgPower_W: .0123529411
-energy_J: 4.5705882070

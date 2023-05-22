@@ -1,0 +1,14 @@
+--2023-05-16 17:57:08--  https://hal.science/hal-00143909/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181084 (177K) [application/pdf]
+Saving to: ‘./data/0.spi/143909.pdf’
+
+     0K .......... .......... .......... .......... .......... 28%  931K 0s
+    50K .......... .......... .......... .......... .......... 56% 1,86M 0s
+   100K .......... .......... .......... .......... .......... 84% 1,83M 0s
+   150K .......... .......... ......                          100% 75,7M=0,1s
+
+2023-05-16 17:57:14 (1,61 MB/s) - ‘./data/0.spi/143909.pdf’ saved [181084/181084]
+

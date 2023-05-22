@@ -1,0 +1,12 @@
+--2023-05-16 20:36:51--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01441968/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70890 (69K) [application/pdf]
+Saving to: ‘./data/0.shs/1441968.pdf’
+
+     0K .......... .......... .......... .......... .......... 72%  849K 0s
+    50K .......... .........                                  100%  590M=0,06s
+
+2023-05-16 20:36:52 (1,15 MB/s) - ‘./data/0.shs/1441968.pdf’ saved [70890/70890]
+

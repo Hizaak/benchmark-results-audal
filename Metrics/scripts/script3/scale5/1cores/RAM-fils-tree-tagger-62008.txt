@@ -1,0 +1,4 @@
+****RAM ePerf for PID 62008*****
+time_S: 208.174509984
+avgPower_W: 1.8387203283
+energy_J: 382.7747033540

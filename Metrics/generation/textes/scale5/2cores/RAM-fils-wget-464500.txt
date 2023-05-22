@@ -1,0 +1,4 @@
+****RAM ePerf for PID 464500*****
+time_S: 17.014300691
+avgPower_W: 1.5672280028
+energy_J: 26.6652884925

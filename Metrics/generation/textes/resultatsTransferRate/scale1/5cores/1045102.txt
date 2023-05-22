@@ -1,0 +1,17 @@
+--2023-05-16 11:39:13--  https://hal-sciencespo.archives-ouvertes.fr/hal-01045102/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311247 (304K) [application/pdf]
+Saving to: ‘./data/0.shs/1045102.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  831K 0s
+    50K .......... .......... .......... .......... .......... 32% 1,71M 0s
+   100K .......... .......... .......... .......... .......... 49% 1,64M 0s
+   150K .......... .......... .......... .......... .......... 65% 1,58M 0s
+   200K .......... .......... .......... .......... .......... 82% 49,1M 0s
+   250K .......... .......... .......... .......... .......... 98% 71,7M 0s
+   300K ...                                                   100% 7,36T=0,2s
+
+2023-05-16 11:39:14 (1,96 MB/s) - ‘./data/0.shs/1045102.pdf’ saved [311247/311247]
+

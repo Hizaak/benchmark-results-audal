@@ -1,4 +1,0 @@
-****NIC ePerf for PID 107601*****
-time_S: 6
-avgPower_W: .0029216648
-energy_J: .0175299888

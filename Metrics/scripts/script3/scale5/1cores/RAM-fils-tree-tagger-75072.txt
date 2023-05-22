@@ -1,4 +1,0 @@
-****RAM ePerf for PID 75072*****
-time_S: 77.060489197
-avgPower_W: 1.8683272324
-energy_J: 143.9742105163

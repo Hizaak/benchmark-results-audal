@@ -1,0 +1,4 @@
+****RAM ePerf for PID 533870*****
+time_S: 5.004701809
+avgPower_W: 1.5698602340
+energy_J: 7.8566823530

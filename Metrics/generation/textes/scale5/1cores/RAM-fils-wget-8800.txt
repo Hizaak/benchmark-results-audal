@@ -1,4 +1,0 @@
-****RAM ePerf for PID 8800*****
-time_S: 7.005608579
-avgPower_W:
-energy_J:

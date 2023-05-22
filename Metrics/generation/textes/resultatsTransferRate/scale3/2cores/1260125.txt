@@ -1,0 +1,12 @@
+--2023-05-16 14:13:58--  https://hal.science/hal-00873466/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101580 (99K) [application/pdf]
+Saving to: ‘./data/0.scco/1260125.pdf’
+
+     0K .......... .......... .......... .......... .......... 50%  679K 0s
+    50K .......... .......... .......... .......... ......... 100% 1,46M=0,1s
+
+2023-05-16 14:13:59 (930 KB/s) - ‘./data/0.scco/1260125.pdf’ saved [101580/101580]
+

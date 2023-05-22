@@ -1,0 +1,14 @@
+--2023-05-16 18:48:37--  https://hal-sciencespo.archives-ouvertes.fr/hal-01010185/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173381 (169K) [application/pdf]
+Saving to: ‘./data/0.shs/1010185.pdf’
+
+     0K .......... .......... .......... .......... .......... 29%  907K 0s
+    50K .......... .......... .......... .......... .......... 59% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 88% 1,94M 0s
+   150K .......... .........                                  100% 17,8M=0,1s
+
+2023-05-16 18:48:38 (1,52 MB/s) - ‘./data/0.shs/1010185.pdf’ saved [173381/173381]
+

@@ -1,0 +1,4 @@
+****NIC ePerf for PID 995503*****
+time_S: 3
+avgPower_W:
+energy_J:

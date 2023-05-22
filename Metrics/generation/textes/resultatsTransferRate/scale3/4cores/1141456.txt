@@ -1,0 +1,13 @@
+--2023-05-16 15:21:40--  https://hal-insu.archives-ouvertes.fr/insu-01141456/document
+Resolving hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-insu.archives-ouvertes.fr (hal-insu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131235 (128K) [application/pdf]
+Saving to: ‘./data/0.sdu/1141456.pdf’
+
+     0K .......... .......... .......... .......... .......... 39%  817K 0s
+    50K .......... .......... .......... .......... .......... 78% 1,15M 0s
+   100K .......... .......... ........                        100%  280M=0,1s
+
+2023-05-16 15:21:41 (1,21 MB/s) - ‘./data/0.sdu/1141456.pdf’ saved [131235/131235]
+

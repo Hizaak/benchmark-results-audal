@@ -1,0 +1,4 @@
+****RAM ePerf for PID 527189*****
+time_S: 4.003205782
+avgPower_W:
+energy_J:

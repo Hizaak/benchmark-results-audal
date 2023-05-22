@@ -1,0 +1,4 @@
+****NIC ePerf for PID 962125*****
+time_S: 10
+avgPower_W: .0024571001
+energy_J: .0245710010

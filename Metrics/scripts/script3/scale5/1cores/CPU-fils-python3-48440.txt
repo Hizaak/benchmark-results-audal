@@ -1,0 +1,4 @@
+****CPU ePerf for PID 48440*****
+time_S: 283
+avgPower_W: 11.0194570135
+energy_J: 3118.5063348205

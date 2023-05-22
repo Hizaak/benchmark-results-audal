@@ -1,4 +1,0 @@
-****NIC ePerf for PID 450187*****
-time_S: 7
-avgPower_W: .0006041515
-energy_J: .0042290605

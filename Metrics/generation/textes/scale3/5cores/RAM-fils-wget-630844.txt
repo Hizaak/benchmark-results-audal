@@ -1,0 +1,4 @@
+****RAM ePerf for PID 630844*****
+time_S: 41.054981288
+avgPower_W: 1.5698441974
+energy_J: 64.4499241499

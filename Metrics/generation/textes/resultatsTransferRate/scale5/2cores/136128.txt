@@ -1,0 +1,13 @@
+--2023-05-16 20:47:09--  https://hal.science/hal-00136128/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146760 (143K) [application/pdf]
+Saving to: ‘./data/0.phys/136128.pdf’
+
+     0K .......... .......... .......... .......... .......... 34%  891K 0s
+    50K .......... .......... .......... .......... .......... 69% 1,81M 0s
+   100K .......... .......... .......... .......... ...       100% 90,0M=0,08s
+
+2023-05-16 20:47:10 (1,68 MB/s) - ‘./data/0.phys/136128.pdf’ saved [146760/146760]
+

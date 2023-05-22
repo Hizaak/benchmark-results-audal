@@ -1,0 +1,4 @@
+****NIC ePerf for PID 2096319*****
+time_S: 2
+avgPower_W: .0000360611
+energy_J: .0000721222

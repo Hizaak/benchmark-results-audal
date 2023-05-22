@@ -1,0 +1,4 @@
+****NIC ePerf for PID 147337*****
+time_S: 13
+avgPower_W:
+energy_J:

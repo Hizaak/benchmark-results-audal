@@ -1,0 +1,17 @@
+--2023-05-16 20:21:07--  https://hal-amu.archives-ouvertes.fr/hal-01472468/document
+Resolving hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-amu.archives-ouvertes.fr (hal-amu.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 317662 (310K) [application/pdf]
+Saving to: ‘./data/0.scco/1472468.pdf’
+
+     0K .......... .......... .......... .......... .......... 16%  886K 0s
+    50K .......... .......... .......... .......... .......... 32% 2,11M 0s
+   100K .......... .......... .......... .......... .......... 48% 1,87M 0s
+   150K .......... .......... .......... .......... .......... 64% 11,9M 0s
+   200K .......... .......... .......... .......... .......... 80% 48,4M 0s
+   250K .......... .......... .......... .......... .......... 96% 2,18M 0s
+   300K ..........                                            100%  236M=0,1s
+
+2023-05-16 20:21:08 (2,27 MB/s) - ‘./data/0.scco/1472468.pdf’ saved [317662/317662]
+

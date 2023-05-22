@@ -1,4 +1,0 @@
-****SD ePerf for PID 443550*****
-time_S: 12
-avgPower_W:
-energy_J:

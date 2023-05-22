@@ -1,4 +1,0 @@
-****RAM ePerf for PID 7376*****
-time_S: 9.007228149
-avgPower_W:
-energy_J:

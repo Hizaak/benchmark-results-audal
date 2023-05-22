@@ -1,0 +1,15 @@
+--2023-05-16 20:51:43--  https://hal-univ-paris3.archives-ouvertes.fr/hal-01448176/document
+Resolving hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-univ-paris3.archives-ouvertes.fr (hal-univ-paris3.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246146 (240K) [application/pdf]
+Saving to: ‘./data/0.shs/1448176.pdf’
+
+     0K .......... .......... .......... .......... .......... 20%  917K 0s
+    50K .......... .......... .......... .......... .......... 41% 1,81M 0s
+   100K .......... .......... .......... .......... .......... 62%  124M 0s
+   150K .......... .......... .......... .......... .......... 83%  109M 0s
+   200K .......... .......... .......... ..........           100% 1,50M=0,1s
+
+2023-05-16 20:51:44 (2,16 MB/s) - ‘./data/0.shs/1448176.pdf’ saved [246146/246146]
+

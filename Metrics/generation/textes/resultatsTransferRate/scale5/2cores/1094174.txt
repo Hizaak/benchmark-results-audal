@@ -1,0 +1,13 @@
+--2023-05-16 20:30:59--  https://hal.science/hal-00272531/document
+Resolving hal.science (hal.science)... 193.48.96.10
+Connecting to hal.science (hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143598 (140K) [application/pdf]
+Saving to: ‘./data/0.phys/1094174.pdf’
+
+     0K .......... .......... .......... .......... .......... 35%  917K 0s
+    50K .......... .......... .......... .......... .......... 71% 1,80M 0s
+   100K .......... .......... .......... ..........           100% 33,1M=0,08s
+
+2023-05-16 20:31:00 (1,65 MB/s) - ‘./data/0.phys/1094174.pdf’ saved [143598/143598]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 365609*****
+time_S: 13.011150968
+avgPower_W: 1.5697213625
+energy_J: 20.4238816258

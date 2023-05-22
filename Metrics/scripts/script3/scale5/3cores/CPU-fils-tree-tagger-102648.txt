@@ -1,4 +1,0 @@
-****CPU ePerf for PID 102648*****
-time_S: 76
-avgPower_W: 2.6359375000
-energy_J: 200.3312500000

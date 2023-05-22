@@ -1,0 +1,24 @@
+--2023-05-16 11:37:48--  https://hal-ensta-paris.archives-ouvertes.fr/hal-01058097/document
+Resolving hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-ensta-paris.archives-ouvertes.fr (hal-ensta-paris.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ensta-paris.hal.science/hal-01058097/document [following]
+--2023-05-16 11:37:48--  https://ensta-paris.hal.science/hal-01058097/document
+Resolving ensta-paris.hal.science (ensta-paris.hal.science)... 193.48.96.10
+Connecting to ensta-paris.hal.science (ensta-paris.hal.science)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 459381 (449K) [application/pdf]
+Saving to: ‘./data/0.chim/1058097.pdf’
+
+     0K .......... .......... .......... .......... .......... 11%  807K 0s
+    50K .......... .......... .......... .......... .......... 22% 1,66M 0s
+   100K .......... .......... .......... .......... .......... 33% 15,0M 0s
+   150K .......... .......... .......... .......... .......... 44%  605M 0s
+   200K .......... .......... .......... .......... .......... 55% 1,59M 0s
+   250K .......... .......... .......... .......... .......... 66% 5,73M 0s
+   300K .......... .......... .......... .......... .......... 78%  248K 0s
+   350K .......... .......... .......... .......... .......... 89%  556M 0s
+   400K .......... .......... .......... .......... ........  100%  515M=0,3s
+
+2023-05-16 11:37:54 (1,30 MB/s) - ‘./data/0.chim/1058097.pdf’ saved [459381/459381]
+

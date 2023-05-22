@@ -1,4 +1,0 @@
-****RAM ePerf for PID 480301*****
-time_S: 6.005733558
-avgPower_W:
-energy_J:

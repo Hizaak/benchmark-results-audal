@@ -1,4 +1,0 @@
-****RAM ePerf for PID 460020*****
-time_S: 3.002213531
-avgPower_W:
-energy_J:

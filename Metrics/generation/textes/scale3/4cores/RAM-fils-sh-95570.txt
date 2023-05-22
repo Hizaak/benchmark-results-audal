@@ -1,0 +1,4 @@
+****RAM ePerf for PID 95570*****
+time_S: 7.005303008
+avgPower_W:
+energy_J:

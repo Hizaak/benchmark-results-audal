@@ -1,0 +1,4 @@
+****NIC ePerf for PID 744019*****
+time_S: 1
+avgPower_W: .0002784667
+energy_J: .0002784667

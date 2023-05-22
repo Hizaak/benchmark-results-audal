@@ -1,4 +1,0 @@
-****NIC ePerf for PID 2551518*****
-time_S: 3
-avgPower_W: .0008995797
-energy_J: .0026987391

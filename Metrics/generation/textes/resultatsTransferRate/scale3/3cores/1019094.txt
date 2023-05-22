@@ -1,0 +1,16 @@
+--2023-05-16 14:55:33--  https://hal-sciencespo.archives-ouvertes.fr/hal-01019094/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294194 (287K) [application/pdf]
+Saving to: ‘./data/0.shs/1019094.pdf’
+
+     0K .......... .......... .......... .......... .......... 17%  466K 1s
+    50K .......... .......... .......... .......... .......... 34%  804K 0s
+   100K .......... .......... .......... .......... .......... 52% 1,61M 0s
+   150K .......... .......... .......... .......... .......... 69% 8,58M 0s
+   200K .......... .......... .......... .......... .......... 87% 1,59M 0s
+   250K .......... .......... .......... .......              100% 1,32M=0,3s
+
+2023-05-16 14:55:34 (1,06 MB/s) - ‘./data/0.shs/1019094.pdf’ saved [294194/294194]
+

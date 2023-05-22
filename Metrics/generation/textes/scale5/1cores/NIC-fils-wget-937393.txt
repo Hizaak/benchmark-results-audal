@@ -1,4 +1,0 @@
-****NIC ePerf for PID 937393*****
-time_S: 1
-avgPower_W: .0001091521
-energy_J: .0001091521

@@ -1,0 +1,14 @@
+--2023-05-16 21:27:57--  https://hal-lirmm.ccsd.cnrs.fr/lirmm-01418756/document
+Resolving hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to hal-lirmm.ccsd.cnrs.fr (hal-lirmm.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194610 (190K) [application/pdf]
+Saving to: ‘./data/0.info/1418756.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  917K 0s
+    50K .......... .......... .......... .......... .......... 52% 1,84M 0s
+   100K .......... .......... .......... .......... .......... 78% 47,3M 0s
+   150K .......... .......... .......... ..........           100%  104M=0,08s
+
+2023-05-16 21:28:03 (2,25 MB/s) - ‘./data/0.info/1418756.pdf’ saved [194610/194610]
+

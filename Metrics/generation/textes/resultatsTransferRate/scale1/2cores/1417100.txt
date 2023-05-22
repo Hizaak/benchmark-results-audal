@@ -1,0 +1,15 @@
+--2023-05-16 11:15:34--  https://hal-nantes-universite.archives-ouvertes.fr/hal-01417100/document
+Resolving hal-nantes-universite.archives-ouvertes.fr (hal-nantes-universite.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-nantes-universite.archives-ouvertes.fr (hal-nantes-universite.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 234243 (229K) [application/pdf]
+Saving to: ‘./data/0.shs/1417100.pdf’
+
+     0K .......... .......... .......... .......... .......... 21%  812K 0s
+    50K .......... .......... .......... .......... .......... 43% 1,52M 0s
+   100K .......... .......... .......... .......... .......... 65% 1,49M 0s
+   150K .......... .......... .......... .......... .......... 87% 1,56M 0s
+   200K .......... .......... ........                        100% 4,79M=0,2s
+
+2023-05-16 11:15:35 (1,37 MB/s) - ‘./data/0.shs/1417100.pdf’ saved [234243/234243]
+

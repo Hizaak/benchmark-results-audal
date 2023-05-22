@@ -1,0 +1,18 @@
+--2023-05-16 21:23:17--  https://hal-sciencespo.archives-ouvertes.fr/hal-01338513/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383403 (374K) [application/pdf]
+Saving to: ‘./data/0.shs/1338513.pdf’
+
+     0K .......... .......... .......... .......... .......... 13%  892K 0s
+    50K .......... .......... .......... .......... .......... 26% 1,76M 0s
+   100K .......... .......... .......... .......... .......... 40% 47,6M 0s
+   150K .......... .......... .......... .......... .......... 53%  459M 0s
+   200K .......... .......... .......... .......... .......... 66% 1,82M 0s
+   250K .......... .......... .......... .......... .......... 80%  242K 0s
+   300K .......... .......... .......... .......... .......... 93%  289M 0s
+   350K .......... .......... ....                            100%  457M=0,3s
+
+2023-05-16 21:23:18 (1,15 MB/s) - ‘./data/0.shs/1338513.pdf’ saved [383403/383403]
+

@@ -1,0 +1,4 @@
+****RAM ePerf for PID 424215*****
+time_S: 42.031656186
+avgPower_W: 1.5687853698
+energy_J: 65.9386472939

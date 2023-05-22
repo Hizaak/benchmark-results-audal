@@ -1,0 +1,4 @@
+****CPU ePerf for PID 10053*****
+time_S: 1487
+avgPower_W: .0160347551
+energy_J: 23.8436808337

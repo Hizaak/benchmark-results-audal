@@ -1,0 +1,4 @@
+****NIC ePerf for PID 96880*****
+time_S: 4
+avgPower_W: .0011164123
+energy_J: .0044656492

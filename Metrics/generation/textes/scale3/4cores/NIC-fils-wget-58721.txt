@@ -1,4 +1,0 @@
-****NIC ePerf for PID 58721*****
-time_S: 9
-avgPower_W: .0028709076
-energy_J: .0258381684

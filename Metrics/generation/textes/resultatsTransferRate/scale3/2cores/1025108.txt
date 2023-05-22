@@ -1,0 +1,16 @@
+--2023-05-16 14:19:50--  https://hal-sciencespo.archives-ouvertes.fr/hal-01025108/document
+Resolving hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-sciencespo.archives-ouvertes.fr (hal-sciencespo.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272506 (266K) [application/pdf]
+Saving to: ‘./data/0.shs/1025108.pdf’
+
+     0K .......... .......... .......... .......... .......... 18%  587K 0s
+    50K .......... .......... .......... .......... .......... 37% 1,10M 0s
+   100K .......... .......... .......... .......... .......... 56% 1,51M 0s
+   150K .......... .......... .......... .......... .......... 75% 1,65M 0s
+   200K .......... .......... .......... .......... .......... 93% 5,90M 0s
+   250K .......... ......                                     100%  621K=0,2s
+
+2023-05-16 14:19:52 (1,15 MB/s) - ‘./data/0.shs/1025108.pdf’ saved [272506/272506]
+

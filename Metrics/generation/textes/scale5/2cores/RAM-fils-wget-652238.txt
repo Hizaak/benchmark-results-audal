@@ -1,0 +1,4 @@
+****RAM ePerf for PID 652238*****
+time_S: 7.007973694
+avgPower_W: 1.5713546263
+energy_J: 11.0120118851

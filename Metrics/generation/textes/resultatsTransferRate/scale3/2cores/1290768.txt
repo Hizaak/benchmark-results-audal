@@ -1,0 +1,14 @@
+--2023-05-16 14:21:47--  https://hal.univ-grenoble-alpes.fr/hal-01290768/document
+Resolving hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)... 193.48.96.10
+Connecting to hal.univ-grenoble-alpes.fr (hal.univ-grenoble-alpes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153976 (150K) [application/pdf]
+Saving to: ‘./data/0.shs/1290768.pdf’
+
+     0K .......... .......... .......... .......... .......... 33%  837K 0s
+    50K .......... .......... .......... .......... .......... 66% 1,77M 0s
+   100K .......... .......... .......... .......... .......... 99% 19,6M 0s
+   150K                                                       100%  700G=0,09s
+
+2023-05-16 14:21:53 (1,64 MB/s) - ‘./data/0.shs/1290768.pdf’ saved [153976/153976]
+

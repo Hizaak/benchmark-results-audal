@@ -1,0 +1,4 @@
+****NIC ePerf for PID 518940*****
+time_S: 3
+avgPower_W: .0011148854
+energy_J: .0033446562

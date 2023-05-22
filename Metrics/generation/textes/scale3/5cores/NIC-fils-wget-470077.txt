@@ -1,4 +1,0 @@
-****NIC ePerf for PID 470077*****
-time_S: 5
-avgPower_W: .0000408848
-energy_J: .0002044240

@@ -1,4 +1,0 @@
-****NIC ePerf for PID 600170*****
-time_S: 1
-avgPower_W: .0001756716
-energy_J: .0001756716

@@ -1,0 +1,14 @@
+--2023-05-16 20:58:43--  https://hal-centralesupelec.archives-ouvertes.fr/hal-01299198/document
+Resolving hal-centralesupelec.archives-ouvertes.fr (hal-centralesupelec.archives-ouvertes.fr)... 193.48.96.10
+Connecting to hal-centralesupelec.archives-ouvertes.fr (hal-centralesupelec.archives-ouvertes.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190503 (186K) [application/pdf]
+Saving to: ‘./data/0.spi/1299198.pdf’
+
+     0K .......... .......... .......... .......... .......... 26%  913K 0s
+    50K .......... .......... .......... .......... .......... 53% 1,79M 0s
+   100K .......... .......... .......... .......... .......... 80% 1,77M 0s
+   150K .......... .......... .......... ......               100% 75,1M=0,1s
+
+2023-05-16 20:58:44 (1,65 MB/s) - ‘./data/0.spi/1299198.pdf’ saved [190503/190503]
+

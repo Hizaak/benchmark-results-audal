@@ -1,4 +1,0 @@
-****NIC ePerf for PID 79219*****
-time_S: 4
-avgPower_W: .0011710556
-energy_J: .0046842224
